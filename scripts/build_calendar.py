@@ -50,40 +50,27 @@ REFRESH_TOKEN_SECRET = "HOOTSUITE_REFRESH_TOKEN"
 # media
 # --------------------------------------------------------------------------
 
-def cache_media(client: Hootsuite, media_id: str) -> dict | None:
-    """Download a media asset, downscale it, and return a manifest entry.
-
-    Videos come back as video/*; we keep only the poster frame the caller
-    resolved separately, so anything non-image here is skipped.
-    """
-    stem = hashlib.sha1(str(media_id).encode()).hexdigest()[:16]
-    existing = list(MEDIA_DIR.glob(f"{stem}.*"))
-    if existing:
-        path = existing[0]
+def _cached(stem: str) -> dict | None:
+    """Return the manifest entry for an already-downloaded asset, if sound."""
+    for path in MEDIA_DIR.glob(f"{stem}.*"):
         try:
             with Image.open(path) as img:
-                return {
-                    "src": f"media/{path.name}",
-                    "w": img.width,
-                    "h": img.height,
-                }
+                return {"src": f"media/{path.name}", "w": img.width, "h": img.height}
         except Exception:
             path.unlink(missing_ok=True)  # corrupt cache entry, refetch
+    return None
 
-    url = client.media_download_url(media_id)
-    if not url:
-        return None
 
+def _download_and_store(url: str, stem: str, label: str) -> dict | None:
     try:
         resp = requests.get(url, timeout=90)
         resp.raise_for_status()
     except requests.RequestException as exc:
-        print(f"  could not download media {media_id}: {exc}")
+        print(f"  could not download {label}: {exc}")
         return None
 
-    content_type = resp.headers.get("Content-Type", "")
-    if content_type.startswith("video/"):
-        return None
+    if resp.headers.get("Content-Type", "").startswith("video/"):
+        return None  # the poster frame is fetched separately
 
     try:
         with Image.open(io.BytesIO(resp.content)) as img:
@@ -96,8 +83,35 @@ def cache_media(client: Hootsuite, media_id: str) -> dict | None:
             img.save(out, "JPEG", quality=PREVIEW_QUALITY, optimize=True)
             return {"src": f"media/{out.name}", "w": img.width, "h": img.height}
     except Exception as exc:
-        print(f"  could not decode media {media_id}: {exc}")
+        print(f"  could not decode {label}: {exc}")
         return None
+
+
+def cache_media(client: Hootsuite, media_id: str) -> dict | None:
+    """Resolve a Hootsuite media id, download it, and downscale for preview."""
+    stem = hashlib.sha1(str(media_id).encode()).hexdigest()[:16]
+    hit = _cached(stem)
+    if hit:
+        return hit
+
+    url = client.media_download_url(media_id)
+    if not url:
+        return None
+    return _download_and_store(url, stem, f"media {media_id}")
+
+
+def cache_media_url(url: str) -> dict | None:
+    """Cache an attachment given only a URL.
+
+    Keyed on the path with the query string stripped, because these arrive as
+    pre-signed S3 links whose signature changes on every API call - hashing the
+    whole URL would re-download the same picture every run.
+    """
+    stem = hashlib.sha1(url.split("?")[0].encode()).hexdigest()[:16]
+    hit = _cached(stem)
+    if hit:
+        return hit
+    return _download_and_store(url, stem, "attachment")
 
 
 def prune_media(referenced: set[str]) -> None:
@@ -132,11 +146,21 @@ def normalize_message(msg: dict, client: Hootsuite) -> dict:
                 entry["altText"] = item["altText"]
             media.append(entry)
 
-    # Legacy ow.ly attachments are plain public URLs, not media ids.
-    for legacy in msg.get("mediaUrls") or []:
-        url = legacy.get("thumbnailUrl") or legacy.get("url")
-        if url:
-            media.append({"src": url, "kind": "image", "remote": True})
+    # `mediaUrls` is NOT a separate set of attachments - Hootsuite describes the
+    # same pictures twice, once by id in `media` and once by URL here. Appending
+    # both showed every image on a post two times. Only fall back to it when
+    # `media` gave us nothing at all.
+    if not media:
+        for extra in msg.get("mediaUrls") or []:
+            url = extra.get("thumbnailUrl") or extra.get("url")
+            entry = cache_media_url(url) if url else None
+            if entry:
+                entry["kind"] = "image"
+                media.append(entry)
+
+    # Belt and braces: never let the same picture appear twice on one post.
+    seen_src: set[str] = set()
+    media = [m for m in media if not (m["src"] in seen_src or seen_src.add(m["src"]))]
 
     profile_id = str((msg.get("socialProfile") or {}).get("id") or "")
 
