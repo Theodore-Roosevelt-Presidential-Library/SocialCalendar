@@ -155,19 +155,30 @@
 
   // -------------------------------------------------------- post rendering
 
-  function mediaBlock(post, layout) {
-    const media = (post.media || []).slice(0, 4);
-    if (!media.length) return '';
-    const cls = `net-media n${media.length}`;
-    const figs = media.map((m) => {
+  function mediaBlock(post, layout, full) {
+    const all = post.media || [];
+    if (!all.length) return '';
+
+    // Cards get at most four tiles so a 20-image carousel cannot swamp the
+    // grid; the modal shows every attachment, in order.
+    const media = full ? all : all.slice(0, 4);
+    const hidden = all.length - media.length;
+
+    const figs = media.map((m, i) => {
       const src = m.remote ? m.src : `data/${m.src}`;
       const dur = durationLabel(m.durationSec);
+      const overlay = (!full && hidden && i === media.length - 1)
+        ? `<div class="play more-media"><span>+${hidden}</span></div>` : '';
       return `<figure>
         <img src="${esc(src)}" alt="${esc(m.altText || '')}" loading="lazy" decoding="async">
         ${m.kind === 'video' ? '<div class="play"><span>▶</span></div>' : ''}
         ${dur ? `<span class="dur">${esc(dur)}</span>` : ''}
+        ${full && all.length > 1 ? `<span class="idx">${i + 1} / ${all.length}</span>` : ''}
+        ${overlay}
       </figure>`;
     }).join('');
+
+    const cls = full ? 'net-media is-full' : `net-media n${media.length}`;
     return `<div class="${cls}" data-layout="${layout}">${figs}</div>`;
   }
 
@@ -179,7 +190,7 @@
       .split(/\s+/).slice(0, 2).map((w) => w[0]).join('').toUpperCase() || '?';
 
     const when = post.scheduledAt ? new Date(post.scheduledAt) : null;
-    const media = mediaBlock(post, info.layout);
+    const media = mediaBlock(post, info.layout, full);
     const text = post.text
       ? `<div class="net-text">${linkify(full ? post.text : truncate(post.text, 260))}</div>`
       : '';
@@ -358,6 +369,11 @@
       ['When', when ? esc(fmtDateTimeFull.format(when)) : 'Unscheduled'],
       ['Status', esc(STATUS_LABELS[post.state] || post.state)]
     ];
+    if ((post.media || []).length) {
+      const vids = post.media.filter((m) => m.kind === 'video').length;
+      rows.push(['Attachments', `${post.media.length}` +
+        (vids ? ` (${vids} video${vids === 1 ? '' : 's'})` : '')]);
+    }
     if ((post.tags || []).length) rows.push(['Tags', esc(post.tags.join(', '))]);
     if (post.postUrl) rows.push(['Live post', `<a href="${esc(post.postUrl)}" target="_blank" rel="noopener">Open ↗</a>`]);
     if (post.text) rows.push(['Characters', String(post.text.length)]);

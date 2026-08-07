@@ -339,6 +339,21 @@ button.post:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
   width: 42px; height: 42px; border-radius: 50%; background: rgba(0,0,0,.55);
   display: grid; place-items: center; color: #fff; font-size: .9rem; padding-left: 3px;
 }
+.net-media .more-media { background: rgba(0,0,0,.55); }
+.net-media .more-media span {
+  width: auto; height: auto; padding: .2rem .6rem; border-radius: 999px;
+  background: rgba(0,0,0,.72); font-size: .85rem; font-weight: 700;
+}
+
+/* Modal: every attachment, stacked in order, each labelled n / total. */
+.net-media.is-full { grid-template-columns: 1fr; gap: .5rem; border-radius: 0; }
+.net-media.is-full figure { border-radius: 8px; overflow: hidden; }
+.net-media .idx {
+  position: absolute; right: .4rem; top: .4rem;
+  background: rgba(0,0,0,.66); color: #fff; font-size: .68rem;
+  padding: .08rem .4rem; border-radius: 999px; font-variant-numeric: tabular-nums;
+}
+
 .net-media .dur {
   position: absolute; right: .35rem; bottom: .35rem;
   background: rgba(0,0,0,.66); color: #fff; font-size: .66rem;
