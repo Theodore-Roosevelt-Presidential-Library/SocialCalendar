@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+site/data/*.tmp
+
+# Raw MCP capture used to seed the first snapshot. Contains pre-signed S3 URLs
+# with a 7-day lifetime, so it is deliberately not committed.
+site/data/_seed_raw.jsonl

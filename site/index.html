@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Social Calendar · Theodore Roosevelt Presidential Library</title>
+<meta name="description" content="Upcoming scheduled social media posts across the Theodore Roosevelt Presidential Library's channels.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦬</text></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark" aria-hidden="true"></span>
+    <div>
+      <h1>Social Calendar</h1>
+      <p class="brand-sub">Theodore Roosevelt Presidential Library</p>
+    </div>
+  </div>
+
+  <div class="topbar-actions">
+    <div class="viewswitch" role="tablist" aria-label="View">
+      <button role="tab" data-view="month" class="is-active" aria-selected="true">Month</button>
+      <button role="tab" data-view="agenda" aria-selected="false">Agenda</button>
+    </div>
+    <button id="filterToggle" class="btn-ghost" aria-expanded="false" aria-controls="filters">
+      Filters <span id="filterCount" class="pill" hidden>0</span>
+    </button>
+  </div>
+</header>
+
+<section id="filters" class="filters" hidden>
+  <div class="filter-block filter-search">
+    <label for="search">Search copy</label>
+    <input id="search" type="search" placeholder="e.g. Badlands, Elkhorn, opening day" autocomplete="off">
+  </div>
+
+  <div class="filter-block">
+    <div class="filter-head">
+      <label>Channels</label>
+      <div class="filter-mini">
+        <button data-channels="all" class="linkish">All</button>
+        <button data-channels="none" class="linkish">None</button>
+      </div>
+    </div>
+    <div id="channelList" class="chiplist"></div>
+  </div>
+
+  <div class="filter-block" id="tagBlock" hidden>
+    <div class="filter-head"><label>Tags &amp; campaigns</label></div>
+    <div id="tagList" class="chiplist"></div>
+  </div>
+
+  <div class="filter-block filter-status">
+    <div class="filter-head"><label>Status</label></div>
+    <div id="statusList" class="chiplist"></div>
+  </div>
+</section>
+
+<nav class="periodbar">
+  <button id="prev" class="btn-nav" aria-label="Previous">‹</button>
+  <h2 id="periodLabel">—</h2>
+  <button id="next" class="btn-nav" aria-label="Next">›</button>
+  <button id="today" class="btn-ghost">Today</button>
+  <span id="resultCount" class="count"></span>
+</nav>
+
+<main id="main" aria-live="polite">
+  <div id="loading" class="state">Loading the schedule…</div>
+</main>
+
+<footer class="footer">
+  <span id="freshness">—</span>
+  <span class="dot" aria-hidden="true">·</span>
+  <span>Scheduled posts are subject to change. Hootsuite is the source of truth.</span>
+</footer>
+
+<div id="modal" class="modal" hidden>
+  <div class="modal-scrim" data-close></div>
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button class="modal-close" data-close aria-label="Close">×</button>
+    <div id="modalBody"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
