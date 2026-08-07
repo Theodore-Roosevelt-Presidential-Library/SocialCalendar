@@ -23,6 +23,10 @@
 
 * { box-sizing: border-box; }
 
+/* An author `display` declaration beats the UA stylesheet's [hidden] rule, so
+   .modal and .filters would stay visible despite the attribute. */
+[hidden] { display: none !important; }
+
 html, body { margin: 0; }
 
 body {
