@@ -30,6 +30,24 @@ The site is plain HTML, CSS, and JavaScript with no build step and no
 dependencies. Everything it needs is in `site/`; open `site/index.html` through
 a local web server and it works.
 
+## Brand
+
+Colours and type come from
+[`Brand/brand.json`](https://github.com/Theodore-Roosevelt-Presidential-Library/Brand),
+and the implementation mirrors
+[trphotos.labs.trlibrary.com](https://trphotos.labs.trlibrary.com) so the labs
+sites read as one family: Dark Gray header and footer bars, the white wordmark,
+Dharma Gothic E in caps for display type, Clearface for body, Frutiger for
+labels and captions, Deep Orange for the primary action, Dark Forest for
+headings. Fonts load from trlibrary.com; a system fallback stack covers the
+gap while they arrive.
+
+One deliberate exception: **post copy inside a preview card stays on the
+platform-native font stack**, not Clearface. The point of those cards is to
+show what a post will look like on X or Instagram — rendering them in TRPL's
+own typography would make the preview lie. Every surface around the card is
+brand type.
+
 Preview images are downloaded and committed rather than hot-linked, because
 Hootsuite serves media through pre-signed S3 URLs that expire within minutes —
 any URL embedded in the page would be dead long before someone loaded it.
