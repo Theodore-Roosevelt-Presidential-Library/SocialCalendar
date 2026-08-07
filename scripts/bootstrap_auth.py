@@ -6,6 +6,8 @@ Hootsuite has no machine-to-machine grant for the publishing API, so a human has
 to authorize the app once. This script does that, then prints the three values
 that go into GitHub repository secrets.
 
+    python3 -m venv .venv
+    source .venv/bin/activate
     pip install -r scripts/requirements.txt
     python scripts/bootstrap_auth.py
 
@@ -22,13 +24,21 @@ from __future__ import annotations
 import getpass
 import http.server
 import secrets
-import socket
 import sys
 import threading
 import urllib.parse
 import webbrowser
 
-from hootsuite import AUTH_URL, exchange_authorization_code
+try:
+    from hootsuite import AUTH_URL, exchange_authorization_code
+except ImportError as exc:
+    sys.exit(
+        f"Missing dependency: {getattr(exc, 'name', None) or exc}\n\n"
+        "Install into a virtual environment first:\n"
+        "    python3 -m venv .venv\n"
+        "    source .venv/bin/activate\n"
+        "    pip install -r scripts/requirements.txt\n"
+    )
 
 REDIRECT_PORT = 8723
 REDIRECT_URI = f"http://localhost:{REDIRECT_PORT}/callback"

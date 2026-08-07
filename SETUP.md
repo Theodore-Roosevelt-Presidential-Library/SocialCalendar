@@ -51,12 +51,18 @@ Hootsuite has no machine-to-machine grant for publishing data, so a human has to
 click "Allow" one time. From a clone of this repo:
 
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r scripts/requirements.txt
 python scripts/bootstrap_auth.py
 ```
 
-It asks for the Client ID and Secret, opens your browser, and after you approve
-prints the three values you need. Leave the terminal open.
+The virtual environment matters on macOS: recent Python builds refuse a plain
+`pip install` into the system interpreter ("externally-managed-environment").
+`.venv/` is gitignored. Run `deactivate` when you are finished.
+
+The script asks for the Client ID and Secret, opens your browser, and after you
+approve prints the three values you need. Leave the terminal open.
 
 ---
 
