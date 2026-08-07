@@ -1,475 +1,1783 @@
 {
- "generatedAt": "2026-08-07T18:27:45Z",
- "source": "hootsuite-mcp-seed",
+ "generatedAt": "2026-08-07T19:59:39Z",
+ "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-08-09T12:00:00Z",
-  "end": "2026-08-11T12:00:00Z"
+  "start": "2026-07-24T00:00:00Z",
+  "end": "2026-11-05T00:00:00Z"
  },
  "profiles": [
   {
-   "id": "138250117",
-   "name": "TRPresLibrary",
-   "network": "TWITTER",
-   "url": null
-  },
-  {
-   "id": "138236932",
-   "name": "Theodore Roosevelt Presidential Library",
-   "network": "FACEBOOKPAGE",
-   "url": null
-  },
-  {
-   "id": "138241752",
-   "name": "Theodore Roosevelt Presidential Library",
-   "network": "LINKEDINCOMPANY",
-   "url": null
+   "id": "138241987",
+   "name": "trlibrary",
+   "network": "TIKTOKBUSINESS",
+   "url": null,
+   "avatar": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/d1fd60a480af12c2c025d4df7b1a4ed7~c5_168x168.jpeg?lk3s=a5d48078&nonce=70270&refresh_token=12eaa6529483dc75b8fb11b0766af5b2&x-expires=1719064800&x-signature=1MOztBPnocMjdJRf%2FxV%2Fqr%2FDKLg%3D&shp=a5d48078&shcp=8aecc5ac"
   },
   {
    "id": "138948229",
    "name": "trlibrary",
    "network": "INSTAGRAMBUSINESS",
-   "url": null
+   "url": null,
+   "avatar": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.2885-15/336959397_6427747490571586_6512254467809655279_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=7d201b&_nc_ohc=Xs5x9gbUHIQQ7kNvwF110zP&_nc_oc=AdqKnLeYRFH3d824uzWeNUb7hNjEvP5Vfa14Ks6hOm26uIj7zRPylVJWUaa2CWKtGU8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=AL-3X8kEAAAA&oh=00_Af8cUVdFZ_8rMT2xeXeXQ8xldHmH0MZqsy2g2PCg7lsSoQ&oe=6A2A791A"
+  },
+  {
+   "id": "138641343",
+   "name": "Theodore Roosevelt Presidential Library",
+   "network": "YOUTUBECHANNEL",
+   "url": null,
+   "avatar": "https://yt3.ggpht.com/HfNOvEeQ6QQSdhel6PrwdYXRZnIRE3-86QJL5RTJB--0HUbH5GjSwUl-u2xYgneyNtdGo8SFQw=s88-c-k-c0x00ffffff-no-rj"
+  },
+  {
+   "id": "138236932",
+   "name": "Theodore Roosevelt Presidential Library",
+   "network": "FACEBOOKPAGE",
+   "url": null,
+   "avatar": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/337281088_1686420061811114_6838355702620190707_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=08baa4&_nc_ohc=if1KFu9jw4wQ7kNvwHNMAbA&_nc_oc=AdrLLXNaPuikc76wYyO244m7X7bFUp30ES2Tvg8vAe0KZ_zmnb8vqPSke75hjuPpg-Y&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AJdBtusEAAAA&_nc_gid=5akC39UZk1bfLGuqtmqdIA&_nc_tpa=Q5bMBQGeOYTtuJdEK9Ry_kQpDNifD8joUPVdcly4jdb_rOiVdbYqcMixYNQFkLxuFEAdDVr09w_4&oh=00_Af-oa3vrbA5f5DzI_4HHohr6FGVLgwFFkvufbIRGk5tvhg&oe=6A2A77B5"
   },
   {
    "id": "138745276",
    "name": "trlibrary",
    "network": "THREADS",
-   "url": null
+   "url": null,
+   "avatar": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/360044455_1973851436301319_179093831958822422_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=1-7&_nc_sid=18de74&_nc_ohc=KlYeOS9h1FYQ7kNvwEEh-vh&_nc_oc=AdmD5BdftlUYZHN3v_lWYI1f_ons2BWNBe_qAFoMNrrzXfQfXFtyAccCiMCvhxNC5_k&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=AP4hL3IEAAAA&oh=00_AfXqNfXH-oIO2g2AEi2RYF_njLvzYDY4UHoPjcmI-KwcLA&oe=68B10A19"
+  },
+  {
+   "id": "140387002",
+   "name": "Salt+Scoria",
+   "network": "FACEBOOKPAGE",
+   "url": null,
+   "avatar": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/718092353_10118716728138633_6320556808055763217_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=107&ccb=1-7&_nc_sid=08baa4&_nc_ohc=sGNfE0ssR0EQ7kNvwGhP73-&_nc_oc=AdqJIs6IOkLdqy2smfZWpkEME5g4W6n_Vx8PSI7tmRbZo04UlHrollT3Ta27-oxKuug&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&edm=AJdBtusEAAAA&_nc_gid=sQ6oJSn7lf-UL7DTyni9nA&_nc_tpa=Q5bMBQFIERCaksIoLH27BkRNoDG6v_ipuujS6d7MRanafiEO431ADfBZvrSJuUmGXAbOeDYcQscT&oh=00_Af8uyDQu-S4I1tx15yYEeWGw7jK42c8VEQFfiNihUQRKIA&oe=6A2A70EA"
   },
   {
    "id": "140309778",
    "name": "trpl.bsky.social",
    "network": "BLUESKY",
-   "url": null
+   "url": null,
+   "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gm7gsjq4qgtjmzkesnbtr3ir/bafkreicy5w3kxsnlkc3jybt2xj524aacr4u2a43rddvyvhieo54iejky3m"
+  },
+  {
+   "id": "138250117",
+   "name": "Profile 138250117",
+   "network": "TWITTER",
+   "url": null,
+   "avatar": null
+  },
+  {
+   "id": "138241973",
+   "name": "trlibrary",
+   "network": "PINTEREST",
+   "url": null,
+   "avatar": "https://i.pinimg.com/600x600_R/98/18/f2/9818f2ef8f4b35bdb7436c5b2660179a.jpg"
+  },
+  {
+   "id": "138241752",
+   "name": "Theodore Roosevelt Presidential Library",
+   "network": "LINKEDINCOMPANY",
+   "url": null,
+   "avatar": "https://media.licdn.com/dms/image/v2/C4E0BAQFq7aGWSFojfA/company-logo_400_400/company-logo_400_400/0/1679358400650/trlibrary_logo?e=1782345600&v=beta&t=f6ja8QpyOSesKnBZ9vAa_ELIc7IfTT6Scw5QweA6AGU"
   }
  ],
  "tags": [],
  "posts": [
   {
-   "id": "3b0d93e1-09af-453c-9355-212a87253993:138948229",
+   "id": "13102769834:138948229",
    "profileId": "138948229",
-   "scheduledAt": "2026-08-09T12:00:00Z",
-   "state": "DRAFT",
-   "text": "#OTD in 1886, Theodore Roosevelt traveled to Mandan, Dakota Territory, for the trial of the men who had stolen his boat.\n\nIt had happened five months earlier. On the morning of March 24, a ranch hand came up to the house at Elkhorn holding the end of the mooring rope — cut clean through with a knife. There was only one other boat on that stretch of the Little Missouri, and it belonged to three men living in a shack twenty miles upstream.\n\nMost of his neighbors assumed he would handle it the usual way. Roosevelt was a deputy sheriff of Billings County, and out there in that decade, a man who caught a thief on the river was not expected to bring him back alive.\n\nInstead, Roosevelt had Bill Sewall and Wilmot Dow build a new boat. A blizzard held them three more days. On March 30 the three of them pushed off into water still running with ice. Roosevelt brought a rifle, a camera, and — because he was Roosevelt — a volume of Matthew Arnold and a copy of Anna Karenina.\n\nThey found the stolen boat on April 1, nearly a hundred miles downriver, and took the camp by surprise. All three surrendered without a shot fired.\n\nThen came the hard part. He could not tie them; the cold would have cost them their hands and feet. So for eight days he guarded them in shifts while the ice jammed the river and the food ran down to flour stirred into muddy water. He finished Anna Karenina and borrowed a dime novel off one of the prisoners.\n\n\"There is very little amusement,\" he wrote afterward, \"in combining the functions of a sheriff with those of an arctic explorer.\"\n\nHe brought them in alive. Two were convicted of grand larceny later that month and sentenced to twenty-five months in the Bismarck penitentiary.\n\nA footnote: that famous photograph of Roosevelt guarding the thieves is staged — re-created afterward, with Sewall, Dow, and a third man posing as the prisoners.\n\nThe full story is on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "scheduledAt": "2026-07-25T17:40:00Z",
+   "state": "SENT",
+   "text": "Tickets are sold out for today, Saturday, July 25th.  No walk-ups are available.  Be sure to book your tickets in advance at trlibrary.com/tickets",
    "media": [
     {
-     "src": "media/cb9c5caf478db502.jpg",
-     "w": 1000,
-     "h": 710,
+     "src": "media/d14c3b15b3f2c59a.jpg",
+     "w": 562,
+     "h": 1000,
      "kind": "image"
     },
     {
-     "src": "media/13225e62ea73dfc3.jpg",
-     "w": 1000,
-     "h": 664,
-     "kind": "image"
-    },
-    {
-     "src": "media/5de450c190883d57.jpg",
-     "w": 1000,
-     "h": 656,
-     "kind": "image"
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-l0iKUZC8.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Yem9K%2FwkdD0dXaRIb%2BJUPuze6SU%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": "https://www.instagram.com/reel/DbOXaJSAjX0/",
+   "sequence": null
   },
   {
-   "id": "80637020-cf62-4454-839e-80a554169873:140309778",
+   "id": "13102769835:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-07-25T17:40:00Z",
+   "state": "SENT",
+   "text": "Tickets are sold out for today, Saturday, July 25th.  No walk-ups are available.  Be sure to book your tickets in advance at trlibrary.com/tickets",
+   "media": [
+    {
+     "src": "media/96753584df8efe81.jpg",
+     "w": 562,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-l0iKUZC8.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Yem9K%2FwkdD0dXaRIb%2BJUPuze6SU%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/reel/1577789364358787/",
+   "sequence": null
+  },
+  {
+   "id": "13102769836:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-07-25T17:40:00Z",
+   "state": "SENT",
+   "text": "Tickets are sold out for today, Saturday, July 25th.  No walk-ups are available.  Be sure to book your tickets in advance at trlibrary.com/tickets",
+   "media": [
+    {
+     "src": "media/50072310efb87b0a.jpg",
+     "w": 562,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-l0iKUZC8.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Yem9K%2FwkdD0dXaRIb%2BJUPuze6SU%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2081071989893091524",
+   "sequence": null
+  },
+  {
+   "id": "13103650570:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-07-30T16:35:00Z",
+   "state": "SENT",
+   "text": "A new review in The Wall Street Journal calls the Theodore Roosevelt Presidential Library \"a moving work of architecture\" — and makes the case for why it belongs in Medora, North Dakota.\n\nArchitecture critic Michael J. Lewis spent time on the ground before writing. A few of the details that stayed with him: the building, designed by Snøhetta, was built to the Living Building Challenge, the most rigorous standard for sustainable architecture, and its renewable sources already generate 105% of the electricity it uses. Its 96,000 square feet are capped by a native-grass green roof, so the structure reads as landscape first. Rammed-earth lobby walls are layered in browns, maroons and ochers, \"suggesting the stratigraphy of the Badlands.\" And a long breezeway opens, at its far end, onto the Badlands themselves \"in all their stratified splendor.\"\n\nHis conclusion: \"perhaps the only presidential library that gives us a sense of its subject's emotional life — his determination, his tragic dignity, and his boundless love of the American landscape.\"\n\nRead the full review: https://ow.ly/bpEa50ZuJEl",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/200587388961446/posts/1095207809499395",
+   "sequence": null
+  },
+  {
+   "id": "13103650571:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-07-30T16:35:00Z",
+   "state": "SENT",
+   "text": "Why is Theodore Roosevelt's library in a North Dakota town of 130? The Wall Street Journal traveled to Medora to find out — and called it \"a moving work of architecture.\" Tucked beneath a green roof, opening onto the Badlands. Worth the trip.\n\n🔗: https://ow.ly/e65U50ZuJEr",
+   "media": [
+    {
+     "src": "media/40d7b12f02dbdaf2.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    },
+    {
+     "src": "media/67812386b95203cc.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    },
+    {
+     "src": "media/3b96210f1d278ce2.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-1PFbiBIV.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Jvo%2BqTRRKN2iJBaA5Q436Nu7kTI%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-N2TwUqFW.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=wTS7cFAuRCVF23nZKwb6Pl6OZfI%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-G2cRTNsP.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=KNtjzaV0zKrf7esqEz9WiO%2F0Sjs%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.threads.com/@trlibrary/post/DbbIcFWFibK",
+   "sequence": null
+  },
+  {
+   "id": "13103650572:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-07-30T16:35:00Z",
+   "state": "SENT",
+   "text": "A new review in @WSJ calls the Theodore Roosevelt Presidential Library \"a moving work of architecture\" — and makes the case for why it belongs in Medora, North Dakota.\n\nArchitecture critic Michael J. Lewis spent time on the ground before writing. A few of the details that stayed with him: the building, designed by Snøhetta, was built to the Living Building Challenge, the most rigorous standard for sustainable architecture, and its renewable sources already generate 105% of the electricity it uses. Its 96,000 square feet are capped by a native-grass green roof, so the structure reads as landscape first. Rammed-earth lobby walls are layered in browns, maroons and ochers, \"suggesting the stratigraphy of the Badlands.\" And a long breezeway opens, at its far end, onto the Badlands themselves \"in all their stratified splendor.\"\n\nHis conclusion: \"perhaps the only presidential library that gives us a sense of its subject's emotional life — his determination, his tragic dignity, and his boundless love of the American landscape.\"\n\nRead the full review: https://ow.ly/oqZR50ZuJEB",
+   "media": [
+    {
+     "src": "media/c849aa9b5b0834d8.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    },
+    {
+     "src": "media/cf187c01796cdc42.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    },
+    {
+     "src": "media/048f1220274a7391.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-WpuAS3cy.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=8o7Xc4anlNm0GqYNDvyVq3C%2BqY4%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-Lvi4IEHb.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=xwtJ%2BLMMA9%2BocrBrvH7fe9NH4iY%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-R8iMHOh8.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=4cbRyl1RmR1f76G%2FoJzOHqsEmvA%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.instagram.com/p/DbbIaXKDAlz/",
+   "sequence": null
+  },
+  {
+   "id": "13103650573:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-07-30T16:35:00Z",
+   "state": "SENT",
+   "text": "A new review in @WSJ calls the Theodore Roosevelt Presidential Library \"a moving work of architecture\" — and makes the case for why it belongs in Medora, North Dakota.\n\nArchitecture critic Michael J. Lewis spent time on the ground before writing. A few of the details that stayed with him: the building, designed by Snøhetta, was built to the Living Building Challenge, the most rigorous standard for sustainable architecture, and its renewable sources already generate 105% of the electricity it uses. Its 96,000 square feet are capped by a native-grass green roof, so the structure reads as landscape first. Rammed-earth lobby walls are layered in browns, maroons and ochers, \"suggesting the stratigraphy of the Badlands.\" And a long breezeway opens, at its far end, onto the Badlands themselves \"in all their stratified splendor.\"\n\nHis conclusion: \"perhaps the only presidential library that gives us a sense of its subject's emotional life — his determination, his tragic dignity, and his boundless love of the American landscape.\"\n\nRead the full review: https://ow.ly/fF3p50ZuJEn",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2082867618600329475",
+   "sequence": null
+  },
+  {
+   "id": "13103650574:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-07-30T16:35:00Z",
+   "state": "SENT",
+   "text": "A new review in The Wall Street Journal  calls the Theodore Roosevelt Presidential Library \"a moving work of architecture\" — and makes the case for why it belongs in Medora, North Dakota.\n\nArchitecture critic Michael J. Lewis spent time on the ground before writing. A few of the details that stayed with him: the building, designed by Snøhetta, was built to the Living Building Challenge, the most rigorous standard for sustainable architecture, and its renewable sources already generate 105% of the electricity it uses. Its 96,000 square feet are capped by a native-grass green roof, so the structure reads as landscape first. Rammed-earth lobby walls are layered in browns, maroons and ochers, \"suggesting the stratigraphy of the Badlands.\" And a long breezeway opens, at its far end, onto the Badlands themselves \"in all their stratified splendor.\"\n\nHis conclusion: \"perhaps the only presidential library that gives us a sense of its subject's emotional life — his determination, his tragic dignity, and his boundless love of the American landscape.\"\n\nRead the full review: https://ow.ly/psWM50ZuJEp",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7488633319597871104",
+   "sequence": null
+  },
+  {
+   "id": "13103650575:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-07-30T16:35:00Z",
+   "state": "SENT",
+   "text": "Why is Theodore Roosevelt's library in a North Dakota town of 130? The Wall Street Journal traveled to Medora to find out — and called it \"a moving work of architecture.\" Tucked beneath a green roof, opening onto the Badlands. Worth the trip.\n\n🔗: https://ow.ly/Tt5050ZuJEO",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mruuo26yvh27",
+   "sequence": null
+  },
+  {
+   "id": "13104198915:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-03T14:50:00Z",
+   "state": "SENT",
+   "text": "The Theodore Roosevelt Presidential Library is honored to appear on the cover of the August issue of Architectural Record. Thank you to Leopoldo Villardi @leopoldovillardi and the @archrecordmag team for visiting Medora and for a thoughtful look at the building and its landscape. Full story: https://ow.ly/j7pB50ZvN0E \n\n#DareGreatly",
+   "media": [
+    {
+     "src": "media/26cd7b26253f96f1.jpg",
+     "w": 450,
+     "h": 535,
+     "kind": "image"
+    },
+    {
+     "src": "media/b44487282663a43c.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/0eafb753e03aea9c.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/0ed9057b6eeda377.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-qXSQTzfY.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=IO16TZWryilfbvQ0NRbq8dsoSg8%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-Bdtnuehd.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=KRg7jAWjV7AkOp4X3u5DFer%2F%2BB8%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-BwsRINSl.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=nDkQCTQehpxEqjxr%2FsiCk1jtYRI%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-4DCrFKuy.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=dkLHMIQSZAS6OO%2BBeV30hJC%2Fxz4%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.threads.com/@trlibrary/post/DblPm3PoEKI",
+   "sequence": null
+  },
+  {
+   "id": "13104198916:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-03T14:50:00Z",
+   "state": "SENT",
+   "text": "The Theodore Roosevelt Presidential Library is honored to appear on the cover of the August issue of Architectural Record. Thank you to managing editor Leopoldo Villardi and the Architectural Record team for visiting Medora and for their thoughtful account of the building and its landscape.\n\nThe article captures the central idea of the Snøhetta design: rather than placing a museum on the prairie, the land itself becomes the architecture. A section of grassland rises to form a walkable green roof. Rammed-earth walls, mixed from locally sourced soil, are banded to echo the strata of the surrounding buttes. A covered breezeway frames the view northeast toward Theodore Roosevelt National Park.\n\nThe piece also reflects the ambition beneath that quiet form. The Library is pursuing the Living Building Challenge, among the most rigorous environmental standards in the world. On the grounds, 193 native species — grown from seed through the Native Plant Project — now cover the land and the roof.\n\nA fitting detail runs through it all: the ticketing desks were made from a copper beech that T.R. planted at Sagamore Hill.\n\nRead the full story: https://ow.ly/KHur50ZvN0I\n\n#DareGreatly #TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/200587388961446/posts/1098571952496314",
+   "sequence": null
+  },
+  {
+   "id": "13104198917:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-03T14:50:00Z",
+   "state": "SENT",
+   "text": "The Theodore Roosevelt Presidential Library is honored to appear on the cover of the August issue of Architectural Record. Thank you to managing editor Leopoldo Villardi and the @ArchRecord team for visiting Medora and for their thoughtful account of the building and its landscape.\n\nThe article captures the central idea of the Snøhetta design: rather than placing a museum on the prairie, the land itself becomes the architecture. A section of grassland rises to form a walkable green roof. Rammed-earth walls, mixed from locally sourced soil, are banded to echo the strata of the surrounding buttes. A covered breezeway frames the view northeast toward Theodore Roosevelt National Park.\n\nThe piece also reflects the ambition beneath that quiet form. The Library is pursuing the Living Building Challenge, among the most rigorous environmental standards in the world. On the grounds, 193 native species — grown from seed through the Native Plant Project — now cover the land and the roof.\n\nA fitting detail runs through it all: the ticketing desks were made from a copper beech that T.R. planted at Sagamore Hill.\n\nRead the full story: https://ow.ly/i8qW50ZvN0N\n\n#DareGreatly #TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2084290756756267390",
+   "sequence": null
+  },
+  {
+   "id": "13104198918:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-03T14:50:00Z",
+   "state": "SENT",
+   "text": "The Theodore Roosevelt Presidential Library is honored to appear on the cover of the August issue of Architectural Record. Thank you to managing editor Leopoldo Villardi  and the Architectural Record team for visiting Medora and for their thoughtful account of the building and its landscape.\n\nThe article captures the central idea of the Snøhetta design: rather than placing a museum on the prairie, the land itself becomes the architecture. A section of grassland rises to form a walkable green roof. Rammed-earth walls, mixed from locally sourced soil, are banded to echo the strata of the surrounding buttes. A covered breezeway frames the view northeast toward Theodore Roosevelt National Park.\n\nThe piece also reflects the ambition beneath that quiet form. The Library is pursuing the Living Building Challenge, among the most rigorous environmental standards in the world. On the grounds, 193 native species — grown from seed through the Native Plant Project — now cover the land and the roof.\n\nA fitting detail runs through it all: the ticketing desks were made from a copper beech that T.R. planted at Sagamore Hill.\n\nRead the full story: https://ow.ly/w7Po50ZvN0P\n\n#DareGreatly #TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7490056457250312192",
+   "sequence": null
+  },
+  {
+   "id": "13104198919:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-03T14:50:00Z",
+   "state": "SENT",
+   "text": "The Theodore Roosevelt Presidential Library is honored to appear on the cover of the August issue of Architectural Record. Thank you to Leopoldo Villardi Leopoldo Villardi for visiting Medora and for a thoughtful look at the building and its landscape. \n\nFull story: https://ow.ly/URsY50ZvMZ4 \n",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3ms6qo2kskg2p",
+   "sequence": null
+  },
+  {
+   "id": "13104198920:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-03T14:50:00Z",
+   "state": "SENT",
+   "text": "The Theodore Roosevelt Presidential Library is honored to appear on the cover of the August issue of Architectural Record. Thank you to managing editor Leopoldo Villardi @leopoldovillardi and the @archrecordmag team for visiting Medora and for their thoughtful account of the building and its landscape.\n\nThe article captures the central idea of the Snøhetta design: rather than placing a museum on the prairie, the land itself becomes the architecture. A section of grassland rises to form a walkable green roof. Rammed-earth walls, mixed from locally sourced soil, are banded to echo the strata of the surrounding buttes. A covered breezeway frames the view northeast toward Theodore Roosevelt National Park.\n\nThe piece also reflects the ambition beneath that quiet form. The Library is pursuing the Living Building Challenge, among the most rigorous environmental standards in the world. On the grounds, 193 native species — grown from seed through the Native Plant Project — now cover the land and the roof.\n\nA fitting detail runs through it all: the ticketing desks were made from a copper beech that T.R. planted at Sagamore Hill.\n\nRead the full story: https://ow.ly/o5wR50ZvN0U\n\n#DareGreatly #TR250",
+   "media": [
+    {
+     "src": "media/7788516b909cdf8a.jpg",
+     "w": 450,
+     "h": 535,
+     "kind": "image"
+    },
+    {
+     "src": "media/248efa23557435a5.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/94c6411361b3381e.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/ebc0a3bd613166db.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-LeCrioTg.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=p7WAJf%2FMVQhLHHe35koCPloNqTU%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-8GuES9IG.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=EW84F9u0Kexmo1p3rbvpL4F5yIE%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-K6h7IauN.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=xF1y%2BgRW%2F5nruAPQptwx1sjl6WA%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-0jhacYHD.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=X1L9aVb5qLJqpqj3omKAC9%2Fe36c%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.instagram.com/p/DblPk2VGuHb/",
+   "sequence": null
+  },
+  {
+   "id": "13104278366:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-04T14:00:00Z",
+   "state": "SENT",
+   "text": "Theodore Roosevelt hung this painting of Abraham Lincoln by Ernest G. Wells in his office and wrote to Wells in October 1903 to say it was the version of Lincoln that appealed to him most personally. Last month, Wells's descendants visited the Library with that letter in hand. \n\n\n\n",
+   "media": [
+    {
+     "src": "media/ccedbd93c7819d59.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "media/f27d911912ef9fd5.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-0XumUlCN.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=zfvX%2B%2FHiZ79CWEJatQ4oiDXHcIM%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-5qHYTJFz.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Se2t1OV4WRLjbEDPnHXf30k2FAc%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3msb6ff3wac24",
+   "sequence": null
+  },
+  {
+   "id": "13104278367:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-04T14:00:00Z",
+   "state": "SENT",
+   "text": "Ernest G. Wells painted Abraham Lincoln as he looked at the time of the Lincoln-Douglas debates—young, unbearded, not yet president. Theodore Roosevelt hung it in his office and wrote to Wells in October 1903 to say it was the version of Lincoln that appealed to him most personally. Last month, Wells's descendants visited the Library with that letter in hand. It was a joy to stand with them in front of their ancestor's work, and we're grateful they made the trip to share it with us.\n\n#presidentiallibrary #theodoreroosevelt #abrahamlincoln\n\n",
+   "media": [
+    {
+     "src": "media/2b1aff1df77a718c.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "media/b9986991623c0b93.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-nVSzF7HE.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=ktoE3I1j47I3oIKj9zcmyKfvyjw%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-lOFGcDsV.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=OupEoF2dFOrLBX%2FfToemIkBCyw8%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7490406543037796353",
+   "sequence": null
+  },
+  {
+   "id": "13104278368:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-04T14:00:00Z",
+   "state": "SENT",
+   "text": "Ernest G. Wells painted Abraham Lincoln as he looked at the time of the Lincoln-Douglas debates—young, unbearded, not yet president. Theodore Roosevelt hung it in his office and wrote to Wells in October 1903 to say it was the version of Lincoln that appealed to him most personally. Last month, Wells's descendants visited the Library with that letter in hand. It was a joy to stand with them in front of their ancestor's work, and we're grateful they made the trip to share it with us.\n\n\n\n",
+   "media": [
+    {
+     "src": "media/2b1aff1df77a718c.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "media/b9986991623c0b93.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-nVSzF7HE.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=ktoE3I1j47I3oIKj9zcmyKfvyjw%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-lOFGcDsV.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=OupEoF2dFOrLBX%2FfToemIkBCyw8%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.threads.com/@trlibrary/post/Dbnuz4GIE7x",
+   "sequence": null
+  },
+  {
+   "id": "13104278369:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-04T14:00:00Z",
+   "state": "SENT",
+   "text": "Ernest G. Wells painted Abraham Lincoln as he looked at the time of the Lincoln-Douglas debates—young, unbearded, not yet president. Theodore Roosevelt hung it in his office and wrote to Wells in October 1903 to say it was the version of Lincoln that appealed to him most personally. Last month, Wells's descendants visited the Library with that letter in hand. It was a joy to stand with them in front of their ancestor's work, and we're grateful they made the trip to share it with us.\n\n#presidentiallibrary #theodoreroosevelt #abrahamlincoln\n",
+   "media": [
+    {
+     "src": "media/2b1aff1df77a718c.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "media/b9986991623c0b93.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-nVSzF7HE.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=ktoE3I1j47I3oIKj9zcmyKfvyjw%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-lOFGcDsV.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=OupEoF2dFOrLBX%2FfToemIkBCyw8%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/144035749389560/posts/1099414185745424",
+   "sequence": null
+  },
+  {
+   "id": "13104278370:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-04T14:00:00Z",
+   "state": "SENT",
+   "text": "Ernest G. Wells painted Abraham Lincoln as he looked at the time of the Lincoln-Douglas debates—young, unbearded, not yet president. Theodore Roosevelt hung it in his office and wrote to Wells in October 1903 to say it was the version of Lincoln that appealed to him most personally. Last month, Wells's descendants visited the Library with that letter in hand. It was a joy to stand with them in front of their ancestor's work, and we're grateful they made the trip to share it with us.\n\n#presidentiallibrary #theodoreroosevelt #abrahamlincoln\n\n",
+   "media": [
+    {
+     "src": "media/2b1aff1df77a718c.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "media/b9986991623c0b93.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-nVSzF7HE.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=ktoE3I1j47I3oIKj9zcmyKfvyjw%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-lOFGcDsV.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=OupEoF2dFOrLBX%2FfToemIkBCyw8%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2084640842560553462",
+   "sequence": null
+  },
+  {
+   "id": "13104278371:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-04T14:00:00Z",
+   "state": "SENT",
+   "text": "Ernest G. Wells painted Abraham Lincoln as he looked at the time of the Lincoln-Douglas debates—young, unbearded, not yet president. Theodore Roosevelt hung it in his office and wrote to Wells in October 1903 to say it was the version of Lincoln that appealed to him most personally. Last month, Wells's descendants visited the Library with that letter in hand. It was a joy to stand with them in front of their ancestor's work, and we're grateful they made the trip to share it with us.\n\n#presidentiallibrary #theodoreroosevelt #abrahamlincoln\n\n",
+   "media": [
+    {
+     "src": "media/2b1aff1df77a718c.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "media/b9986991623c0b93.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-nVSzF7HE.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=ktoE3I1j47I3oIKj9zcmyKfvyjw%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-lOFGcDsV.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=OupEoF2dFOrLBX%2FfToemIkBCyw8%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.instagram.com/p/DbnuxXlGsai/",
+   "sequence": null
+  },
+  {
+   "id": "13104462913:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-04T16:00:00Z",
+   "state": "SENT",
+   "text": "TR widened the circle of \"We the People\" further than almost any president before him — conservation, reform, the conviction that everybody counts.\n\nPresident Bill Clinton's essay for In Pursuit USA's nonpartisan series makes that legacy a challenge worth carrying. \n\nRead: https://ow.ly/ABps50Zwe15",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3msbf4kr76g24",
+   "sequence": null
+  },
+  {
+   "id": "13104462914:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-04T16:00:00Z",
+   "state": "SENT",
+   "text": "Theodore Roosevelt widened the circle of \"We the People\" further than almost any president before him — the public lands he protected, the reforms he drove, his conviction that everybody counts.\n\nIn President @BillClinton's essay for @InPursuitUSA  — the nonpartisan series on every U.S. president and first lady — that legacy becomes an invitation: widening the circle is every generation's work, including this one.\n\nA generous, clear-eyed read on leadership and citizenship.\n\nRead it here: https://ow.ly/jyCa50ZwcYj\n\n#TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2084671099745280019",
+   "sequence": null
+  },
+  {
+   "id": "13104462915:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-04T16:00:00Z",
+   "state": "SENT",
+   "text": "Theodore Roosevelt widened the circle of \"We the People\" further than almost any president before him — the public lands he protected, the reforms he drove, his conviction that everybody counts.\n\nIn President President Bill Clinton's essay for In Pursuit USA  — the nonpartisan series on every U.S. president and first lady — that legacy becomes an invitation: widening the circle is every generation's work, including this one.\n\nA generous, clear-eyed read on leadership and citizenship.\n\nRead it here: https://ow.ly/7UJg50ZwcXa\n\n#TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/200587388961446/posts/1099498039070372",
+   "sequence": null
+  },
+  {
+   "id": "13104462916:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-04T16:00:00Z",
+   "state": "SENT",
+   "text": "Theodore Roosevelt widened the circle of \"We the People\" further than almost any president before him — the public lands he protected, the reforms he drove, his conviction that everybody counts.\n\nIn President Bill Clinton's essay for In Pursuit  — the nonpartisan series on every U.S. president and first lady — that legacy becomes an invitation: widening the circle is every generation's work, including this one.\n\nA generous, clear-eyed read on leadership and citizenship.\n\nRead it here: https://ow.ly/FfJV50ZwcZ9\n\n#TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7490436839254896640",
+   "sequence": null
+  },
+  {
+   "id": "13104462917:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-04T16:00:00Z",
+   "state": "SENT",
+   "text": "Theodore Roosevelt widened the circle of \"We the People\" further than almost any president before him — conservation, reform, the conviction that everybody counts.\n\nPresident Bill Clinton's essay for In Pursuit's nonpartisan series makes that legacy a challenge worth carrying. @InPursuitUSA\n\nRead it here: https://www.inpursuit.org/lessons/a-more-perfect-union-requires-an-wider-we#\n\n#TR250 ",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://www.threads.com/@trlibrary/post/Dbn8heuoAj3",
+   "sequence": null
+  },
+  {
+   "id": "13104463967:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-04T20:30:00Z",
+   "state": "SENT",
+   "text": "Fifty thousand.\n\nThat's how many participants have made the trip to a bluff above the North Dakota Badlands since the Theodore Roosevelt Presidential Library opened on July 4.\n\nFifty thousand people who traded the interstate for a two-lane road, walked the boardwalk toward the buttes, and stepped into the story of the man the Badlands helped shape.\n\nTo everyone who's come to Medora — thank you. You're the reason this place feels alive.\n\nThe arena's open, and there's room for more.\n\nPlan a visit → trlibrary.com/tickets\n\n#DareGreatly #TR250",
+   "media": [
+    {
+     "src": "media/1599ca232547c409.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-r7F5UYTm.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=DmpEd0EoUE1qWSiMOpa1hqYe5Go%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7490504405793009665",
+   "sequence": null
+  },
+  {
+   "id": "13104463968:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-04T20:30:00Z",
+   "state": "SENT",
+   "text": "50,000 participants have walked the boardwalk into the Badlands since July 4. Thank you to everyone who's made the trip to Medora. The arena's open, and there's room for more — plan a visit: trlibrary.com/tickets #DareGreatly",
+   "media": [
+    {
+     "src": "media/9b3cccc367545d9c.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-LGTNuDCR.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=T0aL4UjUn3tdTXQQAJlsEYzVXPw%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3msbu4vk6qd2v",
+   "sequence": null
+  },
+  {
+   "id": "13104463969:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-04T20:30:00Z",
+   "state": "SENT",
+   "text": "Fifty thousand.\n\nThat's how many participants have made the trip to a bluff above the North Dakota Badlands since the Theodore Roosevelt Presidential Library opened on July 4.\n\nFifty thousand people who traded the interstate for a two-lane road, walked the boardwalk toward the buttes, and stepped into the story of the man the Badlands helped shape.\n\nTo everyone who's come to Medora — thank you. You're the reason this place feels alive.\n\nThe arena's open, and there's room for more.\n\nPlan a visit → trlibrary.com/tickets\n\n#DareGreatly #TR250",
+   "media": [
+    {
+     "src": "media/1599ca232547c409.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-r7F5UYTm.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=DmpEd0EoUE1qWSiMOpa1hqYe5Go%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/144035749389560/posts/1099653379054838",
+   "sequence": null
+  },
+  {
+   "id": "13104463970:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-04T20:30:00Z",
+   "state": "SENT",
+   "text": "Fifty thousand.\n\nThat's how many participants have made the trip to a bluff above the North Dakota Badlands since the Theodore Roosevelt Presidential Library opened on July 4.\n\nFifty thousand people who traded the interstate for a two-lane road, walked the boardwalk toward the buttes, and stepped into the story of the man the Badlands helped shape.\n\nTo everyone who's come to Medora — thank you. You're the reason this place feels alive.\n\nThe arena's open, and there's room for more.\n\nPlan a visit → trlibrary.com/tickets\n\n#DareGreatly #TR250",
+   "media": [
+    {
+     "src": "media/1599ca232547c409.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-r7F5UYTm.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=DmpEd0EoUE1qWSiMOpa1hqYe5Go%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.instagram.com/p/DbobRSjmnyA/",
+   "sequence": null
+  },
+  {
+   "id": "13104463971:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-04T20:30:00Z",
+   "state": "SENT",
+   "text": "Fifty thousand.\n\nThat's how many participants have made the trip to a bluff above the North Dakota Badlands since the Theodore Roosevelt Presidential Library opened on July 4.\n\nFifty thousand people who traded the interstate for a two-lane road, walked the boardwalk toward the buttes, and stepped into the story of the man the Badlands helped shape.\n\nTo everyone who's come to Medora — thank you. You're the reason this place feels alive.\n\nThe arena's open, and there's room for more.\n\nPlan a visit → trlibrary.com/tickets\n\n#DareGreatly #TR250",
+   "media": [
+    {
+     "src": "media/1599ca232547c409.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-r7F5UYTm.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=DmpEd0EoUE1qWSiMOpa1hqYe5Go%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2084738706615792047",
+   "sequence": null
+  },
+  {
+   "id": "13104463972:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-04T20:30:00Z",
+   "state": "SENT",
+   "text": "50,000 participants have walked the boardwalk into the Badlands since July 4. Thank you to everyone who's made the trip to Medora. The arena's open, and there's room for more — plan a visit: trlibrary.com/tickets #DareGreatly",
+   "media": [
+    {
+     "src": "media/1599ca232547c409.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-r7F5UYTm.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=DmpEd0EoUE1qWSiMOpa1hqYe5Go%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.threads.com/@trlibrary/post/DbobRO-IJ2K",
+   "sequence": null
+  },
+  {
+   "id": "13104931552:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-06T16:00:00Z",
+   "state": "SENT",
+   "text": "Five conversations about where conservation in America goes next — national parks, hunting, regenerative agriculture, new technology, and the far edge of the science, closing with NASA's Dr. Nicola Fox.\n\nFree and open to the public. One registration covers the full block, so drop in for a single session or stay for all five. Thanks to the American Conservation Coalition (@ACC_National) for opening these programs to the public.\n\nRegister: https://ow.ly/KZHv50Zx5vx\n\nSaturday, August 8 | 2–5 PM | Barry Auditorium\n\n#conservation #publicprograms #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/16578d8690695f0a.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-0Xh4tafW.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=P6gKi2caiv6x%2Fs5jXAXS31EKPrA%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2085395870342606898",
+   "sequence": null
+  },
+  {
+   "id": "13104931553:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-06T16:00:00Z",
+   "state": "SENT",
+   "text": "Five conversations about where conservation in America goes next — national parks, hunting, regenerative agriculture, new technology, and the far edge of the science, closing with NASA's Dr. Nicola Fox.\n\nFree and open to the public. One registration covers the full block, so drop in for a single session or stay for all five. Thanks to the American Conservation Coalition for opening these programs to the public.\n\nRegister: https://ow.ly/Cwmj50Zx5vq\n\nSaturday, August 8 | 2–5 PM | Barry Auditorium\n\n#conservation #publicprograms #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/bcc8c68f70adba05.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-N8hLiWIk.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=WvjvEJ1V2JEHDmdMa3fH27RLeTg%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7491161593519509505",
+   "sequence": null
+  },
+  {
+   "id": "13104931554:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-06T16:00:00Z",
+   "state": "SENT",
+   "text": "Five conversations about where conservation in America goes next — national parks, hunting, regenerative agriculture, new technology, and the far edge of the science, closing with NASA's Dr. Nicola Fox.\n\nFree and open to the public. One registration covers the full block, so drop in for a single session or stay for all five. Thanks to the American Conservation Coalition for opening these programs to the public.\n\nRegister: https://ow.ly/pLqf50Zx5vt\n\nSaturday, August 8 | 2–5 PM | Barry Auditorium\n\n#conservation #publicprograms #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/56eb1f864a4f920e.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-loSecxTz.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=E%2FsoarPkRvDm3R3INHZm9T%2BDh5s%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/144035749389560/posts/1101241372229372",
+   "sequence": null
+  },
+  {
+   "id": "13104931555:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-06T16:00:00Z",
+   "state": "SENT",
+   "text": "Free and open to the public. One registration covers the full block, so drop in for a single session or stay for all five. Thanks to the American Conservation Coalition for opening these programs to the public.\n\nRegister: https://ow.ly/xQLb50Zx5vu\n\nSaturday, August 8 | 2–5 PM | Barry Auditorium\n\n",
+   "media": [
+    {
+     "src": "media/0a910d4798d13ee4.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-XRc2F8tr.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Yix527UWctylL%2BI8e0eeYuH2fyU%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3msgg2io4j524",
+   "sequence": null
+  },
+  {
+   "id": "13104931556:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-06T16:00:00Z",
+   "state": "SENT",
+   "text": "Five conversations about where conservation in America goes next — national parks, hunting, regenerative agriculture, new technology, and the far edge of the science, closing with NASA's Dr. Nicola Fox.\n\nFree and open to the public. One registration covers the full block, so drop in for a single session or stay for all five. Thanks to the American Conservation Coalition (@acc_national) for opening these programs to the public.\n\nRegister: https://ow.ly/IjFN50Zx5vr\n\nSaturday, August 8 | 2–5 PM | Barry Auditorium\n\n#conservation #publicprograms #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/faadfd5422944d3f.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-e8CpiDfQ.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=xkR6Xdeygz9%2BJcATUOuK7FxHuD4%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.instagram.com/p/DbtGHTaGpDV/",
+   "sequence": null
+  },
+  {
+   "id": "13104931557:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-06T16:00:00Z",
+   "state": "SENT",
+   "text": "Five conversations about where conservation in America goes next—national parks, hunting, regenerative agriculture, new technology, and the far edge of the science, closing with NASA's Dr. Nicola Fox.\n\nFree and open to the public. One registration covers the full block, so drop in for a single session or stay for all five. Thanks to the American Conservation Coalition for opening these programs to the public.\n\nRegister: https://ow.ly/oBsB50Zx5vs\n\nSaturday, August 8 | 2–5 PM | Barry Auditorium\n\n",
+   "media": [
+    {
+     "src": "media/cb195a346fa98229.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-nQIzuVT3.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=H5rl4B6yFagufwNMg5OujvIQwzs%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.threads.com/@trlibrary/post/DbtGIaZoB99",
+   "sequence": null
+  },
+  {
+   "id": "13104937571:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-06T19:00:00Z",
+   "state": "SENT",
+   "text": "Edith Roosevelt's influence didn't come from a title — it came from being listened to. Library CEO Ed O'Keefe studies T.R.'s closest adviser for @InPursuitUSA: to know a leader, know who they listen to.\n\nFull essay: https://ow.ly/RT5550Zx6gn\n\n#TR250",
+   "media": [
+    {
+     "src": "media/643d18cc50c3a84b.jpg",
+     "w": 813,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-3QtPINuq.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=BIQI%2FJTSIpjTUveabgRJOqmBSdY%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.threads.com/@trlibrary/post/DbtammVIN0f",
+   "sequence": null
+  },
+  {
+   "id": "13104937572:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-06T19:00:00Z",
+   "state": "SENT",
+   "text": "Edith Roosevelt's influence didn't come from a title — it came from being listened to. Library CEO Ed O'Keefe studies T.R.'s closest adviser for In Pursuit USA: to know a leader, know who they listen to.\n\nFull essay: https://ow.ly/BLEc50Zx6gk\n\n#TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3msgq2hthrt24",
+   "sequence": null
+  },
+  {
+   "id": "13104937574:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-06T19:00:00Z",
+   "state": "SENT",
+   "text": "Edith Roosevelt shaped the White House you picture today. She led the renovation that added the West Wing — and placed her own library right beside the president's office, so she was never far from the conversation.\n\nHer influence didn't come from a title. It came from being listened to; contemporaries said her read on people was sharper than T.R.'s own.\n\nIn a new essay for @InPursuitUSA's nonpartisan series, Library CEO Ed O'Keefe studies Edith and lands on a lesson worth carrying: to know a leader, know who they listen to.\n\nFull essay: https://ow.ly/eWf350Zx6go\n\n#TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2085440909814997276",
+   "sequence": null
+  },
+  {
+   "id": "13104937575:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-06T19:00:00Z",
+   "state": "SENT",
+   "text": "Edith Roosevelt shaped the White House you picture today. She led the renovation that added the West Wing — and placed her own library right beside the president's office, so she was never far from the conversation.\n\nHer influence didn't come from a title. It came from being listened to; contemporaries said her read on people was sharper than T.R.'s own.\n\nIn a new essay for In Pursuit's nonpartisan series, Library CEO Ed O'Keefe studies Edith and lands on a lesson worth carrying: to know a leader, know who they listen to.\n\nFull essay: https://ow.ly/ztYm50Zx6gj\n\n#TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7491206618458595329",
+   "sequence": null
+  },
+  {
+   "id": "13104937577:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-06T19:00:00Z",
+   "state": "SENT",
+   "text": "Edith Roosevelt shaped the White House you picture today. She led the renovation that added the West Wing — and placed her own library right beside the president's office, so she was never far from the conversation.\n\nHer influence didn't come from a title. It came from being listened to; contemporaries said her read on people was sharper than T.R.'s own.\n\nIn a new essay for In Pursuit USA's nonpartisan series, Library CEO Ed O'Keefe studies Edith and lands on a lesson worth carrying: to know a leader, know who they listen to.\n\nFull essay: https://ow.ly/Z4Nq50Zx6gq\n\n#TR250",
+   "media": [],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/200587388961446/posts/1101358405551002",
+   "sequence": null
+  },
+  {
+   "id": "13104807746:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-07T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "From box to bookshelf. The new @LtlFreeLibrary is stocked and waiting under the Trailhead canopy, next to the bike racks. Take one, leave one, or just browse. Donated by @bradmeltzer and @ChrisEliopoulos. Theodore Roosevelt wrote at least 35 books in his lifetime—this shelf currently holds a fraction of that, but it's a start.\n\n#littlefreelibrary #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/2c27784c74309999.jpg",
+     "w": 562,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-NDSXs8uO.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=MB0YkShRj%2FZg6Uxar1kOwOv84IY%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13104807747:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-07T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "From box to bookshelf. The new Little Free Library is stocked and waiting under the Trailhead canopy, next to the bike racks. Take one, leave one, or just browse. Donated by Brad Meltzer and Chris Eliopoulos. Theodore Roosevelt wrote at least 35 books in his lifetime—this shelf currently holds a fraction of that, but it's a start.\n\n#littlefreelibrary #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/f08b46d77b9425f3.jpg",
+     "w": 562,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-NDSXs8uO.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=MB0YkShRj%2FZg6Uxar1kOwOv84IY%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13104807748:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-07T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "From box to bookshelf. The new @littlefreelibrary is stocked and waiting under the Trailhead canopy, next to the bike racks. Take one, leave one, or just browse. Donated by @bradmeltzer and @chriseliopoulos. Theodore Roosevelt wrote at least 35 books in his lifetime—this shelf currently holds a fraction of that, but it's a start.\n\n#littlefreelibrary #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/f08b46d77b9425f3.jpg",
+     "w": 562,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-NDSXs8uO.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=MB0YkShRj%2FZg6Uxar1kOwOv84IY%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13104807749:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-07T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "From box to bookshelf. The new Little Free Library is stocked and waiting under the Trailhead canopy, next to the bike racks. Take one, leave one, or just browse. Donated by Brad Meltzer and Chris Eliopoulos. Theodore Roosevelt wrote at least 35 books in his lifetime—this shelf currently holds a fraction of that, but it's a start.\n\n#littlefreelibrary #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/841b353b13da1e83.jpg",
+     "w": 562,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-NDSXs8uO.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=MB0YkShRj%2FZg6Uxar1kOwOv84IY%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105211386:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-08T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1908, Theodore Roosevelt signed an order that began: \"It is hereby ordered that all islands situated in Lower Klamath Lake…\"\n\nPlain language, four sentences long. What it did was put the federal government between the plume hunters and the birds.\n\nBy the 1880s, women's hats were built from birds — not loose feathers but whole wings, whole birds, and above all the aigrette, the fine nuptial plume a snowy egret grows only in breeding season. So the hunters worked the rookeries when the nests were full. The adults were shot off the branches. The chicks starved.\n\nDouglas Brinkley puts the toll at more than five million birds a year by 1886 — the year George Bird Grinnell founded the first Audubon Society. In Oregon, Audubon photographer William L. Finley, whose pictures of those marshes reached Roosevelt, reported over 120 tons of wild ducks shipped to San Francisco restaurants in a single year.\n\nOn August 8, 1908, Roosevelt set aside more than 81,000 acres of islands, marsh, and swamp along the Oregon–California line. The order was blunt about what was now forbidden: \"the taking or killing of any species of native bird for any purpose whatever.\" The same day he signed a second order creating a bird reservation off Key West.\n\nLower Klamath became the first federal waterfowl refuge in the country.\n\nRoosevelt did all of this by executive order, without ever setting foot in either place. Fifty-one bird reservations in just under six years, across seventeen states and territories — Puerto Rico to Hawaii and Alaska. He listed them in his autobiography, including the Klamath and Malheur marshes, \"formerly the scene of slaughter of ducks for market and ruthless destruction of plume birds for the millinery trade.\"\n\nToday roughly 80 percent of the Pacific Flyway's migrating waterfowl pass through the Klamath Basin.\n\nMore: trlibrary.com/tr/presidency/conservation/bird-reserves\n\n#OTD #OnThisDay #TheodoreRoosevelt #Conservation #NationalWildlifeRefuge #AmericanHistory",
+   "media": [
+    {
+     "src": "media/296401e6e06e463f.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/887fc34a54326603.jpg",
+     "w": 806,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/bb8067dbe1645f38.jpg",
+     "w": 640,
+     "h": 501,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-n6IlFbUw.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=RWXkW6CjGHbIUxDJYE4j0zreuos%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-bzCASotG.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=ECFOK0orByY394UuAImRU04lAjw%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-7OIPt6To.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=XnpWw5XiYxNBHpOBeHPlt5%2BIBRs%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105211387:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-08T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1908, Theodore Roosevelt signed an order that began: \"It is hereby ordered that all islands situated in Lower Klamath Lake…\"\n\nPlain language, four sentences long. What it did was put the federal government between the plume hunters and the birds.\n\nBy the 1880s, women's hats were built from birds — not loose feathers but whole wings, whole birds, and above all the aigrette, the fine nuptial plume a snowy egret grows only in breeding season. So the hunters worked the rookeries when the nests were full. The adults were shot off the branches. The chicks starved.\n\nDouglas Brinkley puts the toll at more than five million birds a year by 1886 — the year George Bird Grinnell founded the first Audubon Society. In Oregon, Audubon photographer William L. Finley, whose pictures of those marshes reached Roosevelt, reported over 120 tons of wild ducks shipped to San Francisco restaurants in a single year.\n\nOn August 8, 1908, Roosevelt set aside more than 81,000 acres of islands, marsh, and swamp along the Oregon–California line. The order was blunt about what was now forbidden: \"the taking or killing of any species of native bird for any purpose whatever.\" The same day he signed a second order creating a bird reservation off Key West.\n\nLower Klamath became the first federal waterfowl refuge in the country.\n\nRoosevelt did all of this by executive order, without ever setting foot in either place. Fifty-one bird reservations in just under six years, across seventeen states and territories — Puerto Rico to Hawaii and Alaska. He listed them in his autobiography, including the Klamath and Malheur marshes, \"formerly the scene of slaughter of ducks for market and ruthless destruction of plume birds for the millinery trade.\"\n\nToday roughly 80 percent of the Pacific Flyway's migrating waterfowl pass through the Klamath Basin.\n\nMore: trlibrary.com/tr/presidency/conservation/bird-reserves\n\n#OTD #OnThisDay #TheodoreRoosevelt #Conservation #NationalWildlifeRefuge #AmericanHistory",
+   "media": [
+    {
+     "src": "media/296401e6e06e463f.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/887fc34a54326603.jpg",
+     "w": 806,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/bb8067dbe1645f38.jpg",
+     "w": 640,
+     "h": 501,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-n6IlFbUw.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=RWXkW6CjGHbIUxDJYE4j0zreuos%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-bzCASotG.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=ECFOK0orByY394UuAImRU04lAjw%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-7OIPt6To.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=XnpWw5XiYxNBHpOBeHPlt5%2BIBRs%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105211878:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-08T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1908, Theodore Roosevelt signed an order that began: \"It is hereby ordered that all islands situated in Lower Klamath Lake…\"\n\nPlain language, four sentences long. What it did was put the federal government between the plume hunters and the birds.\n\nBy the 1880s, women's hats were built from birds — not loose feathers but whole wings, whole birds, and above all the aigrette, the fine nuptial plume a snowy egret grows only in breeding season. So the hunters worked the rookeries when the nests were full. The adults were shot off the branches. The chicks starved.\n\nDouglas Brinkley puts the toll at more than five million birds a year by 1886 — the year George Bird Grinnell founded the first Audubon Society. In Oregon, Audubon photographer William L. Finley, whose pictures of those marshes reached Roosevelt, reported over 120 tons of wild ducks shipped to San Francisco restaurants in a single year.\n\nOn August 8, 1908, Roosevelt set aside more than 81,000 acres of islands, marsh, and swamp along the Oregon–California line. The order was blunt about what was now forbidden: \"the taking or killing of any species of native bird for any purpose whatever.\" The same day he signed a second order creating a bird reservation off Key West.\n\nLower Klamath became the first federal waterfowl refuge in the country.\n\nRoosevelt did all of this by executive order, without ever setting foot in either place. Fifty-one bird reservations in just under six years, across seventeen states and territories — Puerto Rico to Hawaii and Alaska. He listed them in his autobiography, including the Klamath and Malheur marshes, \"formerly the scene of slaughter of ducks for market and ruthless destruction of plume birds for the millinery trade.\"\n\nToday roughly 80 percent of the Pacific Flyway's migrating waterfowl pass through the Klamath Basin.\n\nMore on TR's 51 bird reserves on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Conservation #NationalWildlifeRefuge #AmericanHistory",
+   "media": [
+    {
+     "src": "media/1362e27d377d06ad.jpg",
+     "w": 720,
+     "h": 720,
+     "kind": "image"
+    },
+    {
+     "src": "media/55ef2507134ef52e.jpg",
+     "w": 720,
+     "h": 720,
+     "kind": "image"
+    },
+    {
+     "src": "media/45d0295f2df17f37.jpg",
+     "w": 640,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-EkSBf0Hq.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=i2tDLw3gvdgzcH5f2fsfKF8FTag%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-PqcgSgFY.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=g3ASI%2FotPYopQyNG1T880lI68rQ%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-EDc8t8IL.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=JCfoIS1l7INqZ0CgkzU5YFPEQQ8%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105211929:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-08T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1908, TR set aside 81,000 acres of Oregon–California marsh, banning \"the taking or killing of any species of native bird for any purpose whatever.\"\n\nLower Klamath became America's first federal waterfowl refuge. He never set foot in it.\n\ntrlibrary.com/tr/presidency/conservation/bird-reserves",
+   "media": [
+    {
+     "src": "media/dac859d6924dac76.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-n6IlFbUw.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=RWXkW6CjGHbIUxDJYE4j0zreuos%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105211979:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-08T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1908, Theodore Roosevelt signed an executive order setting aside 81,000 acres of islands and marsh on the Oregon–California line.\n\nThe reason was women's hats. Whole birds were being built into them — shot off their nests in breeding season for the plumes.\n\nLower Klamath became the country's first federal waterfowl refuge. TR never set foot in it.\n\ntrlibrary.com/tr/presidency/conservation/bird-reserves",
+   "media": [
+    {
+     "src": "media/90cd44972bb565a8.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/70369fd63ae0d907.jpg",
+     "w": 806,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-n6IlFbUw.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=RWXkW6CjGHbIUxDJYE4j0zreuos%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-bzCASotG.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=ECFOK0orByY394UuAImRU04lAjw%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105212019:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-08T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1908, TR set aside 81,000 acres of Oregon–California marsh, banning \"the taking or killing of any species of native bird for any purpose whatever.\"\n\nThe threat was the hat trade. Lower Klamath became America's first waterfowl refuge.\n\ntrlibrary.com/tr/presidency/conservation/bird-reserves",
+   "media": [
+    {
+     "src": "media/ab8de476abd2cc2f.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-n6IlFbUw.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=RWXkW6CjGHbIUxDJYE4j0zreuos%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105206066:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-08-09T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1886, TR rode to Mandan for the trial of the men who stole his boat.\n\nHe'd chased them ~100 miles down an icy river and guarded them eight days — when everyone in the Badlands expected him to just hang them.\n\ntrlibrary.com/tr/badlands/boat-thieves",
    "media": [
     {
-     "src": "media/cb9c5caf478db502.jpg",
-     "w": 1000,
-     "h": 710,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": null
-  },
-  {
-   "id": "98028ac4-350c-41eb-ab9a-bf3400103e22:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-08-09T12:00:00Z",
-   "state": "DRAFT",
-   "text": "#OTD in 1886, Theodore Roosevelt traveled to Mandan, Dakota Territory, for the trial of the men who had stolen his boat.\n\nIt had happened five months earlier. On the morning of March 24, a ranch hand came up to the house at Elkhorn holding the end of the mooring rope — cut clean through with a knife. There was only one other boat on that stretch of the Little Missouri, and it belonged to three men living in a shack twenty miles upstream.\n\nMost of his neighbors assumed he would handle it the usual way. Roosevelt was a deputy sheriff of Billings County, and out there in that decade, a man who caught a thief on the river was not expected to bring him back alive.\n\nInstead, Roosevelt had Bill Sewall and Wilmot Dow build a new boat. A blizzard held them three more days. On March 30 the three of them pushed off into water still running with ice. Roosevelt brought a rifle, a camera, and — because he was Roosevelt — a volume of Matthew Arnold and a copy of Anna Karenina.\n\nThey found the stolen boat on April 1, nearly a hundred miles downriver, and took the camp by surprise. All three surrendered without a shot fired.\n\nThen came the hard part. He could not tie them; the cold would have cost them their hands and feet. So for eight days he guarded them in shifts while the ice jammed the river and the food ran down to flour stirred into muddy water. He finished Anna Karenina and borrowed a dime novel off one of the prisoners.\n\n\"There is very little amusement,\" he wrote afterward, \"in combining the functions of a sheriff with those of an arctic explorer.\"\n\nHe brought them in alive. Two were convicted of grand larceny later that month and sentenced to twenty-five months in the Bismarck penitentiary.\n\nA footnote: that famous photograph of Roosevelt guarding the thieves is staged — re-created afterward, with Sewall, Dow, and a third man posing as the prisoners.\n\nMore: trlibrary.com/tr/badlands/boat-thieves\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
-   "media": [
-    {
-     "src": "media/cb9c5caf478db502.jpg",
+     "src": "media/7df674b513bfbf2f.jpg",
      "w": 1000,
      "h": 710,
      "kind": "image"
     },
     {
-     "src": "media/5de450c190883d57.jpg",
-     "w": 1000,
-     "h": 656,
-     "kind": "image"
-    },
-    {
-     "src": "media/13225e62ea73dfc3.jpg",
-     "w": 1000,
-     "h": 664,
-     "kind": "image"
-    },
-    {
-     "src": "media/3eba5171970e07b9.jpg",
-     "w": 1000,
-     "h": 789,
-     "kind": "image"
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-vLHOsEFy.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=vIhj85YeQ3LANUUXi3fWwcjziUI%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "98028ac4-350c-41eb-ab9a-bf3400103e22:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-08-09T12:00:00Z",
-   "state": "DRAFT",
-   "text": "#OTD in 1886, Theodore Roosevelt traveled to Mandan, Dakota Territory, for the trial of the men who had stolen his boat.\n\nIt had happened five months earlier. On the morning of March 24, a ranch hand came up to the house at Elkhorn holding the end of the mooring rope — cut clean through with a knife. There was only one other boat on that stretch of the Little Missouri, and it belonged to three men living in a shack twenty miles upstream.\n\nMost of his neighbors assumed he would handle it the usual way. Roosevelt was a deputy sheriff of Billings County, and out there in that decade, a man who caught a thief on the river was not expected to bring him back alive.\n\nInstead, Roosevelt had Bill Sewall and Wilmot Dow build a new boat. A blizzard held them three more days. On March 30 the three of them pushed off into water still running with ice. Roosevelt brought a rifle, a camera, and — because he was Roosevelt — a volume of Matthew Arnold and a copy of Anna Karenina.\n\nThey found the stolen boat on April 1, nearly a hundred miles downriver, and took the camp by surprise. All three surrendered without a shot fired.\n\nThen came the hard part. He could not tie them; the cold would have cost them their hands and feet. So for eight days he guarded them in shifts while the ice jammed the river and the food ran down to flour stirred into muddy water. He finished Anna Karenina and borrowed a dime novel off one of the prisoners.\n\n\"There is very little amusement,\" he wrote afterward, \"in combining the functions of a sheriff with those of an arctic explorer.\"\n\nHe brought them in alive. Two were convicted of grand larceny later that month and sentenced to twenty-five months in the Bismarck penitentiary.\n\nA footnote: that famous photograph of Roosevelt guarding the thieves is staged — re-created afterward, with Sewall, Dow, and a third man posing as the prisoners.\n\nMore: trlibrary.com/tr/badlands/boat-thieves\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
-   "media": [
-    {
-     "src": "media/cb9c5caf478db502.jpg",
-     "w": 1000,
-     "h": 710,
-     "kind": "image"
-    },
-    {
-     "src": "media/5de450c190883d57.jpg",
-     "w": 1000,
-     "h": 656,
-     "kind": "image"
-    },
-    {
-     "src": "media/13225e62ea73dfc3.jpg",
-     "w": 1000,
-     "h": 664,
-     "kind": "image"
-    },
-    {
-     "src": "media/3eba5171970e07b9.jpg",
-     "w": 1000,
-     "h": 789,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": null
-  },
-  {
-   "id": "a1cad8ef-f139-42bf-adca-7f8da588b204:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-08-09T12:00:00Z",
-   "state": "DRAFT",
-   "text": "#OTD in 1886, TR rode to Mandan for the trial of the men who stole his boat.\n\nHe'd chased them ~100 miles down an icy Little Missouri and guarded them eight days without sleep — when everyone in the Badlands expected him to just hang them.\n\ntrlibrary.com/tr/badlands/boat-thieves",
-   "media": [
-    {
-     "src": "media/cb9c5caf478db502.jpg",
-     "w": 1000,
-     "h": 710,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": null
-  },
-  {
-   "id": "e8f14e75-c9e8-40e5-b7a9-e13f63a86ae0:138745276",
+   "id": "13105206082:138745276",
    "profileId": "138745276",
    "scheduledAt": "2026-08-09T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1886, Theodore Roosevelt rode to Mandan for the trial of the men who stole his boat.\n\nFive months earlier they'd cut it loose from his Elkhorn Ranch. Roosevelt — a deputy sheriff — had a new boat built, chased them nearly 100 miles through the river ice, and took them without firing a shot.\n\nThen guarded them eight days rather than hang them.\n\ntrlibrary.com/tr/badlands/boat-thieves",
    "media": [
     {
-     "src": "media/cb9c5caf478db502.jpg",
+     "src": "media/d4a2cd9569787b58.jpg",
      "w": 1000,
      "h": 710,
      "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-vLHOsEFy.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=vIhj85YeQ3LANUUXi3fWwcjziUI%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "01dd0a7a-683e-417d-831c-530ba449e5e5:138948229",
+   "id": "13105206110:138948229",
    "profileId": "138948229",
-   "scheduledAt": "2026-08-10T12:00:00Z",
-   "state": "DRAFT",
-   "text": "#OTD in 1886, Theodore Roosevelt wrote a letter to his friend Henry Cabot Lodge. Buried in the middle of it is a word almost nobody notices.\n\nHe was 27, out of office and out of favor. He had held no post since his term in the New York Assembly ended in 1884. His first wife had died two and a half years earlier. He was ranching in Dakota Territory and running out of reasons to think anything better was coming.\n\nThen an American newspaper editor named A. K. Cutting was arrested in Mexico — over a libel he had published on the Texas side of the border — and the papers filled with war talk.\n\nRoosevelt saw an opening:\n\n\"I have written on to Secretary Endicott offering to try to raise some companies of horse riflemen out here in the event of trouble with Mexico. Will you telegraph me at once if war becomes inevitable?\"\n\nThen, a few lines further down:\n\n\"I think there is some good fighting stuff among these harum-scarum roughriders out here; whether I can bring it out is another matter.\"\n\nRoughriders. August 1886. Twelve years before San Juan Heights.\n\nNo war came — diplomats settled the Cutting affair. Ten days later Roosevelt wrote Lodge again, half joking that he had written \"as regards Mexico qua cowboy, not qua statesman,\" and then, wistfully: \"If a war had come off I would surely have had behind me as utterly reckless a set of desperados as ever sat in the saddle.\"\n\nTwelve years later he would raise one for real.\n\nOne note, since we would rather be accurate than quotable: you will often see Roosevelt quoted as offering \"an entire regiment of cowboys.\" That phrase does not appear in anything he is known to have written. It traces to a Bismarck Tribune item reporting that \"it is confidently believed Mr. Roosevelt would tender to the Government the services of an entire regiment of cowboys.\" What he actually wrote was better.\n\nMore on the Rough Riders on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #RoughRiders #Badlands #Medora",
+   "scheduledAt": "2026-08-09T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1886, Theodore Roosevelt traveled to Mandan, Dakota Territory, for the trial of the men who had stolen his boat.\n\nIt had happened five months earlier. On the morning of March 24, a ranch hand came up to the house at Elkhorn holding the end of the mooring rope — cut clean through with a knife. There was only one other boat on that stretch of the Little Missouri, and it belonged to three men living in a shack twenty miles upstream.\n\nMost of his neighbors assumed he would handle it the usual way. Roosevelt was a deputy sheriff of Billings County, and out there in that decade, a man who caught a thief on the river was not expected to bring him back alive.\n\nInstead, Roosevelt had Bill Sewall and Wilmot Dow build a new boat. A blizzard held them three more days. On March 30 the three of them pushed off into water still running with ice. Roosevelt brought a rifle, a camera, and — because he was Roosevelt — a volume of Matthew Arnold and a copy of Anna Karenina.\n\nThey found the stolen boat on April 1, nearly a hundred miles downriver, and took the camp by surprise. All three surrendered without a shot fired.\n\nThen came the hard part. He could not tie them; the cold would have cost them their hands and feet. So for eight days he guarded them in shifts while the ice jammed the river and the food ran down to flour stirred into muddy water. He finished Anna Karenina and borrowed a dime novel off one of the prisoners.\n\n\"There is very little amusement,\" he wrote afterward, \"in combining the functions of a sheriff with those of an arctic explorer.\"\n\nHe brought them in alive. Two were convicted of grand larceny later that month and sentenced to twenty-five months in the Bismarck penitentiary.\n\nA footnote: that famous photograph of Roosevelt guarding the thieves is staged — re-created afterward, with Sewall, Dow, and a third man posing as the prisoners.\n\nThe full story is on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
    "media": [
     {
-     "src": "media/cdc4890348bd98eb.jpg",
-     "w": 715,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/986f83f9733cc0e9.jpg",
+     "src": "media/bf3322e0a2c4e25f.jpg",
      "w": 1000,
-     "h": 690,
+     "h": 710,
      "kind": "image"
     },
     {
-     "src": "media/521376a9fe59458d.jpg",
-     "w": 783,
-     "h": 1000,
+     "src": "media/8df98686ace36a93.jpg",
+     "w": 1000,
+     "h": 664,
      "kind": "image"
+    },
+    {
+     "src": "media/6da9255691040b0e.jpg",
+     "w": 1000,
+     "h": 656,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-vLHOsEFy.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=vIhj85YeQ3LANUUXi3fWwcjziUI%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-jgsni7I7.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=ll6CjBeoHFBSOudHaR5sQ9MLZK8%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-dQIeH7fX.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=VlH89AZ9Icy0zlJiQVZwXauhXhY%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "0e3c6382-e2fd-417b-a12c-7a2ec8ada3be:140309778",
+   "id": "13105206161:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-09T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1886, TR rode to Mandan for the trial of the men who stole his boat.\n\nHe'd chased them ~100 miles down an icy Little Missouri and guarded them eight days without sleep — when everyone in the Badlands expected him to just hang them.\n\ntrlibrary.com/tr/badlands/boat-thieves",
+   "media": [
+    {
+     "src": "media/f28fb4d8a25358ad.jpg",
+     "w": 1000,
+     "h": 710,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-vLHOsEFy.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=vIhj85YeQ3LANUUXi3fWwcjziUI%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105206181:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-08-10T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1886, a 27-year-old Dakota rancher wrote Henry Cabot Lodge about \"some good fighting stuff among these harum-scarum roughriders out here.\"\n\nRoughriders. Twelve years before San Juan Heights.\n\ntrlibrary.com/tr/rise-to-power/rough-riders",
    "media": [
     {
-     "src": "media/cdc4890348bd98eb.jpg",
+     "src": "media/06b57d2083867b3e.jpg",
      "w": 715,
      "h": 1000,
      "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-7LHViRUM.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=zJ1nIsIHumANhjEpt0zlNQ5Mp%2F8%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "33db9fc3-94df-4ada-be98-6c74d404fe40:138745276",
+   "id": "13105206232:138745276",
    "profileId": "138745276",
    "scheduledAt": "2026-08-10T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1886, Theodore Roosevelt was 27, out of office, and out of favor.\n\nA border incident with Mexico put war in the papers. He wrote Henry Cabot Lodge that he'd offered the War Department \"some companies of horse riflemen\" — then added a line nobody notices:\n\n\"I think there is some good fighting stuff among these harum-scarum roughriders out here.\"\n\nRoughriders. Twelve years before San Juan Heights.\n\ntrlibrary.com/tr/rise-to-power/rough-riders",
    "media": [
     {
-     "src": "media/cdc4890348bd98eb.jpg",
+     "src": "media/477d5a31487d1ecb.jpg",
      "w": 715,
      "h": 1000,
      "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-7LHViRUM.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=zJ1nIsIHumANhjEpt0zlNQ5Mp%2F8%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "65e1fc75-88be-4b20-ad87-51020bbfdc50:138250117",
+   "id": "13105206252:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-10T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1886, Theodore Roosevelt wrote a letter to his friend Henry Cabot Lodge. Buried in the middle of it is a word almost nobody notices.\n\nHe was 27, out of office and out of favor. He had held no post since his term in the New York Assembly ended in 1884. His first wife had died two and a half years earlier. He was ranching in Dakota Territory and running out of reasons to think anything better was coming.\n\nThen an American newspaper editor named A. K. Cutting was arrested in Mexico — over a libel he had published on the Texas side of the border — and the papers filled with war talk.\n\nRoosevelt saw an opening:\n\n\"I have written on to Secretary Endicott offering to try to raise some companies of horse riflemen out here in the event of trouble with Mexico. Will you telegraph me at once if war becomes inevitable?\"\n\nThen, a few lines further down:\n\n\"I think there is some good fighting stuff among these harum-scarum roughriders out here; whether I can bring it out is another matter.\"\n\nRoughriders. August 1886. Twelve years before San Juan Heights.\n\nNo war came — diplomats settled the Cutting affair. Ten days later Roosevelt wrote Lodge again, half joking that he had written \"as regards Mexico qua cowboy, not qua statesman,\" and then, wistfully: \"If a war had come off I would surely have had behind me as utterly reckless a set of desperados as ever sat in the saddle.\"\n\nTwelve years later he would raise one for real.\n\nOne note, since we would rather be accurate than quotable: you will often see Roosevelt quoted as offering \"an entire regiment of cowboys.\" That phrase does not appear in anything he is known to have written. It traces to a Bismarck Tribune item reporting that \"it is confidently believed Mr. Roosevelt would tender to the Government the services of an entire regiment of cowboys.\" What he actually wrote was better.\n\nMore on the Rough Riders on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #RoughRiders #Badlands #Medora",
+   "media": [
+    {
+     "src": "media/d7295f234ce9db41.jpg",
+     "w": 715,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/22d77d158ed07ad4.jpg",
+     "w": 1000,
+     "h": 690,
+     "kind": "image"
+    },
+    {
+     "src": "media/dfdb07dfc01f986b.jpg",
+     "w": 783,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-7LHViRUM.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=zJ1nIsIHumANhjEpt0zlNQ5Mp%2F8%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-jMsNTXHp.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=NWaDOw31Z5Xyg%2FtKuRVW7ZQUfAY%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-ElS9ujHj.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=%2FM5JxuT0cJIABID%2BTro3Um4aWZ4%3D",
+     "kind": "image",
+     "remote": true
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105206279:138250117",
    "profileId": "138250117",
    "scheduledAt": "2026-08-10T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1886, a 27-year-old Dakota rancher wrote Henry Cabot Lodge about \"some good fighting stuff among these harum-scarum roughriders out here.\"\n\nRoughriders. Twelve years before San Juan Heights.\n\ntrlibrary.com/tr/rise-to-power/rough-riders",
    "media": [
     {
-     "src": "media/cdc4890348bd98eb.jpg",
+     "src": "media/689496df2aea7901.jpg",
      "w": 715,
      "h": 1000,
      "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-7LHViRUM.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=zJ1nIsIHumANhjEpt0zlNQ5Mp%2F8%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "dc4101c3-d993-4101-a96c-1223aff3b571:138236932",
+   "id": "13105206312:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-08-10T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1886, Theodore Roosevelt wrote a letter to his friend Henry Cabot Lodge. Buried in the middle of it is a word almost nobody notices.\n\nHe was 27, out of office and out of favor. He had held no post since his term in the New York Assembly ended in 1884. His first wife had died two and a half years earlier. He was ranching in Dakota Territory and running out of reasons to think anything better was coming.\n\nThen an American newspaper editor named A. K. Cutting was arrested in Mexico — over a libel he had published on the Texas side of the border — and the papers filled with war talk.\n\nRoosevelt saw an opening:\n\n\"I have written on to Secretary Endicott offering to try to raise some companies of horse riflemen out here in the event of trouble with Mexico. Will you telegraph me at once if war becomes inevitable?\"\n\nThen, a few lines further down:\n\n\"I think there is some good fighting stuff among these harum-scarum roughriders out here; whether I can bring it out is another matter.\"\n\nRoughriders. August 1886. Twelve years before San Juan Heights.\n\nNo war came — diplomats settled the Cutting affair. Ten days later Roosevelt wrote Lodge again, half joking that he had written \"as regards Mexico qua cowboy, not qua statesman,\" and then, wistfully: \"If a war had come off I would surely have had behind me as utterly reckless a set of desperados as ever sat in the saddle.\"\n\nTwelve years later he would raise one for real.\n\nOne note, since we would rather be accurate than quotable: you will often see Roosevelt quoted as offering \"an entire regiment of cowboys.\" That phrase does not appear in anything he is known to have written. It traces to a Bismarck Tribune item reporting that \"it is confidently believed Mr. Roosevelt would tender to the Government the services of an entire regiment of cowboys.\" What he actually wrote was better.\n\nMore: trlibrary.com/tr/rise-to-power/rough-riders\n\n#OTD #OnThisDay #TheodoreRoosevelt #RoughRiders #Badlands #Medora",
    "media": [
     {
-     "src": "media/cdc4890348bd98eb.jpg",
+     "src": "media/9970cea5d0f6202d.jpg",
      "w": 715,
      "h": 1000,
      "kind": "image"
     },
     {
-     "src": "media/986f83f9733cc0e9.jpg",
+     "src": "media/ace492d7c17c2209.jpg",
      "w": 1000,
      "h": 690,
      "kind": "image"
     },
     {
-     "src": "media/521376a9fe59458d.jpg",
+     "src": "media/9a1d9760116d3ee0.jpg",
      "w": 783,
      "h": 1000,
      "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-7LHViRUM.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=zJ1nIsIHumANhjEpt0zlNQ5Mp%2F8%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-jMsNTXHp.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=NWaDOw31Z5Xyg%2FtKuRVW7ZQUfAY%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-ElS9ujHj.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=%2FM5JxuT0cJIABID%2BTro3Um4aWZ4%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "dc4101c3-d993-4101-a96c-1223aff3b571:138241752",
+   "id": "13105206313:138241752",
    "profileId": "138241752",
    "scheduledAt": "2026-08-10T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1886, Theodore Roosevelt wrote a letter to his friend Henry Cabot Lodge. Buried in the middle of it is a word almost nobody notices.\n\nHe was 27, out of office and out of favor. He had held no post since his term in the New York Assembly ended in 1884. His first wife had died two and a half years earlier. He was ranching in Dakota Territory and running out of reasons to think anything better was coming.\n\nThen an American newspaper editor named A. K. Cutting was arrested in Mexico — over a libel he had published on the Texas side of the border — and the papers filled with war talk.\n\nRoosevelt saw an opening:\n\n\"I have written on to Secretary Endicott offering to try to raise some companies of horse riflemen out here in the event of trouble with Mexico. Will you telegraph me at once if war becomes inevitable?\"\n\nThen, a few lines further down:\n\n\"I think there is some good fighting stuff among these harum-scarum roughriders out here; whether I can bring it out is another matter.\"\n\nRoughriders. August 1886. Twelve years before San Juan Heights.\n\nNo war came — diplomats settled the Cutting affair. Ten days later Roosevelt wrote Lodge again, half joking that he had written \"as regards Mexico qua cowboy, not qua statesman,\" and then, wistfully: \"If a war had come off I would surely have had behind me as utterly reckless a set of desperados as ever sat in the saddle.\"\n\nTwelve years later he would raise one for real.\n\nOne note, since we would rather be accurate than quotable: you will often see Roosevelt quoted as offering \"an entire regiment of cowboys.\" That phrase does not appear in anything he is known to have written. It traces to a Bismarck Tribune item reporting that \"it is confidently believed Mr. Roosevelt would tender to the Government the services of an entire regiment of cowboys.\" What he actually wrote was better.\n\nMore: trlibrary.com/tr/rise-to-power/rough-riders\n\n#OTD #OnThisDay #TheodoreRoosevelt #RoughRiders #Badlands #Medora",
    "media": [
     {
-     "src": "media/cdc4890348bd98eb.jpg",
+     "src": "media/9970cea5d0f6202d.jpg",
      "w": 715,
      "h": 1000,
      "kind": "image"
     },
     {
-     "src": "media/986f83f9733cc0e9.jpg",
+     "src": "media/ace492d7c17c2209.jpg",
      "w": 1000,
      "h": 690,
      "kind": "image"
     },
     {
-     "src": "media/521376a9fe59458d.jpg",
+     "src": "media/9a1d9760116d3ee0.jpg",
      "w": 783,
      "h": 1000,
      "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": null
-  },
-  {
-   "id": "25213c27-5f72-41c1-8b77-4afb2a8f1caf:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-08-11T12:00:00Z",
-   "state": "DRAFT",
-   "text": "#OTD in 1902, TR appointed Oliver Wendell Holmes Jr. to the Supreme Court by recess appointment.\n\nHolmes wanted the Senate to vote first — so TR withdrew it and nominated him in December.\n\nTwo years later, Holmes dissented against him.\n\ntrlibrary.com/tr/presidency/trust-busting",
-   "media": [
+    },
     {
-     "src": "media/61485530b95c8aef.jpg",
-     "w": 1000,
-     "h": 727,
-     "kind": "image"
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-7LHViRUM.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=zJ1nIsIHumANhjEpt0zlNQ5Mp%2F8%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-jMsNTXHp.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=NWaDOw31Z5Xyg%2FtKuRVW7ZQUfAY%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-ElS9ujHj.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=%2FM5JxuT0cJIABID%2BTro3Um4aWZ4%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "a4ba40c7-50e7-4244-8937-c623bfca8451:140309778",
+   "id": "13105206329:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-08-11T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1902, TR put Oliver Wendell Holmes Jr. on the Supreme Court by recess appointment.\n\nHolmes wanted the Senate to vote first — then dissented against Roosevelt two years later in Northern Securities.\n\nTR: \"a bitter disappointment.\"\n\ntrlibrary.com/tr/presidency/trust-busting",
    "media": [
     {
-     "src": "media/61485530b95c8aef.jpg",
+     "src": "media/1411fcf1ef1333b7.jpg",
      "w": 1000,
      "h": 727,
      "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-DqS6Hah8.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Z2RS0qQMoe3ZgyvVlhGKt6lk3gI%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "c14b2a69-c678-49bd-bbb2-4d74fa91785c:138745276",
+   "id": "13105206343:138745276",
    "profileId": "138745276",
    "scheduledAt": "2026-08-11T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1902, TR appointed Oliver Wendell Holmes Jr. to the Supreme Court by recess appointment — and Holmes never sat under it.\n\nHe wanted the Senate to vote first. Roosevelt withdrew the appointment and nominated him formally in December.\n\nTwo years later Holmes dissented against him in Northern Securities. TR called him \"a bitter disappointment.\"\n\nHolmes served 30 years and is now considered one of the greats.\n\ntrlibrary.com/tr/presidency/trust-busting",
    "media": [
     {
-     "src": "media/61485530b95c8aef.jpg",
+     "src": "media/a66093ce1601c3f4.jpg",
      "w": 1000,
      "h": 727,
      "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-DqS6Hah8.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Z2RS0qQMoe3ZgyvVlhGKt6lk3gI%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "df8e5375-7708-42ef-9a3e-1e0c9f21ac15:138236932",
-   "profileId": "138236932",
+   "id": "13105206362:138250117",
+   "profileId": "138250117",
    "scheduledAt": "2026-08-11T12:00:00Z",
-   "state": "DRAFT",
-   "text": "#OTD in 1902, Theodore Roosevelt appointed Oliver Wendell Holmes Jr. to the Supreme Court — a decision he came to regret.\n\nThe seat had belonged to Justice Horace Gray. Congress was out of session, so on August 11 Roosevelt issued a recess appointment.\n\nHolmes was 61, chief justice of Massachusetts, and arguably the most original legal mind in the country. He had been wounded three times in the Civil War with the 20th Massachusetts.\n\nHere is the part most people don't know: he never sat under that commission.\n\nHolmes wanted to be confirmed first. Rather than take the bench on a recess appointment, he waited for the Senate — and Roosevelt withdrew it. \"I feel that there is no necessity why you should be nominated in the recess,\" Roosevelt wrote him on August 21. The formal nomination went up on December 2, the Senate confirmed him two days later, and Holmes took the judicial oath on December 8, 1902.\n\nRoosevelt believed he was getting an ally. He had a case coming — Northern Securities, the railroad combination built by J. P. Morgan, James J. Hill, and E. H. Harriman — and he wanted a Court that would let the government break it up.\n\nOn March 14, 1904, the government won, five votes to four. Holmes dissented.\n\nTwo and a half years later Roosevelt wrote to Henry Cabot Lodge: \"From his antecedents, Holmes should have been an ideal man on the bench. As a matter of fact he has been a bitter disappointment, not because of any one decision but because of his general attitude.\"\n\nHolmes was steadier about it. Writing in 1921, two years after Roosevelt's death, he said only: \"We talked freely later, but it was never the same.\"\n\nHolmes served nearly thirty years and retired at 90. He is remembered now as one of the great justices in American history — and as a reminder that judicial independence tends to show up where a president least wants it.\n\nMore: trlibrary.com/tr/presidency/trust-busting\n\n#OTD #OnThisDay #TheodoreRoosevelt #SupremeCourt #AmericanHistory",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, TR appointed Oliver Wendell Holmes Jr. to the Supreme Court by recess appointment.\n\nHolmes wanted the Senate to vote first — so TR withdrew it and nominated him in December.\n\nTwo years later, Holmes dissented against him.\n\ntrlibrary.com/tr/presidency/trust-busting",
    "media": [
     {
-     "src": "media/61485530b95c8aef.jpg",
+     "src": "media/c70dbe95d0ca2fb3.jpg",
      "w": 1000,
      "h": 727,
      "kind": "image"
     },
     {
-     "src": "media/2c578164d58b35fd.jpg",
-     "w": 466,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/ad99486946f4ae35.jpg",
-     "w": 1000,
-     "h": 509,
-     "kind": "image"
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-DqS6Hah8.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Z2RS0qQMoe3ZgyvVlhGKt6lk3gI%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   },
   {
-   "id": "df8e5375-7708-42ef-9a3e-1e0c9f21ac15:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-08-11T12:00:00Z",
-   "state": "DRAFT",
-   "text": "#OTD in 1902, Theodore Roosevelt appointed Oliver Wendell Holmes Jr. to the Supreme Court — a decision he came to regret.\n\nThe seat had belonged to Justice Horace Gray. Congress was out of session, so on August 11 Roosevelt issued a recess appointment.\n\nHolmes was 61, chief justice of Massachusetts, and arguably the most original legal mind in the country. He had been wounded three times in the Civil War with the 20th Massachusetts.\n\nHere is the part most people don't know: he never sat under that commission.\n\nHolmes wanted to be confirmed first. Rather than take the bench on a recess appointment, he waited for the Senate — and Roosevelt withdrew it. \"I feel that there is no necessity why you should be nominated in the recess,\" Roosevelt wrote him on August 21. The formal nomination went up on December 2, the Senate confirmed him two days later, and Holmes took the judicial oath on December 8, 1902.\n\nRoosevelt believed he was getting an ally. He had a case coming — Northern Securities, the railroad combination built by J. P. Morgan, James J. Hill, and E. H. Harriman — and he wanted a Court that would let the government break it up.\n\nOn March 14, 1904, the government won, five votes to four. Holmes dissented.\n\nTwo and a half years later Roosevelt wrote to Henry Cabot Lodge: \"From his antecedents, Holmes should have been an ideal man on the bench. As a matter of fact he has been a bitter disappointment, not because of any one decision but because of his general attitude.\"\n\nHolmes was steadier about it. Writing in 1921, two years after Roosevelt's death, he said only: \"We talked freely later, but it was never the same.\"\n\nHolmes served nearly thirty years and retired at 90. He is remembered now as one of the great justices in American history — and as a reminder that judicial independence tends to show up where a president least wants it.\n\nMore: trlibrary.com/tr/presidency/trust-busting\n\n#OTD #OnThisDay #TheodoreRoosevelt #SupremeCourt #AmericanHistory",
-   "media": [
-    {
-     "src": "media/61485530b95c8aef.jpg",
-     "w": 1000,
-     "h": 727,
-     "kind": "image"
-    },
-    {
-     "src": "media/2c578164d58b35fd.jpg",
-     "w": 466,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/ad99486946f4ae35.jpg",
-     "w": 1000,
-     "h": 509,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": null
-  },
-  {
-   "id": "f1e7bbab-b9a9-48d2-b568-bfd50030e865:138948229",
+   "id": "13105206538:138948229",
    "profileId": "138948229",
    "scheduledAt": "2026-08-11T12:00:00Z",
-   "state": "DRAFT",
+   "state": "SCHEDULED",
    "text": "#OTD in 1902, Theodore Roosevelt appointed Oliver Wendell Holmes Jr. to the Supreme Court — a decision he came to regret.\n\nThe seat had belonged to Justice Horace Gray. Congress was out of session, so on August 11 Roosevelt issued a recess appointment.\n\nHolmes was 61, chief justice of Massachusetts, and arguably the most original legal mind in the country. He had been wounded three times in the Civil War with the 20th Massachusetts.\n\nHere is the part most people don't know: he never sat under that commission.\n\nHolmes wanted to be confirmed first. Rather than take the bench on a recess appointment, he waited for the Senate — and Roosevelt withdrew it. \"I feel that there is no necessity why you should be nominated in the recess,\" Roosevelt wrote him on August 21. The formal nomination went up on December 2, the Senate confirmed him two days later, and Holmes took the judicial oath on December 8, 1902.\n\nRoosevelt believed he was getting an ally. He had a case coming — Northern Securities, the railroad combination built by J. P. Morgan, James J. Hill, and E. H. Harriman — and he wanted a Court that would let the government break it up.\n\nOn March 14, 1904, the government won, five votes to four. Holmes dissented.\n\nTwo and a half years later Roosevelt wrote to Henry Cabot Lodge: \"From his antecedents, Holmes should have been an ideal man on the bench. As a matter of fact he has been a bitter disappointment, not because of any one decision but because of his general attitude.\"\n\nHolmes was steadier about it. Writing in 1921, two years after Roosevelt's death, he said only: \"We talked freely later, but it was never the same.\"\n\nHolmes served nearly thirty years and retired at 90. He is remembered now as one of the great justices in American history — and as a reminder that judicial independence tends to show up where a president least wants it.\n\nMore on TR and the trusts on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #SupremeCourt #AmericanHistory",
    "media": [
     {
-     "src": "media/61485530b95c8aef.jpg",
+     "src": "media/11013a0d14ef54be.jpg",
      "w": 1000,
      "h": 727,
      "kind": "image"
     },
     {
-     "src": "media/2c578164d58b35fd.jpg",
+     "src": "media/63ddaa3175a2b20d.jpg",
      "w": 466,
      "h": 640,
      "kind": "image"
     },
     {
-     "src": "media/ad99486946f4ae35.jpg",
-     "w": 1000,
-     "h": 509,
+     "src": "media/aceafbef3caa9393.jpg",
+     "w": 540,
+     "h": 540,
      "kind": "image"
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-DqS6Hah8.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=Z2RS0qQMoe3ZgyvVlhGKt6lk3gI%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-n6C3S5UY.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=lIgaaCLDCUxr7h%2BA%2Fl%2B%2FL8tXSFs%3D",
+     "kind": "image",
+     "remote": true
+    },
+    {
+     "src": "https://hootsuite-video.s3.amazonaws.com/production/thumb-0-21835473-KlSMI9To.jpeg?AWSAccessKeyId=AKIARUFKCQPW7647QDEE&Expires=1786134580&Signature=3LKuLpu75VB0NK%2FlRzryILglw%2F4%3D",
+     "kind": "image",
+     "remote": true
     }
    ],
    "tags": [],
-   "postUrl": null
+   "postUrl": null,
+   "sequence": null
   }
  ]
 }
