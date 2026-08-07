@@ -67,7 +67,8 @@
     statuses: new Set(),      // empty means "all statuses"
     query: '',
     expandedDays: new Set(),
-    groups: new Map()          // rebuilt on every month render
+    groups: new Map(),         // rebuilt on every month render
+    scrollToToday: false
   };
 
   const el = (id) => document.getElementById(id);
@@ -425,26 +426,34 @@
 
   function renderAgenda(posts) {
     const today = new Date();
-    // The agenda ignores the month cursor: it is a forward-running list from
-    // today, which is how people actually use it.
-    const upcoming = posts
-      .filter((p) => p.scheduledAt && new Date(p.scheduledAt) >= addDays(today, -1))
+    const first = state.cursor;
+    const monthEnd = addMonths(first, 1);
+
+    // The agenda tracks the same month cursor as the grid so the arrows and
+    // Today act on both views. Previously it was a fixed forward-running list,
+    // which left those controls doing nothing here.
+    const inMonth = posts
+      .filter((p) => {
+        if (!p.scheduledAt) return false;
+        const d = new Date(p.scheduledAt);
+        return d >= first && d < monthEnd;
+      })
       .sort((a, b) => new Date(a.scheduledAt) - new Date(b.scheduledAt));
 
-    el('periodLabel').textContent = 'Upcoming';
+    el('periodLabel').textContent = fmtMonth.format(first);
 
-    if (!upcoming.length) {
-      el('main').innerHTML = emptyState('Nothing upcoming matches these filters.');
+    if (!inMonth.length) {
+      el('main').innerHTML = emptyState(`Nothing scheduled in ${fmtMonth.format(first)}.`);
       return;
     }
 
-    const byDay = groupByDay(upcoming);
+    const byDay = groupByDay(inMonth);
     let html = '<div class="agenda">';
     for (const [k, list] of byDay) {
       const d = new Date(list[0].scheduledAt);
       const isToday = sameDay(d, today);
       const isTomorrow = sameDay(d, addDays(today, 1));
-      html += `<section class="agenda-day">
+      html += `<section class="agenda-day" ${isToday ? 'id="agendaToday"' : ''}>
         <div class="agenda-date ${isToday ? 'is-today' : ''}">
           <div class="dnum">${d.getDate()}</div>
           <div class="dname">${esc(new Intl.DateTimeFormat(undefined, { weekday: 'short', month: 'short' }).format(d))}</div>
@@ -458,6 +467,15 @@
     }
     html += '</div>';
     el('main').innerHTML = html;
+
+    // Landing on the current month, put today in view rather than the 1st -
+    // the top of the month is usually already published.
+    const marker = el('agendaToday');
+    // The sticky-header offset is handled by scroll-margin-top in the CSS.
+    if (marker && state.scrollToToday) {
+      marker.scrollIntoView({ block: 'start', behavior: 'auto' });
+    }
+    state.scrollToToday = false;
   }
 
   function emptyState(msg) {
@@ -601,6 +619,7 @@
     document.querySelectorAll('.viewswitch button').forEach((b) => {
       b.addEventListener('click', () => {
         state.view = b.dataset.view;
+        state.scrollToToday = true;
         document.querySelectorAll('.viewswitch button').forEach((x) => {
           const on = x === b;
           x.classList.toggle('is-active', on);
@@ -618,7 +637,11 @@
 
     el('prev').addEventListener('click', () => { state.cursor = addMonths(state.cursor, -1); render(); });
     el('next').addEventListener('click', () => { state.cursor = addMonths(state.cursor, 1); render(); });
-    el('today').addEventListener('click', () => { state.cursor = startOfMonth(new Date()); render(); });
+    el('today').addEventListener('click', () => {
+      state.cursor = startOfMonth(new Date());
+      state.scrollToToday = true;
+      render();
+    });
 
     let t;
     el('search').addEventListener('input', (e) => {
