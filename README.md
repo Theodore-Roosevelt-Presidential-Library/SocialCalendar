@@ -6,8 +6,12 @@ social media schedule, pulled from Hootsuite and published to
 
 Two views over the same data:
 
-- **Month** — a calendar grid, one row per week, each post shown as a colour-coded
-  strip with its thumbnail and send time.
+- **Month** — a calendar grid, one row per week. One story going out to six
+  channels is a *single* row carrying a network icon per channel, not six rows;
+  click it to compare how the copy reads on each. Posts group only when they
+  are scheduled to the same instant and either came from the same Hootsuite
+  message or read as the same story, so genuinely different posts sharing a
+  send time stay separate.
 - **Agenda** — a forward-running list from today, with every post rendered as a
   preview that mimics how it will actually look on its network.
 

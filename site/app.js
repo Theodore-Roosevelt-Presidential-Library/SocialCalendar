@@ -66,7 +66,8 @@
     tags: new Set(),          // empty means "no tag filter"
     statuses: new Set(),      // empty means "all statuses"
     query: '',
-    expandedDays: new Set()
+    expandedDays: new Set(),
+    groups: new Map()          // rebuilt on every month render
   };
 
   const el = (id) => document.getElementById(id);
@@ -128,6 +129,78 @@
       if (q && !(p.text || '').toLowerCase().includes(q)) return false;
       return true;
     });
+  }
+
+  // ------------------------------------------------------------- grouping
+
+  // A single story usually goes out to every channel at the same minute with
+  // copy tuned per network. Showing six near-identical rows buries a month
+  // cell, so the grid collapses them into one row carrying a network icon per
+  // channel. Two posts group only when they are scheduled at the same instant
+  // AND either came from the same Hootsuite message or read as the same copy.
+  const GROUP_SIMILARITY = 0.5;
+  const MIN_TOKENS_TO_COMPARE = 4;
+  const MAX_GROUPS_PER_DAY = 4;
+
+  const STOPWORDS = new Set([
+    'the', 'and', 'for', 'was', 'his', 'her', 'with', 'that', 'this', 'from',
+    'they', 'are', 'but', 'not', 'you', 'all', 'its', 'has', 'had', 'who',
+    'out', 'one', 'our', 'were', 'their', 'them', 'him', 'she', 'when',
+    'what', 'been', 'have', 'would', 'into', 'more', 'than', 'then', 'over'
+  ]);
+
+  function sourceId(post) { return String(post.id).split(':')[0]; }
+
+  function textTokens(text) {
+    return (text || '')
+      .toLowerCase()
+      .replace(/https?:\/\/\S+/g, ' ')
+      .replace(/[^a-z0-9\s#@]/g, ' ')
+      .split(/\s+/)
+      .filter((w) => w.length > 2 && !STOPWORDS.has(w));
+  }
+
+  // Overlap coefficient, not Jaccard. A 30-word tweet is usually a condensed
+  // version of the 90-word Facebook post - the same story, tuned for length.
+  // Jaccard scores that pair low purely because the lengths differ, which
+  // would split a story that belongs on one row. Overlap asks the question we
+  // actually care about: is the shorter post mostly contained in the longer?
+  function similarity(a, b) {
+    const small = a.size <= b.size ? a : b;
+    const large = a.size <= b.size ? b : a;
+    if (small.size < MIN_TOKENS_TO_COMPARE) return 0;
+    let shared = 0;
+    for (const t of small) if (large.has(t)) shared++;
+    return shared / small.size;
+  }
+
+  function groupDayPosts(list) {
+    const groups = [];
+    for (const post of list) {
+      const tokens = new Set(textTokens(post.text));
+      const src = sourceId(post);
+      let placed = false;
+
+      for (const g of groups) {
+        if (g.time !== post.scheduledAt) continue;
+        if (g.sources.has(src) || similarity(g.tokens, tokens) >= GROUP_SIMILARITY) {
+          g.posts.push(post);
+          g.sources.add(src);
+          placed = true;
+          break;
+        }
+      }
+
+      if (!placed) {
+        groups.push({
+          time: post.scheduledAt,
+          posts: [post],
+          tokens,
+          sources: new Set([src])
+        });
+      }
+    }
+    return groups;
   }
 
   function groupByDay(posts) {
@@ -265,6 +338,7 @@
     const today = new Date();
 
     el('periodLabel').textContent = fmtMonth.format(first);
+    state.groups.clear();
 
     let html = '<div class="monthgrid">';
     for (const d of DOW) html += `<div class="dow">${d}</div>`;
@@ -278,10 +352,13 @@
       const day = addDays(gridStart, i);
       const k = dayKey(day);
       const list = byDay.get(k) || [];
+      const groups = groupDayPosts(list);
+      groups.forEach((g, gi) => { g.id = `${k}#${gi}`; state.groups.set(g.id, g); });
+
       const outside = day.getMonth() !== first.getMonth();
       const weekend = day.getDay() === 0 || day.getDay() === 6;
       const expanded = state.expandedDays.has(k);
-      const shown = expanded ? list : list.slice(0, 3);
+      const shown = expanded ? groups : groups.slice(0, MAX_GROUPS_PER_DAY);
 
       const cls = ['day'];
       if (outside) cls.push('is-outside');
@@ -289,22 +366,13 @@
       if (sameDay(day, today)) cls.push('is-today');
 
       html += `<div class="${cls.join(' ')}"><span class="daynum">${day.getDate()}</span>`;
-      for (const p of shown) {
-        const prof = profileOf(p);
-        const info = netInfo(prof.network);
-        const thumb = (p.media || [])[0];
-        const src = thumb ? (thumb.remote ? thumb.src : `data/${thumb.src}`) : null;
-        html += `<button class="evt ${p.state === 'SENT' ? 'is-sent' : ''}"
-            style="border-left-color:${info.color}" data-post="${esc(p.id)}"
-            title="${esc(truncate(p.text || '', 140))}">
-          ${src ? `<img class="thumb" src="${esc(src)}" alt="" loading="lazy">` : ''}
-          <span class="t">${esc(fmtTime.format(new Date(p.scheduledAt)).replace(':00', ''))}</span>
-          <span class="x">${esc(truncate(p.text || info.label, 60))}</span>
-        </button>`;
+      for (const g of shown) {
+        html += groupRowHTML(g, k);
       }
-      if (list.length > shown.length) {
-        html += `<button class="more" data-expand="${k}">+${list.length - shown.length} more</button>`;
-      } else if (expanded && list.length > 3) {
+      const hiddenGroups = groups.length - shown.length;
+      if (hiddenGroups > 0) {
+        html += `<button class="more" data-expand="${k}">+${hiddenGroups} more</button>`;
+      } else if (expanded && groups.length > MAX_GROUPS_PER_DAY) {
         html += `<button class="more" data-expand="${k}">Show less</button>`;
       }
       html += '</div>';
@@ -312,6 +380,47 @@
     html += '</div>';
 
     el('main').innerHTML = html;
+  }
+
+  function netGlyph(network, title) {
+    const info = netInfo(network);
+    return `<span class="netdot" style="color:${info.color}" title="${esc(title || info.label)}">
+      <svg viewBox="0 0 24 24" fill="currentColor">${ICONS[info.label] || ICONS.Social}</svg>
+    </span>`;
+  }
+
+  function groupRowHTML(g, k) {
+    const single = g.posts.length === 1;
+    const lead = g.posts[0];
+    const leadInfo = netInfo(profileOf(lead).network);
+
+    // One channel keeps its own colour; a multi-channel row is TRPL green so
+    // it reads as "this story", not "this network".
+    const edge = single ? leadInfo.color : 'var(--dark-forest)';
+    const allSent = g.posts.every((p) => p.state === 'SENT');
+
+    const glyphs = g.posts.slice(0, 7).map((p) => {
+      const prof = profileOf(p);
+      return netGlyph(prof.network, prof.name);
+    }).join('');
+    const overflow = g.posts.length > 7 ? `<span class="netmore">+${g.posts.length - 7}</span>` : '';
+
+    const thumb = (lead.media || [])[0];
+    const src = thumb ? (thumb.remote ? thumb.src : `data/${thumb.src}`) : null;
+
+    const title = single
+      ? truncate(lead.text || '', 140)
+      : `${g.posts.length} channels · ${g.posts.map((p) => profileOf(p).name).join(', ')}\n\n` +
+        truncate(lead.text || '', 140);
+
+    return `<button class="evt ${allSent ? 'is-sent' : ''} ${single ? '' : 'is-group'}"
+        style="border-left-color:${edge}" data-group="${esc(g.id)}"
+        title="${esc(title)}">
+      ${single && src ? `<img class="thumb" src="${esc(src)}" alt="" loading="lazy">` : ''}
+      <span class="t">${esc(fmtTime.format(new Date(g.time)).replace(':00', ''))}</span>
+      <span class="nets">${glyphs}${overflow}</span>
+      <span class="x">${esc(truncate(lead.text || leadInfo.label, 70))}</span>
+    </button>`;
   }
 
   function renderAgenda(posts) {
@@ -358,9 +467,57 @@
 
   // ------------------------------------------------------------------ modal
 
-  function openModal(postId) {
-    const post = state.data.posts.find((p) => p.id === postId);
-    if (!post) return;
+  function openGroup(groupId, tabIndex = 0) {
+    const g = state.groups.get(groupId);
+    if (!g) return;
+    if (g.posts.length === 1) return openModal(g.posts[0].id);
+
+    const when = new Date(g.time);
+    const active = Math.min(Math.max(tabIndex, 0), g.posts.length - 1);
+    const post = g.posts[active];
+
+    const tabs = g.posts.map((p, i) => {
+      const prof = profileOf(p);
+      const info = netInfo(prof.network);
+      return `<button class="gtab ${i === active ? 'on' : ''}" data-gtab="${esc(groupId)}"
+          data-gidx="${i}" title="${esc(prof.name)}">
+        <span class="netdot" style="color:${i === active ? 'currentColor' : info.color}">
+          <svg viewBox="0 0 24 24" fill="currentColor">${ICONS[info.label] || ICONS.Social}</svg>
+        </span>
+        ${esc(info.label)}
+      </button>`;
+    }).join('');
+
+    // Copy is tuned per network, so flag when it is byte-identical instead -
+    // that is usually an oversight rather than a decision.
+    const texts = new Set(g.posts.map((p) => (p.text || '').trim()));
+    const states = new Set(g.posts.map((p) => p.state));
+
+    const notes = [];
+    if (texts.size === 1 && g.posts.length > 1) {
+      notes.push('Identical copy on every channel.');
+    }
+    if (states.size > 1) {
+      notes.push('Mixed status: ' +
+        [...states].map((s) => STATUS_LABELS[s] || s).join(', ') + '.');
+    }
+
+    el('modalBody').innerHTML = `
+      <div class="group-head" id="modalTitle">
+        <div class="group-when">${esc(fmtDateTimeFull.format(when))}</div>
+        <div class="group-count">${g.posts.length} channels</div>
+        ${notes.length ? `<div class="group-note">${esc(notes.join(' '))}</div>` : ''}
+      </div>
+      <div class="group-tabs">${tabs}</div>
+      <div class="post">${previewHTML(post, { full: true })}</div>
+      ${modalMetaHTML(post)}`;
+
+    el('modal').hidden = false;
+    document.body.style.overflow = 'hidden';
+    el('modal').querySelector('.modal-close').focus();
+  }
+
+  function modalMetaHTML(post) {
     const prof = profileOf(post);
     const when = post.scheduledAt ? new Date(post.scheduledAt) : null;
 
@@ -378,9 +535,16 @@
     if (post.postUrl) rows.push(['Live post', `<a href="${esc(post.postUrl)}" target="_blank" rel="noopener">Open ↗</a>`]);
     if (post.text) rows.push(['Characters', String(post.text.length)]);
 
+    return `<dl class="modal-extra">${
+      rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>`;
+  }
+
+  function openModal(postId) {
+    const post = state.data.posts.find((p) => p.id === postId);
+    if (!post) return;
     el('modalBody').innerHTML =
       `<div class="post" id="modalTitle">${previewHTML(post, { full: true })}</div>
-       <dl class="modal-extra">${rows.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>`;
+       ${modalMetaHTML(post)}`;
 
     el('modal').hidden = false;
     document.body.style.overflow = 'hidden';
@@ -486,6 +650,12 @@
         toggle(state.expandedDays, exp.dataset.expand);
         return render();
       }
+
+      const gtab = e.target.closest('[data-gtab]');
+      if (gtab) return openGroup(gtab.dataset.gtab, Number(gtab.dataset.gidx));
+
+      const group = e.target.closest('[data-group]');
+      if (group) return openGroup(group.dataset.group);
 
       const post = e.target.closest('[data-post]');
       if (post) return openModal(post.dataset.post);
