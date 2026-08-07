@@ -57,15 +57,49 @@ jobs:
       - name: Check for Hootsuite credentials
         id: creds
         env:
-          CID: ${{ secrets.HOOTSUITE_CLIENT_ID }}
-          PAT: ${{ secrets.SECRETS_PAT }}
+          HOOTSUITE_CLIENT_ID: ${{ secrets.HOOTSUITE_CLIENT_ID }}
+          HOOTSUITE_CLIENT_SECRET: ${{ secrets.HOOTSUITE_CLIENT_SECRET }}
+          HOOTSUITE_REFRESH_TOKEN: ${{ secrets.HOOTSUITE_REFRESH_TOKEN }}
+          SECRETS_PAT: ${{ secrets.SECRETS_PAT }}
         run: |
-          if [ -n "$CID" ] && [ -n "$PAT" ]; then
+          required="HOOTSUITE_CLIENT_ID HOOTSUITE_CLIENT_SECRET \
+                    HOOTSUITE_REFRESH_TOKEN SECRETS_PAT"
+          missing=""
+          {
+            echo "### Credential check"
+            echo ""
+            echo "| Secret | Status |"
+            echo "|---|---|"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          for name in $required; do
+            # Report presence only - never the value, and never the length,
+            # which would leak information about short secrets.
+            if [ -z "${!name}" ]; then
+              missing="$missing $name"
+              echo "| \`$name\` | **missing** |" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "| \`$name\` | present |" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
+
+          if [ -z "$missing" ]; then
+            echo "All four secrets are visible to this job."
             echo "ready=true" >> "$GITHUB_OUTPUT"
           else
             echo "ready=false" >> "$GITHUB_OUTPUT"
-            echo "::warning::Hootsuite secrets are not configured yet - deploying \
-          the committed snapshot unchanged. See SETUP.md."
+            echo "::warning::Not refreshing - these secrets are not visible to \
+          this job:$missing. Deploying the committed snapshot unchanged."
+            {
+              echo ""
+              echo "Not refreshing. Deploying the committed snapshot unchanged."
+              echo ""
+              echo "If you believe you already added these, check that they are"
+              echo "**repository** secrets (Settings -> Secrets and variables ->"
+              echo "Actions -> *Repository secrets*), not **environment** secrets"
+              echo "and not **organization** secrets without this repository in"
+              echo "their access policy. Names are case-sensitive."
+            } >> "$GITHUB_STEP_SUMMARY"
           fi
 
       - name: Pull schedule from Hootsuite
