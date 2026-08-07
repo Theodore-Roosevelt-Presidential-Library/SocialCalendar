@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-07T20:23:06Z",
+ "generatedAt": "2026-08-07T20:55:26Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-07-24T00:00:00Z",
@@ -1155,6 +1155,78 @@
    "sequence": null
   },
   {
+   "id": "13105221217:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-09T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1886, Theodore Roosevelt traveled to Mandan, Dakota Territory, for the trial of the men who had stolen his boat.\n\nIt had happened five months earlier. On the morning of March 24, a ranch hand came up to the house at Elkhorn holding the end of the mooring rope — cut clean through with a knife. There was only one other boat on that stretch of the Little Missouri, and it belonged to three men living in a shack twenty miles upstream.\n\nMost of his neighbors assumed he would handle it the usual way. Roosevelt was a deputy sheriff of Billings County, and out there in that decade, a man who caught a thief on the river was not expected to bring him back alive.\n\nInstead, Roosevelt had Bill Sewall and Wilmot Dow build a new boat. A blizzard held them three more days. On March 30 the three of them pushed off into water still running with ice. Roosevelt brought a rifle, a camera, and — because he was Roosevelt — a volume of Matthew Arnold and a copy of Anna Karenina.\n\nThey found the stolen boat on April 1, nearly a hundred miles downriver, and took the camp by surprise. All three surrendered without a shot fired.\n\nThen came the hard part. He could not tie them; the cold would have cost them their hands and feet. So for eight days he guarded them in shifts while the ice jammed the river and the food ran down to flour stirred into muddy water. He finished Anna Karenina and borrowed a dime novel off one of the prisoners.\n\n\"There is very little amusement,\" he wrote afterward, \"in combining the functions of a sheriff with those of an arctic explorer.\"\n\nHe brought them in alive. Two were convicted of grand larceny later that month and sentenced to twenty-five months in the Bismarck penitentiary.\n\nA footnote: that famous photograph of Roosevelt guarding the thieves is staged — re-created afterward, with Sewall, Dow, and a third man posing as the prisoners.\n\nMore: trlibrary.com/tr/badlands/boat-thieves\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/ecc8bb9bbc5dd0a3.jpg",
+     "w": 1000,
+     "h": 710,
+     "kind": "image"
+    },
+    {
+     "src": "media/895210e882fb3733.jpg",
+     "w": 1000,
+     "h": 656,
+     "kind": "image"
+    },
+    {
+     "src": "media/ad04b101ac6114eb.jpg",
+     "w": 1000,
+     "h": 664,
+     "kind": "image"
+    },
+    {
+     "src": "media/6993d9085f6b2b72.jpg",
+     "w": 1000,
+     "h": 789,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105221218:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-09T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1886, Theodore Roosevelt traveled to Mandan, Dakota Territory, for the trial of the men who had stolen his boat.\n\nIt had happened five months earlier. On the morning of March 24, a ranch hand came up to the house at Elkhorn holding the end of the mooring rope — cut clean through with a knife. There was only one other boat on that stretch of the Little Missouri, and it belonged to three men living in a shack twenty miles upstream.\n\nMost of his neighbors assumed he would handle it the usual way. Roosevelt was a deputy sheriff of Billings County, and out there in that decade, a man who caught a thief on the river was not expected to bring him back alive.\n\nInstead, Roosevelt had Bill Sewall and Wilmot Dow build a new boat. A blizzard held them three more days. On March 30 the three of them pushed off into water still running with ice. Roosevelt brought a rifle, a camera, and — because he was Roosevelt — a volume of Matthew Arnold and a copy of Anna Karenina.\n\nThey found the stolen boat on April 1, nearly a hundred miles downriver, and took the camp by surprise. All three surrendered without a shot fired.\n\nThen came the hard part. He could not tie them; the cold would have cost them their hands and feet. So for eight days he guarded them in shifts while the ice jammed the river and the food ran down to flour stirred into muddy water. He finished Anna Karenina and borrowed a dime novel off one of the prisoners.\n\n\"There is very little amusement,\" he wrote afterward, \"in combining the functions of a sheriff with those of an arctic explorer.\"\n\nHe brought them in alive. Two were convicted of grand larceny later that month and sentenced to twenty-five months in the Bismarck penitentiary.\n\nA footnote: that famous photograph of Roosevelt guarding the thieves is staged — re-created afterward, with Sewall, Dow, and a third man posing as the prisoners.\n\nMore: trlibrary.com/tr/badlands/boat-thieves\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/ecc8bb9bbc5dd0a3.jpg",
+     "w": 1000,
+     "h": 710,
+     "kind": "image"
+    },
+    {
+     "src": "media/895210e882fb3733.jpg",
+     "w": 1000,
+     "h": 656,
+     "kind": "image"
+    },
+    {
+     "src": "media/ad04b101ac6114eb.jpg",
+     "w": 1000,
+     "h": 664,
+     "kind": "image"
+    },
+    {
+     "src": "media/6993d9085f6b2b72.jpg",
+     "w": 1000,
+     "h": 789,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
    "id": "13105206181:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-08-10T12:00:00Z",
@@ -1375,6 +1447,66 @@
      "src": "media/aceafbef3caa9393.jpg",
      "w": 540,
      "h": 540,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105221185:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-11T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, Theodore Roosevelt appointed Oliver Wendell Holmes Jr. to the Supreme Court — a decision he came to regret.\n\nThe seat had belonged to Justice Horace Gray. Congress was out of session, so on August 11 Roosevelt issued a recess appointment.\n\nHolmes was 61, chief justice of Massachusetts, and arguably the most original legal mind in the country. He had been wounded three times in the Civil War with the 20th Massachusetts.\n\nHere is the part most people don't know: he never sat under that commission.\n\nHolmes wanted to be confirmed first. Rather than take the bench on a recess appointment, he waited for the Senate — and Roosevelt withdrew it. \"I feel that there is no necessity why you should be nominated in the recess,\" Roosevelt wrote him on August 21. The formal nomination went up on December 2, the Senate confirmed him two days later, and Holmes took the judicial oath on December 8, 1902.\n\nRoosevelt believed he was getting an ally. He had a case coming — Northern Securities, the railroad combination built by J. P. Morgan, James J. Hill, and E. H. Harriman — and he wanted a Court that would let the government break it up.\n\nOn March 14, 1904, the government won, five votes to four. Holmes dissented.\n\nTwo and a half years later Roosevelt wrote to Henry Cabot Lodge: \"From his antecedents, Holmes should have been an ideal man on the bench. As a matter of fact he has been a bitter disappointment, not because of any one decision but because of his general attitude.\"\n\nHolmes was steadier about it. Writing in 1921, two years after Roosevelt's death, he said only: \"We talked freely later, but it was never the same.\"\n\nHolmes served nearly thirty years and retired at 90. He is remembered now as one of the great justices in American history — and as a reminder that judicial independence tends to show up where a president least wants it.\n\nMore: trlibrary.com/tr/presidency/trust-busting\n\n#OTD #OnThisDay #TheodoreRoosevelt #SupremeCourt #AmericanHistory",
+   "media": [
+    {
+     "src": "media/31771f310735d840.jpg",
+     "w": 1000,
+     "h": 727,
+     "kind": "image"
+    },
+    {
+     "src": "media/f71e90fe0b70d395.jpg",
+     "w": 466,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/2f927e89a0aa921c.jpg",
+     "w": 1000,
+     "h": 509,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105221186:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-11T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, Theodore Roosevelt appointed Oliver Wendell Holmes Jr. to the Supreme Court — a decision he came to regret.\n\nThe seat had belonged to Justice Horace Gray. Congress was out of session, so on August 11 Roosevelt issued a recess appointment.\n\nHolmes was 61, chief justice of Massachusetts, and arguably the most original legal mind in the country. He had been wounded three times in the Civil War with the 20th Massachusetts.\n\nHere is the part most people don't know: he never sat under that commission.\n\nHolmes wanted to be confirmed first. Rather than take the bench on a recess appointment, he waited for the Senate — and Roosevelt withdrew it. \"I feel that there is no necessity why you should be nominated in the recess,\" Roosevelt wrote him on August 21. The formal nomination went up on December 2, the Senate confirmed him two days later, and Holmes took the judicial oath on December 8, 1902.\n\nRoosevelt believed he was getting an ally. He had a case coming — Northern Securities, the railroad combination built by J. P. Morgan, James J. Hill, and E. H. Harriman — and he wanted a Court that would let the government break it up.\n\nOn March 14, 1904, the government won, five votes to four. Holmes dissented.\n\nTwo and a half years later Roosevelt wrote to Henry Cabot Lodge: \"From his antecedents, Holmes should have been an ideal man on the bench. As a matter of fact he has been a bitter disappointment, not because of any one decision but because of his general attitude.\"\n\nHolmes was steadier about it. Writing in 1921, two years after Roosevelt's death, he said only: \"We talked freely later, but it was never the same.\"\n\nHolmes served nearly thirty years and retired at 90. He is remembered now as one of the great justices in American history — and as a reminder that judicial independence tends to show up where a president least wants it.\n\nMore: trlibrary.com/tr/presidency/trust-busting\n\n#OTD #OnThisDay #TheodoreRoosevelt #SupremeCourt #AmericanHistory",
+   "media": [
+    {
+     "src": "media/31771f310735d840.jpg",
+     "w": 1000,
+     "h": 727,
+     "kind": "image"
+    },
+    {
+     "src": "media/f71e90fe0b70d395.jpg",
+     "w": 466,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/2f927e89a0aa921c.jpg",
+     "w": 1000,
+     "h": 509,
      "kind": "image"
     }
    ],
