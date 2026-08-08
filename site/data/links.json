@@ -1,4 +1,130 @@
 {
- "generatedAt": null,
- "items": []
+ "generatedAt": "2026-08-08T16:03:44Z",
+ "profile": {
+  "name": "Theodore Roosevelt Presidential Library",
+  "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
+  "home": "https://www.trlibrary.com"
+ },
+ "items": [
+  {
+   "id": "760e500ef9e0",
+   "url": "https://www.midwestliving.com/theodore-roosevelt-presidential-library-north-dakota-12030988",
+   "host": "Midwest Living",
+   "headline": "This Stunning New Presidential Library Is Woven Into the Landscape of North Dakota’s…",
+   "blurb": "The Theodore Roosevelt Presidential Library and Museum masterfully harmonizes history, nature, and technology.",
+   "publishAt": "2026-08-09T16:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "INSTAGRAMBUSINESS",
+    "THREADS",
+    "BLUESKY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/6817f31e00a94b23.jpg",
+    "w": 1000,
+    "h": 666
+   }
+  },
+  {
+   "id": "b0b21d072ac0",
+   "url": "https://www.inpursuit.org/lessons/to-know-a-leader-know-who-they-listen-to",
+   "host": "In Pursuit",
+   "headline": "Lesson #37: To know a leader, know who they listen to",
+   "blurb": "Edith Roosevelt's influence didn't come from a title — it came from being listened to.",
+   "publishAt": "2026-08-06T19:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/643d18cc50c3a84b.jpg",
+    "w": 813,
+    "h": 1000
+   }
+  },
+  {
+   "id": "ed8b045445eb",
+   "url": "https://www.trlibrary.com/calendar/special-event/american-conservation-coalition-2026-public-programs",
+   "host": "trlibrary.com",
+   "headline": "American Conservation Coalition 2026 Public Programs",
+   "blurb": "",
+   "publishAt": "2026-08-06T16:00:00Z",
+   "channels": [
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "INSTAGRAMBUSINESS",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/16578d8690695f0a.jpg",
+    "w": 540,
+    "h": 675
+   }
+  },
+  {
+   "id": "cf03e9db0ca3",
+   "url": "https://www.inpursuit.org/lessons/a-more-perfect-union-requires-an-wider-we",
+   "host": "In Pursuit",
+   "headline": "Lesson #36: An ever more perfect union requires an ever wider “we”",
+   "blurb": "TR widened the circle of \"We the People\" further than almost any president before him — conservation, reform, the conviction that everybody counts.",
+   "publishAt": "2026-08-04T16:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "THREADS"
+   ],
+   "thumb": null
+  },
+  {
+   "id": "49515213c7bf",
+   "url": "https://www.architecturalrecord.com/articles/18326-the-theodore-roosevelt-presidential-library-honors-a-conservationist",
+   "host": "architecturalrecord.com",
+   "headline": "The Theodore Roosevelt Presidential Library Honors a Conservationist",
+   "blurb": "Designed by Snøhetta, the environmentally ambitious museum built from rammed-earth and mass timber is integrated into North Dakota's rugged badlands…",
+   "publishAt": "2026-08-03T14:50:00Z",
+   "channels": [
+    "THREADS",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "BLUESKY",
+    "INSTAGRAMBUSINESS"
+   ],
+   "thumb": {
+    "src": "media/26cd7b26253f96f1.jpg",
+    "w": 450,
+    "h": 535
+   }
+  },
+  {
+   "id": "8d285f6af973",
+   "url": "https://apple.news/AdK1mTWYfSZipUAF_HkYcKg",
+   "host": "apple.news",
+   "headline": "The Theodore Roosevelt Presidential Library: At One With Nature â The Wall Street…",
+   "blurb": "Designed by SnÃ¸hetta and inspired by the 26th presidentâs love for the American wilderness, the new building is a moving work of architecture that…",
+   "publishAt": "2026-07-30T16:35:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "THREADS",
+    "INSTAGRAMBUSINESS",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/40d7b12f02dbdaf2.jpg",
+    "w": 1000,
+    "h": 667
+   }
+  }
+ ]
 }
