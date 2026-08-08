@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08T16:03:44Z",
+ "generatedAt": "2026-08-08T16:09:31Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -7,12 +7,135 @@
  },
  "items": [
   {
+   "id": "b7cf9757bdc1",
+   "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
+   "host": "trlibrary.com",
+   "headline": "The Panama Canal: Roosevelt's Bold Gambit for American Power",
+   "blurb": "Theodore Roosevelt’s boldest use of American power — the decade-long feat of engineering that cut a canal across the Isthmus of Panama and joined two…",
+   "publishAt": "2026-08-15T12:00:00Z",
+   "latestAt": "2026-08-15T12:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/b470f582a70fd1bb.jpg",
+    "w": 640,
+    "h": 468
+   }
+  },
+  {
+   "id": "3c9d1f2f3be8",
+   "url": "https://www.trlibrary.com/tr/presidency/brownsville",
+   "host": "trlibrary.com",
+   "headline": "The Brownsville Affair: An Injustice That Took 66 Years to Correct",
+   "blurb": "In 1906, soldiers of the all-Black 25th Infantry were wrongly accused after a Brownsville, Texas shooting, an injustice not corrected for 66 years.",
+   "publishAt": "2026-08-14T12:00:00Z",
+   "latestAt": "2026-08-14T12:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/45215d7ec66e4e48.jpg",
+    "w": 1000,
+    "h": 914
+   }
+  },
+  {
+   "id": "88fab44e4fe6",
+   "url": "https://www.trlibrary.com/tr/people/ethel",
+   "host": "trlibrary.com",
+   "headline": "Ethel Roosevelt Derby: The Devoted Daughter",
+   "blurb": "Steady and principled, Ethel Roosevelt Derby grew up at Sagamore Hill as Theodore and Edith's most grounded and devoted daughter.",
+   "publishAt": "2026-08-13T12:00:00Z",
+   "latestAt": "2026-08-13T12:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/67e9047dd91b7d61.jpg",
+    "w": 801,
+    "h": 1000
+   }
+  },
+  {
+   "id": "ed110705a4d7",
+   "url": "https://www.trlibrary.com/tr/badlands/maltese-cross",
+   "host": "trlibrary.com",
+   "headline": "Maltese Cross Ranch: Roosevelt's Dakota Foothold",
+   "blurb": "Seven miles south of Medora on the Little Missouri, the Maltese Cross Ranch was Roosevelt's first tangible commitment to the Dakota frontier.",
+   "publishAt": "2026-08-12T12:00:00Z",
+   "latestAt": "2026-08-12T12:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/da72d80b2a10daaf.jpg",
+    "w": 801,
+    "h": 1000
+   }
+  },
+  {
+   "id": "429711b1d1b8",
+   "url": "https://www.trlibrary.com/tr/presidency/trust-busting",
+   "host": "trlibrary.com",
+   "headline": "Trust-Busting: Roosevelt's War on Monopoly",
+   "blurb": "In 1902, Roosevelt's government sued the Northern Securities railroad monopoly under the Sherman Antitrust Act, asserting bold new presidential power.",
+   "publishAt": "2026-08-11T12:00:00Z",
+   "latestAt": "2026-08-11T12:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "THREADS",
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/1411fcf1ef1333b7.jpg",
+    "w": 1000,
+    "h": 727
+   }
+  },
+  {
+   "id": "a2e9cc140faf",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/rough-riders",
+   "host": "trlibrary.com",
+   "headline": "The Rough Riders: America's Most Famous Regiment",
+   "blurb": "Roosevelt and Wood recruited over 1,000 cowboys, Ivy League athletes, miners, and lawmen into the 1st Volunteer Cavalry, the famed Rough Riders.",
+   "publishAt": "2026-08-10T12:00:00Z",
+   "latestAt": "2026-08-10T12:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "THREADS",
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/06b57d2083867b3e.jpg",
+    "w": 715,
+    "h": 1000
+   }
+  },
+  {
    "id": "760e500ef9e0",
    "url": "https://www.midwestliving.com/theodore-roosevelt-presidential-library-north-dakota-12030988",
    "host": "Midwest Living",
    "headline": "This Stunning New Presidential Library Is Woven Into the Landscape of North Dakota’s…",
    "blurb": "The Theodore Roosevelt Presidential Library and Museum masterfully harmonizes history, nature, and technology.",
    "publishAt": "2026-08-09T16:00:00Z",
+   "latestAt": "2026-08-09T16:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
     "LINKEDINCOMPANY",
@@ -28,12 +151,55 @@
    }
   },
   {
+   "id": "ea8fda6356f0",
+   "url": "https://www.trlibrary.com/tr/badlands/boat-thieves",
+   "host": "trlibrary.com",
+   "headline": "The Adventure of the Three Boat Thieves: Justice on the Little Missouri",
+   "blurb": "When three men stole his boat in March 1886, Roosevelt chased them down the icy Little Missouri to uphold the rule of law in the Badlands.",
+   "publishAt": "2026-08-09T12:00:00Z",
+   "latestAt": "2026-08-09T12:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "THREADS",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/7df674b513bfbf2f.jpg",
+    "w": 1000,
+    "h": 710
+   }
+  },
+  {
+   "id": "57fcdf04d012",
+   "url": "https://www.trlibrary.com/tr/presidency/conservation/bird-reserves",
+   "host": "trlibrary.com",
+   "headline": "51 Federal Bird Reserves: Roosevelt's Ornithological Vision",
+   "blurb": "A boyhood love of birds led Theodore Roosevelt to establish 51 federal bird reserves, pioneering federal protection for America's wildlife.",
+   "publishAt": "2026-08-08T12:00:00Z",
+   "latestAt": "2026-08-08T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/296401e6e06e463f.jpg",
+    "w": 1000,
+    "h": 524
+   }
+  },
+  {
    "id": "b0b21d072ac0",
    "url": "https://www.inpursuit.org/lessons/to-know-a-leader-know-who-they-listen-to",
    "host": "In Pursuit",
    "headline": "Lesson #37: To know a leader, know who they listen to",
    "blurb": "Edith Roosevelt's influence didn't come from a title — it came from being listened to.",
    "publishAt": "2026-08-06T19:00:00Z",
+   "latestAt": "2026-08-06T19:00:00Z",
    "channels": [
     "THREADS",
     "BLUESKY",
@@ -54,6 +220,7 @@
    "headline": "American Conservation Coalition 2026 Public Programs",
    "blurb": "",
    "publishAt": "2026-08-06T16:00:00Z",
+   "latestAt": "2026-08-06T16:00:00Z",
    "channels": [
     "TWITTER",
     "LINKEDINCOMPANY",
@@ -69,61 +236,25 @@
    }
   },
   {
-   "id": "cf03e9db0ca3",
-   "url": "https://www.inpursuit.org/lessons/a-more-perfect-union-requires-an-wider-we",
-   "host": "In Pursuit",
-   "headline": "Lesson #36: An ever more perfect union requires an ever wider “we”",
-   "blurb": "TR widened the circle of \"We the People\" further than almost any president before him — conservation, reform, the conviction that everybody counts.",
-   "publishAt": "2026-08-04T16:00:00Z",
+   "id": "febbce340732",
+   "url": "https://www.trlibrary.com/tickets",
+   "host": "trlibrary.com",
+   "headline": "Tickets are sold out for today, Saturday, July 25th.",
+   "blurb": "Admission to the Theodore Roosevelt Presidential Library is by timed-entry ticket covering the full exhibit experience — how tickets work, and how to…",
+   "publishAt": "2026-07-25T17:40:00Z",
+   "latestAt": "2026-08-04T20:30:00Z",
    "channels": [
-    "BLUESKY",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "THREADS"
-   ],
-   "thumb": null
-  },
-  {
-   "id": "49515213c7bf",
-   "url": "https://www.architecturalrecord.com/articles/18326-the-theodore-roosevelt-presidential-library-honors-a-conservationist",
-   "host": "architecturalrecord.com",
-   "headline": "The Theodore Roosevelt Presidential Library Honors a Conservationist",
-   "blurb": "Designed by Snøhetta, the environmentally ambitious museum built from rammed-earth and mass timber is integrated into North Dakota's rugged badlands…",
-   "publishAt": "2026-08-03T14:50:00Z",
-   "channels": [
-    "THREADS",
-    "FACEBOOKPAGE",
-    "TWITTER",
     "LINKEDINCOMPANY",
     "BLUESKY",
-    "INSTAGRAMBUSINESS"
-   ],
-   "thumb": {
-    "src": "media/26cd7b26253f96f1.jpg",
-    "w": 450,
-    "h": 535
-   }
-  },
-  {
-   "id": "8d285f6af973",
-   "url": "https://apple.news/AdK1mTWYfSZipUAF_HkYcKg",
-   "host": "apple.news",
-   "headline": "The Theodore Roosevelt Presidential Library: At One With Nature â The Wall Street…",
-   "blurb": "Designed by SnÃ¸hetta and inspired by the 26th presidentâs love for the American wilderness, the new building is a moving work of architecture that…",
-   "publishAt": "2026-07-30T16:35:00Z",
-   "channels": [
     "FACEBOOKPAGE",
-    "THREADS",
     "INSTAGRAMBUSINESS",
     "TWITTER",
-    "LINKEDINCOMPANY",
-    "BLUESKY"
+    "THREADS"
    ],
    "thumb": {
-    "src": "media/40d7b12f02dbdaf2.jpg",
-    "w": 1000,
-    "h": 667
+    "src": "media/1599ca232547c409.jpg",
+    "w": 540,
+    "h": 675
    }
   }
  ]
