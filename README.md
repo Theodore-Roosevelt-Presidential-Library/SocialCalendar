@@ -41,11 +41,20 @@ a local web server and it works.
 
 Hootsuite does not push posted links into Hootbio and offers no widget for it,
 so this rebuilds the same thing from the calendar snapshot. `build_links.py`
-takes recent posts that mention a URL, follows the `ow.ly` shortlink to its real
-destination, reads that page's own headline and description, and folds the six
-per-network variants of one story into a single card. The last twelve stories
-are kept. Posts without a link are skipped, and anything that failed to send
-never appears.
+takes recent posts that mention a URL (with or without a scheme), follows the
+`ow.ly` shortlink to its real destination, reads that page's own headline and
+description, and folds the six per-network variants of one story into a single
+card. Up to twenty stories are kept. Posts without a link are skipped, and
+anything that failed to send never appears.
+
+`links.json` is an archive, not a snapshot: the calendar only keeps a fortnight
+of history, so each build merges its findings with what was published last time
+rather than letting a story vanish when its posts age out of that window. The
+calendar's media pruner knows about it and will not delete a thumbnail an
+archived card still needs.
+
+To backfill more history in one go, run the workflow manually with
+`days_back` set to 90 — the archive keeps whatever that turns up.
 
 It is styled to match **hootbio.com/trlibrary** rather than the calendar, so
 tapping through from the Hootbio page feels seamless: Gray Sky `#99ADC5`
@@ -66,28 +75,37 @@ Two things to know about that trade-off:
 - If a scheduled post fails to send, its card still appears at the scheduled
   moment and stays until the next build corrects it — at most twelve hours.
 
-## The Hootbio profile image
+## The Hootbio card image
 
-`build_cover.py` composes a square mosaic from the four newest published link
-thumbnails with the TRPL monogram held in the centre, and rebuilds it on every
+`build_cover.py` composes the artwork for the **See Our Latest Posts** card on
+Hootbio out of the newest published link thumbnails, and rebuilds it on every
 refresh:
 
-- **https://socialcalendar.labs.trlibrary.com/data/cover.jpg** — the 1200px
+- **https://socialcalendar.labs.trlibrary.com/data/cover.jpg** — the 1600×900
   master to upload
-- **`/data/cover-preview.png`** — the same thing at 100px in a circular crop,
-  i.e. exactly what Hootbio will render
+- **`/data/cover-preview.png`** — the same thing at 476×268, i.e. exactly what
+  Hootbio renders in the card
 
-Hootbio serves the profile image square and crops it to a circle at 100×100 CSS
-pixels. That is small: four tiles is the practical ceiling before it turns to
-mush, and a mosaic alone stops reading as TRPL at all, which is why the
-monogram sits on top. `--style quad` drops it if you disagree; `--style three`
-is a one-large-two-small variant.
+That slot is 16:9, `object-fit: cover`, 4px corners, and lands at 476×268 on a
+desktop — roomy enough that individual stories genuinely read. Default layout is
+a six-up mosaic. Others via `--style`: `eight`, `hero` (one large, four small),
+`four`, `pair`, `single`, `strip`. When there are not enough linked stories with
+imagery, it steps down the ladder automatically rather than padding the frame
+with flat colour.
 
-Only stories that have already published are used — a profile picture must
-never give away tomorrow's announcement.
+`--mark` adds the TRPL monogram in the corner. Off by default: the card already
+sits directly under the TRPL avatar and above a button that says what it is, so
+the mark is redundant there and costs a tile.
+
+`--shape avatar` builds the circular 100×100 profile picture instead. That one
+*does* carry the monogram by default — at 100px a bare mosaic stops reading as
+TRPL to anyone.
+
+Only stories that have already published are used — the artwork must never give
+away tomorrow's announcement.
 
 Hootbio has no upload API, so setting it is manual: download the master and
-replace the image in Hootbio's profile settings.
+replace the image on the card in Hootbio.
 
 ## Brand
 
@@ -123,6 +141,9 @@ any URL embedded in the page would be dead long before someone loaded it.
 | `scripts/github_secret.py` | Writes the rotated refresh token back to a repo secret |
 | `scripts/bootstrap_auth.py` | One-time local OAuth, run once by a human |
 | `scripts/seed_from_mcp.py` | Builds the same JSON from a Hootsuite MCP capture |
+| `site/links/` | The link-in-bio page |
+| `scripts/build_links.py` | Resolves shortlinks, groups stories, writes `links.json` |
+| `scripts/build_cover.py` | Composes the Hootbio card image and profile picture |
 | `.github/workflows/refresh.yml` | Fetch, commit, deploy |
 
 ## Setup

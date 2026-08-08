@@ -37,8 +37,8 @@ CALENDAR = DATA_DIR / "calendar.json"
 CACHE = DATA_DIR / "link-cache.json"
 OUT = DATA_DIR / "links.json"
 
-MAX_STORIES = 12
-LOOKBACK_DAYS = 120
+MAX_STORIES = 20
+LOOKBACK_DAYS = 400
 HEADLINE_MAX = 90
 BLURB_MAX = 150
 
@@ -344,7 +344,7 @@ def main() -> int:
         if story["_media"] is None and post.get("media"):
             story["_media"] = post["media"][0]
 
-    ordered = sorted(stories.values(), key=lambda s: s["latestAt"], reverse=True)[:MAX_STORIES]
+    ordered = sorted(stories.values(), key=lambda s: s["latestAt"], reverse=True)
 
     items = []
     for story in ordered:
@@ -380,6 +380,31 @@ def main() -> int:
             "channels": story["channels"],
             "thumb": thumb,
         })
+
+    # The calendar only keeps a fortnight of history, so a story would vanish
+    # from here the moment its posts aged out of that window. Merge with what
+    # we published last time instead: this file is an archive that outlives the
+    # calendar snapshot, and it only ever grows forwards.
+    kept_new = {i["id"] for i in items}
+    carried = 0
+    if OUT.exists():
+        try:
+            previous = json.loads(OUT.read_text(encoding="utf-8")).get("items", [])
+        except json.JSONDecodeError:
+            previous = []
+        for old in previous:
+            if old.get("id") in kept_new or not old.get("url"):
+                continue
+            # Do not resurrect a card whose cached image has since been pruned.
+            thumb = old.get("thumb")
+            if thumb and not (DATA_DIR / thumb["src"]).exists():
+                old["thumb"] = None
+            items.append(old)
+            carried += 1
+
+    items.sort(key=lambda i: i.get("latestAt") or i["publishAt"], reverse=True)
+    items = items[:MAX_STORIES]
+    print(f"{carried} story(ies) carried over from the previous build")
 
     CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False), encoding="utf-8")
 

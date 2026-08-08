@@ -114,12 +114,34 @@ def cache_media_url(url: str) -> dict | None:
     return _download_and_store(url, stem, "attachment")
 
 
+def links_media() -> set[str]:
+    """Images the link-in-bio archive still needs.
+
+    That archive deliberately outlives the calendar's fortnight of history, so
+    pruning purely against calendar.json would delete the thumbnails out from
+    under older story cards.
+    """
+    path = DATA_DIR / "links.json"
+    if not path.exists():
+        return set()
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return set()
+    return {
+        item["thumb"]["src"]
+        for item in data.get("items", [])
+        if item.get("thumb") and item["thumb"].get("src")
+    }
+
+
 def prune_media(referenced: set[str]) -> None:
     if not MEDIA_DIR.exists():
         return
+    keep = referenced | links_media()
     removed = 0
     for path in MEDIA_DIR.iterdir():
-        if path.is_file() and f"media/{path.name}" not in referenced:
+        if path.is_file() and f"media/{path.name}" not in keep:
             path.unlink()
             removed += 1
     if removed:
