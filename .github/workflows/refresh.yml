@@ -124,6 +124,11 @@ jobs:
         continue-on-error: true
         run: python scripts/build_links.py
 
+      - name: Compose the Hootbio profile image
+        if: steps.fetch.outputs.fetched == 'true'
+        continue-on-error: true
+        run: python scripts/build_cover.py --preview
+
       - name: Commit refreshed snapshot
         if: steps.fetch.outputs.fetched == 'true'
         run: |

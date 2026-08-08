@@ -66,6 +66,29 @@ Two things to know about that trade-off:
 - If a scheduled post fails to send, its card still appears at the scheduled
   moment and stays until the next build corrects it — at most twelve hours.
 
+## The Hootbio profile image
+
+`build_cover.py` composes a square mosaic from the four newest published link
+thumbnails with the TRPL monogram held in the centre, and rebuilds it on every
+refresh:
+
+- **https://socialcalendar.labs.trlibrary.com/data/cover.jpg** — the 1200px
+  master to upload
+- **`/data/cover-preview.png`** — the same thing at 100px in a circular crop,
+  i.e. exactly what Hootbio will render
+
+Hootbio serves the profile image square and crops it to a circle at 100×100 CSS
+pixels. That is small: four tiles is the practical ceiling before it turns to
+mush, and a mosaic alone stops reading as TRPL at all, which is why the
+monogram sits on top. `--style quad` drops it if you disagree; `--style three`
+is a one-large-two-small variant.
+
+Only stories that have already published are used — a profile picture must
+never give away tomorrow's announcement.
+
+Hootbio has no upload API, so setting it is manual: download the master and
+replace the image in Hootbio's profile settings.
+
 ## Brand
 
 Colours and type come from
