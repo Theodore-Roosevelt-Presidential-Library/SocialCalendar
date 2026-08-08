@@ -117,6 +117,13 @@ jobs:
           python scripts/build_calendar.py
           echo "fetched=true" >> "$GITHUB_OUTPUT"
 
+      - name: Build the link-in-bio feed
+        if: steps.fetch.outputs.fetched == 'true'
+        # Reads the calendar snapshot and resolves shortlinks. A failure here
+        # must not lose a good calendar refresh, so it is non-fatal.
+        continue-on-error: true
+        run: python scripts/build_links.py
+
       - name: Commit refreshed snapshot
         if: steps.fetch.outputs.fetched == 'true'
         run: |

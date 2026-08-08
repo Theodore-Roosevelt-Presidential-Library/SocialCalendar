@@ -34,6 +34,38 @@ The site is plain HTML, CSS, and JavaScript with no build step and no
 dependencies. Everything it needs is in `site/`; open `site/index.html` through
 a local web server and it works.
 
+## The link-in-bio page
+
+`/links/` is a second, separate page built for social profile bios:
+**https://socialcalendar.labs.trlibrary.com/links/**
+
+Hootsuite does not push posted links into Hootbio and offers no widget for it,
+so this rebuilds the same thing from the calendar snapshot. `build_links.py`
+takes recent posts that mention a URL, follows the `ow.ly` shortlink to its real
+destination, reads that page's own headline and description, and folds the six
+per-network variants of one story into a single card. The last twelve stories
+are kept. Posts without a link are skipped, and anything that failed to send
+never appears.
+
+It is styled to match **hootbio.com/trlibrary** rather than the calendar, so
+tapping through from the Hootbio page feels seamless: Gray Sky `#99ADC5`
+background, Night Sky `#092A4D` cards, Source Sans 3, 4px corners. Both of those
+colours are TRPL brand, so it is on-brand either way.
+
+**Scheduled posts appear on time without a rebuild.** `links.json` ships with
+future stories included, and the page holds each one back until its send time
+passes, then reveals it. That closes the gap left by a job that only runs twice
+a day.
+
+Two things to know about that trade-off:
+
+- `links.json` is publicly readable, so a future story's headline and
+  destination are visible before it publishes. The page does not advertise
+  this, but it is not hidden either. Everything on this repo's Pages site is
+  public by design.
+- If a scheduled post fails to send, its card still appears at the scheduled
+  moment and stays until the next build corrects it — at most twelve hours.
+
 ## Brand
 
 Colours and type come from
