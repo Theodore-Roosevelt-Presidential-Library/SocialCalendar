@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08T16:09:31Z",
+ "generatedAt": "2026-08-08T16:19:56Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -255,6 +255,67 @@
     "src": "media/1599ca232547c409.jpg",
     "w": 540,
     "h": 675
+   }
+  },
+  {
+   "id": "cf03e9db0ca3",
+   "url": "https://www.inpursuit.org/lessons/a-more-perfect-union-requires-an-wider-we",
+   "host": "In Pursuit",
+   "headline": "Lesson #36: An ever more perfect union requires an ever wider “we”",
+   "blurb": "TR widened the circle of \"We the People\" further than almost any president before him — conservation, reform, the conviction that everybody counts.",
+   "publishAt": "2026-08-04T16:00:00Z",
+   "latestAt": "2026-08-04T16:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "THREADS"
+   ],
+   "thumb": null
+  },
+  {
+   "id": "49515213c7bf",
+   "url": "https://www.architecturalrecord.com/articles/18326-the-theodore-roosevelt-presidential-library-honors-a-conservationist",
+   "host": "architecturalrecord.com",
+   "headline": "The Theodore Roosevelt Presidential Library Honors a Conservationist",
+   "blurb": "Designed by Snøhetta, the environmentally ambitious museum built from rammed-earth and mass timber is integrated into North Dakota's rugged badlands…",
+   "publishAt": "2026-08-03T14:50:00Z",
+   "latestAt": "2026-08-03T14:50:00Z",
+   "channels": [
+    "THREADS",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "BLUESKY",
+    "INSTAGRAMBUSINESS"
+   ],
+   "thumb": {
+    "src": "media/26cd7b26253f96f1.jpg",
+    "w": 450,
+    "h": 535
+   }
+  },
+  {
+   "id": "8d285f6af973",
+   "url": "https://apple.news/AdK1mTWYfSZipUAF_HkYcKg",
+   "host": "The Wall Street Journal",
+   "headline": "The Theodore Roosevelt Presidential Library: At One With Nature",
+   "blurb": "Designed by Snøhetta and inspired by the 26th president’s love for the American wilderness, the new building is a moving work of architecture that…",
+   "publishAt": "2026-07-30T16:35:00Z",
+   "latestAt": "2026-07-30T16:35:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "THREADS",
+    "INSTAGRAMBUSINESS",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/40d7b12f02dbdaf2.jpg",
+    "w": 1000,
+    "h": 667
    }
   }
  ]
