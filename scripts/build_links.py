@@ -54,20 +54,62 @@ CTA_URL = re.compile(r"^https?://(www\.)?trlibrary\.com/?(visit/?)?$", re.I)
 BOILERPLATE_LINE = re.compile(r"^(https?://\S+|trlibrary\.com\S*)$", re.I)
 
 UA = "TRPL-SocialCalendar/1.0 (+https://socialcalendar.labs.trlibrary.com)"
+
 URL_RE = re.compile(r"https?://[^\s<>\"')\]]+", re.I)
+
+# Posts routinely write a link the way a person reads it, with no scheme:
+#   More: trlibrary.com/tr/presidency/conservation/bird-reserves
+# Those are real links and have to be caught. The lookbehind keeps us out of
+# email addresses (hello@trlibrary.com) and the TLD list keeps us off ordinary
+# prose and decimals.
+BARE_URL = re.compile(
+    r"(?<![\w@.\-/])"
+    # ly/gl/me/be/to are here because the shorteners live on them: ow.ly,
+    # bit.ly, buff.ly, goo.gl, fb.me, youtu.be.
+    r"((?:[a-z0-9][a-z0-9\-]*\.)+"
+    r"(?:com|org|net|gov|edu|info|io|co|us|uk|ca|ly|gl|me|be|to))"
+    r"(/[^\s<>\"')\]]*)?",
+    re.I,
+)
+
+TRAILING = ".,;:!?)\"'»”’"
+
+
+def extract_urls(text: str) -> list[str]:
+    """All links in a post, scheme-ful or not, in the order they appear."""
+    found: list[str] = []
+
+    def take(m):
+        found.append(m.group(0))
+        return " "  # blank it out so the bare-domain pass cannot re-match it
+
+    remainder = URL_RE.sub(take, text or "")
+    for m in BARE_URL.finditer(remainder):
+        found.append("https://" + m.group(0))
+
+    return [u.rstrip(TRAILING) for u in found if len(u.rstrip(TRAILING)) > 10]
 
 
 # --------------------------------------------------------------------------
 # link resolution
 # --------------------------------------------------------------------------
 
+# Bump when a change would make previously cached metadata wrong. v2 fixed
+# UTF-8 being decoded as Latin-1, so every title cached under v1 is suspect.
+CACHE_VERSION = 2
+
+
 def load_cache() -> dict:
     if CACHE.exists():
         try:
-            return json.loads(CACHE.read_text(encoding="utf-8"))
+            raw = json.loads(CACHE.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
             print("  link cache was corrupt, starting fresh")
-    return {}
+            return {"_v": CACHE_VERSION}
+        if raw.get("_v") == CACHE_VERSION:
+            return raw
+        print(f"  link cache is v{raw.get('_v')}, rebuilding at v{CACHE_VERSION}")
+    return {"_v": CACHE_VERSION}
 
 
 def host_of(url: str) -> str:
@@ -97,6 +139,13 @@ def resolve(url: str, cache: dict) -> dict:
             headers={"User-Agent": UA, "Accept": "text/html,*/*"},
         )
         entry["final"] = resp.url
+
+        # requests falls back to ISO-8859-1 for any text/* response that does
+        # not declare a charset, which silently mangles UTF-8: em dashes and
+        # curly quotes come out as "â" and "Snøhetta" as "SnÃ¸hetta". Sniff the
+        # real encoding whenever the header did not actually tell us one.
+        if not resp.encoding or resp.encoding.lower() in ("iso-8859-1", "latin-1"):
+            resp.encoding = resp.apparent_encoding or "utf-8"
         head = resp.text[:200_000]
 
         entry["title"] = (
@@ -129,7 +178,7 @@ def resolve(url: str, cache: dict) -> dict:
 
 def clean_copy(text: str) -> str:
     """Strip URLs, the standing CTA, and the trailing hashtag block."""
-    body = URL_RE.sub(" ", text or "")
+    body = BARE_URL.sub(" ", URL_RE.sub(" ", text or ""))
     lines = []
     for line in body.splitlines():
         stripped = line.strip()
@@ -250,10 +299,9 @@ def main() -> int:
         when = datetime.fromisoformat(post["scheduledAt"].replace("Z", "+00:00"))
         if when < cutoff:
             continue
-        urls = URL_RE.findall(post.get("text") or "")
-        urls = [u.rstrip(".,;:)") for u in urls]
         # Ignore the standing trlibrary.com/visit CTA; it is on every post.
-        urls = [u for u in urls if not CTA_URL.match(u)]
+        urls = [u for u in extract_urls(post.get("text") or "")
+                if not CTA_URL.match(u)]
         if urls:
             candidates.append((post, when, urls[0]))
 
@@ -271,14 +319,20 @@ def main() -> int:
                 "url": meta["final"],
                 "host": host_of(meta["final"]),
                 "publishAt": post["scheduledAt"],
+                "latestAt": post["scheduledAt"],
                 "channels": [],
                 "_meta": meta,
                 "_copies": [],
                 "_media": None,
             }
-        # Earliest send time across channels is when the story went live.
+        # A link can recur across weeks - "buy tickets" turns up in many posts.
+        # publishAt (earliest) decides when the card may appear; latestAt (most
+        # recent) decides how fresh it looks and where it ranks, so a link that
+        # comes round again floats back up instead of looking a month stale.
         if post["scheduledAt"] < story["publishAt"]:
             story["publishAt"] = post["scheduledAt"]
+        if post["scheduledAt"] > story["latestAt"]:
+            story["latestAt"] = post["scheduledAt"]
 
         prof = profiles.get(post["profileId"], {})
         if prof.get("network") and prof["network"] not in story["channels"]:
@@ -290,7 +344,7 @@ def main() -> int:
         if story["_media"] is None and post.get("media"):
             story["_media"] = post["media"][0]
 
-    ordered = sorted(stories.values(), key=lambda s: s["publishAt"], reverse=True)[:MAX_STORIES]
+    ordered = sorted(stories.values(), key=lambda s: s["latestAt"], reverse=True)[:MAX_STORIES]
 
     items = []
     for story in ordered:
@@ -322,6 +376,7 @@ def main() -> int:
             "headline": headline,
             "blurb": blurb,
             "publishAt": story["publishAt"],
+            "latestAt": story["latestAt"],
             "channels": story["channels"],
             "thumb": thumb,
         })

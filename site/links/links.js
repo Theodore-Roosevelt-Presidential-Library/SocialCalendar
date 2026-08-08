@@ -35,8 +35,16 @@
       .format(new Date(iso));
   }
 
+  // publishAt gates when a card may appear; latestAt is the most recent time
+  // the link was posted. A recurring link should read as of its latest airing,
+  // but never claim a time that has not happened yet.
+  function shownAt(item) {
+    const latest = item.latestAt ? ms(item.latestAt) : ms(item.publishAt);
+    return latest <= Date.now() ? latest : ms(item.publishAt);
+  }
+
   function cardHTML(item) {
-    const fresh = Date.now() - ms(item.publishAt) < NEW_FOR_HOURS * 3600_000;
+    const fresh = Date.now() - shownAt(item) < NEW_FOR_HOURS * 3600_000;
     const thumb = item.thumb
       ? `<img class="shot" src="../data/${esc(item.thumb.src)}" alt="" loading="lazy" decoding="async">`
       : '';
@@ -51,7 +59,7 @@
           ${fresh ? '<span class="isnew">New</span>' : ''}
           <span class="host">${esc(item.host)}</span>
           <span class="sep">·</span>
-          <span>${esc(relative(item.publishAt))}</span>
+          <span>${esc(relative(new Date(shownAt(item)).toISOString()))}</span>
         </span>
       </span>
     </a>`;
@@ -61,7 +69,7 @@
     const now = Date.now();
     const live = items
       .filter((i) => ms(i.publishAt) <= now)
-      .sort((a, b) => ms(b.publishAt) - ms(a.publishAt));
+      .sort((a, b) => shownAt(b) - shownAt(a));
 
     FEED.innerHTML = live.length
       ? live.map(cardHTML).join('')
