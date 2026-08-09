@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-08-08T23:06:25Z",
+ "generatedAt": "2026-08-09T11:07:36Z",
  "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-07-25T00:00:00Z",
-  "end": "2026-11-06T00:00:00Z"
+  "start": "2026-07-26T00:00:00Z",
+  "end": "2026-11-07T00:00:00Z"
  },
  "profiles": [
   {
@@ -79,60 +79,6 @@
  ],
  "tags": [],
  "posts": [
-  {
-   "id": "13102769834:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-07-25T17:40:00Z",
-   "state": "SENT",
-   "text": "Tickets are sold out for today, Saturday, July 25th.  No walk-ups are available.  Be sure to book your tickets in advance at trlibrary.com/tickets",
-   "media": [
-    {
-     "src": "media/d14c3b15b3f2c59a.jpg",
-     "w": 562,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.instagram.com/reel/DbOXaJSAjX0/",
-   "sequence": null
-  },
-  {
-   "id": "13102769835:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-07-25T17:40:00Z",
-   "state": "SENT",
-   "text": "Tickets are sold out for today, Saturday, July 25th.  No walk-ups are available.  Be sure to book your tickets in advance at trlibrary.com/tickets",
-   "media": [
-    {
-     "src": "media/96753584df8efe81.jpg",
-     "w": 562,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/reel/1577789364358787/",
-   "sequence": null
-  },
-  {
-   "id": "13102769836:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-07-25T17:40:00Z",
-   "state": "SENT",
-   "text": "Tickets are sold out for today, Saturday, July 25th.  No walk-ups are available.  Be sure to book your tickets in advance at trlibrary.com/tickets",
-   "media": [
-    {
-     "src": "media/50072310efb87b0a.jpg",
-     "w": 562,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2081071989893091524",
-   "sequence": null
-  },
   {
    "id": "13103650570:138236932",
    "profileId": "138236932",
@@ -2150,6 +2096,24 @@
    "sequence": null
   },
   {
+   "id": "13105280542:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-14T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1906, after a midnight shooting in Brownsville, Texas, TR discharged 167 Black soldiers of the 25th Infantry without honor. No trial.\n\nIn 1972 the Army reversed every discharge and called it a gross injustice.\n\ntrlibrary.com/tr/presidency/brownsville",
+   "media": [
+    {
+     "src": "media/9db845030b550ad0.jpg",
+     "w": 1000,
+     "h": 914,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
    "id": "13105280968:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-08-14T12:00:00Z",
@@ -2190,6 +2154,60 @@
      "src": "media/6b53ea7338c9cb71.jpg",
      "w": 1000,
      "h": 914,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105284416:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-14T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1906, after a midnight shooting in Brownsville, Texas, TR discharged 167 Black soldiers of the 25th Infantry without honor. No trial.\n\nIn 1972 the Army reversed every discharge and called it a gross injustice.\n\ntrlibrary.com/tr/presidency/brownsville",
+   "media": [
+    {
+     "src": "media/6b3150fe3da1b1f1.jpg",
+     "w": 1000,
+     "h": 914,
+     "kind": "image"
+    },
+    {
+     "src": "media/5eca698411cc9db3.jpg",
+     "w": 1000,
+     "h": 914,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105280985:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-15T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1914, a Panama Railroad steamer called the Ancon carried a few hundred officials and a hold of freight from the Atlantic to the Pacific, and the Panama Canal was open.\n\nIt was meant to be far more than that. More than a hundred warships were to gather at Hampton Roads, pass through the canal in procession and sail on to the world's fair at San Francisco, with President Wilson aboard the old battleship Oregon at the head of the line.\n\nNone of it happened. Eleven days before the Ancon's transit, Germany had marched into Belgium. The fleets were needed elsewhere, and all but the most modest ceremony was quietly dropped. The Ancon made the run from Colón to Balboa in about nine hours, and the world barely looked up.\n\nTheodore Roosevelt, who had done more than anyone to make that morning possible, was not there. He had been out of office five years. He and Edith spent the day on Long Island at a wedding — his old Chief Forester, Gifford Pinchot, marrying Cornelia Bryce at her parents' house in Roslyn.\n\nThere is something fitting in it. The canal was the most physically enormous thing Roosevelt ever set in motion, and it opened without him, on a day the world was too busy to notice, while he stood in a garden watching a friend get married.\n\nHow he got it built is still argued over. In 1903 the United States backed a revolution that separated Panama from Colombia, recognized the new republic within three days, and had a signed treaty for the canal zone inside three weeks. Colombia never accepted it; in 1921 the United States paid it $25 million. Roosevelt's own summary, delivered in a speech in 1911, was \"I took the Isthmus.\"\n\nBoth things are true at once: the canal changed world trade permanently, and the manner of its getting is still contested more than a century later.\n\nMore: trlibrary.com/tr/presidency/panama-canal\n\n#OTD #OnThisDay #TheodoreRoosevelt #PanamaCanal #AmericanHistory",
+   "media": [
+    {
+     "src": "media/4d40fd0488e2b8d5.jpg",
+     "w": 640,
+     "h": 468,
+     "kind": "image"
+    },
+    {
+     "src": "media/710c9a586a9faa98.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/ab9169cf2f54a001.jpg",
+     "w": 802,
+     "h": 1000,
      "kind": "image"
     }
    ],

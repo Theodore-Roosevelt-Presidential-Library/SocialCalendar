@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-08T23:06:32Z",
+ "generatedAt": "2026-08-09T11:07:39Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -15,13 +15,10 @@
    "publishAt": "2026-08-15T12:00:00Z",
    "latestAt": "2026-08-15T12:00:00Z",
    "channels": [
-    "THREADS",
-    "BLUESKY",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
+    "LINKEDINCOMPANY"
    ],
    "thumb": {
-    "src": "media/b470f582a70fd1bb.jpg",
+    "src": "media/4d40fd0488e2b8d5.jpg",
     "w": 640,
     "h": 468
    }
@@ -36,8 +33,10 @@
    "latestAt": "2026-08-14T12:00:00Z",
    "channels": [
     "THREADS",
+    "BLUESKY",
     "FACEBOOKPAGE",
-    "LINKEDINCOMPANY"
+    "LINKEDINCOMPANY",
+    "TWITTER"
    ],
    "thumb": {
     "src": "media/45215d7ec66e4e48.jpg",
@@ -261,9 +260,9 @@
    "id": "febbce340732",
    "url": "https://www.trlibrary.com/tickets",
    "host": "trlibrary.com",
-   "headline": "Tickets are sold out for today, Saturday, July 25th.",
+   "headline": "50,000 participants have walked the boardwalk into the Badlands since July 4.",
    "blurb": "Admission to the Theodore Roosevelt Presidential Library is by timed-entry ticket covering the full exhibit experience — how tickets work, and how to…",
-   "publishAt": "2026-07-25T17:40:00Z",
+   "publishAt": "2026-08-04T20:30:00Z",
    "latestAt": "2026-08-04T20:30:00Z",
    "channels": [
     "LINKEDINCOMPANY",
