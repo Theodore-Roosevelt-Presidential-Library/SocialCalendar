@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10T11:21:43Z",
+ "generatedAt": "2026-08-10T19:53:02Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -105,6 +105,28 @@
     "src": "media/1411fcf1ef1333b7.jpg",
     "w": 1000,
     "h": 727
+   }
+  },
+  {
+   "id": "8af3d8ac8145",
+   "url": "https://cowboystatedaily.com/2026/08/09/new-high-tech-library-in-north-dakota-brings-theodore-roosevelts-legacy-to-life/",
+   "host": "Cowboy State Daily",
+   "headline": "Visiting The New High-Tech Teddy Roosevelt Library In Medora, North Dakota",
+   "blurb": "Cowboy State Daily's Anna-Louise Jackson visited the new Theodore Roosevelt National Library in Medora, North Dakota.",
+   "publishAt": "2026-08-10T20:00:00Z",
+   "latestAt": "2026-08-10T20:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "BLUESKY",
+    "INSTAGRAMBUSINESS",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/346ebb14acb12cbd.jpg",
+    "w": 1000,
+    "h": 666
    }
   },
   {
