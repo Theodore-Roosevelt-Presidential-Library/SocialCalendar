@@ -22,8 +22,13 @@ TOKEN_URL = f"{BASE}/oauth2/token"
 AUTH_URL = f"{BASE}/oauth2/auth"
 
 # GET /v1/messages rejects any window wider than 4 weeks (error 40020).
-# 27 days keeps us clear of boundary/DST arithmetic.
-MAX_WINDOW_DAYS = 27
+# 7 days keeps each request comfortably under the row limit for TRPL's volume
+# (roughly six messages a day), so the bisecting fallback rarely has to fire.
+MAX_WINDOW_DAYS = 7
+MIN_WINDOW_DAYS = 1
+
+# The API caps a page at 100 (error otherwise).
+PAGE_LIMIT = 100
 
 # Documented ceiling is 20 req/sec. We stay far below it; this is just politeness
 # so a large media backlog does not burst.
@@ -166,52 +171,79 @@ class Hootsuite:
         end: datetime,
         social_profile_ids: list[str] | None = None,
     ) -> Iterator[dict]:
-        """Yield outbound messages across an arbitrarily wide window.
-
-        Splits the range into <=27 day chunks and follows the cursor within each.
-        """
+        """Yield outbound messages across an arbitrarily wide window."""
         cursor_window = start
         while cursor_window < end:
             chunk_end = min(cursor_window + timedelta(days=MAX_WINDOW_DAYS), end)
-            yield from self._messages_page(cursor_window, chunk_end, social_profile_ids)
+            yield from self._messages_window(cursor_window, chunk_end, social_profile_ids)
             cursor_window = chunk_end
 
-    def _messages_page(
+    def _messages_window(
         self,
         start: datetime,
         end: datetime,
         social_profile_ids: list[str] | None,
+        depth: int = 0,
     ) -> Iterator[dict]:
-        params: list[tuple[str, str]] = [
-            ("startTime", _iso(start)),
-            ("endTime", _iso(end)),
-            ("limit", "100"),
-            ("includeUnscheduledReviewMsgs", "true"),
-        ]
-        for pid in social_profile_ids or []:
-            params.append(("socialProfileIds", str(pid)))
+        """Every message in one window, following the cursor.
 
+        If a window comes back full with no usable cursor, the response has been
+        silently truncated and the tail of the window is simply missing. That is
+        exactly what happened once TRPL crossed 100 messages in a chunk: posts
+        furthest in the future dropped off the calendar with no error anywhere.
+        Rather than trust the cursor, detect the truncation and bisect until
+        every piece fits under the limit.
+        """
+        rows: list[dict] = []
         cursor: str | None = None
         seen_cursors: set[str] = set()
         page = 0
+        truncated = False
+
         while True:
             page += 1
-            query = list(params)
+            query: list[tuple[str, str]] = [
+                ("startTime", _iso(start)),
+                ("endTime", _iso(end)),
+                ("limit", str(PAGE_LIMIT)),
+                ("includeUnscheduledReviewMsgs", "true"),
+            ]
+            for pid in social_profile_ids or []:
+                query.append(("socialProfileIds", str(pid)))
             if cursor:
                 query.append(("cursor", cursor))
 
             body = self._get("/v1/messages", params=query)
             data = body.get("data") or []
-            print(
-                f"  {start:%Y-%m-%d} -> {end:%Y-%m-%d}  page {page}: "
-                f"{len(data)} message(s)"
-            )
-            yield from data
+            rows.extend(data)
 
-            cursor = ((body.get("metadata") or {}).get("cursor") or {}).get("next")
-            if not cursor or cursor in seen_cursors:
-                break
-            seen_cursors.add(cursor)
+            cursor = _next_cursor(body)
+            if cursor and cursor not in seen_cursors:
+                seen_cursors.add(cursor)
+                continue
+
+            # A full page with nowhere to go next means there is more behind it.
+            if len(data) >= PAGE_LIMIT:
+                truncated = True
+            break
+
+        span_days = max((end - start).total_seconds() / 86400, 0)
+        if truncated and span_days > MIN_WINDOW_DAYS:
+            middle = start + (end - start) / 2
+            print(f"  {start:%Y-%m-%d}->{end:%Y-%m-%d} hit the {PAGE_LIMIT}-row "
+                  f"limit with no cursor; splitting at {middle:%Y-%m-%d}")
+            yield from self._messages_window(start, middle, social_profile_ids, depth + 1)
+            yield from self._messages_window(middle, end, social_profile_ids, depth + 1)
+            return
+
+        if truncated:
+            # A single day over the limit cannot be split further.
+            print(f"  WARNING: {start:%Y-%m-%d} alone exceeds {PAGE_LIMIT} "
+                  f"messages and the API returned no cursor - some are missing")
+
+        print(f"  {start:%Y-%m-%d} -> {end:%Y-%m-%d}: {len(rows)} message(s) "
+              f"over {page} page(s)")
+        yield from rows
 
     def media_download_url(self, media_id: str) -> str | None:
         """Resolve a media id to a temporary, pre-signed download URL.
@@ -229,6 +261,25 @@ class Hootsuite:
             print(f"  media {media_id} not READY (state={data.get('state')})")
             return None
         return data.get("downloadUrl")
+
+
+def _next_cursor(body: dict) -> str | None:
+    """Pull the forward cursor out, wherever this deployment puts it.
+
+    Documented shape is metadata.cursor.next, but the calendar was silently
+    losing rows, so accept the other plausible spellings rather than assume.
+    """
+    meta = body.get("metadata") or {}
+    candidates = [
+        (meta.get("cursor") or {}).get("next"),
+        meta.get("next"),
+        meta.get("nextCursor"),
+        body.get("next"),
+    ]
+    for value in candidates:
+        if isinstance(value, str) and value.strip():
+            return value
+    return None
 
 
 def _iso(dt: datetime) -> str:
