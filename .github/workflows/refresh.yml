@@ -2,9 +2,9 @@ name: Refresh social calendar
 
 on:
   schedule:
-    # 6am and 6pm US Central (11:00 / 23:00 UTC). GitHub's scheduler is
+    # Runs every 3 hours at minute 0. GitHub's scheduler is
     # best-effort and can run several minutes late under load.
-    - cron: '0 11,23 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
     inputs:
       days_ahead:
