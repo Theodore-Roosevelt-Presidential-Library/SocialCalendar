@@ -1,11 +1,137 @@
 {
- "generatedAt": "2026-08-11T03:36:45Z",
+ "generatedAt": "2026-08-11T06:25:25Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "a4ba3fea3c6f",
+   "url": "https://www.trlibrary.com/tr/people/bill-sewall",
+   "host": "trlibrary.com",
+   "headline": "Bill Sewall: The Maine Woodsman Who Knew the Real TR",
+   "blurb": "A rugged Maine backwoodsman, Bill Sewall guided a young, asthmatic Roosevelt through the wilderness and became a lifelong, trusted friend.",
+   "publishAt": "2026-09-04T12:00:00Z",
+   "latestAt": "2026-09-04T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/c41755752b9a0e2d.jpg",
+    "w": 1000,
+    "h": 994
+   }
+  },
+  {
+   "id": "b53144c9171c",
+   "url": "https://www.trlibrary.com/tr/presidency",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Presidency",
+   "blurb": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
+   "publishAt": "2026-09-03T12:00:00Z",
+   "latestAt": "2026-09-03T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/be98f1a2846dc68d.jpg",
+    "w": 1000,
+    "h": 697
+   }
+  },
+  {
+   "id": "fe0c5e3e078a",
+   "url": "https://www.trlibrary.com/tr/quotes/leadership",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt on Leadership",
+   "blurb": "Roosevelt's own words on leadership, from picking capable people and trusting them to lead to his conviction that decisive action beats hesitation.",
+   "publishAt": "2026-09-02T12:00:00Z",
+   "latestAt": "2026-09-02T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/44b3d3497adfb4d4.jpg",
+    "w": 981,
+    "h": 1000
+   }
+  },
+  {
+   "id": "be1fcc5af6cb",
+   "url": "https://www.trlibrary.com/tr/early-life/harvard",
+   "host": "trlibrary.com",
+   "headline": "Roosevelt at Harvard: The Making of a Historian and Political Thinker",
+   "blurb": "Arriving at Harvard in 1876 at seventeen, Theodore brought insatiable curiosity and a body remade by exercise, becoming a historian and political…",
+   "publishAt": "2026-09-01T12:00:00Z",
+   "latestAt": "2026-09-01T12:00:00Z",
+   "channels": [
+    "TWITTER",
+    "THREADS",
+    "BLUESKY",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/cfc52b263562b743.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
+  {
+   "id": "a1e736d8071c",
+   "url": "https://www.trlibrary.com/tr/speeches/new-nationalism",
+   "host": "trlibrary.com",
+   "headline": "The New Nationalism (1910)",
+   "blurb": "Roosevelt's progressive manifesto, delivered August 31, 1910 at Osawatomie, Kansas, laying out a bolder vision of government serving the public good.",
+   "publishAt": "2026-08-31T12:00:00Z",
+   "latestAt": "2026-08-31T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/1c74c00f85254614.jpg",
+    "w": 1000,
+    "h": 756
+   }
+  },
+  {
+   "id": "c9f90aad9ba2",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
+   "host": "trlibrary.com",
+   "headline": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
+   "blurb": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the…",
+   "publishAt": "2026-08-30T12:00:00Z",
+   "latestAt": "2026-08-30T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/7a48975d47b42773.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
   {
    "id": "da5acd21ee98",
    "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
@@ -39,7 +165,8 @@
     "LINKEDINCOMPANY",
     "FACEBOOKPAGE",
     "TWITTER",
-    "THREADS"
+    "THREADS",
+    "BLUESKY"
    ],
    "thumb": {
     "src": "media/05b5099acf15383f.jpg",
@@ -297,134 +424,6 @@
     "src": "media/da72d80b2a10daaf.jpg",
     "w": 801,
     "h": 1000
-   }
-  },
-  {
-   "id": "8af3d8ac8145",
-   "url": "https://cowboystatedaily.com/2026/08/09/new-high-tech-library-in-north-dakota-brings-theodore-roosevelts-legacy-to-life/",
-   "host": "Cowboy State Daily",
-   "headline": "Visiting The New High-Tech Teddy Roosevelt Library In Medora, North Dakota",
-   "blurb": "Cowboy State Daily's Anna-Louise Jackson visited the new Theodore Roosevelt National Library in Medora, North Dakota.",
-   "publishAt": "2026-08-10T20:00:00Z",
-   "latestAt": "2026-08-10T20:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "BLUESKY",
-    "INSTAGRAMBUSINESS",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/346ebb14acb12cbd.jpg",
-    "w": 1000,
-    "h": 666
-   }
-  },
-  {
-   "id": "a2e9cc140faf",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/rough-riders",
-   "host": "trlibrary.com",
-   "headline": "The Rough Riders: America's Most Famous Regiment",
-   "blurb": "Roosevelt and Wood recruited over 1,000 cowboys, Ivy League athletes, miners, and lawmen into the 1st Volunteer Cavalry, the famed Rough Riders.",
-   "publishAt": "2026-08-10T12:00:00Z",
-   "latestAt": "2026-08-10T12:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "THREADS",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY"
-   ],
-   "thumb": {
-    "src": "media/06b57d2083867b3e.jpg",
-    "w": 715,
-    "h": 1000
-   }
-  },
-  {
-   "id": "760e500ef9e0",
-   "url": "https://www.midwestliving.com/theodore-roosevelt-presidential-library-north-dakota-12030988",
-   "host": "Midwest Living",
-   "headline": "This Stunning New Presidential Library Is Woven Into the Landscape of North Dakota’s…",
-   "blurb": "The Theodore Roosevelt Presidential Library and Museum masterfully harmonizes history, nature, and technology.",
-   "publishAt": "2026-08-09T16:00:00Z",
-   "latestAt": "2026-08-09T16:04:02Z",
-   "channels": [
-    "THREADS",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "INSTAGRAMBUSINESS",
-    "BLUESKY",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/df282245e3524b0d.jpg",
-    "w": 1000,
-    "h": 666
-   }
-  },
-  {
-   "id": "ea8fda6356f0",
-   "url": "https://www.trlibrary.com/tr/badlands/boat-thieves",
-   "host": "trlibrary.com",
-   "headline": "The Adventure of the Three Boat Thieves: Justice on the Little Missouri",
-   "blurb": "When three men stole his boat in March 1886, Roosevelt chased them down the icy Little Missouri to uphold the rule of law in the Badlands.",
-   "publishAt": "2026-08-09T12:00:00Z",
-   "latestAt": "2026-08-09T12:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "THREADS",
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/7df674b513bfbf2f.jpg",
-    "w": 1000,
-    "h": 710
-   }
-  },
-  {
-   "id": "e6ada098de73",
-   "url": "https://www.trlibrary.com/calendar/special-event/downward-bull-moose-yoga-tr",
-   "host": "trlibrary.com",
-   "headline": "Downward Bull Moose: Yoga with T.R.",
-   "blurb": "",
-   "publishAt": "2026-08-08T18:00:00Z",
-   "latestAt": "2026-08-08T18:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "FACEBOOKPAGE",
-    "INSTAGRAMBUSINESS"
-   ],
-   "thumb": {
-    "src": "media/2a609398820c1db5.jpg",
-    "w": 772,
-    "h": 999
-   }
-  },
-  {
-   "id": "57fcdf04d012",
-   "url": "https://www.trlibrary.com/tr/presidency/conservation/bird-reserves",
-   "host": "trlibrary.com",
-   "headline": "51 Federal Bird Reserves: Roosevelt's Ornithological Vision",
-   "blurb": "A boyhood love of birds led Theodore Roosevelt to establish 51 federal bird reserves, pioneering federal protection for America's wildlife.",
-   "publishAt": "2026-08-08T12:00:00Z",
-   "latestAt": "2026-08-08T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/296401e6e06e463f.jpg",
-    "w": 1000,
-    "h": 524
    }
   }
  ]

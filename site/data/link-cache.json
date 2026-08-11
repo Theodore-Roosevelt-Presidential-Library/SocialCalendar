@@ -370,5 +370,47 @@
   "description": "Ten facts about Theodore Roosevelt’s presidency — from the youngest man ever to take the office to trust-busting, conservation, and the Square Deal.",
   "image": "https://www.trlibrary.com/sites/default/files/2026-07/01_portrait.jpg",
   "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/people/bill-sewall": {
+  "final": "https://www.trlibrary.com/tr/people/bill-sewall",
+  "title": "Bill Sewall: The Maine Woodsman Who Knew the Real TR",
+  "description": "A rugged Maine backwoodsman, Bill Sewall guided a young, asthmatic Roosevelt through the wilderness and became a lifelong, trusted friend.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/e1_0.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/presidency": {
+  "final": "https://www.trlibrary.com/tr/presidency",
+  "title": "Theodore Roosevelt's Presidency",
+  "description": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/pz-hub_squaredeal_sq.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/quotes/leadership": {
+  "final": "https://www.trlibrary.com/tr/quotes/leadership",
+  "title": "Theodore Roosevelt on Leadership",
+  "description": "Roosevelt's own words on leadership, from picking capable people and trusting them to lead to his conviction that decisive action beats hesitation.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/01_decisiveness_desk.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/early-life/harvard": {
+  "final": "https://www.trlibrary.com/tr/early-life/harvard",
+  "title": "Roosevelt at Harvard: The Making of a Historian and Political Thinker",
+  "description": "Arriving at Harvard in 1876 at seventeen, Theodore brought insatiable curiosity and a body remade by exercise, becoming a historian and political thinker.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/hv_s1.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/speeches/new-nationalism": {
+  "final": "https://www.trlibrary.com/tr/speeches/new-nationalism",
+  "title": "The New Nationalism (1910)",
+  "description": "Roosevelt's progressive manifesto, delivered August 31, 1910 at Osawatomie, Kansas, laying out a bolder vision of government serving the public good.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/01_osawatomie.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/rise-to-power/assistant-navy-secretary": {
+  "final": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
+  "title": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
+  "description": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the sea.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/s1_mahan.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
  }
 }

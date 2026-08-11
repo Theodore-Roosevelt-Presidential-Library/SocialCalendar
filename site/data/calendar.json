@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11T03:36:28Z",
+ "generatedAt": "2026-08-11T06:24:56Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-07-28T00:00:00Z",
@@ -4666,6 +4666,30 @@
    "sequence": null
   },
   {
+   "id": "13105591979:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-28T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1908, TR signed the order protecting Chase Lake, North Dakota. People had been shooting its pelicans for sport on Sundays; about fifty birds were left.\n\nA settler had petitioned for it, and became its first game warden.\n\nIn 2000: a record 35,466.\n\ntrlibrary.com/tr/conservation/by-the-numbers",
+   "media": [
+    {
+     "src": "media/6311c6a05b8a9336.jpg",
+     "w": 1000,
+     "h": 541,
+     "kind": "image"
+    },
+    {
+     "src": "media/80f4a6498a8afc74.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
    "id": "13105591421:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-08-29T12:00:00Z",
@@ -4802,6 +4826,942 @@
      "src": "media/385fca0a9732fade.jpg",
      "w": 1000,
      "h": 786,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591630:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-30T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1897, Assistant Secretary of the Navy Theodore Roosevelt mailed the President of the United States a pamphlet, and quietly told on his own boss in the covering note.\n\nHe had spent his \"spare hours\" that summer assembling every passage he could find in which a previous president had argued for a stronger navy. Washington, Jackson, Lincoln, Grant. Read back to back it struck him as a powerful piece of propaganda, so he decided to publish it. Thomas Jefferson did not make the cut.\n\nProtocol required showing it to his actual superior first. Secretary of the Navy John D. Long — who was already tired of his deputy's loud enthusiasm for battleships — approved it on one condition: that Roosevelt insert the words \"in my own opinion\" into the introduction, so nobody mistook it for department policy.\n\nRoosevelt agreed, in writing, with every appearance of humility: \"Hereafter I shall adopt exactly the rule you suggest about my official publications, and about my general utterances also.\"\n\nThen he sent an advance copy to President McKinley with a note pointing out this:\n\n\"On the first page, where I speak of the need of strengthening the Navy, the words 'in my own opinion,' were put in at the suggestion of the Secretary.\"\n\nWhich is to say: the hedge you are about to read is not mine. It is the Secretary's.\n\nIt appeared that year in the Proceedings of the United States Naval Institute, and the Government Printing Office issued it as a pamphlet in September: The Naval Policy of America as Outlined in Messages of the Presidents of the United States from the Beginning to the Present Day. By Edmund Morris's account it drew admiring notice, \"timely\" being the adjective most often used. Eight months later the United States was at war with Spain, and within weeks the man who compiled it had resigned to go and fight in it.\n\nMore: trlibrary.com/tr/rise-to-power/assistant-navy-secretary\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/7a48975d47b42773.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/21c96161caeedd40.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591631:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-30T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1897, Assistant Secretary of the Navy Theodore Roosevelt mailed the President of the United States a pamphlet, and quietly told on his own boss in the covering note.\n\nHe had spent his \"spare hours\" that summer assembling every passage he could find in which a previous president had argued for a stronger navy. Washington, Jackson, Lincoln, Grant. Read back to back it struck him as a powerful piece of propaganda, so he decided to publish it. Thomas Jefferson did not make the cut.\n\nProtocol required showing it to his actual superior first. Secretary of the Navy John D. Long — who was already tired of his deputy's loud enthusiasm for battleships — approved it on one condition: that Roosevelt insert the words \"in my own opinion\" into the introduction, so nobody mistook it for department policy.\n\nRoosevelt agreed, in writing, with every appearance of humility: \"Hereafter I shall adopt exactly the rule you suggest about my official publications, and about my general utterances also.\"\n\nThen he sent an advance copy to President McKinley with a note pointing out this:\n\n\"On the first page, where I speak of the need of strengthening the Navy, the words 'in my own opinion,' were put in at the suggestion of the Secretary.\"\n\nWhich is to say: the hedge you are about to read is not mine. It is the Secretary's.\n\nIt appeared that year in the Proceedings of the United States Naval Institute, and the Government Printing Office issued it as a pamphlet in September: The Naval Policy of America as Outlined in Messages of the Presidents of the United States from the Beginning to the Present Day. By Edmund Morris's account it drew admiring notice, \"timely\" being the adjective most often used. Eight months later the United States was at war with Spain, and within weeks the man who compiled it had resigned to go and fight in it.\n\nMore: trlibrary.com/tr/rise-to-power/assistant-navy-secretary\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/7a48975d47b42773.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/21c96161caeedd40.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591648:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-30T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1897, Assistant Secretary of the Navy Theodore Roosevelt mailed the President of the United States a pamphlet, and quietly told on his own boss in the covering note.\n\nHe had spent his \"spare hours\" that summer assembling every passage he could find in which a previous president had argued for a stronger navy. Washington, Jackson, Lincoln, Grant. Read back to back it struck him as a powerful piece of propaganda, so he decided to publish it. Thomas Jefferson did not make the cut.\n\nProtocol required showing it to his actual superior first. Secretary of the Navy John D. Long — who was already tired of his deputy's loud enthusiasm for battleships — approved it on one condition: that Roosevelt insert the words \"in my own opinion\" into the introduction, so nobody mistook it for department policy.\n\nRoosevelt agreed, in writing, with every appearance of humility: \"Hereafter I shall adopt exactly the rule you suggest about my official publications, and about my general utterances also.\"\n\nThen he sent an advance copy to President McKinley with a note pointing out this:\n\n\"On the first page, where I speak of the need of strengthening the Navy, the words 'in my own opinion,' were put in at the suggestion of the Secretary.\"\n\nWhich is to say: the hedge you are about to read is not mine. It is the Secretary's.\n\nIt appeared that year in the Proceedings of the United States Naval Institute, and the Government Printing Office issued it as a pamphlet in September: The Naval Policy of America as Outlined in Messages of the Presidents of the United States from the Beginning to the Present Day. By Edmund Morris's account it drew admiring notice, \"timely\" being the adjective most often used. Eight months later the United States was at war with Spain, and within weeks the man who compiled it had resigned to go and fight in it.\n\nMore on TR and the Navy on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/4a86101830cba2b2.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/c41180b62b3435e9.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591661:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-30T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1897, TR sent McKinley his pamphlet of every past president's words urging a stronger navy.\n\nHis boss had made him add \"in my own opinion\" so it wouldn't read as policy — so TR's note told the President the hedge was the Secretary's idea.\n\ntrlibrary.com/tr/rise-to-power/assistant-navy-secretary",
+   "media": [
+    {
+     "src": "media/187f23d36a1e5020.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6c3928c0f5123406.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591671:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-30T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1897, Assistant Secretary of the Navy TR mailed President McKinley his own compilation of every past president's words urging a bigger navy.\n\nSecretary Long had approved it only if TR added \"in my own opinion,\" so it wouldn't look like policy. TR added it — then told McKinley the words \"were put in at the suggestion of the Secretary.\"\n\nEight months later, war with Spain.\n\ntrlibrary.com/tr/rise-to-power/assistant-navy-secretary",
+   "media": [
+    {
+     "src": "media/6d83093d08b8133b.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/568e3719eb96df92.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591686:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-30T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1897, TR sent McKinley his compilation of every past president's words urging a stronger navy.\n\nHis boss made him add \"in my own opinion\" so it wouldn't read as policy. TR's note told the President the hedge was the Secretary's idea.\n\ntrlibrary.com/tr/rise-to-power/assistant-navy-secretary",
+   "media": [
+    {
+     "src": "media/340c2d870ff851cf.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/997ebfdf4e47183d.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591822:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1910, out of office nearly eighteen months, Theodore Roosevelt spoke to 30,000 people at Osawatomie, Kansas, at the dedication of a park honoring John Brown. Grand Army veterans were in the crowd and he spoke straight at them, quoting Lincoln. What he set out became the manifesto of the Republican insurgency.\n\nBy any measure of 1910 it was radical: federal supervision of every corporation doing interstate business, a graduated income tax, an inheritance tax on big fortunes, workmen's compensation, child labor limits. He did not pretend it was small:\n\n\"This, I know, implies a policy of a far more active governmental interference with social and economic conditions in this country than we have yet had, but I think we have got to face the fact that such an increase in governmental control is now necessary.\"\n\nThen he turned on the reformers:\n\n\"If I could ask but one thing of my fellow countrymen, my request would be that, whenever they go in for reform, they remember the two sides, and that they always exact justice from one side as much as from the other. I have small use for the public servant who can always see and denounce the corruption of the capitalist, but who cannot persuade himself, especially before election, to say a word about lawless mob-violence. And I have equally small use for the man, be he a judge on the bench or editor of a great paper, or wealthy and influential private citizen, who can see clearly enough and denounce the lawlessness of mob-violence, but whose eyes are closed so that he is blind when the question is one of corruption of business on a gigantic scale.\"\n\nHe knew how he was being read:\n\n\"Here in Kansas there is one paper which habitually denounces me as the tool of Wall Street, and at the same time frantically repudiates the statement that I am a Socialist on the ground that that is an unwarranted slander of the Socialists.\"\n\nThe country divided. Some called it socialistic; others, among the greatest speeches ever delivered. Two years later it was the platform he ran on against the man he had put in the White House.\n\nMore: trlibrary.com/tr/speeches/new-nationalism\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/1c74c00f85254614.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/639a7a54eda1152e.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    },
+    {
+     "src": "media/0e67372fe96316d5.jpg",
+     "w": 1000,
+     "h": 701,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591823:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1910, out of office nearly eighteen months, Theodore Roosevelt spoke to 30,000 people at Osawatomie, Kansas, at the dedication of a park honoring John Brown. Grand Army veterans were in the crowd and he spoke straight at them, quoting Lincoln. What he set out became the manifesto of the Republican insurgency.\n\nBy any measure of 1910 it was radical: federal supervision of every corporation doing interstate business, a graduated income tax, an inheritance tax on big fortunes, workmen's compensation, child labor limits. He did not pretend it was small:\n\n\"This, I know, implies a policy of a far more active governmental interference with social and economic conditions in this country than we have yet had, but I think we have got to face the fact that such an increase in governmental control is now necessary.\"\n\nThen he turned on the reformers:\n\n\"If I could ask but one thing of my fellow countrymen, my request would be that, whenever they go in for reform, they remember the two sides, and that they always exact justice from one side as much as from the other. I have small use for the public servant who can always see and denounce the corruption of the capitalist, but who cannot persuade himself, especially before election, to say a word about lawless mob-violence. And I have equally small use for the man, be he a judge on the bench or editor of a great paper, or wealthy and influential private citizen, who can see clearly enough and denounce the lawlessness of mob-violence, but whose eyes are closed so that he is blind when the question is one of corruption of business on a gigantic scale.\"\n\nHe knew how he was being read:\n\n\"Here in Kansas there is one paper which habitually denounces me as the tool of Wall Street, and at the same time frantically repudiates the statement that I am a Socialist on the ground that that is an unwarranted slander of the Socialists.\"\n\nThe country divided. Some called it socialistic; others, among the greatest speeches ever delivered. Two years later it was the platform he ran on against the man he had put in the White House.\n\nMore: trlibrary.com/tr/speeches/new-nationalism\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/1c74c00f85254614.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/639a7a54eda1152e.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    },
+    {
+     "src": "media/0e67372fe96316d5.jpg",
+     "w": 1000,
+     "h": 701,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591839:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1910, out of office nearly eighteen months, Theodore Roosevelt spoke to 30,000 people at Osawatomie, Kansas, at the dedication of a park honoring John Brown. Grand Army veterans were in the crowd and he spoke straight at them, quoting Lincoln. What he set out became the manifesto of the Republican insurgency.\n\nBy any measure of 1910 it was radical: federal supervision of every corporation doing interstate business, a graduated income tax, an inheritance tax on big fortunes, workmen's compensation, child labor limits. He did not pretend it was small:\n\n\"This, I know, implies a policy of a far more active governmental interference with social and economic conditions in this country than we have yet had, but I think we have got to face the fact that such an increase in governmental control is now necessary.\"\n\nThen he turned on the reformers:\n\n\"If I could ask but one thing of my fellow countrymen, my request would be that, whenever they go in for reform, they remember the two sides, and that they always exact justice from one side as much as from the other. I have small use for the public servant who can always see and denounce the corruption of the capitalist, but who cannot persuade himself, especially before election, to say a word about lawless mob-violence. And I have equally small use for the man, be he a judge on the bench or editor of a great paper, or wealthy and influential private citizen, who can see clearly enough and denounce the lawlessness of mob-violence, but whose eyes are closed so that he is blind when the question is one of corruption of business on a gigantic scale.\"\n\nHe knew how he was being read:\n\n\"Here in Kansas there is one paper which habitually denounces me as the tool of Wall Street, and at the same time frantically repudiates the statement that I am a Socialist on the ground that that is an unwarranted slander of the Socialists.\"\n\nThe country divided. Some called it socialistic; others, among the greatest speeches ever delivered. Two years later it was the platform he ran on against the man he had put in the White House.\n\nMore on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/df20945fdbe26e68.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f3118059825fd117.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/44f0565c8f43c6df.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591846:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1910 at Osawatomie, Kansas, TR set out the New Nationalism to 30,000 people: federal regulation of interstate corporations, a graduated income tax, an inheritance tax on big fortunes.\n\nMid-speech he asked reformers to \"remember the two sides.\"\n\ntrlibrary.com/tr/speeches/new-nationalism",
+   "media": [
+    {
+     "src": "media/bf27e5feb2da4b0c.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/3df0af8888061fd3.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    },
+    {
+     "src": "media/19bde388364830c4.jpg",
+     "w": 1000,
+     "h": 701,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591856:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1910, to 30,000 at Osawatomie, Kansas, TR laid out the New Nationalism — federal supervision of interstate corporations, a graduated income tax, an inheritance tax on big fortunes.\n\nMid-speech he asked that reformers \"remember the two sides, and that they always exact justice from one side as much as from the other.\"\n\nOne Kansas paper, he noted, called him a tool of Wall Street while denying he was a Socialist.\n\ntrlibrary.com/tr/speeches/new-nationalism",
+   "media": [
+    {
+     "src": "media/41c27bec653c632c.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/76781d305ff36129.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    },
+    {
+     "src": "media/e99939dfa249c135.jpg",
+     "w": 1000,
+     "h": 701,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105591867:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1910 at Osawatomie, Kansas, TR laid out the New Nationalism to 30,000 people: federal regulation of interstate corporations, a graduated income tax, an inheritance tax on big fortunes.\n\nHe also asked reformers to \"remember the two sides.\"\n\ntrlibrary.com/tr/speeches/new-nationalism",
+   "media": [
+    {
+     "src": "media/30cee68e679bc442.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/d44bf2742ea9ca43.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    },
+    {
+     "src": "media/aa995076a2633b03.jpg",
+     "w": 1000,
+     "h": 701,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105593914:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-01T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1878, a nineteen-year-old about to start his junior year at Harvard sat down and admitted he had no idea what to do with his life.\n\n\"I had a long talk with Uncle Jim about my future life; I have absolutely no idea what I shall do when I leave college.\"\n\nHis father had been dead nearly seven months. Theodore Roosevelt Sr. — the man his son called the best he ever knew — had died in February at forty-six of a malignant tumor of the bowel, after months in which the family watched and could do nothing. The son had not been there at the end.\n\nThe next line of the diary is not a plan. It is grief:\n\n\"Oh, Father, my Father, no words can tell how I shall miss your counsel and advice!\"\n\nAnd then, immediately, the only thing he can think of to do about it:\n\n\"However, for the next two years my duty is clear—to study well and live like a brave Christian gentleman.\"\n\nThat is the whole entry. A boy with no direction, no father, and one rule he has decided to follow until something better arrives.\n\nUncle Jim was James Alfred Roosevelt, his father's brother, a New York banker, and now the man with the final say over the family's money.\n\nWorth remembering what happens next, and how little of it he could see coming. Within six years he would be a published historian, a state assemblyman, a widower and a rancher. Twenty-three years later he would be president. On this day in 1878 the plan was to study well and behave decently, and that was all of it.\n\nMore on TR at Harvard on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #AmericanHistory #PresidentialHistory",
+   "media": [
+    {
+     "src": "media/a3a56bef4eddfd53.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ac6f7c28f26bd141.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105593925:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-01T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1878, nearly seven months after his father died, a 19-year-old TR wrote: \"I have absolutely no idea what I shall do when I leave college.\"\n\nThen: \"my duty is clear—to study well and live like a brave Christian gentleman.\"\n\ntrlibrary.com/tr/early-life/harvard",
+   "media": [
+    {
+     "src": "media/cfc52b263562b743.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ebc9f376d87b0566.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105593933:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-01T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1878, starting his junior year at Harvard and nearly seven months after his father's death, TR wrote:\n\n\"I had a long talk with Uncle Jim about my future life; I have absolutely no idea what I shall do when I leave college. Oh, Father, my Father, no words can tell how I shall miss your counsel and advice! However, for the next two years my duty is clear—to study well and live like a brave Christian gentleman.\"\n\ntrlibrary.com/tr/early-life/harvard",
+   "media": [
+    {
+     "src": "media/86616f18acd5b7aa.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5301ad674f75e22b.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105593938:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-01T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1878, nearly seven months after his father died, a 19-year-old TR wrote: \"I have absolutely no idea what I shall do when I leave college.\"\n\nThen: \"my duty is clear—to study well and live like a brave Christian gentleman.\"\n\nThat was the whole plan.\n\ntrlibrary.com/tr/early-life/harvard",
+   "media": [
+    {
+     "src": "media/e23c1026bb8881a5.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/8eda115378ca068a.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105593964:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-01T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1878, a nineteen-year-old about to start his junior year at Harvard sat down and admitted he had no idea what to do with his life.\n\n\"I had a long talk with Uncle Jim about my future life; I have absolutely no idea what I shall do when I leave college.\"\n\nHis father had been dead nearly seven months. Theodore Roosevelt Sr. — the man his son called the best he ever knew — had died in February at forty-six of a malignant tumor of the bowel, after months in which the family watched and could do nothing. The son had not been there at the end.\n\nThe next line of the diary is not a plan. It is grief:\n\n\"Oh, Father, my Father, no words can tell how I shall miss your counsel and advice!\"\n\nAnd then, immediately, the only thing he can think of to do about it:\n\n\"However, for the next two years my duty is clear—to study well and live like a brave Christian gentleman.\"\n\nThat is the whole entry. A boy with no direction, no father, and one rule he has decided to follow until something better arrives.\n\nUncle Jim was James Alfred Roosevelt, his father's brother, a New York banker, and now the man with the final say over the family's money.\n\nWorth remembering what happens next, and how little of it he could see coming. Within six years he would be a published historian, a state assemblyman, a widower and a rancher. Twenty-three years later he would be president. On this day in 1878 the plan was to study well and behave decently, and that was all of it.\n\nMore: trlibrary.com/tr/early-life/harvard\n\n#OTD #OnThisDay #TheodoreRoosevelt #AmericanHistory #PresidentialHistory",
+   "media": [
+    {
+     "src": "media/b44666bdebb8e59a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/900b7c03be18aa52.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105593965:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-01T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1878, a nineteen-year-old about to start his junior year at Harvard sat down and admitted he had no idea what to do with his life.\n\n\"I had a long talk with Uncle Jim about my future life; I have absolutely no idea what I shall do when I leave college.\"\n\nHis father had been dead nearly seven months. Theodore Roosevelt Sr. — the man his son called the best he ever knew — had died in February at forty-six of a malignant tumor of the bowel, after months in which the family watched and could do nothing. The son had not been there at the end.\n\nThe next line of the diary is not a plan. It is grief:\n\n\"Oh, Father, my Father, no words can tell how I shall miss your counsel and advice!\"\n\nAnd then, immediately, the only thing he can think of to do about it:\n\n\"However, for the next two years my duty is clear—to study well and live like a brave Christian gentleman.\"\n\nThat is the whole entry. A boy with no direction, no father, and one rule he has decided to follow until something better arrives.\n\nUncle Jim was James Alfred Roosevelt, his father's brother, a New York banker, and now the man with the final say over the family's money.\n\nWorth remembering what happens next, and how little of it he could see coming. Within six years he would be a published historian, a state assemblyman, a widower and a rancher. Twenty-three years later he would be president. On this day in 1878 the plan was to study well and behave decently, and that was all of it.\n\nMore: trlibrary.com/tr/early-life/harvard\n\n#OTD #OnThisDay #TheodoreRoosevelt #AmericanHistory #PresidentialHistory",
+   "media": [
+    {
+     "src": "media/b44666bdebb8e59a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/900b7c03be18aa52.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594052:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-02T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty-five years ago today, at the Minnesota State Fair, Vice President Theodore Roosevelt quoted the line he is still quoted for.\n\n\"A good many of you are probably acquainted with the old proverb: 'Speak softly and carry a big stick—you will go far.'\"\n\nThree things about it are not what people assume.\n\nThe first is that he had been using it for more than a year and a half, and not about foreign policy. He wrote it down in January 1900, in a letter to Henry Sprague, in a good mood after forcing the New York Republican machine to drop a corrupt state insurance superintendent: \"I have always been fond of the West African proverb.\" The most famous line in the history of American foreign policy started life as a comment on a patronage fight in Albany.\n\nThe second is that nobody has found the proverb. No earlier use of it has ever turned up, and Roosevelt never said where he had heard it.\n\nThe third is the part that gets left off. The line is not a boast, and the rest of the same paragraph says so:\n\n\"If a man continually blusters, if he lacks civility, a big stick will not save him from trouble; and neither will speaking softly avail, if back of the softness there does not lie strength, power. In private life there are few beings more obnoxious than the man who is always loudly boasting; and if the boaster is not prepared to back up his words his position becomes absolutely contemptible. So it is with the nation. It is both foolish and undignified to indulge in undue self-glorification, and, above all, in loose-tongued denunciation of other peoples.\"\n\nThe big stick without the soft speech, in other words, is just a man shouting.\n\nThe speech is called \"National Duties,\" and the rest of it is harder going: a defense of American rule in the Philippines in the language of civilization and barbarism, and of the taking of Dakota from the people who lived there. Both things are in the same address.\n\nTwelve days later William McKinley was dead and Roosevelt was President of the United States.\n\nMore: trlibrary.com/tr/quotes/leadership\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/44b3d3497adfb4d4.jpg",
+     "w": 981,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2f2b79d03f27171a.jpg",
+     "w": 1000,
+     "h": 857,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594053:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-02T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty-five years ago today, at the Minnesota State Fair, Vice President Theodore Roosevelt quoted the line he is still quoted for.\n\n\"A good many of you are probably acquainted with the old proverb: 'Speak softly and carry a big stick—you will go far.'\"\n\nThree things about it are not what people assume.\n\nThe first is that he had been using it for more than a year and a half, and not about foreign policy. He wrote it down in January 1900, in a letter to Henry Sprague, in a good mood after forcing the New York Republican machine to drop a corrupt state insurance superintendent: \"I have always been fond of the West African proverb.\" The most famous line in the history of American foreign policy started life as a comment on a patronage fight in Albany.\n\nThe second is that nobody has found the proverb. No earlier use of it has ever turned up, and Roosevelt never said where he had heard it.\n\nThe third is the part that gets left off. The line is not a boast, and the rest of the same paragraph says so:\n\n\"If a man continually blusters, if he lacks civility, a big stick will not save him from trouble; and neither will speaking softly avail, if back of the softness there does not lie strength, power. In private life there are few beings more obnoxious than the man who is always loudly boasting; and if the boaster is not prepared to back up his words his position becomes absolutely contemptible. So it is with the nation. It is both foolish and undignified to indulge in undue self-glorification, and, above all, in loose-tongued denunciation of other peoples.\"\n\nThe big stick without the soft speech, in other words, is just a man shouting.\n\nThe speech is called \"National Duties,\" and the rest of it is harder going: a defense of American rule in the Philippines in the language of civilization and barbarism, and of the taking of Dakota from the people who lived there. Both things are in the same address.\n\nTwelve days later William McKinley was dead and Roosevelt was President of the United States.\n\nMore: trlibrary.com/tr/quotes/leadership\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/44b3d3497adfb4d4.jpg",
+     "w": 981,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2f2b79d03f27171a.jpg",
+     "w": 1000,
+     "h": 857,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594071:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-02T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty-five years ago today, at the Minnesota State Fair, Vice President Theodore Roosevelt quoted the line he is still quoted for.\n\n\"A good many of you are probably acquainted with the old proverb: 'Speak softly and carry a big stick—you will go far.'\"\n\nThree things about it are not what people assume.\n\nThe first is that he had been using it for more than a year and a half, and not about foreign policy. He wrote it down in January 1900, in a letter to Henry Sprague, in a good mood after forcing the New York Republican machine to drop a corrupt state insurance superintendent: \"I have always been fond of the West African proverb.\" The most famous line in the history of American foreign policy started life as a comment on a patronage fight in Albany.\n\nThe second is that nobody has found the proverb. No earlier use of it has ever turned up, and Roosevelt never said where he had heard it.\n\nThe third is the part that gets left off. The line is not a boast, and the rest of the same paragraph says so:\n\n\"If a man continually blusters, if he lacks civility, a big stick will not save him from trouble; and neither will speaking softly avail, if back of the softness there does not lie strength, power. In private life there are few beings more obnoxious than the man who is always loudly boasting; and if the boaster is not prepared to back up his words his position becomes absolutely contemptible. So it is with the nation. It is both foolish and undignified to indulge in undue self-glorification, and, above all, in loose-tongued denunciation of other peoples.\"\n\nThe big stick without the soft speech, in other words, is just a man shouting.\n\nThe speech is called \"National Duties,\" and the rest of it is harder going: a defense of American rule in the Philippines in the language of civilization and barbarism, and of the taking of Dakota from the people who lived there. Both things are in the same address.\n\nTwelve days later William McKinley was dead and Roosevelt was President of the United States.\n\nMore TR on leadership on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/8459866d3c0c4282.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a636ff1934c1f27f.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594076:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-02T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "125 years ago today at the Minnesota State Fair, TR quoted an old adage: \"Speak softly and carry a big stick—you will go far.\"\n\nThe part nobody quotes: \"If a man continually blusters... a big stick will not save him from trouble.\"\n\ntrlibrary.com/tr/quotes/leadership",
+   "media": [
+    {
+     "src": "media/f78538982e3f6a5b.jpg",
+     "w": 981,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ea9453a0e854812d.jpg",
+     "w": 1000,
+     "h": 857,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594087:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-02T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "125 years ago today at the Minnesota State Fair, TR quoted \"the old proverb: 'Speak softly and carry a big stick—you will go far.'\"\n\nHe had used it since January 1900 — about a patronage fight in Albany, not foreign policy. In that letter he called it a West African proverb; no earlier use has ever turned up.\n\nTwelve days later McKinley was dead and he was president.\n\ntrlibrary.com/tr/quotes/leadership",
+   "media": [
+    {
+     "src": "media/77770e2b37ec9476.jpg",
+     "w": 981,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/8853661d47c001a3.jpg",
+     "w": 1000,
+     "h": 857,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594093:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-02T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "125 years ago today at the Minnesota State Fair, TR quoted \"the old proverb: 'Speak softly and carry a big stick—you will go far.'\"\n\nIn a letter the year before he called it West African. No earlier use has ever turned up.\n\nTwelve days later he was president.\n\ntrlibrary.com/tr/quotes/leadership",
+   "media": [
+    {
+     "src": "media/ec5e7ec148d6a480.jpg",
+     "w": 981,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6faa90b48626178f.jpg",
+     "w": 1000,
+     "h": 857,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594251:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-03T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, on the last morning of a New England tour, a streetcar ran into the President of the United States.\n\nRoosevelt was in an open carriage outside Pittsfield, Massachusetts, with Governor Winthrop Murray Crane and his secretary George Cortelyou. An electric trolley came down the hill fast. William Craig, the Secret Service man riding with them, saw it coming and shouted.\n\nThe car struck the carriage. Roosevelt was thrown into the road. Cortelyou was concussed. Craig went under the wheels and was killed — the first Secret Service agent to die in the line of duty.\n\nHe was a Scot from Glasgow, six foot four, a champion broadswordsman who had spent twelve years in the Royal Horse Guards, some of it guarding Queen Victoria. He had been assigned to Roosevelt in Buffalo almost exactly a year earlier — days after standing on McKinley's detail the afternoon McKinley was shot.\n\nRoosevelt got up, found his spectacles unbroken in the grass, and told the doctor to see to the others. Then he saw what was under the trolley. He went at the motorman with his fists up, and men had to get between them. Then he came back and knelt by the wheels.\n\n\"Poor Craig,\" he said. \"How my children will feel.\"\n\nHe kept the rest of the day's stops but made no speeches. By evening he was on the presidential yacht, headed home.\n\nThe injury that mattered turned out not to be the face. A blow to his left leg abscessed over the following three weeks and needed emergency surgery in Indianapolis, which put him on crutches and cut short a second speaking trip. He had trouble with that leg for the rest of his life.\n\nThe motorman, Euclid Madden, pleaded guilty to manslaughter and was sentenced to six months in jail and a $300 fine.\n\nOf Craig, Roosevelt said: \"The man who was killed was one of whom I was fond and whom I greatly prized for his loyalty and faithfulness.\" Craig had been closest of all to four-year-old Quentin. They used to read the funny papers together.\n\nMore: trlibrary.com/tr/presidency\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/be98f1a2846dc68d.jpg",
+     "w": 1000,
+     "h": 697,
+     "kind": "image"
+    },
+    {
+     "src": "media/7310415591511e27.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/e11294e25ece3693.jpg",
+     "w": 1000,
+     "h": 835,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594252:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-03T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, on the last morning of a New England tour, a streetcar ran into the President of the United States.\n\nRoosevelt was in an open carriage outside Pittsfield, Massachusetts, with Governor Winthrop Murray Crane and his secretary George Cortelyou. An electric trolley came down the hill fast. William Craig, the Secret Service man riding with them, saw it coming and shouted.\n\nThe car struck the carriage. Roosevelt was thrown into the road. Cortelyou was concussed. Craig went under the wheels and was killed — the first Secret Service agent to die in the line of duty.\n\nHe was a Scot from Glasgow, six foot four, a champion broadswordsman who had spent twelve years in the Royal Horse Guards, some of it guarding Queen Victoria. He had been assigned to Roosevelt in Buffalo almost exactly a year earlier — days after standing on McKinley's detail the afternoon McKinley was shot.\n\nRoosevelt got up, found his spectacles unbroken in the grass, and told the doctor to see to the others. Then he saw what was under the trolley. He went at the motorman with his fists up, and men had to get between them. Then he came back and knelt by the wheels.\n\n\"Poor Craig,\" he said. \"How my children will feel.\"\n\nHe kept the rest of the day's stops but made no speeches. By evening he was on the presidential yacht, headed home.\n\nThe injury that mattered turned out not to be the face. A blow to his left leg abscessed over the following three weeks and needed emergency surgery in Indianapolis, which put him on crutches and cut short a second speaking trip. He had trouble with that leg for the rest of his life.\n\nThe motorman, Euclid Madden, pleaded guilty to manslaughter and was sentenced to six months in jail and a $300 fine.\n\nOf Craig, Roosevelt said: \"The man who was killed was one of whom I was fond and whom I greatly prized for his loyalty and faithfulness.\" Craig had been closest of all to four-year-old Quentin. They used to read the funny papers together.\n\nMore: trlibrary.com/tr/presidency\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/be98f1a2846dc68d.jpg",
+     "w": 1000,
+     "h": 697,
+     "kind": "image"
+    },
+    {
+     "src": "media/7310415591511e27.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/e11294e25ece3693.jpg",
+     "w": 1000,
+     "h": 835,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594269:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-03T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, on the last morning of a New England tour, a streetcar ran into the President of the United States.\n\nRoosevelt was in an open carriage outside Pittsfield, Massachusetts, with Governor Winthrop Murray Crane and his secretary George Cortelyou. An electric trolley came down the hill fast. William Craig, the Secret Service man riding with them, saw it coming and shouted.\n\nThe car struck the carriage. Roosevelt was thrown into the road. Cortelyou was concussed. Craig went under the wheels and was killed — the first Secret Service agent to die in the line of duty.\n\nHe was a Scot from Glasgow, six foot four, a champion broadswordsman who had spent twelve years in the Royal Horse Guards, some of it guarding Queen Victoria. He had been assigned to Roosevelt in Buffalo almost exactly a year earlier — days after standing on McKinley's detail the afternoon McKinley was shot.\n\nRoosevelt got up, found his spectacles unbroken in the grass, and told the doctor to see to the others. Then he saw what was under the trolley. He went at the motorman with his fists up, and men had to get between them. Then he came back and knelt by the wheels.\n\n\"Poor Craig,\" he said. \"How my children will feel.\"\n\nHe kept the rest of the day's stops but made no speeches. By evening he was on the presidential yacht, headed home.\n\nThe injury that mattered turned out not to be the face. A blow to his left leg abscessed over the following three weeks and needed emergency surgery in Indianapolis, which put him on crutches and cut short a second speaking trip. He had trouble with that leg for the rest of his life.\n\nThe motorman, Euclid Madden, pleaded guilty to manslaughter and was sentenced to six months in jail and a $300 fine.\n\nOf Craig, Roosevelt said: \"The man who was killed was one of whom I was fond and whom I greatly prized for his loyalty and faithfulness.\" Craig had been closest of all to four-year-old Quentin. They used to read the funny papers together.\n\nMore on TR's presidency on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/b45ddf3aed36dd7e.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a41f30a5b6dc3688.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/cc715744aa279d7d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594275:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-03T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, a speeding trolley hit President Roosevelt's carriage outside Pittsfield, Massachusetts.\n\nTR was thrown into the road. William Craig, the Secret Service man riding with him, was killed — the first agent to die in the line of duty.\n\ntrlibrary.com/tr/presidency",
+   "media": [
+    {
+     "src": "media/89bbcc5cefe2ae0b.jpg",
+     "w": 1000,
+     "h": 697,
+     "kind": "image"
+    },
+    {
+     "src": "media/36f0cad9e087571c.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/f33b8f5822b63ba7.jpg",
+     "w": 1000,
+     "h": 835,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594314:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-03T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, on the last morning of a New England tour, a speeding electric trolley hit President Roosevelt's open carriage outside Pittsfield, Massachusetts.\n\nTR was thrown into the road. William Craig — a Glasgow Scot, six foot four, twelve years in the Royal Horse Guards — went under the wheels. He was the first Secret Service agent killed in the line of duty.\n\n\"Poor Craig,\" TR said. \"How my children will feel.\"\n\ntrlibrary.com/tr/presidency",
+   "media": [
+    {
+     "src": "media/844af988ae38efbf.jpg",
+     "w": 1000,
+     "h": 697,
+     "kind": "image"
+    },
+    {
+     "src": "media/5007cc58da9c1731.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/d8c0f6bd80074990.jpg",
+     "w": 1000,
+     "h": 835,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594326:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-03T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, a speeding trolley hit President Roosevelt's open carriage outside Pittsfield, Massachusetts.\n\nTR was thrown into the road. William Craig, the Secret Service man riding with him, went under the wheels — the first agent to die in the line of duty.\n\ntrlibrary.com/tr/presidency",
+   "media": [
+    {
+     "src": "media/7f64066e2c186592.jpg",
+     "w": 1000,
+     "h": 697,
+     "kind": "image"
+    },
+    {
+     "src": "media/d01c18043dd21f38.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/ff5a72dbc03bafb5.jpg",
+     "w": 1000,
+     "h": 835,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594425:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-04T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a twenty-year-old Theodore Roosevelt spent the day packing a canoe, and wrote down exactly what went in it.\n\n\"Spent the day preparing for my Munsungun trip; I shall go in a canoe, alone with Seawall. For provisions I took pork and hardtack & some flour; we have a shelter tent, two blankets & some cooking utensils; & one complete change of clothing each. I take 50 cartridges for the rifle and 100 for the shotgun. I shall only use moccasins.\"\n\nPork, hardtack, flour. A shelter tent. Two blankets. One change of clothes. A hundred and fifty rounds. No boots.\n\n\"Seawall\" is Bill Sewall — William Wingate Sewall, a Maine guide thirteen years his senior who had been taking this asthmatic, nearsighted college boy into the woods and finding, to his own surprise, that he could keep up. Sewall's first impression, set down years later, was of \"a thin, pale youngster with bad eyes and a weak heart.\"\n\nThey went up to Munsungan Lake, the two of them, and camped.\n\nFive years later Roosevelt wrote to Sewall from Dakota Territory and asked him to come out and run a cattle ranch with him. Sewall had never seen the Badlands and did not want to go. He went anyway, with his nephew Wilmot Dow; the families followed, and Sewall's son was born at the Elkhorn. For two years they ran it. In 1886 Sewall and Dow were two of the three men who went down the ice-choked Little Missouri after the thieves who stole Roosevelt's boat.\n\nHe outlived him by eleven years. Around 1921, two years after Roosevelt died, Sewall walked back in to the shore of Munsungan Lake with Game Warden Walter Wood and a man named Russell Whitman, cut a blaze into a pine and built a cairn of stones at the foot of it, to mark the place where the two of them had camped. Somebody photographed it. The old man in the suspenders, leaning on the tree and watching the younger men stack the rocks, is Bill Sewall.\n\nMore: trlibrary.com/tr/people/bill-sewall\n\n#OTD #OnThisDay #TheodoreRoosevelt #Maine #AmericanHistory",
+   "media": [
+    {
+     "src": "media/c41755752b9a0e2d.jpg",
+     "w": 1000,
+     "h": 994,
+     "kind": "image"
+    },
+    {
+     "src": "media/35ec749b10df852b.jpg",
+     "w": 1000,
+     "h": 678,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594426:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-04T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a twenty-year-old Theodore Roosevelt spent the day packing a canoe, and wrote down exactly what went in it.\n\n\"Spent the day preparing for my Munsungun trip; I shall go in a canoe, alone with Seawall. For provisions I took pork and hardtack & some flour; we have a shelter tent, two blankets & some cooking utensils; & one complete change of clothing each. I take 50 cartridges for the rifle and 100 for the shotgun. I shall only use moccasins.\"\n\nPork, hardtack, flour. A shelter tent. Two blankets. One change of clothes. A hundred and fifty rounds. No boots.\n\n\"Seawall\" is Bill Sewall — William Wingate Sewall, a Maine guide thirteen years his senior who had been taking this asthmatic, nearsighted college boy into the woods and finding, to his own surprise, that he could keep up. Sewall's first impression, set down years later, was of \"a thin, pale youngster with bad eyes and a weak heart.\"\n\nThey went up to Munsungan Lake, the two of them, and camped.\n\nFive years later Roosevelt wrote to Sewall from Dakota Territory and asked him to come out and run a cattle ranch with him. Sewall had never seen the Badlands and did not want to go. He went anyway, with his nephew Wilmot Dow; the families followed, and Sewall's son was born at the Elkhorn. For two years they ran it. In 1886 Sewall and Dow were two of the three men who went down the ice-choked Little Missouri after the thieves who stole Roosevelt's boat.\n\nHe outlived him by eleven years. Around 1921, two years after Roosevelt died, Sewall walked back in to the shore of Munsungan Lake with Game Warden Walter Wood and a man named Russell Whitman, cut a blaze into a pine and built a cairn of stones at the foot of it, to mark the place where the two of them had camped. Somebody photographed it. The old man in the suspenders, leaning on the tree and watching the younger men stack the rocks, is Bill Sewall.\n\nMore: trlibrary.com/tr/people/bill-sewall\n\n#OTD #OnThisDay #TheodoreRoosevelt #Maine #AmericanHistory",
+   "media": [
+    {
+     "src": "media/c41755752b9a0e2d.jpg",
+     "w": 1000,
+     "h": 994,
+     "kind": "image"
+    },
+    {
+     "src": "media/35ec749b10df852b.jpg",
+     "w": 1000,
+     "h": 678,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594447:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-04T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a twenty-year-old Theodore Roosevelt spent the day packing a canoe, and wrote down exactly what went in it.\n\n\"Spent the day preparing for my Munsungun trip; I shall go in a canoe, alone with Seawall. For provisions I took pork and hardtack & some flour; we have a shelter tent, two blankets & some cooking utensils; & one complete change of clothing each. I take 50 cartridges for the rifle and 100 for the shotgun. I shall only use moccasins.\"\n\nPork, hardtack, flour. A shelter tent. Two blankets. One change of clothes. A hundred and fifty rounds. No boots.\n\n\"Seawall\" is Bill Sewall — William Wingate Sewall, a Maine guide thirteen years his senior who had been taking this asthmatic, nearsighted college boy into the woods and finding, to his own surprise, that he could keep up. Sewall's first impression, set down years later, was of \"a thin, pale youngster with bad eyes and a weak heart.\"\n\nThey went up to Munsungan Lake, the two of them, and camped.\n\nFive years later Roosevelt wrote to Sewall from Dakota Territory and asked him to come out and run a cattle ranch with him. Sewall had never seen the Badlands and did not want to go. He went anyway, with his nephew Wilmot Dow; the families followed, and Sewall's son was born at the Elkhorn. For two years they ran it. In 1886 Sewall and Dow were two of the three men who went down the ice-choked Little Missouri after the thieves who stole Roosevelt's boat.\n\nHe outlived him by eleven years. Around 1921, two years after Roosevelt died, Sewall walked back in to the shore of Munsungan Lake with Game Warden Walter Wood and a man named Russell Whitman, cut a blaze into a pine and built a cairn of stones at the foot of it, to mark the place where the two of them had camped. Somebody photographed it. The old man in the suspenders, leaning on the tree and watching the younger men stack the rocks, is Bill Sewall.\n\nMore on Bill Sewall on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Maine #AmericanHistory",
+   "media": [
+    {
+     "src": "media/2bb470c611a14416.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/223ebd2f77103be6.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594456:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-04T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, TR packed a canoe for the Maine woods: \"pork and hardtack & some flour... two blankets... one complete change of clothing each... I shall only use moccasins.\"\n\nHis companion was Bill Sewall.\n\ntrlibrary.com/tr/people/bill-sewall",
+   "media": [
+    {
+     "src": "media/c3112d46b78d9f25.jpg",
+     "w": 1000,
+     "h": 994,
+     "kind": "image"
+    },
+    {
+     "src": "media/dce267ac6cdcdfba.jpg",
+     "w": 1000,
+     "h": 678,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594469:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-04T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a 20-year-old TR listed what he was taking into the Maine woods by canoe:\n\n\"pork and hardtack & some flour; we have a shelter tent, two blankets & some cooking utensils; & one complete change of clothing each. I take 50 cartridges for the rifle and 100 for the shotgun. I shall only use moccasins.\"\n\nHis companion was Bill Sewall, who five years later moved to Dakota to run the Elkhorn for him.\n\ntrlibrary.com/tr/people/bill-sewall",
+   "media": [
+    {
+     "src": "media/af52da54d433fdf3.jpg",
+     "w": 1000,
+     "h": 994,
+     "kind": "image"
+    },
+    {
+     "src": "media/c7968e146f35e0ae.jpg",
+     "w": 1000,
+     "h": 678,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105594481:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-04T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a 20-year-old TR packed a canoe for the Maine woods: pork, hardtack, flour, a shelter tent, two blankets, 150 cartridges. \"I shall only use moccasins.\"\n\nHis companion was Bill Sewall, who five years later ran the Elkhorn for him.\n\ntrlibrary.com/tr/people/bill-sewall",
+   "media": [
+    {
+     "src": "media/97750c1b982b5e74.jpg",
+     "w": 1000,
+     "h": 994,
+     "kind": "image"
+    },
+    {
+     "src": "media/b093ec67002c3849.jpg",
+     "w": 1000,
+     "h": 678,
      "kind": "image"
     }
    ],
