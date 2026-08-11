@@ -307,5 +307,40 @@
   "description": "Cowboy State Daily's Anna-Louise Jackson visited the new Theodore Roosevelt National Library in Medora, North Dakota. She highly recommends the journey as…",
   "image": null,
   "site": null
+ },
+ "https://trlibrary.com/tr/badlands/first-trip": {
+  "final": "https://www.trlibrary.com/tr/badlands/first-trip",
+  "title": "TR’s First Trip West: The Buffalo Hunt That Changed Everything",
+  "description": "In September 1883, a 24-year-old New York assemblyman stepped off the train at Little Missouri for a buffalo hunt that would change his life.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/ft_s1.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/myths": {
+  "final": "https://www.trlibrary.com/tr/myths",
+  "title": "Theodore Roosevelt Myths & Misconceptions",
+  "description": "Sort fact from folklore — the misquotes, the \"Teddy\" nickname he never chose, and the surprising truths behind the myths that still cling to Roosevelt.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/qt-hub_misquotes_43.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/badlands/landscape": {
+  "final": "https://www.trlibrary.com/tr/badlands/landscape",
+  "title": "The Badlands Landscape: The Land That Changed Roosevelt",
+  "description": "Eroded buttes, deep coulees, and the Little Missouri River shape the Dakota Badlands—the wild country that reshaped a young Theodore Roosevelt.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/s1_landscape.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/badlands/frontier-life": {
+  "final": "https://www.trlibrary.com/tr/badlands/frontier-life",
+  "title": "Frontier Life in the 1880s Badlands",
+  "description": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s Badlands.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/fl_s1.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/early-life/siblings": {
+  "final": "https://www.trlibrary.com/tr/early-life/siblings",
+  "title": "TR’s Siblings: Bamie, Elliott, and Corinne—Family at Its Best and Worst",
+  "description": "Theodore's siblings—devoted Bamie, charming and troubled Elliott, and warm Corinne—shaped him in ways both steadying and sorrowful throughout his life.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/si_s1.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
  }
 }

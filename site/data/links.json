@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10T21:19:16Z",
+ "generatedAt": "2026-08-11T00:27:47Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -7,24 +7,150 @@
  },
  "items": [
   {
+   "id": "ef08c75b8732",
+   "url": "https://www.trlibrary.com/tr/badlands/first-trip",
+   "host": "trlibrary.com",
+   "headline": "TR’s First Trip West: The Buffalo Hunt That Changed Everything",
+   "blurb": "In September 1883, a 24-year-old New York assemblyman stepped off the train at Little Missouri for a buffalo hunt that would change his life.",
+   "publishAt": "2026-08-23T12:00:00Z",
+   "latestAt": "2026-08-23T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/60d5b7b02fa8f209.jpg",
+    "w": 1000,
+    "h": 690
+   }
+  },
+  {
+   "id": "9e9394f0bcd6",
+   "url": "https://www.trlibrary.com/tr/myths",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt Myths & Misconceptions",
+   "blurb": "Sort fact from folklore — the misquotes, the \"Teddy\" nickname he never chose, and the surprising truths behind the myths that still cling to…",
+   "publishAt": "2026-08-22T12:00:00Z",
+   "latestAt": "2026-08-22T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/eba8f166242dd508.jpg",
+    "w": 1000,
+    "h": 692
+   }
+  },
+  {
+   "id": "2bac4e544541",
+   "url": "https://www.trlibrary.com/tr/badlands/landscape",
+   "host": "trlibrary.com",
+   "headline": "The Badlands Landscape: The Land That Changed Roosevelt",
+   "blurb": "Eroded buttes, deep coulees, and the Little Missouri River shape the Dakota Badlands—the wild country that reshaped a young Theodore Roosevelt.",
+   "publishAt": "2026-08-21T12:00:00Z",
+   "latestAt": "2026-08-21T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/89ea82f6cc46a527.jpg",
+    "w": 1000,
+    "h": 547
+   }
+  },
+  {
+   "id": "429711b1d1b8",
+   "url": "https://www.trlibrary.com/tr/presidency/trust-busting",
+   "host": "trlibrary.com",
+   "headline": "Trust-Busting: Roosevelt's War on Monopoly",
+   "blurb": "In 1902, Roosevelt's government sued the Northern Securities railroad monopoly under the Sherman Antitrust Act, asserting bold new presidential power.",
+   "publishAt": "2026-08-11T12:00:00Z",
+   "latestAt": "2026-08-20T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/50f1588ba9e46bac.jpg",
+    "w": 1000,
+    "h": 806
+   }
+  },
+  {
    "id": "b7cf9757bdc1",
    "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
    "host": "trlibrary.com",
    "headline": "The Panama Canal: Roosevelt's Bold Gambit for American Power",
    "blurb": "Theodore Roosevelt’s boldest use of American power — the decade-long feat of engineering that cut a canal across the Isthmus of Panama and joined two…",
    "publishAt": "2026-08-15T12:00:00Z",
-   "latestAt": "2026-08-15T12:00:00Z",
+   "latestAt": "2026-08-19T12:00:00Z",
    "channels": [
-    "THREADS",
-    "BLUESKY",
-    "LINKEDINCOMPANY",
     "FACEBOOKPAGE",
-    "TWITTER"
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
    ],
    "thumb": {
-    "src": "media/b470f582a70fd1bb.jpg",
-    "w": 640,
-    "h": 468
+    "src": "media/08acf94082ea9259.jpg",
+    "w": 1000,
+    "h": 524
+   }
+  },
+  {
+   "id": "da5acd21ee98",
+   "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
+   "host": "trlibrary.com",
+   "headline": "Frontier Life in the 1880s Badlands",
+   "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
+   "publishAt": "2026-08-16T12:00:00Z",
+   "latestAt": "2026-08-18T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/9c861ef11b33df85.jpg",
+    "w": 1000,
+    "h": 779
+   }
+  },
+  {
+   "id": "fac5373c2fb9",
+   "url": "https://www.trlibrary.com/tr/early-life/siblings",
+   "host": "trlibrary.com",
+   "headline": "TR’s Siblings: Bamie, Elliott, and Corinne",
+   "blurb": "Theodore's siblings—devoted Bamie, charming and troubled Elliott, and warm Corinne—shaped him in ways both steadying and sorrowful throughout his…",
+   "publishAt": "2026-08-17T12:00:00Z",
+   "latestAt": "2026-08-17T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/0f84c1017bd7b50a.jpg",
+    "w": 801,
+    "h": 1000
    }
   },
   {
@@ -88,27 +214,6 @@
     "src": "media/da72d80b2a10daaf.jpg",
     "w": 801,
     "h": 1000
-   }
-  },
-  {
-   "id": "429711b1d1b8",
-   "url": "https://www.trlibrary.com/tr/presidency/trust-busting",
-   "host": "trlibrary.com",
-   "headline": "Trust-Busting: Roosevelt's War on Monopoly",
-   "blurb": "In 1902, Roosevelt's government sued the Northern Securities railroad monopoly under the Sherman Antitrust Act, asserting bold new presidential power.",
-   "publishAt": "2026-08-11T12:00:00Z",
-   "latestAt": "2026-08-11T12:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "THREADS",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY"
-   ],
-   "thumb": {
-    "src": "media/1411fcf1ef1333b7.jpg",
-    "w": 1000,
-    "h": 727
    }
   },
   {
@@ -320,50 +425,6 @@
     "THREADS"
    ],
    "thumb": null
-  },
-  {
-   "id": "49515213c7bf",
-   "url": "https://www.architecturalrecord.com/articles/18326-the-theodore-roosevelt-presidential-library-honors-a-conservationist",
-   "host": "architecturalrecord.com",
-   "headline": "The Theodore Roosevelt Presidential Library Honors a Conservationist",
-   "blurb": "Designed by Snøhetta, the environmentally ambitious museum built from rammed-earth and mass timber is integrated into North Dakota's rugged badlands…",
-   "publishAt": "2026-08-03T14:50:00Z",
-   "latestAt": "2026-08-03T14:50:00Z",
-   "channels": [
-    "THREADS",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "BLUESKY",
-    "INSTAGRAMBUSINESS"
-   ],
-   "thumb": {
-    "src": "media/26cd7b26253f96f1.jpg",
-    "w": 450,
-    "h": 535
-   }
-  },
-  {
-   "id": "8d285f6af973",
-   "url": "https://apple.news/AdK1mTWYfSZipUAF_HkYcKg",
-   "host": "The Wall Street Journal",
-   "headline": "The Theodore Roosevelt Presidential Library: At One With Nature",
-   "blurb": "Designed by Snøhetta and inspired by the 26th president’s love for the American wilderness, the new building is a moving work of architecture that…",
-   "publishAt": "2026-07-30T16:35:00Z",
-   "latestAt": "2026-07-30T16:35:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "THREADS",
-    "INSTAGRAMBUSINESS",
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/40d7b12f02dbdaf2.jpg",
-    "w": 1000,
-    "h": 667
-   }
   }
  ]
 }

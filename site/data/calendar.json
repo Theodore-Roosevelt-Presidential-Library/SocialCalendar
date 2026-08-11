@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-08-10T21:19:12Z",
+ "generatedAt": "2026-08-11T00:27:20Z",
  "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-07-27T00:00:00Z",
-  "end": "2026-11-08T00:00:00Z"
+  "start": "2026-07-28T00:00:00Z",
+  "end": "2026-11-09T00:00:00Z"
  },
  "profiles": [
   {
@@ -2486,6 +2486,1338 @@
      "src": "media/d3b4162166eea8e6.jpg",
      "w": 1000,
      "h": 524,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565401:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, Theodore Roosevelt made a list.\n\nHe was about to ride from the Little Missouri to the Bighorn Mountains — two months overland, most of it through country nobody had mapped for him. So he wrote down what he was taking.\n\nA light \"prairie schooner\" with a canvas cover, pulled by two stout horses. Four riding ponies, each described by temperament: \"Blackie, a stout, swift rather vicious pony; Splitear, very enduring; Brownie, willing and swift, but very nervous; and Roachie, quiet and rather small.\"\n\nThen the clothes. A buckskin suit, sealskin chaparajos, a coonskin overcoat, an otter fur robe to sleep in — \"buttoning into a bag form\" — an oilskin slicker, boots and moccasins, a sombrero, overalls, a jersey, two flannel shirts, three suits of light underclothing and three of heavy, heavy socks, \"plenty of handkerchiefs,\" soap, towels.\n\nThen the food: flour, bacon, beans, coffee, sugar, salt. And, in the same breath, \"a little brandy and cholera mixture.\"\n\nThen this: \"My battery consists of long 45 colt revolver, 150 cartridges; no 10 choke bore, 300 cartridges, shotgun; a 45-75 Winchester repeater, with 1000 cartridges; a 40-90 Sharps, 150 cartridges; a 50-150 double barreled Webly express, 100 cartridges.\"\n\nFive guns. Exactly 1,700 rounds.\n\nHe was 25. He had first come to Dakota Territory in September 1883, and had been ranching there ever since. He went with his foreman, Bill Merrifield, and a teamster named Norman Lebo — an Ohio blacksmith and Union veteran — who drove the wagon and cooked.\n\nThe trip proper began two days later. Writing to his sister Bamie the day before he left, he mentioned in passing that on the day he made this list, he had ridden 72 miles between dawn and darkness.\n\nMore: trlibrary.com/tr/badlands/frontier-life\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/2f686295a660525e.jpg",
+     "w": 1000,
+     "h": 788,
+     "kind": "image"
+    },
+    {
+     "src": "media/029f4be082c9624e.jpg",
+     "w": 1000,
+     "h": 662,
+     "kind": "image"
+    },
+    {
+     "src": "media/81b3af15d32b55a7.jpg",
+     "w": 1000,
+     "h": 637,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565402:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, Theodore Roosevelt made a list.\n\nHe was about to ride from the Little Missouri to the Bighorn Mountains — two months overland, most of it through country nobody had mapped for him. So he wrote down what he was taking.\n\nA light \"prairie schooner\" with a canvas cover, pulled by two stout horses. Four riding ponies, each described by temperament: \"Blackie, a stout, swift rather vicious pony; Splitear, very enduring; Brownie, willing and swift, but very nervous; and Roachie, quiet and rather small.\"\n\nThen the clothes. A buckskin suit, sealskin chaparajos, a coonskin overcoat, an otter fur robe to sleep in — \"buttoning into a bag form\" — an oilskin slicker, boots and moccasins, a sombrero, overalls, a jersey, two flannel shirts, three suits of light underclothing and three of heavy, heavy socks, \"plenty of handkerchiefs,\" soap, towels.\n\nThen the food: flour, bacon, beans, coffee, sugar, salt. And, in the same breath, \"a little brandy and cholera mixture.\"\n\nThen this: \"My battery consists of long 45 colt revolver, 150 cartridges; no 10 choke bore, 300 cartridges, shotgun; a 45-75 Winchester repeater, with 1000 cartridges; a 40-90 Sharps, 150 cartridges; a 50-150 double barreled Webly express, 100 cartridges.\"\n\nFive guns. Exactly 1,700 rounds.\n\nHe was 25. He had first come to Dakota Territory in September 1883, and had been ranching there ever since. He went with his foreman, Bill Merrifield, and a teamster named Norman Lebo — an Ohio blacksmith and Union veteran — who drove the wagon and cooked.\n\nThe trip proper began two days later. Writing to his sister Bamie the day before he left, he mentioned in passing that on the day he made this list, he had ridden 72 miles between dawn and darkness.\n\nMore: trlibrary.com/tr/badlands/frontier-life\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/2f686295a660525e.jpg",
+     "w": 1000,
+     "h": 788,
+     "kind": "image"
+    },
+    {
+     "src": "media/029f4be082c9624e.jpg",
+     "w": 1000,
+     "h": 662,
+     "kind": "image"
+    },
+    {
+     "src": "media/81b3af15d32b55a7.jpg",
+     "w": 1000,
+     "h": 637,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565481:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, Theodore Roosevelt made a list.\n\nHe was about to ride from the Little Missouri to the Bighorn Mountains — two months overland, most of it through country nobody had mapped for him. So he wrote down what he was taking.\n\nA light \"prairie schooner\" with a canvas cover, pulled by two stout horses. Four riding ponies, each described by temperament: \"Blackie, a stout, swift rather vicious pony; Splitear, very enduring; Brownie, willing and swift, but very nervous; and Roachie, quiet and rather small.\"\n\nThen the clothes. A buckskin suit, sealskin chaparajos, a coonskin overcoat, an otter fur robe to sleep in — \"buttoning into a bag form\" — an oilskin slicker, boots and moccasins, a sombrero, overalls, a jersey, two flannel shirts, three suits of light underclothing and three of heavy, heavy socks, \"plenty of handkerchiefs,\" soap, towels.\n\nThen the food: flour, bacon, beans, coffee, sugar, salt. And, in the same breath, \"a little brandy and cholera mixture.\"\n\nThen this: \"My battery consists of long 45 colt revolver, 150 cartridges; no 10 choke bore, 300 cartridges, shotgun; a 45-75 Winchester repeater, with 1000 cartridges; a 40-90 Sharps, 150 cartridges; a 50-150 double barreled Webly express, 100 cartridges.\"\n\nFive guns. Exactly 1,700 rounds.\n\nHe was 25. He had first come to Dakota Territory in September 1883, and had been ranching there ever since. He went with his foreman, Bill Merrifield, and a teamster named Norman Lebo — an Ohio blacksmith and Union veteran — who drove the wagon and cooked.\n\nThe trip proper began two days later. Writing to his sister Bamie the day before he left, he mentioned in passing that on the day he made this list, he had ridden 72 miles between dawn and darkness.\n\nMore on TR's Badlands years on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/9d0042c775775753.jpg",
+     "w": 720,
+     "h": 720,
+     "kind": "image"
+    },
+    {
+     "src": "media/519e60419a54d5c3.jpg",
+     "w": 720,
+     "h": 720,
+     "kind": "image"
+    },
+    {
+     "src": "media/99a1274befe3ddc8.jpg",
+     "w": 720,
+     "h": 720,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565506:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, TR listed everything for a two-month ride to the Bighorns.\n\nFour ponies named by temperament. An otter robe \"buttoning into a bag form.\" A little brandy and cholera mixture. Five guns, exactly 1,700 rounds.\n\nHe was 25.\n\ntrlibrary.com/tr/badlands/frontier-life",
+   "media": [
+    {
+     "src": "media/45d22007a7b522fa.jpg",
+     "w": 1000,
+     "h": 788,
+     "kind": "image"
+    },
+    {
+     "src": "media/2888351f1cb26790.jpg",
+     "w": 1000,
+     "h": 662,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565608:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, TR wrote down everything he was taking on a two-month ride to the Bighorns.\n\nFour ponies, described by temperament: \"Blackie, a stout, swift rather vicious pony; Splitear, very enduring; Brownie, willing and swift, but very nervous; and Roachie, quiet and rather small.\"\n\nAlso: an otter robe that buttoned into a bag, \"a little brandy and cholera mixture,\" and five guns with exactly 1,700 rounds.\n\ntrlibrary.com/tr/badlands/frontier-life",
+   "media": [
+    {
+     "src": "media/8cf8cc79b9ad34b2.jpg",
+     "w": 1000,
+     "h": 788,
+     "kind": "image"
+    },
+    {
+     "src": "media/f1f8f053b354cf0f.jpg",
+     "w": 1000,
+     "h": 662,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565626:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, TR listed everything for a two-month ride to the Bighorns.\n\nFour ponies named by temperament. An otter robe \"buttoning into a bag form.\" A little brandy and cholera mixture. Five guns, exactly 1,700 rounds.\n\nHe was 25.\n\ntrlibrary.com/tr/badlands/frontier-life",
+   "media": [
+    {
+     "src": "media/ca0f61af549f2494.jpg",
+     "w": 1000,
+     "h": 788,
+     "kind": "image"
+    },
+    {
+     "src": "media/5d23ed723d4d2248.jpg",
+     "w": 1000,
+     "h": 662,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565718:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-17T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a twenty-year-old Harvard student sat down on a Sunday at Oyster Bay and wrote one of the happiest things he ever put on paper.\n\n\"Every Sunday we have morning and evening prayers; I wish we could have them everyday.\n\n\"Motherling is just too sweet and pretty for anything; and I doubt if there ever were two more lovely and unselfish girls than dear, noble Bysie, and darling Little Pussie. These three, and my best friend, old brother Nell, give me as happy a home as a man could possibly have.\"\n\nThe family shorthand takes a moment to decode. Motherling is Mittie — Martha Bulloch Roosevelt, raised at Bulloch Hall, a slaveholding plantation in Roswell, Georgia, who told her children stories of the Old South. Bysie is Anna, the eldest, more often called Bamie, who became her brother's most trusted political adviser. Little Pussie is Corinne, the youngest, who became a poet. And old brother Nell is Elliott.\n\nHe had already lost his father, eighteen months before. What he did not know was how much more was coming.\n\nWithin five years, on a single February day in 1884, his mother and his young wife died in the same house. Elliott — the best friend, the brother he could do anything with — declined into alcoholism and died in 1894 at thirty-four, leaving a daughter named Eleanor.\n\nBamie and Corinne outlived him. He was twenty when he wrote this. That is rather the point of a happy Sunday: you don't know it's the good part.\n\nMore: trlibrary.com/tr/early-life/siblings\n\n#OTD #OnThisDay #TheodoreRoosevelt #OysterBay #AmericanHistory",
+   "media": [
+    {
+     "src": "media/0f84c1017bd7b50a.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9e1ad1809a239b02.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/226490eb0ffbcaba.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565719:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-17T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a twenty-year-old Harvard student sat down on a Sunday at Oyster Bay and wrote one of the happiest things he ever put on paper.\n\n\"Every Sunday we have morning and evening prayers; I wish we could have them everyday.\n\n\"Motherling is just too sweet and pretty for anything; and I doubt if there ever were two more lovely and unselfish girls than dear, noble Bysie, and darling Little Pussie. These three, and my best friend, old brother Nell, give me as happy a home as a man could possibly have.\"\n\nThe family shorthand takes a moment to decode. Motherling is Mittie — Martha Bulloch Roosevelt, raised at Bulloch Hall, a slaveholding plantation in Roswell, Georgia, who told her children stories of the Old South. Bysie is Anna, the eldest, more often called Bamie, who became her brother's most trusted political adviser. Little Pussie is Corinne, the youngest, who became a poet. And old brother Nell is Elliott.\n\nHe had already lost his father, eighteen months before. What he did not know was how much more was coming.\n\nWithin five years, on a single February day in 1884, his mother and his young wife died in the same house. Elliott — the best friend, the brother he could do anything with — declined into alcoholism and died in 1894 at thirty-four, leaving a daughter named Eleanor.\n\nBamie and Corinne outlived him. He was twenty when he wrote this. That is rather the point of a happy Sunday: you don't know it's the good part.\n\nMore: trlibrary.com/tr/early-life/siblings\n\n#OTD #OnThisDay #TheodoreRoosevelt #OysterBay #AmericanHistory",
+   "media": [
+    {
+     "src": "media/b49e876ad72e848d.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ed8bec85c05ae95c.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f98232095dc4e0b5.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565812:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-17T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a twenty-year-old Harvard student sat down on a Sunday at Oyster Bay and wrote one of the happiest things he ever put on paper.\n\n\"Every Sunday we have morning and evening prayers; I wish we could have them everyday.\n\n\"Motherling is just too sweet and pretty for anything; and I doubt if there ever were two more lovely and unselfish girls than dear, noble Bysie, and darling Little Pussie. These three, and my best friend, old brother Nell, give me as happy a home as a man could possibly have.\"\n\nThe family shorthand takes a moment to decode. Motherling is Mittie — Martha Bulloch Roosevelt, raised at Bulloch Hall, a slaveholding plantation in Roswell, Georgia, who told her children stories of the Old South. Bysie is Anna, the eldest, more often called Bamie, who became her brother's most trusted political adviser. Little Pussie is Corinne, the youngest, who became a poet. And old brother Nell is Elliott.\n\nHe had already lost his father, eighteen months before. What he did not know was how much more was coming.\n\nWithin five years, on a single February day in 1884, his mother and his young wife died in the same house. Elliott — the best friend, the brother he could do anything with — declined into alcoholism and died in 1894 at thirty-four, leaving a daughter named Eleanor.\n\nBamie and Corinne outlived him. He was twenty when he wrote this. That is rather the point of a happy Sunday: you don't know it's the good part.\n\nMore on the Roosevelt siblings on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #OysterBay #AmericanHistory",
+   "media": [
+    {
+     "src": "media/8a8396b0b4e3e198.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/89b761201bfd8137.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/dc488a01e5dd4314.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565825:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-17T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a 20-year-old TR wrote that his mother, his sisters and \"my best friend, old brother Nell\" gave him \"as happy a home as a man could possibly have.\"\n\nNell was his brother Elliott. Their mother died in 1884, Elliott in 1894.\n\ntrlibrary.com/tr/early-life/siblings",
+   "media": [
+    {
+     "src": "media/eb2f6ab9a16889c4.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4fa336c08e3da95e.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565866:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-17T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a 20-year-old TR wrote in his diary at Oyster Bay:\n\n\"Motherling is just too sweet and pretty for anything… These three, and my best friend, old brother Nell, give me as happy a home as a man could possibly have.\"\n\nMotherling is his mother Mittie. Nell is his brother Elliott.\n\nMittie was dead within five years. Elliott within fifteen.\n\ntrlibrary.com/tr/early-life/siblings",
+   "media": [
+    {
+     "src": "media/07388247d6c939b1.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4f5d6da1431aa109.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105565878:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-17T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1879, a 20-year-old TR wrote at Oyster Bay that his mother, his two sisters and \"my best friend, old brother Nell\" gave him \"as happy a home as a man could possibly have.\"\n\nNell was his brother Elliott. Their mother died in 1884, Elliott in 1894.\n\ntrlibrary.com/tr/early-life/siblings",
+   "media": [
+    {
+     "src": "media/4af769ec0cd5b656.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a3192f4767292ac2.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566033:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-18T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, on the first day of the ride to the Bighorns, Theodore Roosevelt got caught in the open.\n\nThe diary entry is nine sentences long and there is not a wasted word in it:\n\n\"Made late start. Left wagon on prairie. Merrifield & I rode on and spent the night at Langs. Out in prairie got caught in driving hail storm; Sheltered in a washout. Wind so strong could hardly stand; ponies would not face it. Our 'slickers' and chaps kept us perfectly dry in spite of the driving rain. The Winchester 45-75 shoots beautifully.\"\n\nThat last sentence is the whole man. Hail hard enough that the horses refused to walk into it, wind he could barely stand up in, and the thing he wanted recorded for posterity was that the rifle worked well.\n\n\"Langs\" is the ranch of Gregor Lang, a Scot who had come out to the Badlands to run cattle for a London financier. Roosevelt had headquartered at Lang's cabin during his first Badlands hunt the year before, and sat up talking with him until the small hours. Lang's teenage son Lincoln never got over it, and decades later he wrote one of the best first-hand accounts anyone has of what Roosevelt was actually like out there.\n\nA washout, for anyone who hasn't stood in one, is a gully cut by runoff — a few feet of shelter in ground that offers none. Two men and two ponies, waiting out a hailstorm in a ditch.\n\nIt was day one.\n\nMore: trlibrary.com/tr/badlands/frontier-life\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/9c861ef11b33df85.jpg",
+     "w": 1000,
+     "h": 779,
+     "kind": "image"
+    },
+    {
+     "src": "media/23bcaed2f0be3b0b.jpg",
+     "w": 1000,
+     "h": 802,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566034:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-18T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, on the first day of the ride to the Bighorns, Theodore Roosevelt got caught in the open.\n\nThe diary entry is nine sentences long and there is not a wasted word in it:\n\n\"Made late start. Left wagon on prairie. Merrifield & I rode on and spent the night at Langs. Out in prairie got caught in driving hail storm; Sheltered in a washout. Wind so strong could hardly stand; ponies would not face it. Our 'slickers' and chaps kept us perfectly dry in spite of the driving rain. The Winchester 45-75 shoots beautifully.\"\n\nThat last sentence is the whole man. Hail hard enough that the horses refused to walk into it, wind he could barely stand up in, and the thing he wanted recorded for posterity was that the rifle worked well.\n\n\"Langs\" is the ranch of Gregor Lang, a Scot who had come out to the Badlands to run cattle for a London financier. Roosevelt had headquartered at Lang's cabin during his first Badlands hunt the year before, and sat up talking with him until the small hours. Lang's teenage son Lincoln never got over it, and decades later he wrote one of the best first-hand accounts anyone has of what Roosevelt was actually like out there.\n\nA washout, for anyone who hasn't stood in one, is a gully cut by runoff — a few feet of shelter in ground that offers none. Two men and two ponies, waiting out a hailstorm in a ditch.\n\nIt was day one.\n\nMore: trlibrary.com/tr/badlands/frontier-life\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/9c861ef11b33df85.jpg",
+     "w": 1000,
+     "h": 779,
+     "kind": "image"
+    },
+    {
+     "src": "media/23bcaed2f0be3b0b.jpg",
+     "w": 1000,
+     "h": 802,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566074:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-18T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, on the first day of the ride to the Bighorns, Theodore Roosevelt got caught in the open.\n\nThe diary entry is nine sentences long and there is not a wasted word in it:\n\n\"Made late start. Left wagon on prairie. Merrifield & I rode on and spent the night at Langs. Out in prairie got caught in driving hail storm; Sheltered in a washout. Wind so strong could hardly stand; ponies would not face it. Our 'slickers' and chaps kept us perfectly dry in spite of the driving rain. The Winchester 45-75 shoots beautifully.\"\n\nThat last sentence is the whole man. Hail hard enough that the horses refused to walk into it, wind he could barely stand up in, and the thing he wanted recorded for posterity was that the rifle worked well.\n\n\"Langs\" is the ranch of Gregor Lang, a Scot who had come out to the Badlands to run cattle for a London financier. Roosevelt had headquartered at Lang's cabin during his first Badlands hunt the year before, and sat up talking with him until the small hours. Lang's teenage son Lincoln never got over it, and decades later he wrote one of the best first-hand accounts anyone has of what Roosevelt was actually like out there.\n\nA washout, for anyone who hasn't stood in one, is a gully cut by runoff — a few feet of shelter in ground that offers none. Two men and two ponies, waiting out a hailstorm in a ditch.\n\nIt was day one.\n\nMore on TR's Badlands years on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/f93b93db756c53b3.jpg",
+     "w": 720,
+     "h": 720,
+     "kind": "image"
+    },
+    {
+     "src": "media/512c6f05dc31a71a.jpg",
+     "w": 720,
+     "h": 720,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566101:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-18T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, on the first day of a ride to the Bighorns, TR sheltered from a hailstorm in a washout — wind so strong he could hardly stand, ponies refusing to face it.\n\nHis diary's closing line: \"The Winchester 45-75 shoots beautifully.\"\n\ntrlibrary.com/tr/badlands/frontier-life",
+   "media": [
+    {
+     "src": "media/e66be40ffb74b1ec.jpg",
+     "w": 1000,
+     "h": 779,
+     "kind": "image"
+    },
+    {
+     "src": "media/2275edf29ab4f5d6.jpg",
+     "w": 1000,
+     "h": 802,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566121:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-18T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, on day one of a two-month ride to the Bighorns, TR got caught in the open:\n\n\"Out in prairie got caught in driving hail storm; Sheltered in a washout. Wind so strong could hardly stand; ponies would not face it. Our 'slickers' and chaps kept us perfectly dry in spite of the driving rain. The Winchester 45-75 shoots beautifully.\"\n\nThat last sentence is the whole man.\n\ntrlibrary.com/tr/badlands/frontier-life",
+   "media": [
+    {
+     "src": "media/80970cc599536d7b.jpg",
+     "w": 1000,
+     "h": 779,
+     "kind": "image"
+    },
+    {
+     "src": "media/33a1a5fe158c27f3.jpg",
+     "w": 1000,
+     "h": 802,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566152:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-18T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, on the first day of a ride to the Bighorns, TR sheltered from a hailstorm in a washout — wind so strong he could hardly stand, ponies refusing to face it.\n\nHis diary's closing line: \"The Winchester 45-75 shoots beautifully.\"\n\ntrlibrary.com/tr/badlands/frontier-life",
+   "media": [
+    {
+     "src": "media/c8416508200e5ef0.jpg",
+     "w": 1000,
+     "h": 779,
+     "kind": "image"
+    },
+    {
+     "src": "media/e5bc0d15d738fcad.jpg",
+     "w": 1000,
+     "h": 802,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566294:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-19T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1903, seven days after Colombia's senate voted unanimously to reject the canal treaty, Theodore Roosevelt sat down at Sagamore Hill and wrote to his Secretary of State.\n\n\"It seems that the great bulk of the best engineers are agreed that that route is the best; and I do not think that the Bogota lot of jack rabbits should be allowed permanently to bar one of the future highways of civilization.\"\n\nHe is talking about the elected legislature of a sovereign country.\n\nThe Hay–Herrán Treaty would have leased the United States a six-mile-wide canal zone across the Colombian province of Panama. Colombia's senate rejected it 24 to 0 — partly over money, and substantially over sovereignty. President Marroquín had seen it coming. A year earlier he had written privately that history would say either that he ruined Colombia by refusing the canal, or that he allowed it \"scandalously injuring the rights of my country.\"\n\nIn private that month Roosevelt was cruder still, using an ethnic slur for Colombians.\n\nEleven weeks later Panama revolted. American warships and the American-run railroad kept Colombian troops from reaching the uprising, the United States recognized the new republic in three days, and a canal treaty was signed inside three weeks.\n\nHe never repented of it. But a decade on, in his autobiography, he allowed that Colombians had \"many fine traits\" and a cultivated class that \"would reflect honor on the social life of any country\" — a circle he set against what he called \"the stagnation and illiteracy of the mass of the people\" — before concluding that a nation must be judged by its government, and Colombia \"had to take the consequences.\"\n\nIn 1921, two years after his death, the United States paid Colombia $25 million.\n\nMore: trlibrary.com/tr/presidency/panama-canal\n\n#OTD #OnThisDay #TheodoreRoosevelt #PanamaCanal #AmericanHistory",
+   "media": [
+    {
+     "src": "media/08acf94082ea9259.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/e9ca45f31fb26b8c.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566295:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-19T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1903, seven days after Colombia's senate voted unanimously to reject the canal treaty, Theodore Roosevelt sat down at Sagamore Hill and wrote to his Secretary of State.\n\n\"It seems that the great bulk of the best engineers are agreed that that route is the best; and I do not think that the Bogota lot of jack rabbits should be allowed permanently to bar one of the future highways of civilization.\"\n\nHe is talking about the elected legislature of a sovereign country.\n\nThe Hay–Herrán Treaty would have leased the United States a six-mile-wide canal zone across the Colombian province of Panama. Colombia's senate rejected it 24 to 0 — partly over money, and substantially over sovereignty. President Marroquín had seen it coming. A year earlier he had written privately that history would say either that he ruined Colombia by refusing the canal, or that he allowed it \"scandalously injuring the rights of my country.\"\n\nIn private that month Roosevelt was cruder still, using an ethnic slur for Colombians.\n\nEleven weeks later Panama revolted. American warships and the American-run railroad kept Colombian troops from reaching the uprising, the United States recognized the new republic in three days, and a canal treaty was signed inside three weeks.\n\nHe never repented of it. But a decade on, in his autobiography, he allowed that Colombians had \"many fine traits\" and a cultivated class that \"would reflect honor on the social life of any country\" — a circle he set against what he called \"the stagnation and illiteracy of the mass of the people\" — before concluding that a nation must be judged by its government, and Colombia \"had to take the consequences.\"\n\nIn 1921, two years after his death, the United States paid Colombia $25 million.\n\nMore: trlibrary.com/tr/presidency/panama-canal\n\n#OTD #OnThisDay #TheodoreRoosevelt #PanamaCanal #AmericanHistory",
+   "media": [
+    {
+     "src": "media/08acf94082ea9259.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/e9ca45f31fb26b8c.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566334:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-19T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1903, seven days after Colombia's senate voted unanimously to reject the canal treaty, Theodore Roosevelt sat down at Sagamore Hill and wrote to his Secretary of State.\n\n\"It seems that the great bulk of the best engineers are agreed that that route is the best; and I do not think that the Bogota lot of jack rabbits should be allowed permanently to bar one of the future highways of civilization.\"\n\nHe is talking about the elected legislature of a sovereign country.\n\nThe Hay–Herrán Treaty would have leased the United States a six-mile-wide canal zone across the Colombian province of Panama. Colombia's senate rejected it 24 to 0 — partly over money, and substantially over sovereignty. President Marroquín had seen it coming. A year earlier he had written privately that history would say either that he ruined Colombia by refusing the canal, or that he allowed it \"scandalously injuring the rights of my country.\"\n\nIn private that month Roosevelt was cruder still, using an ethnic slur for Colombians.\n\nEleven weeks later Panama revolted. American warships and the American-run railroad kept Colombian troops from reaching the uprising, the United States recognized the new republic in three days, and a canal treaty was signed inside three weeks.\n\nHe never repented of it. But a decade on, in his autobiography, he allowed that Colombians had \"many fine traits\" and a cultivated class that \"would reflect honor on the social life of any country\" — a circle he set against what he called \"the stagnation and illiteracy of the mass of the people\" — before concluding that a nation must be judged by its government, and Colombia \"had to take the consequences.\"\n\nIn 1921, two years after his death, the United States paid Colombia $25 million.\n\nMore on TR and the canal on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #PanamaCanal #AmericanHistory",
+   "media": [
+    {
+     "src": "media/a8746b0cbdd9989a.jpg",
+     "w": 720,
+     "h": 720,
+     "kind": "image"
+    },
+    {
+     "src": "media/e8c6f493e7ad806d.jpg",
+     "w": 720,
+     "h": 720,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566365:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-19T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1903, a week after Colombia's senate rejected the canal treaty 24–0, TR wrote to John Hay: \"I do not think that the Bogota lot of jack rabbits should be allowed permanently to bar one of the future highways of civilization.\"\n\ntrlibrary.com/tr/presidency/panama-canal",
+   "media": [
+    {
+     "src": "media/d86f4de84aabe1b0.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/16c9f714573c7b51.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566399:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-19T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1903, a week after Colombia's senate rejected the canal treaty 24–0, TR wrote to his Secretary of State:\n\n\"I do not think that the Bogota lot of jack rabbits should be allowed permanently to bar one of the future highways of civilization.\"\n\nHe is describing the elected legislature of a sovereign country. Eleven weeks later, Panama revolted.\n\ntrlibrary.com/tr/presidency/panama-canal",
+   "media": [
+    {
+     "src": "media/dc4a4547bd0be7fe.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/e536cea4eab64061.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105566410:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-19T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1903, a week after Colombia's senate rejected the canal treaty 24–0, TR wrote to John Hay: \"I do not think that the Bogota lot of jack rabbits should be allowed permanently to bar one of the future highways of civilization.\"\n\ntrlibrary.com/tr/presidency/panama-canal",
+   "media": [
+    {
+     "src": "media/78b59166494df61a.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/8f37f5c5a569a2ca.jpg",
+     "w": 1000,
+     "h": 793,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573366:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-20T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1907, Theodore Roosevelt stood on a wooden platform at Provincetown, Massachusetts, laid the cornerstone of the Pilgrim Monument, and said the thing everyone still quotes — minus the sentence it sits in.\n\nHe had come by sea, on the yacht Mayflower. Most of the address is about the Puritans. Then it turns.\n\nThe market had been sliding all year. Roosevelt had spent that year prosecuting corporations, and plenty of people said the two were linked.\n\n\"During the present trouble with the stock market I have, of course, received countless requests and suggestions, public and private, that I should say or do something to ease the situation.\"\n\nWhat he said is more careful than its reputation. Most of the trouble, he argued, was worldwide — Paris and Berlin were shaky too. But:\n\n\"...it may well be that the determination of the Government (in which, gentlemen, it will not waver), to punish certain malefactors of great wealth, has been responsible for something of the trouble; at least to the extent of having caused these men to combine to bring about as much financial stress as possible, in order to discredit the policy of the Government and thereby secure a reversal of that policy, so that they may enjoy unmolested the fruits of their own evil-doing.\"\n\nNote what he is not claiming: not that his prosecutions broke the market, but that certain men were deliberately worsening the stress to force him to stop.\n\nTwo passages that rarely travel with it:\n\n\"In the man of great wealth who has earned his wealth honestly and uses it wisely we recognize a good citizen of the best type, worthy of all praise and respect.\"\n\n\"The rich man who with hard arrogance declines to consider the rights and the needs of those who are less well off, and the poor man who excites or indulges in envy and hatred of those who are better off, are alike alien to the spirit of our national life.\"\n\nTwo months later the Panic of 1907 arrived, and J. P. Morgan had to assemble a private rescue because there was no central bank. Congress created the Federal Reserve six years later.\n\nMore: trlibrary.com/tr/presidency/trust-busting\n\n#OTD #OnThisDay #TheodoreRoosevelt #SquareDeal #AmericanHistory",
+   "media": [
+    {
+     "src": "media/50f1588ba9e46bac.jpg",
+     "w": 1000,
+     "h": 806,
+     "kind": "image"
+    },
+    {
+     "src": "media/0c7a661d67b433cd.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/08eac15696fa4460.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573367:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-20T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1907, Theodore Roosevelt stood on a wooden platform at Provincetown, Massachusetts, laid the cornerstone of the Pilgrim Monument, and said the thing everyone still quotes — minus the sentence it sits in.\n\nHe had come by sea, on the yacht Mayflower. Most of the address is about the Puritans. Then it turns.\n\nThe market had been sliding all year. Roosevelt had spent that year prosecuting corporations, and plenty of people said the two were linked.\n\n\"During the present trouble with the stock market I have, of course, received countless requests and suggestions, public and private, that I should say or do something to ease the situation.\"\n\nWhat he said is more careful than its reputation. Most of the trouble, he argued, was worldwide — Paris and Berlin were shaky too. But:\n\n\"...it may well be that the determination of the Government (in which, gentlemen, it will not waver), to punish certain malefactors of great wealth, has been responsible for something of the trouble; at least to the extent of having caused these men to combine to bring about as much financial stress as possible, in order to discredit the policy of the Government and thereby secure a reversal of that policy, so that they may enjoy unmolested the fruits of their own evil-doing.\"\n\nNote what he is not claiming: not that his prosecutions broke the market, but that certain men were deliberately worsening the stress to force him to stop.\n\nTwo passages that rarely travel with it:\n\n\"In the man of great wealth who has earned his wealth honestly and uses it wisely we recognize a good citizen of the best type, worthy of all praise and respect.\"\n\n\"The rich man who with hard arrogance declines to consider the rights and the needs of those who are less well off, and the poor man who excites or indulges in envy and hatred of those who are better off, are alike alien to the spirit of our national life.\"\n\nTwo months later the Panic of 1907 arrived, and J. P. Morgan had to assemble a private rescue because there was no central bank. Congress created the Federal Reserve six years later.\n\nMore: trlibrary.com/tr/presidency/trust-busting\n\n#OTD #OnThisDay #TheodoreRoosevelt #SquareDeal #AmericanHistory",
+   "media": [
+    {
+     "src": "media/50f1588ba9e46bac.jpg",
+     "w": 1000,
+     "h": 806,
+     "kind": "image"
+    },
+    {
+     "src": "media/0c7a661d67b433cd.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/08eac15696fa4460.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573415:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-20T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1907, Theodore Roosevelt stood on a wooden platform at Provincetown, Massachusetts, laid the cornerstone of the Pilgrim Monument, and said the thing everyone still quotes — minus the sentence it sits in.\n\nHe had come by sea, on the yacht Mayflower. Most of the address is about the Puritans. Then it turns.\n\nThe market had been sliding all year. Roosevelt had spent that year prosecuting corporations, and plenty of people said the two were linked.\n\n\"During the present trouble with the stock market I have, of course, received countless requests and suggestions, public and private, that I should say or do something to ease the situation.\"\n\nWhat he said is more careful than its reputation. Most of the trouble, he argued, was worldwide — Paris and Berlin were shaky too. But:\n\n\"...it may well be that the determination of the Government (in which, gentlemen, it will not waver), to punish certain malefactors of great wealth, has been responsible for something of the trouble; at least to the extent of having caused these men to combine to bring about as much financial stress as possible, in order to discredit the policy of the Government and thereby secure a reversal of that policy, so that they may enjoy unmolested the fruits of their own evil-doing.\"\n\nNote what he is not claiming: not that his prosecutions broke the market, but that certain men were deliberately worsening the stress to force him to stop.\n\nTwo passages that rarely travel with it:\n\n\"In the man of great wealth who has earned his wealth honestly and uses it wisely we recognize a good citizen of the best type, worthy of all praise and respect.\"\n\n\"The rich man who with hard arrogance declines to consider the rights and the needs of those who are less well off, and the poor man who excites or indulges in envy and hatred of those who are better off, are alike alien to the spirit of our national life.\"\n\nTwo months later the Panic of 1907 arrived, and J. P. Morgan had to assemble a private rescue because there was no central bank. Congress created the Federal Reserve six years later.\n\nMore on TR and the trusts on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #SquareDeal #AmericanHistory",
+   "media": [
+    {
+     "src": "media/9a2239165f2c639a.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/df20e3efef07642b.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/fa28fe6df6ab362b.jpg",
+     "w": 640,
+     "h": 640,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573444:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-20T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1907 at Provincetown, TR refused to call off his prosecutions to calm a sliding market — and gave the language \"malefactors of great wealth.\" In the same speech: the honest rich man is \"a good citizen of the best type.\" trlibrary.com/tr/presidency/trust-busting",
+   "media": [
+    {
+     "src": "media/ecaf8cc9626dc790.jpg",
+     "w": 1000,
+     "h": 806,
+     "kind": "image"
+    },
+    {
+     "src": "media/5bc61b2072120543.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/080bc0f8daa0580c.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573462:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-20T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1907 at Provincetown, pressed to ease off corporate prosecutions and calm a sliding market, TR said the Government's determination \"to punish certain malefactors of great wealth\" may have caused those men \"to combine to bring about as much financial stress as possible.\"\n\nIn the same speech he called the honestly rich \"a good citizen of the best type.\"\n\ntrlibrary.com/tr/presidency/trust-busting",
+   "media": [
+    {
+     "src": "media/f32a87fc9b87aa06.jpg",
+     "w": 1000,
+     "h": 806,
+     "kind": "image"
+    },
+    {
+     "src": "media/a9ab365be346dbae.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/c7fdef6b7a3fdb6f.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573494:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-20T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1907, laying the Pilgrim Monument cornerstone, TR refused to call off his prosecutions to calm a sliding market — and gave the language \"malefactors of great wealth.\"\n\nIn the same speech: the honest rich man is \"a good citizen of the best type.\"\n\ntrlibrary.com/tr/presidency/trust-busting",
+   "media": [
+    {
+     "src": "media/729c77517c743d56.jpg",
+     "w": 1000,
+     "h": 806,
+     "kind": "image"
+    },
+    {
+     "src": "media/c23232200f72ebed.jpg",
+     "w": 1000,
+     "h": 756,
+     "kind": "image"
+    },
+    {
+     "src": "media/8cab05f9608e42a5.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573750:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-21T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, four days into a two-month ride from the Little Missouri to the Bighorns, Theodore Roosevelt woke to a sound he thought worth writing down.\n\n\"Frost in the night. Day clear, cool and windy; wheeling much better. Early in morning a great herd of 1500 beef steers passed us; they had been bedded near us, and all night we had heard the cowboys singing and calling as they circled slowly round the herd.\"\n\n\"Wheeling\" is the going underfoot for a wagon. The singing was working equipment. A startled cow runs, and a running cow takes fifteen hundred others with her, so night riders circled the bedground keeping up a steady human noise — so the cattle always knew where the men were and nothing arrived as a surprise.\n\nThen the entry turns.\n\n\"Our dog, a greyhound, died from wolf poison. We made about 25 miles through broken prairie; are camped by what I suppose to be the head waters of O'Fallon Creek. Saw no living game; but hundreds of buffalo skulls and old carcasses.\"\n\nRead those sentences together and you have the northern plains in August 1884. Fifteen hundred cattle where the buffalo had been. Wolf poison in that country almost always meant strychnine, put out in baits and carcasses, killing whatever found it first. And bones — hundreds of them — from a slaughter that had finished a year or two before he rode through.\n\nHe was twenty-five. He had come out in 1883 to shoot a buffalo and very nearly failed to find one. He would spend his presidency putting roughly 230 million acres under federal protection.\n\nHe had also, by this point, been sleeping on the ground beside two men long enough to size them up:\n\n\"Lebo is a chatty, tough old plainsman, full of expedients, and ready with the wits and hands. Merrifield is a good looking fellow, who shoots and rides beautifully; a reckless, self-confident man.\"\n\nNorman Lebo drove the wagon and cooked. Bill Merrifield was his ranch foreman. The creek he guessed at heads in what is now southeastern Montana. If he had it right, somewhere in those four days they had crossed out of Dakota.\n\nMore: trlibrary.com/tr/badlands/landscape\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #NorthDakota #Conservation",
+   "media": [
+    {
+     "src": "media/89ea82f6cc46a527.jpg",
+     "w": 1000,
+     "h": 547,
+     "kind": "image"
+    },
+    {
+     "src": "media/ed986394305b5fc9.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/9434e048d20219ae.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573751:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-21T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, four days into a two-month ride from the Little Missouri to the Bighorns, Theodore Roosevelt woke to a sound he thought worth writing down.\n\n\"Frost in the night. Day clear, cool and windy; wheeling much better. Early in morning a great herd of 1500 beef steers passed us; they had been bedded near us, and all night we had heard the cowboys singing and calling as they circled slowly round the herd.\"\n\n\"Wheeling\" is the going underfoot for a wagon. The singing was working equipment. A startled cow runs, and a running cow takes fifteen hundred others with her, so night riders circled the bedground keeping up a steady human noise — so the cattle always knew where the men were and nothing arrived as a surprise.\n\nThen the entry turns.\n\n\"Our dog, a greyhound, died from wolf poison. We made about 25 miles through broken prairie; are camped by what I suppose to be the head waters of O'Fallon Creek. Saw no living game; but hundreds of buffalo skulls and old carcasses.\"\n\nRead those sentences together and you have the northern plains in August 1884. Fifteen hundred cattle where the buffalo had been. Wolf poison in that country almost always meant strychnine, put out in baits and carcasses, killing whatever found it first. And bones — hundreds of them — from a slaughter that had finished a year or two before he rode through.\n\nHe was twenty-five. He had come out in 1883 to shoot a buffalo and very nearly failed to find one. He would spend his presidency putting roughly 230 million acres under federal protection.\n\nHe had also, by this point, been sleeping on the ground beside two men long enough to size them up:\n\n\"Lebo is a chatty, tough old plainsman, full of expedients, and ready with the wits and hands. Merrifield is a good looking fellow, who shoots and rides beautifully; a reckless, self-confident man.\"\n\nNorman Lebo drove the wagon and cooked. Bill Merrifield was his ranch foreman. The creek he guessed at heads in what is now southeastern Montana. If he had it right, somewhere in those four days they had crossed out of Dakota.\n\nMore: trlibrary.com/tr/badlands/landscape\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #NorthDakota #Conservation",
+   "media": [
+    {
+     "src": "media/89ea82f6cc46a527.jpg",
+     "w": 1000,
+     "h": 547,
+     "kind": "image"
+    },
+    {
+     "src": "media/ed986394305b5fc9.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/9434e048d20219ae.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573779:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-21T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, four days into a two-month ride from the Little Missouri to the Bighorns, Theodore Roosevelt woke to a sound he thought worth writing down.\n\n\"Frost in the night. Day clear, cool and windy; wheeling much better. Early in morning a great herd of 1500 beef steers passed us; they had been bedded near us, and all night we had heard the cowboys singing and calling as they circled slowly round the herd.\"\n\n\"Wheeling\" is the going underfoot for a wagon. The singing was working equipment. A startled cow runs, and a running cow takes fifteen hundred others with her, so night riders circled the bedground keeping up a steady human noise — so the cattle always knew where the men were and nothing arrived as a surprise.\n\nThen the entry turns.\n\n\"Our dog, a greyhound, died from wolf poison. We made about 25 miles through broken prairie; are camped by what I suppose to be the head waters of O'Fallon Creek. Saw no living game; but hundreds of buffalo skulls and old carcasses.\"\n\nRead those sentences together and you have the northern plains in August 1884. Fifteen hundred cattle where the buffalo had been. Wolf poison in that country almost always meant strychnine, put out in baits and carcasses, killing whatever found it first. And bones — hundreds of them — from a slaughter that had finished a year or two before he rode through.\n\nHe was twenty-five. He had come out in 1883 to shoot a buffalo and very nearly failed to find one. He would spend his presidency putting roughly 230 million acres under federal protection.\n\nHe had also, by this point, been sleeping on the ground beside two men long enough to size them up:\n\n\"Lebo is a chatty, tough old plainsman, full of expedients, and ready with the wits and hands. Merrifield is a good looking fellow, who shoots and rides beautifully; a reckless, self-confident man.\"\n\nNorman Lebo drove the wagon and cooked. Bill Merrifield was his ranch foreman. The creek he guessed at heads in what is now southeastern Montana. If he had it right, somewhere in those four days they had crossed out of Dakota.\n\nMore on TR's Badlands years on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #NorthDakota #Conservation",
+   "media": [
+    {
+     "src": "media/2cc291eba52b67d8.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/3560eac1d171aa2d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/eac6aff5b7814270.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573790:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-21T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, camped on the trail to the Bighorns, TR wrote: \"all night we had heard the cowboys singing and calling as they circled slowly round the herd.\"\n\nA few lines later: \"Saw no living game; but hundreds of buffalo skulls and old carcasses.\"\n\ntrlibrary.com/tr/badlands/landscape",
+   "media": [
+    {
+     "src": "media/bc1fd1e9968433d9.jpg",
+     "w": 1000,
+     "h": 547,
+     "kind": "image"
+    },
+    {
+     "src": "media/a3f174fc54f09e0b.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/eae7a74c829f7541.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573805:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-21T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, four days into a ride to the Bighorns, TR wrote:\n\n\"Early in morning a great herd of 1500 beef steers passed us; they had been bedded near us, and all night we had heard the cowboys singing and calling as they circled slowly round the herd... Saw no living game; but hundreds of buffalo skulls and old carcasses.\"\n\nCattle where the buffalo had been. He was twenty-five.\n\ntrlibrary.com/tr/badlands/landscape",
+   "media": [
+    {
+     "src": "media/3810814affd76e0e.jpg",
+     "w": 1000,
+     "h": 547,
+     "kind": "image"
+    },
+    {
+     "src": "media/223dc78a3ce5ae8d.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/01aa9a0d70a8f9e7.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105573864:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-21T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1884, riding to the Bighorns, TR wrote that 1,500 steers bedded near camp and \"all night we had heard the cowboys singing and calling as they circled slowly round the herd.\"\n\nThen: \"Saw no living game; but hundreds of buffalo skulls and old carcasses.\"\n\ntrlibrary.com/tr/badlands/landscape",
+   "media": [
+    {
+     "src": "media/a09e711d2e90cb2f.jpg",
+     "w": 1000,
+     "h": 547,
+     "kind": "image"
+    },
+    {
+     "src": "media/42608d1f8cdc0a38.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/cf56db20266e0988.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574174:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-22T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, Theodore Roosevelt climbed into an electric car in Hartford, Connecticut, and rode through the city for nearly three hours.\n\nLook at the photograph. Police flank the car on bicycles — then about the most advanced personal transport a city could offer. Mounted men ride ahead and alongside. In the middle is a Columbia Electric Victoria Phaeton, built in Hartford, the President in the front seat, Colonel Jacob Lyman Greene beside him in a top hat, two liveried attendants perched high at the back exactly where they would have sat on a carriage. Top speed thirteen miles an hour.\n\nThree generations of getting around, in one frame, at the same pace.\n\nNow a correction, because a presidential library ought to make it. You will read in many places — including books on this Library's own shelves — that Roosevelt was the first president to ride in an automobile. He was not. William McKinley was. F. O. Stanley gave him a ride in a Stanley Steamer and McKinley did not care for it: eighteen miles an hour struck him as too fast, he never rode in one again, and he is said to have told a friend that Stanley was too optimistic to think such machines would replace the horse. Accounts differ on exactly when. Within months McKinley was dead and Roosevelt had his job.\n\nHartford was a different first, and a more consequential one: a sitting president riding in an automobile in public, as part of the work, with an escort around him. The first presidential motorcade.\n\nThere is a hard coda. Twelve days later, on the last morning of the same tour, Roosevelt's horse-drawn barouche was struck by a speeding trolley outside Pittsfield, Massachusetts. He was thrown into the road, cut about the face, with a blow to the left leg that turned septic three weeks later and put him in an Indianapolis hospital for surgery. William Craig, the Secret Service man riding with him, went under the wheels — the first Secret Service agent to die in the line of duty. The motorman pleaded guilty to manslaughter and was sentenced to six months and a $300 fine.\n\nMore: trlibrary.com/tr/myths\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/eba8f166242dd508.jpg",
+     "w": 1000,
+     "h": 692,
+     "kind": "image"
+    },
+    {
+     "src": "media/e33c003087f0bc48.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    },
+    {
+     "src": "media/243eb3a21f2f8e0d.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574175:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-22T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, Theodore Roosevelt climbed into an electric car in Hartford, Connecticut, and rode through the city for nearly three hours.\n\nLook at the photograph. Police flank the car on bicycles — then about the most advanced personal transport a city could offer. Mounted men ride ahead and alongside. In the middle is a Columbia Electric Victoria Phaeton, built in Hartford, the President in the front seat, Colonel Jacob Lyman Greene beside him in a top hat, two liveried attendants perched high at the back exactly where they would have sat on a carriage. Top speed thirteen miles an hour.\n\nThree generations of getting around, in one frame, at the same pace.\n\nNow a correction, because a presidential library ought to make it. You will read in many places — including books on this Library's own shelves — that Roosevelt was the first president to ride in an automobile. He was not. William McKinley was. F. O. Stanley gave him a ride in a Stanley Steamer and McKinley did not care for it: eighteen miles an hour struck him as too fast, he never rode in one again, and he is said to have told a friend that Stanley was too optimistic to think such machines would replace the horse. Accounts differ on exactly when. Within months McKinley was dead and Roosevelt had his job.\n\nHartford was a different first, and a more consequential one: a sitting president riding in an automobile in public, as part of the work, with an escort around him. The first presidential motorcade.\n\nThere is a hard coda. Twelve days later, on the last morning of the same tour, Roosevelt's horse-drawn barouche was struck by a speeding trolley outside Pittsfield, Massachusetts. He was thrown into the road, cut about the face, with a blow to the left leg that turned septic three weeks later and put him in an Indianapolis hospital for surgery. William Craig, the Secret Service man riding with him, went under the wheels — the first Secret Service agent to die in the line of duty. The motorman pleaded guilty to manslaughter and was sentenced to six months and a $300 fine.\n\nMore: trlibrary.com/tr/myths\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/eba8f166242dd508.jpg",
+     "w": 1000,
+     "h": 692,
+     "kind": "image"
+    },
+    {
+     "src": "media/e33c003087f0bc48.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    },
+    {
+     "src": "media/243eb3a21f2f8e0d.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574217:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-22T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, Theodore Roosevelt climbed into an electric car in Hartford, Connecticut, and rode through the city for nearly three hours.\n\nLook at the photograph. Police flank the car on bicycles — then about the most advanced personal transport a city could offer. Mounted men ride ahead and alongside. In the middle is a Columbia Electric Victoria Phaeton, built in Hartford, the President in the front seat, Colonel Jacob Lyman Greene beside him in a top hat, two liveried attendants perched high at the back exactly where they would have sat on a carriage. Top speed thirteen miles an hour.\n\nThree generations of getting around, in one frame, at the same pace.\n\nNow a correction, because a presidential library ought to make it. You will read in many places — including books on this Library's own shelves — that Roosevelt was the first president to ride in an automobile. He was not. William McKinley was. F. O. Stanley gave him a ride in a Stanley Steamer and McKinley did not care for it: eighteen miles an hour struck him as too fast, he never rode in one again, and he is said to have told a friend that Stanley was too optimistic to think such machines would replace the horse. Accounts differ on exactly when. Within months McKinley was dead and Roosevelt had his job.\n\nHartford was a different first, and a more consequential one: a sitting president riding in an automobile in public, as part of the work, with an escort around him. The first presidential motorcade.\n\nThere is a hard coda. Twelve days later, on the last morning of the same tour, Roosevelt's horse-drawn barouche was struck by a speeding trolley outside Pittsfield, Massachusetts. He was thrown into the road, cut about the face, with a blow to the left leg that turned septic three weeks later and put him in an Indianapolis hospital for surgery. William Craig, the Secret Service man riding with him, went under the wheels — the first Secret Service agent to die in the line of duty. The motorman pleaded guilty to manslaughter and was sentenced to six months and a $300 fine.\n\nMore TR myths and corrections on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #PresidentialHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/00278f81b1536a51.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/87c2afa3db9b0736.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/624efcf4383c8aac.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574232:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-22T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, TR rode through Hartford in a Columbia Electric — police on bicycles alongside, horsemen ahead. The first presidential motorcade.\n\nHe was not, despite what you'll read, the first president in a car. McKinley was, in a Stanley Steamer.\n\ntrlibrary.com/tr/myths",
+   "media": [
+    {
+     "src": "media/f280c7d5da8d5b71.jpg",
+     "w": 1000,
+     "h": 692,
+     "kind": "image"
+    },
+    {
+     "src": "media/4cc50510047b0670.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    },
+    {
+     "src": "media/7088d4e134b0e8c8.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574257:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-22T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, TR rode through Hartford in a Columbia Electric Victoria Phaeton, top speed 13 mph, with police on bicycles alongside and horsemen ahead — the first presidential motorcade.\n\nHe was not the first president to ride in a car, whatever you have read. McKinley was, in a Stanley Steamer. He thought 18 mph was too fast and never did it again.\n\ntrlibrary.com/tr/myths",
+   "media": [
+    {
+     "src": "media/abd81a7b7897bd18.jpg",
+     "w": 1000,
+     "h": 692,
+     "kind": "image"
+    },
+    {
+     "src": "media/b3ee30c3d8478514.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    },
+    {
+     "src": "media/35108d2d7a9987e6.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574274:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-22T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1902, TR rode through Hartford in a Columbia Electric — police on bicycles alongside, horsemen ahead. The first presidential motorcade.\n\nHe was not the first president in a car. McKinley was, in a Stanley Steamer, and never did it again.\n\ntrlibrary.com/tr/myths",
+   "media": [
+    {
+     "src": "media/6683e00de51904f8.jpg",
+     "w": 1000,
+     "h": 692,
+     "kind": "image"
+    },
+    {
+     "src": "media/545f029ca285bb2d.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    },
+    {
+     "src": "media/c935de16a08f8acb.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574522:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-23T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1883, a twenty-four-year-old New York assemblyman wrote to a retired naval commander to pin down some vacation dates, and let slip the sentence that explains the rest of his life.\n\n\"I am now being forced to make my plans in regard to the political campaign this Autumn, and so I am anxious to fix, as nearly as is convenient to you, what will be about the dates of our departure and return. I am fond of politics, but fonder still of a little big game hunting.\"\n\nThe commander was Henry Honychurch Gorringe, who in 1880 had brought Cleopatra's Needle — a granite obelisk some sixty-nine feet tall, weighing around 200 tons — from Alexandria to Central Park, then resigned his commission and went west. He bought a derelict Army cantonment in the Dakota Badlands, standing where the Northern Pacific crossed the Little Missouri, and set out to make it a hunting resort. Roosevelt wanted a buffalo before the last of them were gone. Gorringe had the country.\n\nThen Gorringe pulled out. Late in August, without warning, days before the train left.\n\nRoosevelt went anyway. Alice, his wife, was expecting their first child and wanted him to call it off — he had been ill, and he would now be going without a soul to travel with. He stepped off the train at Little Missouri, Dakota Territory, in the small hours of 8 September 1883, knowing nobody in it.\n\nHe found a guide the next morning — Joe Ferris, who was working as barn superintendent at Gorringe's cantonment and did not want the job, and who took one look at the spectacles and the grin and privately wrote the dude off. It rained. Roosevelt shot badly. He kept repeating, to Ferris's mounting exasperation, \"It's dogged as does it.\"\n\nHe got his buffalo. Before he went home he had put money into a cattle outfit on the Little Missouri, the Maltese Cross. Ferris's verdict by then: \"a plumb good sort.\"\n\nEverything downstream of that — the Elkhorn, the killing winter of 1886–87, the conservation presidency, this Library standing in Medora — runs back through a letter about scheduling a hunting trip.\n\nMore: trlibrary.com/tr/badlands/first-trip\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/60d5b7b02fa8f209.jpg",
+     "w": 1000,
+     "h": 690,
+     "kind": "image"
+    },
+    {
+     "src": "media/5e37fa10178f31a7.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/0c1c26d63bc52671.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574523:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-23T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1883, a twenty-four-year-old New York assemblyman wrote to a retired naval commander to pin down some vacation dates, and let slip the sentence that explains the rest of his life.\n\n\"I am now being forced to make my plans in regard to the political campaign this Autumn, and so I am anxious to fix, as nearly as is convenient to you, what will be about the dates of our departure and return. I am fond of politics, but fonder still of a little big game hunting.\"\n\nThe commander was Henry Honychurch Gorringe, who in 1880 had brought Cleopatra's Needle — a granite obelisk some sixty-nine feet tall, weighing around 200 tons — from Alexandria to Central Park, then resigned his commission and went west. He bought a derelict Army cantonment in the Dakota Badlands, standing where the Northern Pacific crossed the Little Missouri, and set out to make it a hunting resort. Roosevelt wanted a buffalo before the last of them were gone. Gorringe had the country.\n\nThen Gorringe pulled out. Late in August, without warning, days before the train left.\n\nRoosevelt went anyway. Alice, his wife, was expecting their first child and wanted him to call it off — he had been ill, and he would now be going without a soul to travel with. He stepped off the train at Little Missouri, Dakota Territory, in the small hours of 8 September 1883, knowing nobody in it.\n\nHe found a guide the next morning — Joe Ferris, who was working as barn superintendent at Gorringe's cantonment and did not want the job, and who took one look at the spectacles and the grin and privately wrote the dude off. It rained. Roosevelt shot badly. He kept repeating, to Ferris's mounting exasperation, \"It's dogged as does it.\"\n\nHe got his buffalo. Before he went home he had put money into a cattle outfit on the Little Missouri, the Maltese Cross. Ferris's verdict by then: \"a plumb good sort.\"\n\nEverything downstream of that — the Elkhorn, the killing winter of 1886–87, the conservation presidency, this Library standing in Medora — runs back through a letter about scheduling a hunting trip.\n\nMore: trlibrary.com/tr/badlands/first-trip\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/60d5b7b02fa8f209.jpg",
+     "w": 1000,
+     "h": 690,
+     "kind": "image"
+    },
+    {
+     "src": "media/5e37fa10178f31a7.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/0c1c26d63bc52671.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574806:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-23T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1883, arranging a Dakota buffalo hunt, a 24-year-old TR wrote: \"I am fond of politics, but fonder still of a little big game hunting.\"\n\nHis host backed out days before the train left. He went alone. He came home a rancher.\n\ntrlibrary.com/tr/badlands/first-trip",
+   "media": [
+    {
+     "src": "media/5b9bb42b486f7671.jpg",
+     "w": 1000,
+     "h": 690,
+     "kind": "image"
+    },
+    {
+     "src": "media/c9c563dd9a472b8c.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/579f5f8b9e266791.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574828:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-23T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1883, writing to Commander H. H. Gorringe to pin down the dates of a Dakota buffalo hunt, a 24-year-old TR let slip: \"I am fond of politics, but fonder still of a little big game hunting.\"\n\nGorringe pulled out without warning days before the train left. Roosevelt went alone, got his buffalo, and bought into a cattle ranch before he came home.\n\ntrlibrary.com/tr/badlands/first-trip",
+   "media": [
+    {
+     "src": "media/9e644ef9ac00dd4a.jpg",
+     "w": 1000,
+     "h": 690,
+     "kind": "image"
+    },
+    {
+     "src": "media/20eb0fc94f9816a5.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f851390290120a4b.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105574853:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-23T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1883, arranging a Dakota buffalo hunt, a 24-year-old TR wrote: \"I am fond of politics, but fonder still of a little big game hunting.\"\n\nHis host backed out days before the train left. Roosevelt went alone — and came home a rancher.\n\ntrlibrary.com/tr/badlands/first-trip",
+   "media": [
+    {
+     "src": "media/836dcff4ff80ce51.jpg",
+     "w": 1000,
+     "h": 690,
+     "kind": "image"
+    },
+    {
+     "src": "media/f0f15bc536c86d73.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/14a28762af0f893a.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13105575029:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-23T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1883, a twenty-four-year-old New York assemblyman wrote to a retired naval commander to pin down some vacation dates, and let slip the sentence that explains the rest of his life.\n\n\"I am now being forced to make my plans in regard to the political campaign this Autumn, and so I am anxious to fix, as nearly as is convenient to you, what will be about the dates of our departure and return. I am fond of politics, but fonder still of a little big game hunting.\"\n\nThe commander was Henry Honychurch Gorringe, who in 1880 had brought Cleopatra's Needle — a granite obelisk some sixty-nine feet tall, weighing around 200 tons — from Alexandria to Central Park, then resigned his commission and went west. He bought a derelict Army cantonment in the Dakota Badlands, standing where the Northern Pacific crossed the Little Missouri, and set out to make it a hunting resort. Roosevelt wanted a buffalo before the last of them were gone. Gorringe had the country.\n\nThen Gorringe pulled out. Late in August, without warning, days before the train left.\n\nRoosevelt went anyway. Alice, his wife, was expecting their first child and wanted him to call it off — he had been ill, and he would now be going without a soul to travel with. He stepped off the train at Little Missouri, Dakota Territory, in the small hours of 8 September 1883, knowing nobody in it.\n\nHe found a guide the next morning — Joe Ferris, who was working as barn superintendent at Gorringe's cantonment and did not want the job, and who took one look at the spectacles and the grin and privately wrote the dude off. It rained. Roosevelt shot badly. He kept repeating, to Ferris's mounting exasperation, \"It's dogged as does it.\"\n\nHe got his buffalo. Before he went home he had put money into a cattle outfit on the Little Missouri, the Maltese Cross. Ferris's verdict by then: \"a plumb good sort.\"\n\nEverything downstream of that — the Elkhorn, the killing winter of 1886–87, the conservation presidency, this Library standing in Medora — runs back through a letter about scheduling a hunting trip.\n\nMore on TR's first trip west on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
+   "media": [
+    {
+     "src": "media/02e4e6fa2022810d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/168c3f75e846eddb.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ee3ddf7615d3b89a.jpg",
+     "w": 1000,
+     "h": 1000,
      "kind": "image"
     }
    ],
