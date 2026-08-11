@@ -1,11 +1,95 @@
 {
- "generatedAt": "2026-08-11T18:22:41Z",
+ "generatedAt": "2026-08-11T21:21:07Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "414dbd3381c5",
+   "url": "https://www.trlibrary.com/tr/badlands",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt in the Badlands",
+   "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
+   "publishAt": "2026-09-08T12:00:00Z",
+   "latestAt": "2026-09-08T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/20a1bdd0ef54ab7b.jpg",
+    "w": 1000,
+    "h": 661
+   }
+  },
+  {
+   "id": "c9f90aad9ba2",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
+   "host": "trlibrary.com",
+   "headline": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
+   "blurb": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the…",
+   "publishAt": "2026-08-30T12:00:00Z",
+   "latestAt": "2026-09-07T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/9c1fe5d717fbd453.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
+  {
+   "id": "0ee1b2575383",
+   "url": "https://www.trlibrary.com/tr/rise-to-power",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Rise to Power",
+   "blurb": "Trace Roosevelt's climb from Rough Rider to the White House — San Juan Hill, a vice presidency meant to sideline him, and the fateful autumn of 1901.",
+   "publishAt": "2026-09-06T12:00:00Z",
+   "latestAt": "2026-09-06T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/d742f567cb8fcbb0.jpg",
+    "w": 1000,
+    "h": 745
+   }
+  },
+  {
+   "id": "7b58eb35c95d",
+   "url": "https://www.trlibrary.com/tr/presidency/foreign-policy",
+   "host": "trlibrary.com",
+   "headline": "Roosevelt's Foreign Policy: America Takes Its Place Among Nations",
+   "blurb": "As president from 1901, Theodore Roosevelt steered America out of cautious isolation into an assertive foreign policy that lifted the nation among…",
+   "publishAt": "2026-09-05T12:00:00Z",
+   "latestAt": "2026-09-05T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/2065f12a9b77b6e5.jpg",
+    "w": 818,
+    "h": 1000
+   }
+  },
   {
    "id": "a4ba3fea3c6f",
    "url": "https://www.trlibrary.com/tr/people/bill-sewall",
@@ -109,27 +193,6 @@
     "src": "media/1c74c00f85254614.jpg",
     "w": 1000,
     "h": 756
-   }
-  },
-  {
-   "id": "c9f90aad9ba2",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
-   "host": "trlibrary.com",
-   "headline": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
-   "blurb": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the…",
-   "publishAt": "2026-08-30T12:00:00Z",
-   "latestAt": "2026-08-30T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/7a48975d47b42773.jpg",
-    "w": 800,
-    "h": 1000
    }
   },
   {
@@ -359,69 +422,6 @@
    ],
    "thumb": {
     "src": "media/0f84c1017bd7b50a.jpg",
-    "w": 801,
-    "h": 1000
-   }
-  },
-  {
-   "id": "3c9d1f2f3be8",
-   "url": "https://www.trlibrary.com/tr/presidency/brownsville",
-   "host": "trlibrary.com",
-   "headline": "The Brownsville Affair: An Injustice That Took 66 Years to Correct",
-   "blurb": "In 1906, soldiers of the all-Black 25th Infantry were wrongly accused after a Brownsville, Texas shooting, an injustice not corrected for 66 years.",
-   "publishAt": "2026-08-14T12:00:00Z",
-   "latestAt": "2026-08-14T12:00:00Z",
-   "channels": [
-    "THREADS",
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/45215d7ec66e4e48.jpg",
-    "w": 1000,
-    "h": 914
-   }
-  },
-  {
-   "id": "88fab44e4fe6",
-   "url": "https://www.trlibrary.com/tr/people/ethel",
-   "host": "trlibrary.com",
-   "headline": "Ethel Roosevelt Derby: The Devoted Daughter",
-   "blurb": "Steady and principled, Ethel Roosevelt Derby grew up at Sagamore Hill as Theodore and Edith's most grounded and devoted daughter.",
-   "publishAt": "2026-08-13T12:00:00Z",
-   "latestAt": "2026-08-13T12:00:00Z",
-   "channels": [
-    "THREADS",
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/67e9047dd91b7d61.jpg",
-    "w": 801,
-    "h": 1000
-   }
-  },
-  {
-   "id": "ed110705a4d7",
-   "url": "https://www.trlibrary.com/tr/badlands/maltese-cross",
-   "host": "trlibrary.com",
-   "headline": "Maltese Cross Ranch: Roosevelt's Dakota Foothold",
-   "blurb": "Seven miles south of Medora on the Little Missouri, the Maltese Cross Ranch was Roosevelt's first tangible commitment to the Dakota frontier.",
-   "publishAt": "2026-08-12T12:00:00Z",
-   "latestAt": "2026-08-12T12:00:00Z",
-   "channels": [
-    "THREADS",
-    "BLUESKY",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/da72d80b2a10daaf.jpg",
     "w": 801,
     "h": 1000
    }
