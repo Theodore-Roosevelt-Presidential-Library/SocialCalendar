@@ -1,11 +1,115 @@
 {
- "generatedAt": "2026-08-11T00:27:47Z",
+ "generatedAt": "2026-08-11T03:36:45Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "da5acd21ee98",
+   "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
+   "host": "trlibrary.com",
+   "headline": "Frontier Life in the 1880s Badlands",
+   "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
+   "publishAt": "2026-08-16T12:00:00Z",
+   "latestAt": "2026-08-29T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/3fa7f2f67eee7a62.jpg",
+    "w": 1000,
+    "h": 654
+   }
+  },
+  {
+   "id": "591308149364",
+   "url": "https://www.trlibrary.com/tr/conservation/by-the-numbers",
+   "host": "trlibrary.com",
+   "headline": "Conservation by the Numbers",
+   "blurb": "Roosevelt protected roughly 230 million acres—about ten percent of the United States—in just seven and a half years: conservation by the numbers.",
+   "publishAt": "2026-08-28T12:00:00Z",
+   "latestAt": "2026-08-28T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/05b5099acf15383f.jpg",
+    "w": 1000,
+    "h": 541
+   }
+  },
+  {
+   "id": "c2526bc4f05c",
+   "url": "https://www.trlibrary.com/tr/presidency/executive-power",
+   "host": "trlibrary.com",
+   "headline": "Executive Power: The Stewardship Theory and Modern Presidency",
+   "blurb": "Roosevelt reimagined the presidency itself, arguing the office empowered a president to act for the public good unless the Constitution expressly…",
+   "publishAt": "2026-08-27T12:00:00Z",
+   "latestAt": "2026-08-27T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/0fb4b990691f5ec4.jpg",
+    "w": 1000,
+    "h": 709
+   }
+  },
+  {
+   "id": "f21002547b31",
+   "url": "https://www.trlibrary.com/tr/badlands-timeline",
+   "host": "trlibrary.com",
+   "headline": "Timeline of TR in the Badlands",
+   "blurb": "At 24, Roosevelt came to the North Dakota Badlands to hunt bison and left a different man.",
+   "publishAt": "2026-08-26T12:00:00Z",
+   "latestAt": "2026-08-26T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/c315a2b0b38d4f21.jpg",
+    "w": 1000,
+    "h": 725
+   }
+  },
+  {
+   "id": "283ae8afc7a7",
+   "url": "https://www.trlibrary.com/tr/presidency/ten-facts",
+   "host": "trlibrary.com",
+   "headline": "Ten Facts About Theodore Roosevelt's Presidency",
+   "blurb": "Ten facts about Theodore Roosevelt’s presidency — from the youngest man ever to take the office to trust-busting, conservation, and the Square Deal.",
+   "publishAt": "2026-08-25T12:00:00Z",
+   "latestAt": "2026-08-25T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/04461834b2cb79ea.jpg",
+    "w": 640,
+    "h": 445
+   }
+  },
   {
    "id": "ef08c75b8732",
    "url": "https://www.trlibrary.com/tr/badlands/first-trip",
@@ -109,27 +213,6 @@
     "src": "media/08acf94082ea9259.jpg",
     "w": 1000,
     "h": 524
-   }
-  },
-  {
-   "id": "da5acd21ee98",
-   "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
-   "host": "trlibrary.com",
-   "headline": "Frontier Life in the 1880s Badlands",
-   "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
-   "publishAt": "2026-08-16T12:00:00Z",
-   "latestAt": "2026-08-18T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/9c861ef11b33df85.jpg",
-    "w": 1000,
-    "h": 779
    }
   },
   {
@@ -343,88 +426,6 @@
     "w": 1000,
     "h": 524
    }
-  },
-  {
-   "id": "b0b21d072ac0",
-   "url": "https://www.inpursuit.org/lessons/to-know-a-leader-know-who-they-listen-to",
-   "host": "In Pursuit",
-   "headline": "Lesson #37: To know a leader, know who they listen to",
-   "blurb": "Edith Roosevelt's influence didn't come from a title — it came from being listened to.",
-   "publishAt": "2026-08-06T19:00:00Z",
-   "latestAt": "2026-08-06T19:00:00Z",
-   "channels": [
-    "THREADS",
-    "BLUESKY",
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/643d18cc50c3a84b.jpg",
-    "w": 813,
-    "h": 1000
-   }
-  },
-  {
-   "id": "ed8b045445eb",
-   "url": "https://www.trlibrary.com/calendar/special-event/american-conservation-coalition-2026-public-programs",
-   "host": "trlibrary.com",
-   "headline": "American Conservation Coalition 2026 Public Programs",
-   "blurb": "",
-   "publishAt": "2026-08-06T16:00:00Z",
-   "latestAt": "2026-08-06T16:00:00Z",
-   "channels": [
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "BLUESKY",
-    "INSTAGRAMBUSINESS",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/16578d8690695f0a.jpg",
-    "w": 540,
-    "h": 675
-   }
-  },
-  {
-   "id": "febbce340732",
-   "url": "https://www.trlibrary.com/tickets",
-   "host": "trlibrary.com",
-   "headline": "50,000 participants have walked the boardwalk into the Badlands since July 4.",
-   "blurb": "Admission to the Theodore Roosevelt Presidential Library is by timed-entry ticket covering the full exhibit experience — how tickets work, and how to…",
-   "publishAt": "2026-08-04T20:30:00Z",
-   "latestAt": "2026-08-04T20:30:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "INSTAGRAMBUSINESS",
-    "TWITTER",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/1599ca232547c409.jpg",
-    "w": 540,
-    "h": 675
-   }
-  },
-  {
-   "id": "cf03e9db0ca3",
-   "url": "https://www.inpursuit.org/lessons/a-more-perfect-union-requires-an-wider-we",
-   "host": "In Pursuit",
-   "headline": "Lesson #36: An ever more perfect union requires an ever wider “we”",
-   "blurb": "TR widened the circle of \"We the People\" further than almost any president before him — conservation, reform, the conviction that everybody counts.",
-   "publishAt": "2026-08-04T16:00:00Z",
-   "latestAt": "2026-08-04T16:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "THREADS"
-   ],
-   "thumb": null
   }
  ]
 }
