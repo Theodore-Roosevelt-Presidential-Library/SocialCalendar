@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12T06:36:24Z",
+ "generatedAt": "2026-08-12T09:29:49Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -7,13 +7,55 @@
  },
  "items": [
   {
-   "id": "414dbd3381c5",
-   "url": "https://www.trlibrary.com/tr/badlands",
+   "id": "b53144c9171c",
+   "url": "https://www.trlibrary.com/tr/presidency",
    "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt in the Badlands",
-   "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
-   "publishAt": "2026-09-08T12:00:00Z",
-   "latestAt": "2026-09-08T12:00:00Z",
+   "headline": "Theodore Roosevelt's Presidency",
+   "blurb": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
+   "publishAt": "2026-09-03T12:00:00Z",
+   "latestAt": "2026-09-12T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/3e43d1ba16845fce.jpg",
+    "w": 702,
+    "h": 768
+   }
+  },
+  {
+   "id": "0ee1b2575383",
+   "url": "https://www.trlibrary.com/tr/rise-to-power",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Rise to Power",
+   "blurb": "Trace Roosevelt's climb from Rough Rider to the White House — San Juan Hill, a vice presidency meant to sideline him, and the fateful autumn of 1901.",
+   "publishAt": "2026-09-06T12:00:00Z",
+   "latestAt": "2026-09-11T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/940162c91f9019f6.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
+  {
+   "id": "0678f03bb0b3",
+   "url": "https://www.trlibrary.com/tr/conservation",
+   "host": "trlibrary.com",
+   "headline": "Roosevelt and the Conservation Story",
+   "blurb": "Roosevelt's conservation story told in numbers and his own words — some 230 million acres of forests, parks, and refuges protected for the future.",
+   "publishAt": "2026-09-10T12:00:00Z",
+   "latestAt": "2026-09-10T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
     "LINKEDINCOMPANY",
@@ -22,9 +64,30 @@
     "BLUESKY"
    ],
    "thumb": {
-    "src": "media/20a1bdd0ef54ab7b.jpg",
-    "w": 1000,
-    "h": 661
+    "src": "media/d12dce5694130fc7.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
+  {
+   "id": "414dbd3381c5",
+   "url": "https://www.trlibrary.com/tr/badlands",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt in the Badlands",
+   "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
+   "publishAt": "2026-09-08T12:00:00Z",
+   "latestAt": "2026-09-09T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/61f89fec6a22b225.jpg",
+    "w": 800,
+    "h": 1000
    }
   },
   {
@@ -46,27 +109,6 @@
     "src": "media/9c1fe5d717fbd453.jpg",
     "w": 800,
     "h": 1000
-   }
-  },
-  {
-   "id": "0ee1b2575383",
-   "url": "https://www.trlibrary.com/tr/rise-to-power",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Rise to Power",
-   "blurb": "Trace Roosevelt's climb from Rough Rider to the White House — San Juan Hill, a vice presidency meant to sideline him, and the fateful autumn of 1901.",
-   "publishAt": "2026-09-06T12:00:00Z",
-   "latestAt": "2026-09-06T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/d742f567cb8fcbb0.jpg",
-    "w": 1000,
-    "h": 745
    }
   },
   {
@@ -109,27 +151,6 @@
     "src": "media/c41755752b9a0e2d.jpg",
     "w": 1000,
     "h": 994
-   }
-  },
-  {
-   "id": "b53144c9171c",
-   "url": "https://www.trlibrary.com/tr/presidency",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Presidency",
-   "blurb": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
-   "publishAt": "2026-09-03T12:00:00Z",
-   "latestAt": "2026-09-03T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/be98f1a2846dc68d.jpg",
-    "w": 1000,
-    "h": 697
    }
   },
   {
@@ -403,27 +424,6 @@
     "src": "media/08acf94082ea9259.jpg",
     "w": 1000,
     "h": 524
-   }
-  },
-  {
-   "id": "fac5373c2fb9",
-   "url": "https://www.trlibrary.com/tr/early-life/siblings",
-   "host": "trlibrary.com",
-   "headline": "TR’s Siblings: Bamie, Elliott, and Corinne",
-   "blurb": "Theodore's siblings—devoted Bamie, charming and troubled Elliott, and warm Corinne—shaped him in ways both steadying and sorrowful throughout his…",
-   "publishAt": "2026-08-17T12:00:00Z",
-   "latestAt": "2026-08-17T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/0f84c1017bd7b50a.jpg",
-    "w": 801,
-    "h": 1000
    }
   }
  ]
