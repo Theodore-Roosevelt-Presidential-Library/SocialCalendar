@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13T15:25:20Z",
+ "generatedAt": "2026-08-13T18:23:07Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-07-30T00:00:00Z",
@@ -2662,6 +2662,114 @@
      "src": "media/5eca698411cc9db3.jpg",
      "w": 1000,
      "h": 914,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106172296:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-08-14T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer on September 16 at 1 PM! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which earned the nicknamed the \"Summer White House\" during his presidency.\n",
+   "media": [
+    {
+     "src": "media/48ee927aeb638c2f.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106172297:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-14T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/kBcH50ZzwK2\n\n#lecture #sagamorehill #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/07c0897a5b1902fe.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106172298:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-14T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/cgYE50ZzwJZ\n\n#lecture #sagamorehill #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/07c0897a5b1902fe.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106172299:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-14T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/5acU50ZzwK0\n\n#lecture #sagamorehill #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/07c0897a5b1902fe.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106172300:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-14T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/Ax4150ZzwK1\n\n#lecture #sagamorehill #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/07c0897a5b1902fe.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106172301:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-14T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/1ayg50ZzwK3\n\n#lecture #sagamorehill #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/07c0897a5b1902fe.jpg",
+     "w": 540,
+     "h": 675,
      "kind": "image"
     }
    ],
@@ -7534,6 +7642,756 @@
      "src": "media/a2d885a3ada6a6a0.jpg",
      "w": 802,
      "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138431:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-13T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1887, at a quarter past two in the morning, Edith Roosevelt gave birth to a son at Sagamore Hill. They named him Theodore.\n\nHe grew up small and highly strung. Edith's verdict, when he was seven: \"Ted grows like a Century Plant, that is, not at all visibly.\"\n\nIn the year he turned nine, his father came home from town with a rifle. It was a Flobert — a parlor gun, the sort built for target shooting indoors. The Flobert cartridge carried no powder charge at all; the primer was the whole propellant, which is why such a thing could be fired in a bedroom. Ted told the rest himself, decades later:\n\n\"At once I made for his room, where I found him just preparing for his bath. The rifle was standing in a corner. Of course I fell on it with delight. He was as much excited as I was. I wanted to see it fired to make sure it was a real rifle. That presented a difficulty. It would be too dark to shoot after supper and Father was not dressed to go out at the moment. He took it, slipped a cartridge into the chamber, and making me promise not to tell Mother, fired it into the ceiling. The report was slight, the smoke hardly noticeable, and the hole made in the ceiling so small that our sin was not detected.\"\n\nTed spelled it \"Flaubert,\" like the novelist. Most historians have quietly corrected him.\n\nTwo years on, the boy was ten and racked with headaches and nervous exhaustion, and the doctors were, in his father's words, \"utterly unable to find out the ultimate cause of the trouble.\" Edith knew the cause. She put it to an old friend who was a physician, Dr. Alexander Lambert, and Lambert examined Ted, agreed with her, and put it to Roosevelt in writing: the boy was being pushed too hard, by him.\n\nRoosevelt surrendered. \"Hereafter I shall never press Ted either in body or mind. The fact is that the little fellow, who is peculiarly dear to me, has bidden fair to be all the things I would like to have been and wasn't, and it has been a great temptation to push him.\"\n\nHe never entirely managed it. But he wrote it down.\n\nMore: trlibrary.com/tr/family\n\n#OTD #OnThisDay #TheodoreRoosevelt #SagamoreHill #AmericanHistory",
+   "media": [
+    {
+     "src": "media/f6527f158bbf36ee.jpg",
+     "w": 1000,
+     "h": 871,
+     "kind": "image"
+    },
+    {
+     "src": "media/ee6a9e8e3828f3b6.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/19c984900bc0e099.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138432:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-13T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1887, at a quarter past two in the morning, Edith Roosevelt gave birth to a son at Sagamore Hill. They named him Theodore.\n\nHe grew up small and highly strung. Edith's verdict, when he was seven: \"Ted grows like a Century Plant, that is, not at all visibly.\"\n\nIn the year he turned nine, his father came home from town with a rifle. It was a Flobert — a parlor gun, the sort built for target shooting indoors. The Flobert cartridge carried no powder charge at all; the primer was the whole propellant, which is why such a thing could be fired in a bedroom. Ted told the rest himself, decades later:\n\n\"At once I made for his room, where I found him just preparing for his bath. The rifle was standing in a corner. Of course I fell on it with delight. He was as much excited as I was. I wanted to see it fired to make sure it was a real rifle. That presented a difficulty. It would be too dark to shoot after supper and Father was not dressed to go out at the moment. He took it, slipped a cartridge into the chamber, and making me promise not to tell Mother, fired it into the ceiling. The report was slight, the smoke hardly noticeable, and the hole made in the ceiling so small that our sin was not detected.\"\n\nTed spelled it \"Flaubert,\" like the novelist. Most historians have quietly corrected him.\n\nTwo years on, the boy was ten and racked with headaches and nervous exhaustion, and the doctors were, in his father's words, \"utterly unable to find out the ultimate cause of the trouble.\" Edith knew the cause. She put it to an old friend who was a physician, Dr. Alexander Lambert, and Lambert examined Ted, agreed with her, and put it to Roosevelt in writing: the boy was being pushed too hard, by him.\n\nRoosevelt surrendered. \"Hereafter I shall never press Ted either in body or mind. The fact is that the little fellow, who is peculiarly dear to me, has bidden fair to be all the things I would like to have been and wasn't, and it has been a great temptation to push him.\"\n\nHe never entirely managed it. But he wrote it down.\n\nMore: trlibrary.com/tr/family\n\n#OTD #OnThisDay #TheodoreRoosevelt #SagamoreHill #AmericanHistory",
+   "media": [
+    {
+     "src": "media/f6527f158bbf36ee.jpg",
+     "w": 1000,
+     "h": 871,
+     "kind": "image"
+    },
+    {
+     "src": "media/ee6a9e8e3828f3b6.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/19c984900bc0e099.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138537:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-13T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1887, at a quarter past two in the morning, Edith Roosevelt gave birth to a son at Sagamore Hill. They named him Theodore.\n\nHe grew up small and highly strung. Edith's verdict, when he was seven: \"Ted grows like a Century Plant, that is, not at all visibly.\"\n\nIn the year he turned nine, his father came home from town with a rifle — a Flobert, a parlor gun built for shooting indoors, whose cartridge carried no powder charge at all. Ted told the rest himself, decades later:\n\n\"I wanted to see it fired to make sure it was a real rifle. That presented a difficulty. It would be too dark to shoot after supper and Father was not dressed to go out at the moment. He took it, slipped a cartridge into the chamber, and making me promise not to tell Mother, fired it into the ceiling. The report was slight, the smoke hardly noticeable, and the hole made in the ceiling so small that our sin was not detected.\"\n\nTwo years on, the boy was ten and racked with headaches and nervous exhaustion, and the doctors could find no cause. Edith knew the cause. She put it to Dr. Alexander Lambert, who examined Ted, agreed with her, and put it to Roosevelt in writing.\n\nRoosevelt surrendered: \"Hereafter I shall never press Ted either in body or mind. The fact is that the little fellow, who is peculiarly dear to me, has bidden fair to be all the things I would like to have been and wasn't, and it has been a great temptation to push him.\"\n\nMore at trlibrary.com — link in bio\n\n#OTD #OnThisDay #TheodoreRoosevelt #SagamoreHill #AmericanHistory",
+   "media": [
+    {
+     "src": "media/a97ba9fd53993bb7.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2c40bb99965d8735.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/afe5346db50f4d91.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138592:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-13T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1887, Theodore Roosevelt Jr. was born at Sagamore Hill.\n\nAround his ninth year his father brought home a rifle and, per Ted: \"making me promise not to tell Mother, fired it into the ceiling. The report was slight… our sin was not detected.\"\n\ntrlibrary.com/tr/family",
+   "media": [
+    {
+     "src": "media/9c1330863eea5352.jpg",
+     "w": 1000,
+     "h": 871,
+     "kind": "image"
+    },
+    {
+     "src": "media/7cbdce4e2af9a9b2.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/8d8a05196719739c.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138648:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-13T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1887, Theodore Roosevelt Jr. was born at Sagamore Hill — small, highly strung, and in his mother's words growing \"like a Century Plant, that is, not at all visibly.\"\n\nAround his ninth year his father came home with a rifle. Ted, decades later: \"He took it, slipped a cartridge into the chamber, and making me promise not to tell Mother, fired it into the ceiling.\"\n\ntrlibrary.com/tr/family",
+   "media": [
+    {
+     "src": "media/d12d05145c11544d.jpg",
+     "w": 1000,
+     "h": 871,
+     "kind": "image"
+    },
+    {
+     "src": "media/8d2a3b281963e46c.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/1bb34d8f17a78b15.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138731:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-13T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1887, Theodore Roosevelt Jr. was born at Sagamore Hill.\n\nAround his ninth year his father brought home a rifle and, in Ted's telling, \"making me promise not to tell Mother, fired it into the ceiling.\"\n\nThe hole was too small to be noticed.\n\ntrlibrary.com/tr/family",
+   "media": [
+    {
+     "src": "media/bdeb4cbdd78c16f2.jpg",
+     "w": 1000,
+     "h": 871,
+     "kind": "image"
+    },
+    {
+     "src": "media/84b2f031eabf1fdd.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/69e87e91427339f6.jpg",
+     "w": 1000,
+     "h": 813,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138593:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-14T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1901, at a quarter past two in the morning, William McKinley died in Buffalo of the wounds he had taken eight days earlier. Theodore Roosevelt became President of the United States in a wagon, on an Adirondack road, in the dark — and did not know it for three hours.\n\nHe had spent the previous day climbing Mount Marcy, the highest peak in New York, on the strength of the doctors' assurances that the President was recovering. He wrote about the moment that ended:\n\n\"After reaching the top I had descended a few hundred feet to a shelf of land where there was a little lake, when I saw a guide coming out of the woods on our trail from below. I felt at once that he had bad news, and, sure enough, he handed me a telegram saying that the President's condition was much worse and that I must come to Buffalo immediately.\"\n\nThe telegram itself said only that McKinley's condition gave rise to \"the gravest apprehension.\" The rest was what Roosevelt read in the sight of a man climbing a mountain toward him.\n\nHe left the club at Tahawus at 11:31 that night: thirty-five miles of dark, rain-washed road in relays of horses — the club superintendent David Hunter to the Lower Works, Orrin Kellogg on to Aiden Lair, and Mike Cronin the last sixteen miles behind two black Morgans, in an hour and forty-one minutes. Two miles short of the station they stopped to let the horses blow, and Roosevelt straightened his tie, saying there might be notables waiting at the depot. They reached North Creek at 5:22 a.m., and his secretary, William Loeb, handed him John Hay's telegram from Washington.\n\nIn Buffalo the first suggestion had been to swear him in at the Milburn house, where McKinley's body lay upstairs. It was objected to as unsuitable. Roosevelt went there only to pay his respects, and took the oath somewhere else.\n\nAt 3:32 that afternoon, in the library of his friend Ansley Wilcox's house on Delaware Avenue, in a borrowed frock coat and with no Bible, he took the oath from Judge John R. Hazel of the U.S. District Court, before a small company of cabinet officers, judges and reporters. At 42, he was the youngest person ever to hold the office.\n\nBefore the oath he answered Secretary of War Elihu Root: \"it shall be my aim to continue absolutely unbroken the policy of President McKinley for the peace, the prosperity and the honor of our beloved country.\"\n\nThe house is still there, at 641 Delaware Avenue. It is the Theodore Roosevelt Inaugural National Historic Site.\n\nMore: trlibrary.com/tr/rise-to-power/becoming-president\n\n#OTD #OnThisDay #TheodoreRoosevelt #WilliamMcKinley #PresidentialHistory",
+   "media": [
+    {
+     "src": "media/055b857d9eb52d4b.jpg",
+     "w": 813,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/008bcef1602471d5.jpg",
+     "w": 1000,
+     "h": 804,
+     "kind": "image"
+    },
+    {
+     "src": "media/6d18554aa06b7f8c.jpg",
+     "w": 803,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138594:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-14T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1901, at a quarter past two in the morning, William McKinley died in Buffalo of the wounds he had taken eight days earlier. Theodore Roosevelt became President of the United States in a wagon, on an Adirondack road, in the dark — and did not know it for three hours.\n\nHe had spent the previous day climbing Mount Marcy, the highest peak in New York, on the strength of the doctors' assurances that the President was recovering. He wrote about the moment that ended:\n\n\"After reaching the top I had descended a few hundred feet to a shelf of land where there was a little lake, when I saw a guide coming out of the woods on our trail from below. I felt at once that he had bad news, and, sure enough, he handed me a telegram saying that the President's condition was much worse and that I must come to Buffalo immediately.\"\n\nThe telegram itself said only that McKinley's condition gave rise to \"the gravest apprehension.\" The rest was what Roosevelt read in the sight of a man climbing a mountain toward him.\n\nHe left the club at Tahawus at 11:31 that night: thirty-five miles of dark, rain-washed road in relays of horses — the club superintendent David Hunter to the Lower Works, Orrin Kellogg on to Aiden Lair, and Mike Cronin the last sixteen miles behind two black Morgans, in an hour and forty-one minutes. Two miles short of the station they stopped to let the horses blow, and Roosevelt straightened his tie, saying there might be notables waiting at the depot. They reached North Creek at 5:22 a.m., and his secretary, William Loeb, handed him John Hay's telegram from Washington.\n\nIn Buffalo the first suggestion had been to swear him in at the Milburn house, where McKinley's body lay upstairs. It was objected to as unsuitable. Roosevelt went there only to pay his respects, and took the oath somewhere else.\n\nAt 3:32 that afternoon, in the library of his friend Ansley Wilcox's house on Delaware Avenue, in a borrowed frock coat and with no Bible, he took the oath from Judge John R. Hazel of the U.S. District Court, before a small company of cabinet officers, judges and reporters. At 42, he was the youngest person ever to hold the office.\n\nBefore the oath he answered Secretary of War Elihu Root: \"it shall be my aim to continue absolutely unbroken the policy of President McKinley for the peace, the prosperity and the honor of our beloved country.\"\n\nThe house is still there, at 641 Delaware Avenue. It is the Theodore Roosevelt Inaugural National Historic Site.\n\nMore: trlibrary.com/tr/rise-to-power/becoming-president\n\n#OTD #OnThisDay #TheodoreRoosevelt #WilliamMcKinley #PresidentialHistory",
+   "media": [
+    {
+     "src": "media/055b857d9eb52d4b.jpg",
+     "w": 813,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/008bcef1602471d5.jpg",
+     "w": 1000,
+     "h": 804,
+     "kind": "image"
+    },
+    {
+     "src": "media/6d18554aa06b7f8c.jpg",
+     "w": 803,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138696:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-14T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1901, at a quarter past two in the morning, William McKinley died in Buffalo of the wounds he had taken eight days earlier. Theodore Roosevelt became President of the United States in a wagon, on an Adirondack road, in the dark — and did not know it for three hours.\n\nHe had spent the previous day climbing Mount Marcy, on the strength of the doctors' assurances that the President was recovering. In his own words: \"I had descended a few hundred feet to a shelf of land where there was a little lake, when I saw a guide coming out of the woods on our trail from below. I felt at once that he had bad news.\"\n\nThirty-five miles of dark, rain-washed road followed, in relays of horses, through the night. They reached the railroad at 5:22 in the morning, and his secretary handed him the telegram from Washington.\n\nIn Buffalo the first suggestion had been to swear him in at the house where McKinley's body lay upstairs. It was objected to as unsuitable. Roosevelt went there only to pay his respects.\n\nAt 3:32 that afternoon, in a borrowed frock coat and with no Bible, he took the oath in the library of his friend Ansley Wilcox's house. At 42, the youngest person ever to hold the office.\n\nThe house is still there. It is the Theodore Roosevelt Inaugural National Historic Site.\n\nMore at trlibrary.com — link in bio\n\n#OTD #OnThisDay #TheodoreRoosevelt #WilliamMcKinley #PresidentialHistory",
+   "media": [
+    {
+     "src": "media/bf9dcacc24152500.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7bce0c475920edef.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/3938a39fbfeb6076.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138744:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-14T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1901, President William McKinley died in Buffalo at 2:15 a.m., eight days after he was shot.\n\nTheodore Roosevelt became president in a wagon on an Adirondack road, in the dark, and did not learn of it for three hours.\n\ntrlibrary.com/tr/rise-to-power/becoming-president",
+   "media": [
+    {
+     "src": "media/b58f54ddef90c913.jpg",
+     "w": 813,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/133047b2afd8c260.jpg",
+     "w": 1000,
+     "h": 804,
+     "kind": "image"
+    },
+    {
+     "src": "media/0538ac27942080eb.jpg",
+     "w": 803,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138811:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-14T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1901, President William McKinley died in Buffalo at 2:15 a.m., eight days after he was shot at the Pan-American Exposition.\n\nTheodore Roosevelt became president in a wagon on an Adirondack road, in the dark, and did not learn of it for three hours. He was sworn in that afternoon in a borrowed frock coat, with no Bible, at the house of a friend in Buffalo.\n\ntrlibrary.com/tr/rise-to-power/becoming-president",
+   "media": [
+    {
+     "src": "media/eb3f3badc88fdca8.jpg",
+     "w": 813,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7ad374523b4c3d2f.jpg",
+     "w": 1000,
+     "h": 804,
+     "kind": "image"
+    },
+    {
+     "src": "media/07a1e9b19575729b.jpg",
+     "w": 803,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106138866:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-14T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1901, President William McKinley died in Buffalo at 2:15 a.m., eight days after he was shot.\n\nTheodore Roosevelt became president in a wagon on an Adirondack road, in the dark, and did not learn of it for three hours.\n\ntrlibrary.com/tr/rise-to-power/becoming-president",
+   "media": [
+    {
+     "src": "media/65a7edee01a14506.jpg",
+     "w": 813,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/057b0f770aa3e0cb.jpg",
+     "w": 1000,
+     "h": 804,
+     "kind": "image"
+    },
+    {
+     "src": "media/e92f16fed29f7f52.jpg",
+     "w": 803,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106139561:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-15T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1898, at Camp Wikoff on Montauk Point, the Rough Riders took down their colors, turned in their horses and rifles, shook hands, and scattered.\n\nThere was no ceremony. Muster-out was paperwork, and it took three days: troop by troop to the paymaster's table, last pay, discharge papers, and a train to New York. The farewell had come first, on the thirteenth, when the regiment formed a hollow square and gave their colonel a Remington bronze. The fifteenth was the end of the process — \"the day,\" Roosevelt wrote, \"which marked the close of the four months' life of a regiment of as gallant fighters as ever wore the United States uniform.\"\n\nIn those four months the 1st U.S. Volunteer Cavalry lost more enlisted men than any other regiment in the cavalry division: twenty-three killed in action, three more dead of wounds, twenty dead of disease, and more than a hundred wounded. Of the twenty-eight field and line officers who landed in Cuba on 22 June, ten were killed or wounded in the nine days that followed.\n\nRoosevelt's own catalogue of the regiment includes professional gamblers and \"no less than four\" Baptist or Methodist clergymen — \"and proved first-class fighters, too, by the way.\" Cherokee, Chickasaw, Choctaw and Creek men came from the Indian Territory. Not all the Indian troopers did: William Pollock, a Pawnee from Oklahoma Territory, was an artist and a penman who became the regimental clerk in Cuba. After the last man had filed past to shake his hand at the square, Roosevelt said: \"I made Pollock, the Pawnee, smile today, and I do not believe anyone ever saw him smile before.\"\n\nStanding in that square were some two hundred troopers of the 9th and 10th Cavalry — the Black regulars who had held the flanks at Las Guasimas and gone up Kettle Hill alongside the regiment. Roosevelt turned to his own men and said of them: \"between you and the other cavalry regiments there is a tie which we trust will never be broken.\"\n\nOne Rough Rider was not at Montauk to see any of it. Jesse Langdon of Fargo, sixteen years old and usually called the youngest man in the regiment, had first met Roosevelt in Medora at the age of five. Turned away for being underage in 1898, he rode a freight train to Washington with ten dollars and caught Roosevelt coming down the stairs of a recruiting office. Asked whether he could ride a horse, he said: \"I can ride anything that's got hair on it!\" By September he was home in Fargo with fever. He outlived every other man in the regiment, dying in 1975.\n\nRoosevelt ended his own account of them with a question: \"Is it any wonder that I loved my regiment?\"\n\nMore: trlibrary.com/tr/rise-to-power/rough-riders\n\n#OTD #OnThisDay #TheodoreRoosevelt #RoughRiders #AmericanHistory",
+   "media": [
+    {
+     "src": "media/ec04753aa826d34f.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/b1cac89a5c25c7a9.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/54fae728ba66b9f3.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106139562:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-15T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1898, at Camp Wikoff on Montauk Point, the Rough Riders took down their colors, turned in their horses and rifles, shook hands, and scattered.\n\nThere was no ceremony. Muster-out was paperwork, and it took three days: troop by troop to the paymaster's table, last pay, discharge papers, and a train to New York. The farewell had come first, on the thirteenth, when the regiment formed a hollow square and gave their colonel a Remington bronze. The fifteenth was the end of the process — \"the day,\" Roosevelt wrote, \"which marked the close of the four months' life of a regiment of as gallant fighters as ever wore the United States uniform.\"\n\nIn those four months the 1st U.S. Volunteer Cavalry lost more enlisted men than any other regiment in the cavalry division: twenty-three killed in action, three more dead of wounds, twenty dead of disease, and more than a hundred wounded. Of the twenty-eight field and line officers who landed in Cuba on 22 June, ten were killed or wounded in the nine days that followed.\n\nRoosevelt's own catalogue of the regiment includes professional gamblers and \"no less than four\" Baptist or Methodist clergymen — \"and proved first-class fighters, too, by the way.\" Cherokee, Chickasaw, Choctaw and Creek men came from the Indian Territory. Not all the Indian troopers did: William Pollock, a Pawnee from Oklahoma Territory, was an artist and a penman who became the regimental clerk in Cuba. After the last man had filed past to shake his hand at the square, Roosevelt said: \"I made Pollock, the Pawnee, smile today, and I do not believe anyone ever saw him smile before.\"\n\nStanding in that square were some two hundred troopers of the 9th and 10th Cavalry — the Black regulars who had held the flanks at Las Guasimas and gone up Kettle Hill alongside the regiment. Roosevelt turned to his own men and said of them: \"between you and the other cavalry regiments there is a tie which we trust will never be broken.\"\n\nOne Rough Rider was not at Montauk to see any of it. Jesse Langdon of Fargo, sixteen years old and usually called the youngest man in the regiment, had first met Roosevelt in Medora at the age of five. Turned away for being underage in 1898, he rode a freight train to Washington with ten dollars and caught Roosevelt coming down the stairs of a recruiting office. Asked whether he could ride a horse, he said: \"I can ride anything that's got hair on it!\" By September he was home in Fargo with fever. He outlived every other man in the regiment, dying in 1975.\n\nRoosevelt ended his own account of them with a question: \"Is it any wonder that I loved my regiment?\"\n\nMore: trlibrary.com/tr/rise-to-power/rough-riders\n\n#OTD #OnThisDay #TheodoreRoosevelt #RoughRiders #AmericanHistory",
+   "media": [
+    {
+     "src": "media/ec04753aa826d34f.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/b1cac89a5c25c7a9.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/54fae728ba66b9f3.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106139648:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-15T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1898, at Camp Wikoff on Montauk Point, the Rough Riders took down their colors, turned in their horses and rifles, shook hands, and scattered.\n\nThere was no ceremony. Muster-out was paperwork — troop by troop to the paymaster's table, last pay, discharge papers, a train to New York. The farewell had come two days earlier, when the regiment formed a hollow square and gave their colonel a Remington bronze. Roosevelt called the fifteenth \"the day which marked the close of the four months' life of a regiment of as gallant fighters as ever wore the United States uniform.\"\n\nIn those four months it lost more enlisted men than any other regiment in the cavalry division.\n\nThey came from every corner of the country — professional gamblers, four clergymen, cowboys, miners, college men, and Cherokee, Chickasaw, Choctaw and Creek men from the Indian Territory. Not all the Indian troopers came from there: William Pollock, a Pawnee from Oklahoma Territory, became the regimental clerk. After the last man filed past to shake his hand, Roosevelt said: \"I made Pollock, the Pawnee, smile today, and I do not believe anyone ever saw him smile before.\"\n\nIn that square stood two hundred troopers of the 9th and 10th Cavalry — the Black regulars who had held the flanks at Las Guasimas and gone up Kettle Hill beside them. Roosevelt turned to his own men and said of them: \"between you and the other cavalry regiments there is a tie which we trust will never be broken.\"\n\nHe ended his own account of the regiment with a question: \"Is it any wonder that I loved my regiment?\"\n\nMore at trlibrary.com — link in bio\n\n#OTD #OnThisDay #TheodoreRoosevelt #RoughRiders #AmericanHistory",
+   "media": [
+    {
+     "src": "media/d5abf0ccb9b82e9a.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/06c05881c565d953.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/80943a4b687a0f58.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106139680:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-15T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1898, at Camp Wikoff on Montauk Point, the Rough Riders took down their colors, turned in their horses and rifles, shook hands, and scattered.\n\nThere was no ceremony. Muster-out was paperwork — troop by troop to the paymaster's table, last pay, discharge papers, a train to New York. The farewell had come two days earlier, when the regiment formed a hollow square and gave their colonel a Remington bronze. Roosevelt called the fifteenth \"the day which marked the close of the four months' life of a regiment of as gallant fighters as ever wore the United States uniform.\"\n\nIn those four months it lost more enlisted men than any other regiment in the cavalry division.\n\nThey came from every corner of the country — professional gamblers, four clergymen, cowboys, miners, college men, and Cherokee, Chickasaw, Choctaw and Creek men from the Indian Territory. Not all the Indian troopers came from there: William Pollock, a Pawnee from Oklahoma Territory, became the regimental clerk. After the last man filed past to shake his hand, Roosevelt said: \"I made Pollock, the Pawnee, smile today, and I do not believe anyone ever saw him smile before.\"\n\nIn that square stood two hundred troopers of the 9th and 10th Cavalry — the Black regulars who had held the flanks at Las Guasimas and gone up Kettle Hill beside them. Roosevelt turned to his own men and said of them: \"between you and the other cavalry regiments there is a tie which we trust will never be broken.\"\n\nHe ended his own account of the regiment with a question: \"Is it any wonder that I loved my regiment?\"\n\nMore at trlibrary.com — link in bio\n\n#OTD #OnThisDay #TheodoreRoosevelt #RoughRiders #AmericanHistory",
+   "media": [
+    {
+     "src": "media/c69350c1ecd10940.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/45b745d2cb888cfb.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6fa75b515a4a7b41.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106139843:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-15T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1898 the Rough Riders were mustered out at Montauk — colors down, horses and rifles turned in, and the men scattered. The regiment had lasted four months.\n\nTR ended his account of them with a question: \"Is it any wonder that I loved my regiment?\"\n\ntrlibrary.com/tr/rise-to-power/rough-riders",
+   "media": [
+    {
+     "src": "media/5a1e26d2576ce911.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/e69f39679aa56222.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/f189b598af25198c.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106139895:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-15T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1898 the Rough Riders were mustered out at Camp Wikoff, Montauk. No ceremony — troop by troop to the paymaster's table, last pay, discharge papers, and the men scattered.\n\nIn four months the regiment had lost more enlisted men than any other in the cavalry division.\n\nRoosevelt ended his own account of them with a question: \"Is it any wonder that I loved my regiment?\"\n\ntrlibrary.com/tr/rise-to-power/rough-riders",
+   "media": [
+    {
+     "src": "media/df3517ddf14145d8.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/3e97d0bc7a5dbbca.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/a97e0610e2346395.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106139958:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-15T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1898 the Rough Riders were mustered out at Montauk — colors down, horses and rifles turned in, and the men scattered. The regiment had lasted four months.\n\nTR ended his account of them with a question: \"Is it any wonder that I loved my regiment?\"\n\ntrlibrary.com/tr/rise-to-power/rough-riders",
+   "media": [
+    {
+     "src": "media/ff00f6eb1521a895.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/12cc30e2322f781d.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/8ad1de07cb77088a.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106140802:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1900, a Sunday, Theodore Roosevelt's campaign train stopped at Medora and he went for a ride.\n\nHe had been arguing with himself about it for a week. A Chicago Record correspondent travelling with the party wrote it up that day: \"The rough rider has been puzzled for a week over the question whether to stop for a handshake today with his old neighbors of the cattle region and run the risk of raising a protest about sabbath breaking or to lock himself up in his car, run past the scenes of what he calls his happiest days and incur the suspicion of his former comrades that he had 'passed them up.' He decided in favor of his comrades of the days when he was a deputy under Sheriff 'Hell-Roaring Bill Jones.'\"\n\nHe made no speeches. His rule for the trip was no politics on a Sunday and no running through a town while services were on, and when the brass bands started greeting him with \"Hot Time in the Old Town,\" he wired ahead: \"Suppress the band or make it play sacred music.\" At Dickinson the bandmaster, searching a meager repertoire for anything with a suggestion of Sabbath solemnity, settled on \"Georgia Camp Meetin'.\"\n\nAt Medora the special was side-tracked to let the regular train pass. Joe Ferris — who had guided him to his first buffalo in 1883 — had come up to Bismarck to meet him and ridden west with him. Old Mrs. Roberts took his hand and would not let go: \"God bless you! You are just the same as when you left us.\"\n\nThen he got on a bronco, born and busted in the valley of the Little Missouri, and galloped with his old mates up onto the plateau above the town, where the correspondent had him looking out at the red walls above his old Maltese Cross range. Sitting up there on the horse, he said it:\n\n\"Here the romance of my life began.\"\n\nJoe Ferris told him: \"Governor, I don't believe you'd ever done so well if you hadn't bucked up agin the real thing with us first.\" Roosevelt: \"That's exactly right, Joe. I had studied a lot about men and things before I saw you fellows, but it was only when I came out here that I began to know anything or to measure men right.\"\n\nAfterward, as the train ran west through the badlands, he stood alone on the rear platform with the door shut behind him and the porter told to keep visitors away.\n\nMore: trlibrary.com/tr/badlands\n\n#OTD #OnThisDay #TheodoreRoosevelt #Medora #NorthDakota #Badlands",
+   "media": [
+    {
+     "src": "media/2fc7e5ff0840d568.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/f4b1a3507b1258e5.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/34017813e8db0411.jpg",
+     "w": 1000,
+     "h": 814,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106140803:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1900, a Sunday, Theodore Roosevelt's campaign train stopped at Medora and he went for a ride.\n\nHe had been arguing with himself about it for a week. A Chicago Record correspondent travelling with the party wrote it up that day: \"The rough rider has been puzzled for a week over the question whether to stop for a handshake today with his old neighbors of the cattle region and run the risk of raising a protest about sabbath breaking or to lock himself up in his car, run past the scenes of what he calls his happiest days and incur the suspicion of his former comrades that he had 'passed them up.' He decided in favor of his comrades of the days when he was a deputy under Sheriff 'Hell-Roaring Bill Jones.'\"\n\nHe made no speeches. His rule for the trip was no politics on a Sunday and no running through a town while services were on, and when the brass bands started greeting him with \"Hot Time in the Old Town,\" he wired ahead: \"Suppress the band or make it play sacred music.\" At Dickinson the bandmaster, searching a meager repertoire for anything with a suggestion of Sabbath solemnity, settled on \"Georgia Camp Meetin'.\"\n\nAt Medora the special was side-tracked to let the regular train pass. Joe Ferris — who had guided him to his first buffalo in 1883 — had come up to Bismarck to meet him and ridden west with him. Old Mrs. Roberts took his hand and would not let go: \"God bless you! You are just the same as when you left us.\"\n\nThen he got on a bronco, born and busted in the valley of the Little Missouri, and galloped with his old mates up onto the plateau above the town, where the correspondent had him looking out at the red walls above his old Maltese Cross range. Sitting up there on the horse, he said it:\n\n\"Here the romance of my life began.\"\n\nJoe Ferris told him: \"Governor, I don't believe you'd ever done so well if you hadn't bucked up agin the real thing with us first.\" Roosevelt: \"That's exactly right, Joe. I had studied a lot about men and things before I saw you fellows, but it was only when I came out here that I began to know anything or to measure men right.\"\n\nAfterward, as the train ran west through the badlands, he stood alone on the rear platform with the door shut behind him and the porter told to keep visitors away.\n\nMore: trlibrary.com/tr/badlands\n\n#OTD #OnThisDay #TheodoreRoosevelt #Medora #NorthDakota #Badlands",
+   "media": [
+    {
+     "src": "media/2fc7e5ff0840d568.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/f4b1a3507b1258e5.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/34017813e8db0411.jpg",
+     "w": 1000,
+     "h": 814,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106140933:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1900, a Sunday, Theodore Roosevelt's campaign train stopped at Medora and he went for a ride.\n\nHe had been arguing with himself about it for a week — whether to stop and shake hands with his old neighbors and risk a protest about sabbath breaking, or run past \"the scenes of what he calls his happiest days\" and have them think he had passed them up. He decided in favor of his comrades.\n\nHe made no speeches. When the brass bands greeted him with \"Hot Time in the Old Town,\" he wired ahead: \"Suppress the band or make it play sacred music.\" At Dickinson the bandmaster settled on \"Georgia Camp Meetin'\" as the nearest thing he had to Sabbath solemnity.\n\nAt Medora the special was side-tracked to let the regular train pass. Joe Ferris, who had guided him to his first buffalo in 1883, had come up to Bismarck to meet him. Old Mrs. Roberts took his hand and would not let go: \"God bless you! You are just the same as when you left us.\"\n\nThen he got on a bronco and galloped with his old mates up onto the plateau above the town, looking out over his old range. Sitting up there, he said it:\n\n\"Here the romance of my life began.\"\n\nAfterward, as the train ran west through the badlands, he stood alone on the rear platform with the door shut and the porter told to keep visitors away.\n\nMore at trlibrary.com — link in bio\n\n#OTD #OnThisDay #TheodoreRoosevelt #Medora #NorthDakota #Badlands",
+   "media": [
+    {
+     "src": "media/dfa868931d8d21b8.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/603d58aa35d79ff4.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/110976877a7fb6c2.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106141049:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1900, TR's campaign train stopped at Medora on a Sunday. He made no speeches. He got on a bronco, rode up onto the plateau above town, and said:\n\n\"Here the romance of my life began.\"\n\ntrlibrary.com/tr/badlands",
+   "media": [
+    {
+     "src": "media/397041269bdb04cc.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/05f867e5ebc66dad.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/caf804e1361ca571.jpg",
+     "w": 1000,
+     "h": 814,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106141135:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1900, a Sunday, TR's campaign train stopped at Medora. He'd spent a week deciding whether to stop at all — sabbath breaking, or letting his old neighbors think he'd passed them up. He decided in favor of his comrades.\n\nNo speeches. He got on a bronco, rode up onto the plateau above town, and said: \"Here the romance of my life began.\"\n\ntrlibrary.com/tr/badlands",
+   "media": [
+    {
+     "src": "media/568688935b5b210f.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/107fdbedb3e5adf0.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/483ca969285e81b8.jpg",
+     "w": 1000,
+     "h": 814,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13106141206:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-16T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD in 1900, TR's campaign train stopped at Medora on a Sunday. He made no speeches. He got on a bronco, rode up onto the plateau above town, and said:\n\n\"Here the romance of my life began.\"\n\ntrlibrary.com/tr/badlands",
+   "media": [
+    {
+     "src": "media/867ba434826f6dcf.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/e1a827a481ae49dc.jpg",
+     "w": 1000,
+     "h": 816,
+     "kind": "image"
+    },
+    {
+     "src": "media/ff2af27c5c40ef09.jpg",
+     "w": 1000,
+     "h": 814,
      "kind": "image"
     }
    ],

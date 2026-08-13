@@ -1,11 +1,95 @@
 {
- "generatedAt": "2026-08-13T15:25:28Z",
+ "generatedAt": "2026-08-13T18:23:56Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "414dbd3381c5",
+   "url": "https://www.trlibrary.com/tr/badlands",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt in the Badlands",
+   "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
+   "publishAt": "2026-09-08T12:00:00Z",
+   "latestAt": "2026-09-16T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/2fc7e5ff0840d568.jpg",
+    "w": 1000,
+    "h": 816
+   }
+  },
+  {
+   "id": "a2e9cc140faf",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/rough-riders",
+   "host": "trlibrary.com",
+   "headline": "The Rough Riders: America's Most Famous Regiment",
+   "blurb": "Roosevelt and Wood recruited over 1,000 cowboys, Ivy League athletes, miners, and lawmen into the 1st Volunteer Cavalry, the famed Rough Riders.",
+   "publishAt": "2026-08-10T12:00:00Z",
+   "latestAt": "2026-09-15T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/ec04753aa826d34f.jpg",
+    "w": 1000,
+    "h": 834
+   }
+  },
+  {
+   "id": "b0ae0f5b9089",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/becoming-president",
+   "host": "trlibrary.com",
+   "headline": "How Theodore Roosevelt Became President: The Pan-American Exposition and McKinley's…",
+   "blurb": "In September 1901, McKinley's assassination at Buffalo's Pan-American Exposition thrust 42-year-old Theodore Roosevelt into the presidency.",
+   "publishAt": "2026-09-14T12:00:00Z",
+   "latestAt": "2026-09-14T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/055b857d9eb52d4b.jpg",
+    "w": 813,
+    "h": 1000
+   }
+  },
+  {
+   "id": "ebebe8eca025",
+   "url": "https://www.trlibrary.com/tr/family",
+   "host": "trlibrary.com",
+   "headline": "The Roosevelt Family",
+   "blurb": "Meet the Roosevelt family — TR's six spirited children, a family tree from New Amsterdam to two presidents, and the young niece named Eleanor.",
+   "publishAt": "2026-09-13T12:00:00Z",
+   "latestAt": "2026-09-13T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/f6527f158bbf36ee.jpg",
+    "w": 1000,
+    "h": 871
+   }
+  },
   {
    "id": "b53144c9171c",
    "url": "https://www.trlibrary.com/tr/presidency",
@@ -65,27 +149,6 @@
    ],
    "thumb": {
     "src": "media/d12dce5694130fc7.jpg",
-    "w": 800,
-    "h": 1000
-   }
-  },
-  {
-   "id": "414dbd3381c5",
-   "url": "https://www.trlibrary.com/tr/badlands",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt in the Badlands",
-   "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
-   "publishAt": "2026-09-08T12:00:00Z",
-   "latestAt": "2026-09-09T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/61f89fec6a22b225.jpg",
     "w": 800,
     "h": 1000
    }
@@ -361,69 +424,6 @@
     "src": "media/eba8f166242dd508.jpg",
     "w": 1000,
     "h": 692
-   }
-  },
-  {
-   "id": "2bac4e544541",
-   "url": "https://www.trlibrary.com/tr/badlands/landscape",
-   "host": "trlibrary.com",
-   "headline": "The Badlands Landscape: The Land That Changed Roosevelt",
-   "blurb": "Eroded buttes, deep coulees, and the Little Missouri River shape the Dakota Badlands—the wild country that reshaped a young Theodore Roosevelt.",
-   "publishAt": "2026-08-21T12:00:00Z",
-   "latestAt": "2026-08-21T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/89ea82f6cc46a527.jpg",
-    "w": 1000,
-    "h": 547
-   }
-  },
-  {
-   "id": "429711b1d1b8",
-   "url": "https://www.trlibrary.com/tr/presidency/trust-busting",
-   "host": "trlibrary.com",
-   "headline": "Trust-Busting: Roosevelt's War on Monopoly",
-   "blurb": "In 1902, Roosevelt's government sued the Northern Securities railroad monopoly under the Sherman Antitrust Act, asserting bold new presidential power.",
-   "publishAt": "2026-08-11T12:00:00Z",
-   "latestAt": "2026-08-20T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/50f1588ba9e46bac.jpg",
-    "w": 1000,
-    "h": 806
-   }
-  },
-  {
-   "id": "b7cf9757bdc1",
-   "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
-   "host": "trlibrary.com",
-   "headline": "The Panama Canal: Roosevelt's Bold Gambit for American Power",
-   "blurb": "Theodore Roosevelt’s boldest use of American power — the decade-long feat of engineering that cut a canal across the Isthmus of Panama and joined two…",
-   "publishAt": "2026-08-15T12:00:00Z",
-   "latestAt": "2026-08-19T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/08acf94082ea9259.jpg",
-    "w": 1000,
-    "h": 524
    }
   }
  ]
