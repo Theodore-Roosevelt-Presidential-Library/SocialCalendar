@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T18:22:06Z",
+ "generatedAt": "2026-08-14T21:09:21Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-07-31T00:00:00Z",
@@ -74,7 +74,7 @@
    "name": "Theodore Roosevelt Presidential Library",
    "network": "LINKEDINCOMPANY",
    "url": null,
-   "avatar": "https://media.licdn.com/dms/image/v2/C4E0BAQFq7aGWSFojfA/company-logo_400_400/company-logo_400_400/0/1679358400650/trlibrary_logo?e=1782345600&v=beta&t=f6ja8QpyOSesKnBZ9vAa_ELIc7IfTT6Scw5QweA6AGU"
+   "avatar": null
   }
  ],
  "tags": [],
@@ -2671,6 +2671,24 @@
    ],
    "tags": [],
    "postUrl": "https://www.instagram.com/p/DcB6JAAGoBT/",
+   "sequence": null
+  },
+  {
+   "id": "13106403434:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-08-14T19:45:39Z",
+   "state": "SENT",
+   "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/kBcH50ZzwK2\n\n#lecture #sagamorehill #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/58b7376b312f83b6.jpg",
+     "w": 540,
+     "h": 675,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7494117068045312001",
    "sequence": null
   },
   {

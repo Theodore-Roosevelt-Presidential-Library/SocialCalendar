@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T18:22:10Z",
+ "generatedAt": "2026-08-14T21:09:27Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -34,15 +34,16 @@
    "headline": "Bill Bleyer Presents: \"Sagamore Hill: Theodore Roosevelt's Summer White House\"",
    "blurb": "",
    "publishAt": "2026-08-14T18:00:00Z",
-   "latestAt": "2026-08-14T18:00:00Z",
+   "latestAt": "2026-08-14T19:45:39Z",
    "channels": [
+    "LINKEDINCOMPANY",
     "TWITTER",
     "FACEBOOKPAGE",
     "THREADS",
     "INSTAGRAMBUSINESS"
    ],
    "thumb": {
-    "src": "media/07c0897a5b1902fe.jpg",
+    "src": "media/58b7376b312f83b6.jpg",
     "w": 540,
     "h": 675
    }
