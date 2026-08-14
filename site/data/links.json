@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T12:22:13Z",
+ "generatedAt": "2026-08-14T14:43:11Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -7,13 +7,13 @@
  },
  "items": [
   {
-   "id": "414dbd3381c5",
-   "url": "https://www.trlibrary.com/tr/badlands",
+   "id": "b7cf9757bdc1",
+   "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
    "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt in the Badlands",
-   "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
-   "publishAt": "2026-09-08T12:00:00Z",
-   "latestAt": "2026-09-16T12:00:00Z",
+   "headline": "The Panama Canal: Roosevelt's Bold Gambit for American Power",
+   "blurb": "Theodore Roosevelt’s boldest use of American power — the decade-long feat of engineering that cut a canal across the Isthmus of Panama and joined two…",
+   "publishAt": "2026-08-15T12:00:00Z",
+   "latestAt": "2026-08-15T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
     "LINKEDINCOMPANY",
@@ -22,9 +22,180 @@
     "BLUESKY"
    ],
    "thumb": {
-    "src": "media/2fc7e5ff0840d568.jpg",
+    "src": "media/08acf94082ea9259.jpg",
     "w": 1000,
-    "h": 816
+    "h": 524
+   }
+  },
+  {
+   "id": "2a0609ab1c54",
+   "url": "https://www.trlibrary.com/calendar/special-event/bill-bleyer-presents-sagamore-hill-theodore-roosevelts-summer-white-house",
+   "host": "trlibrary.com",
+   "headline": "Bill Bleyer Presents: \"Sagamore Hill: Theodore Roosevelt's Summer White House\"",
+   "blurb": "",
+   "publishAt": "2026-08-14T18:00:00Z",
+   "latestAt": "2026-08-14T18:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "THREADS",
+    "INSTAGRAMBUSINESS"
+   ],
+   "thumb": {
+    "src": "media/07c0897a5b1902fe.jpg",
+    "w": 540,
+    "h": 675
+   }
+  },
+  {
+   "id": "3c9d1f2f3be8",
+   "url": "https://www.trlibrary.com/tr/presidency/brownsville",
+   "host": "trlibrary.com",
+   "headline": "The Brownsville Affair: An Injustice That Took 66 Years to Correct",
+   "blurb": "In 1906, soldiers of the all-Black 25th Infantry were wrongly accused after a Brownsville, Texas shooting, an injustice not corrected for 66 years.",
+   "publishAt": "2026-08-14T12:00:00Z",
+   "latestAt": "2026-08-14T12:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/45215d7ec66e4e48.jpg",
+    "w": 1000,
+    "h": 914
+   }
+  },
+  {
+   "id": "ee36c35ee66b",
+   "url": "https://metropolismag.com/programs/here-are-the-2026-planet-positive-awards-project-and-innovation-finalists/",
+   "host": "Metropolis",
+   "headline": "Here Are the 2026 Planet Positive Awards Project and Innovation Finalists - Metropolis",
+   "blurb": "Discover this year’s finalists in the Innovation and Project categories before winners are announced this fall.",
+   "publishAt": "2026-08-13T20:00:00Z",
+   "latestAt": "2026-08-13T20:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "INSTAGRAMBUSINESS",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/5c002ce8b80a7014.jpg",
+    "w": 1000,
+    "h": 666
+   }
+  },
+  {
+   "id": "88fab44e4fe6",
+   "url": "https://www.trlibrary.com/tr/people/ethel",
+   "host": "trlibrary.com",
+   "headline": "Ethel Roosevelt Derby: The Devoted Daughter",
+   "blurb": "Steady and principled, Ethel Roosevelt Derby grew up at Sagamore Hill as Theodore and Edith's most grounded and devoted daughter.",
+   "publishAt": "2026-08-13T12:00:00Z",
+   "latestAt": "2026-08-13T12:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/67e9047dd91b7d61.jpg",
+    "w": 801,
+    "h": 1000
+   }
+  },
+  {
+   "id": "ed110705a4d7",
+   "url": "https://www.trlibrary.com/tr/badlands/maltese-cross",
+   "host": "trlibrary.com",
+   "headline": "Maltese Cross Ranch: Roosevelt's Dakota Foothold",
+   "blurb": "Seven miles south of Medora on the Little Missouri, the Maltese Cross Ranch was Roosevelt's first tangible commitment to the Dakota frontier.",
+   "publishAt": "2026-08-12T12:00:00Z",
+   "latestAt": "2026-08-12T12:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/da72d80b2a10daaf.jpg",
+    "w": 801,
+    "h": 1000
+   }
+  },
+  {
+   "id": "b26edc76e865",
+   "url": "https://twincitiesfrugalmom.com/things-to-do-in-medora-north-dakota-a-family-friendly-guide/",
+   "host": "Twin Cities Frugal Mom",
+   "headline": "Things to Do in Medora, North Dakota: A Family-Friendly Guide",
+   "blurb": "Discover the best things to do in Medora, North Dakota, from Theodore Roosevelt National Park and the Medora Musical to museums, dining and more.",
+   "publishAt": "2026-08-11T20:00:00Z",
+   "latestAt": "2026-08-11T20:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "BLUESKY",
+    "INSTAGRAMBUSINESS",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/5a742eea00bf77d0.jpg",
+    "w": 1000,
+    "h": 666
+   }
+  },
+  {
+   "id": "429711b1d1b8",
+   "url": "https://www.trlibrary.com/tr/presidency/trust-busting",
+   "host": "trlibrary.com",
+   "headline": "Trust-Busting: Roosevelt's War on Monopoly",
+   "blurb": "In 1902, Roosevelt's government sued the Northern Securities railroad monopoly under the Sherman Antitrust Act, asserting bold new presidential power.",
+   "publishAt": "2026-08-11T12:00:00Z",
+   "latestAt": "2026-08-11T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/50f1588ba9e46bac.jpg",
+    "w": 1000,
+    "h": 806
+   }
+  },
+  {
+   "id": "8af3d8ac8145",
+   "url": "https://cowboystatedaily.com/2026/08/09/new-high-tech-library-in-north-dakota-brings-theodore-roosevelts-legacy-to-life/",
+   "host": "Cowboy State Daily",
+   "headline": "Visiting The New High-Tech Teddy Roosevelt Library In Medora, North Dakota",
+   "blurb": "Cowboy State Daily's Anna-Louise Jackson visited the new Theodore Roosevelt National Library in Medora, North Dakota.",
+   "publishAt": "2026-08-10T20:00:00Z",
+   "latestAt": "2026-08-10T20:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "BLUESKY",
+    "INSTAGRAMBUSINESS",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/346ebb14acb12cbd.jpg",
+    "w": 1000,
+    "h": 666
    }
   },
   {
@@ -34,7 +205,7 @@
    "headline": "The Rough Riders: America's Most Famous Regiment",
    "blurb": "Roosevelt and Wood recruited over 1,000 cowboys, Ivy League athletes, miners, and lawmen into the 1st Volunteer Cavalry, the famed Rough Riders.",
    "publishAt": "2026-08-10T12:00:00Z",
-   "latestAt": "2026-09-15T12:00:00Z",
+   "latestAt": "2026-08-10T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
     "LINKEDINCOMPANY",
@@ -49,13 +220,77 @@
    }
   },
   {
-   "id": "b0ae0f5b9089",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/becoming-president",
+   "id": "760e500ef9e0",
+   "url": "https://www.midwestliving.com/theodore-roosevelt-presidential-library-north-dakota-12030988",
+   "host": "Midwest Living",
+   "headline": "This Stunning New Presidential Library Is Woven Into the Landscape of North Dakota’s…",
+   "blurb": "The Theodore Roosevelt Presidential Library and Museum masterfully harmonizes history, nature, and technology.",
+   "publishAt": "2026-08-09T16:00:00Z",
+   "latestAt": "2026-08-09T16:04:02Z",
+   "channels": [
+    "THREADS",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "INSTAGRAMBUSINESS",
+    "BLUESKY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/df282245e3524b0d.jpg",
+    "w": 1000,
+    "h": 666
+   }
+  },
+  {
+   "id": "ea8fda6356f0",
+   "url": "https://www.trlibrary.com/tr/badlands/boat-thieves",
    "host": "trlibrary.com",
-   "headline": "How Theodore Roosevelt Became President: The Pan-American Exposition and McKinley's…",
-   "blurb": "In September 1901, McKinley's assassination at Buffalo's Pan-American Exposition thrust 42-year-old Theodore Roosevelt into the presidency.",
-   "publishAt": "2026-09-14T12:00:00Z",
-   "latestAt": "2026-09-14T12:00:00Z",
+   "headline": "The Adventure of the Three Boat Thieves: Justice on the Little Missouri",
+   "blurb": "When three men stole his boat in March 1886, Roosevelt chased them down the icy Little Missouri to uphold the rule of law in the Badlands.",
+   "publishAt": "2026-08-09T12:00:00Z",
+   "latestAt": "2026-08-09T12:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "THREADS",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/7df674b513bfbf2f.jpg",
+    "w": 1000,
+    "h": 710
+   }
+  },
+  {
+   "id": "e6ada098de73",
+   "url": "https://www.trlibrary.com/calendar/special-event/downward-bull-moose-yoga-tr",
+   "host": "trlibrary.com",
+   "headline": "Downward Bull Moose: Yoga with T.R.",
+   "blurb": "",
+   "publishAt": "2026-08-08T18:00:00Z",
+   "latestAt": "2026-08-08T18:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "FACEBOOKPAGE",
+    "INSTAGRAMBUSINESS"
+   ],
+   "thumb": {
+    "src": "media/2a609398820c1db5.jpg",
+    "w": 772,
+    "h": 999
+   }
+  },
+  {
+   "id": "57fcdf04d012",
+   "url": "https://www.trlibrary.com/tr/presidency/conservation/bird-reserves",
+   "host": "trlibrary.com",
+   "headline": "51 Federal Bird Reserves: Roosevelt's Ornithological Vision",
+   "blurb": "A boyhood love of birds led Theodore Roosevelt to establish 51 federal bird reserves, pioneering federal protection for America's wildlife.",
+   "publishAt": "2026-08-08T12:00:00Z",
+   "latestAt": "2026-08-08T12:00:00Z",
    "channels": [
     "LINKEDINCOMPANY",
     "FACEBOOKPAGE",
@@ -64,366 +299,113 @@
     "BLUESKY"
    ],
    "thumb": {
-    "src": "media/055b857d9eb52d4b.jpg",
+    "src": "media/296401e6e06e463f.jpg",
+    "w": 1000,
+    "h": 524
+   }
+  },
+  {
+   "id": "b0b21d072ac0",
+   "url": "https://www.inpursuit.org/lessons/to-know-a-leader-know-who-they-listen-to",
+   "host": "In Pursuit",
+   "headline": "Lesson #37: To know a leader, know who they listen to",
+   "blurb": "Edith Roosevelt's influence didn't come from a title — it came from being listened to.",
+   "publishAt": "2026-08-06T19:00:00Z",
+   "latestAt": "2026-08-06T19:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/643d18cc50c3a84b.jpg",
     "w": 813,
     "h": 1000
    }
   },
   {
-   "id": "ebebe8eca025",
-   "url": "https://www.trlibrary.com/tr/family",
+   "id": "ed8b045445eb",
+   "url": "https://www.trlibrary.com/calendar/special-event/american-conservation-coalition-2026-public-programs",
    "host": "trlibrary.com",
-   "headline": "The Roosevelt Family",
-   "blurb": "Meet the Roosevelt family — TR's six spirited children, a family tree from New Amsterdam to two presidents, and the young niece named Eleanor.",
-   "publishAt": "2026-09-13T12:00:00Z",
-   "latestAt": "2026-09-13T12:00:00Z",
+   "headline": "American Conservation Coalition 2026 Public Programs",
+   "blurb": "",
+   "publishAt": "2026-08-06T16:00:00Z",
+   "latestAt": "2026-08-06T16:00:00Z",
    "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
     "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/f6527f158bbf36ee.jpg",
-    "w": 1000,
-    "h": 871
-   }
-  },
-  {
-   "id": "b53144c9171c",
-   "url": "https://www.trlibrary.com/tr/presidency",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Presidency",
-   "blurb": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
-   "publishAt": "2026-09-03T12:00:00Z",
-   "latestAt": "2026-09-12T12:00:00Z",
-   "channels": [
     "LINKEDINCOMPANY",
     "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/3e43d1ba16845fce.jpg",
-    "w": 702,
-    "h": 768
-   }
-  },
-  {
-   "id": "0ee1b2575383",
-   "url": "https://www.trlibrary.com/tr/rise-to-power",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Rise to Power",
-   "blurb": "Trace Roosevelt's climb from Rough Rider to the White House — San Juan Hill, a vice presidency meant to sideline him, and the fateful autumn of 1901.",
-   "publishAt": "2026-09-06T12:00:00Z",
-   "latestAt": "2026-09-11T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/940162c91f9019f6.jpg",
-    "w": 800,
-    "h": 1000
-   }
-  },
-  {
-   "id": "0678f03bb0b3",
-   "url": "https://www.trlibrary.com/tr/conservation",
-   "host": "trlibrary.com",
-   "headline": "Roosevelt and the Conservation Story",
-   "blurb": "Roosevelt's conservation story told in numbers and his own words — some 230 million acres of forests, parks, and refuges protected for the future.",
-   "publishAt": "2026-09-10T12:00:00Z",
-   "latestAt": "2026-09-10T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/d12dce5694130fc7.jpg",
-    "w": 800,
-    "h": 1000
-   }
-  },
-  {
-   "id": "c9f90aad9ba2",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
-   "host": "trlibrary.com",
-   "headline": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
-   "blurb": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the…",
-   "publishAt": "2026-08-30T12:00:00Z",
-   "latestAt": "2026-09-07T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/9c1fe5d717fbd453.jpg",
-    "w": 800,
-    "h": 1000
-   }
-  },
-  {
-   "id": "7b58eb35c95d",
-   "url": "https://www.trlibrary.com/tr/presidency/foreign-policy",
-   "host": "trlibrary.com",
-   "headline": "Roosevelt's Foreign Policy: America Takes Its Place Among Nations",
-   "blurb": "As president from 1901, Theodore Roosevelt steered America out of cautious isolation into an assertive foreign policy that lifted the nation among…",
-   "publishAt": "2026-09-05T12:00:00Z",
-   "latestAt": "2026-09-05T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/2065f12a9b77b6e5.jpg",
-    "w": 818,
-    "h": 1000
-   }
-  },
-  {
-   "id": "a4ba3fea3c6f",
-   "url": "https://www.trlibrary.com/tr/people/bill-sewall",
-   "host": "trlibrary.com",
-   "headline": "Bill Sewall: The Maine Woodsman Who Knew the Real TR",
-   "blurb": "A rugged Maine backwoodsman, Bill Sewall guided a young, asthmatic Roosevelt through the wilderness and became a lifelong, trusted friend.",
-   "publishAt": "2026-09-04T12:00:00Z",
-   "latestAt": "2026-09-04T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/c41755752b9a0e2d.jpg",
-    "w": 1000,
-    "h": 994
-   }
-  },
-  {
-   "id": "fe0c5e3e078a",
-   "url": "https://www.trlibrary.com/tr/quotes/leadership",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt on Leadership",
-   "blurb": "Roosevelt's own words on leadership, from picking capable people and trusting them to lead to his conviction that decisive action beats hesitation.",
-   "publishAt": "2026-09-02T12:00:00Z",
-   "latestAt": "2026-09-02T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/44b3d3497adfb4d4.jpg",
-    "w": 981,
-    "h": 1000
-   }
-  },
-  {
-   "id": "be1fcc5af6cb",
-   "url": "https://www.trlibrary.com/tr/early-life/harvard",
-   "host": "trlibrary.com",
-   "headline": "Roosevelt at Harvard: The Making of a Historian and Political Thinker",
-   "blurb": "Arriving at Harvard in 1876 at seventeen, Theodore brought insatiable curiosity and a body remade by exercise, becoming a historian and political…",
-   "publishAt": "2026-09-01T12:00:00Z",
-   "latestAt": "2026-09-01T12:00:00Z",
-   "channels": [
-    "TWITTER",
-    "THREADS",
     "BLUESKY",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
+    "INSTAGRAMBUSINESS",
+    "THREADS"
    ],
    "thumb": {
-    "src": "media/cfc52b263562b743.jpg",
-    "w": 800,
-    "h": 1000
+    "src": "media/16578d8690695f0a.jpg",
+    "w": 540,
+    "h": 675
    }
   },
   {
-   "id": "a1e736d8071c",
-   "url": "https://www.trlibrary.com/tr/speeches/new-nationalism",
+   "id": "febbce340732",
+   "url": "https://www.trlibrary.com/tickets",
    "host": "trlibrary.com",
-   "headline": "The New Nationalism (1910)",
-   "blurb": "Roosevelt's progressive manifesto, delivered August 31, 1910 at Osawatomie, Kansas, laying out a bolder vision of government serving the public good.",
-   "publishAt": "2026-08-31T12:00:00Z",
-   "latestAt": "2026-08-31T12:00:00Z",
+   "headline": "50,000 participants have walked the boardwalk into the Badlands since July 4.",
+   "blurb": "Admission to the Theodore Roosevelt Presidential Library is by timed-entry ticket covering the full exhibit experience — how tickets work, and how to…",
+   "publishAt": "2026-08-04T20:30:00Z",
+   "latestAt": "2026-08-04T20:30:00Z",
    "channels": [
-    "FACEBOOKPAGE",
     "LINKEDINCOMPANY",
+    "BLUESKY",
+    "FACEBOOKPAGE",
+    "INSTAGRAMBUSINESS",
     "TWITTER",
-    "THREADS",
-    "BLUESKY"
+    "THREADS"
    ],
    "thumb": {
-    "src": "media/1c74c00f85254614.jpg",
-    "w": 1000,
-    "h": 756
+    "src": "media/1599ca232547c409.jpg",
+    "w": 540,
+    "h": 675
    }
   },
   {
-   "id": "da5acd21ee98",
-   "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
-   "host": "trlibrary.com",
-   "headline": "Frontier Life in the 1880s Badlands",
-   "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
-   "publishAt": "2026-08-16T12:00:00Z",
-   "latestAt": "2026-08-29T12:00:00Z",
+   "id": "cf03e9db0ca3",
+   "url": "https://www.inpursuit.org/lessons/a-more-perfect-union-requires-an-wider-we",
+   "host": "In Pursuit",
+   "headline": "Lesson #36: An ever more perfect union requires an ever wider “we”",
+   "blurb": "TR widened the circle of \"We the People\" further than almost any president before him — conservation, reform, the conviction that everybody counts.",
+   "publishAt": "2026-08-04T16:00:00Z",
+   "latestAt": "2026-08-04T16:00:00Z",
    "channels": [
+    "BLUESKY",
+    "TWITTER",
     "FACEBOOKPAGE",
     "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
+    "THREADS"
    ],
-   "thumb": {
-    "src": "media/3fa7f2f67eee7a62.jpg",
-    "w": 1000,
-    "h": 654
-   }
+   "thumb": null
   },
   {
-   "id": "591308149364",
-   "url": "https://www.trlibrary.com/tr/conservation/by-the-numbers",
-   "host": "trlibrary.com",
-   "headline": "Conservation by the Numbers",
-   "blurb": "Roosevelt protected roughly 230 million acres—about ten percent of the United States—in just seven and a half years: conservation by the numbers.",
-   "publishAt": "2026-08-28T12:00:00Z",
-   "latestAt": "2026-08-28T12:00:00Z",
+   "id": "49515213c7bf",
+   "url": "https://www.architecturalrecord.com/articles/18326-the-theodore-roosevelt-presidential-library-honors-a-conservationist",
+   "host": "architecturalrecord.com",
+   "headline": "The Theodore Roosevelt Presidential Library Honors a Conservationist",
+   "blurb": "Designed by Snøhetta, the environmentally ambitious museum built from rammed-earth and mass timber is integrated into North Dakota's rugged badlands…",
+   "publishAt": "2026-08-03T14:50:00Z",
+   "latestAt": "2026-08-03T14:50:00Z",
    "channels": [
-    "LINKEDINCOMPANY",
+    "THREADS",
     "FACEBOOKPAGE",
     "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/05b5099acf15383f.jpg",
-    "w": 1000,
-    "h": 541
-   }
-  },
-  {
-   "id": "c2526bc4f05c",
-   "url": "https://www.trlibrary.com/tr/presidency/executive-power",
-   "host": "trlibrary.com",
-   "headline": "Executive Power: The Stewardship Theory and Modern Presidency",
-   "blurb": "Roosevelt reimagined the presidency itself, arguing the office empowered a president to act for the public good unless the Constitution expressly…",
-   "publishAt": "2026-08-27T12:00:00Z",
-   "latestAt": "2026-08-27T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
     "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
+    "BLUESKY",
+    "INSTAGRAMBUSINESS"
    ],
    "thumb": {
-    "src": "media/0fb4b990691f5ec4.jpg",
-    "w": 1000,
-    "h": 709
-   }
-  },
-  {
-   "id": "f21002547b31",
-   "url": "https://www.trlibrary.com/tr/badlands-timeline",
-   "host": "trlibrary.com",
-   "headline": "Timeline of TR in the Badlands",
-   "blurb": "At 24, Roosevelt came to the North Dakota Badlands to hunt bison and left a different man.",
-   "publishAt": "2026-08-26T12:00:00Z",
-   "latestAt": "2026-08-26T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/c315a2b0b38d4f21.jpg",
-    "w": 1000,
-    "h": 725
-   }
-  },
-  {
-   "id": "283ae8afc7a7",
-   "url": "https://www.trlibrary.com/tr/presidency/ten-facts",
-   "host": "trlibrary.com",
-   "headline": "Ten Facts About Theodore Roosevelt's Presidency",
-   "blurb": "Ten facts about Theodore Roosevelt’s presidency — from the youngest man ever to take the office to trust-busting, conservation, and the Square Deal.",
-   "publishAt": "2026-08-25T12:00:00Z",
-   "latestAt": "2026-08-25T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/04461834b2cb79ea.jpg",
-    "w": 640,
-    "h": 445
-   }
-  },
-  {
-   "id": "ef08c75b8732",
-   "url": "https://www.trlibrary.com/tr/badlands/first-trip",
-   "host": "trlibrary.com",
-   "headline": "TR’s First Trip West: The Buffalo Hunt That Changed Everything",
-   "blurb": "In September 1883, a 24-year-old New York assemblyman stepped off the train at Little Missouri for a buffalo hunt that would change his life.",
-   "publishAt": "2026-08-23T12:00:00Z",
-   "latestAt": "2026-08-23T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/60d5b7b02fa8f209.jpg",
-    "w": 1000,
-    "h": 690
-   }
-  },
-  {
-   "id": "9e9394f0bcd6",
-   "url": "https://www.trlibrary.com/tr/myths",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt Myths & Misconceptions",
-   "blurb": "Sort fact from folklore — the misquotes, the \"Teddy\" nickname he never chose, and the surprising truths behind the myths that still cling to…",
-   "publishAt": "2026-08-22T12:00:00Z",
-   "latestAt": "2026-08-22T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/eba8f166242dd508.jpg",
-    "w": 1000,
-    "h": 692
+    "src": "media/26cd7b26253f96f1.jpg",
+    "w": 450,
+    "h": 535
    }
   }
  ]
