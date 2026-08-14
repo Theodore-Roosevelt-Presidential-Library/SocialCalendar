@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-14T15:20:19Z",
+ "generatedAt": "2026-08-14T18:22:06Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-07-31T00:00:00Z",
@@ -2569,7 +2569,7 @@
    "id": "13106172296:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-08-14T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer on September 16 at 1 PM! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which earned the nicknamed the \"Summer White House\" during his presidency.\n",
    "media": [
     {
@@ -2580,14 +2580,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mt2qgyk5mx2g",
    "sequence": null
   },
   {
    "id": "13106172297:138241752",
    "profileId": "138241752",
    "scheduledAt": "2026-08-14T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SEND_FAILED_PERMANENTLY",
    "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/kBcH50ZzwK2\n\n#lecture #sagamorehill #theodoreroosevelt",
    "media": [
     {
@@ -2605,7 +2605,7 @@
    "id": "13106172298:138250117",
    "profileId": "138250117",
    "scheduledAt": "2026-08-14T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/cgYE50ZzwJZ\n\n#lecture #sagamorehill #theodoreroosevelt",
    "media": [
     {
@@ -2616,14 +2616,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://x.com/783364650180104192/status/2088324976529080326",
    "sequence": null
   },
   {
    "id": "13106172299:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-08-14T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/5acU50ZzwK0\n\n#lecture #sagamorehill #theodoreroosevelt",
    "media": [
     {
@@ -2634,14 +2634,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.facebook.com/144035749389560/posts/1108127241540785",
    "sequence": null
   },
   {
    "id": "13106172300:138745276",
    "profileId": "138745276",
    "scheduledAt": "2026-08-14T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/Ax4150ZzwK1\n\n#lecture #sagamorehill #theodoreroosevelt",
    "media": [
     {
@@ -2652,14 +2652,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.threads.com/@trlibrary/post/DcB6HpMoA1w",
    "sequence": null
   },
   {
    "id": "13106172301:138948229",
    "profileId": "138948229",
    "scheduledAt": "2026-08-14T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "A free lecture, \"Sagamore Hill: Theodore Roosevelt's Summer White House,\" will be presented by author Bill Bleyer! 🏡\n\nDiscover the story behind T.R.'s beloved Long Island estate, which was nicknamed the \"Summer White House\" during his presidency.\n\n📅Wednesday, September 16\n🕐1 PM\n📍Hunter Classroom\n\nThis event is free; registration is requested: https://ow.ly/1ayg50ZzwK3\n\n#lecture #sagamorehill #theodoreroosevelt",
    "media": [
     {
@@ -2670,7 +2670,7 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.instagram.com/p/DcB6JAAGoBT/",
    "sequence": null
   },
   {
