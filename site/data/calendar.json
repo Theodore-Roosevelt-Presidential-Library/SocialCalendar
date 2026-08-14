@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-08-13T21:19:47Z",
+ "generatedAt": "2026-08-14T00:33:35Z",
  "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-07-30T00:00:00Z",
-  "end": "2026-11-11T00:00:00Z"
+  "start": "2026-07-31T00:00:00Z",
+  "end": "2026-11-12T00:00:00Z"
  },
  "profiles": [
   {
@@ -79,110 +79,6 @@
  ],
  "tags": [],
  "posts": [
-  {
-   "id": "13103650570:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-07-30T16:35:00Z",
-   "state": "SENT",
-   "text": "A new review in The Wall Street Journal calls the Theodore Roosevelt Presidential Library \"a moving work of architecture\" — and makes the case for why it belongs in Medora, North Dakota.\n\nArchitecture critic Michael J. Lewis spent time on the ground before writing. A few of the details that stayed with him: the building, designed by Snøhetta, was built to the Living Building Challenge, the most rigorous standard for sustainable architecture, and its renewable sources already generate 105% of the electricity it uses. Its 96,000 square feet are capped by a native-grass green roof, so the structure reads as landscape first. Rammed-earth lobby walls are layered in browns, maroons and ochers, \"suggesting the stratigraphy of the Badlands.\" And a long breezeway opens, at its far end, onto the Badlands themselves \"in all their stratified splendor.\"\n\nHis conclusion: \"perhaps the only presidential library that gives us a sense of its subject's emotional life — his determination, his tragic dignity, and his boundless love of the American landscape.\"\n\nRead the full review: https://ow.ly/bpEa50ZuJEl",
-   "media": [],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/200587388961446/posts/1095207809499395",
-   "sequence": null
-  },
-  {
-   "id": "13103650571:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-07-30T16:35:00Z",
-   "state": "SENT",
-   "text": "Why is Theodore Roosevelt's library in a North Dakota town of 130? The Wall Street Journal traveled to Medora to find out — and called it \"a moving work of architecture.\" Tucked beneath a green roof, opening onto the Badlands. Worth the trip.\n\n🔗: https://ow.ly/e65U50ZuJEr",
-   "media": [
-    {
-     "src": "media/40d7b12f02dbdaf2.jpg",
-     "w": 1000,
-     "h": 667,
-     "kind": "image"
-    },
-    {
-     "src": "media/67812386b95203cc.jpg",
-     "w": 1000,
-     "h": 667,
-     "kind": "image"
-    },
-    {
-     "src": "media/3b96210f1d278ce2.jpg",
-     "w": 1000,
-     "h": 667,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/DbbIcFWFibK",
-   "sequence": null
-  },
-  {
-   "id": "13103650572:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-07-30T16:35:00Z",
-   "state": "SENT",
-   "text": "A new review in @WSJ calls the Theodore Roosevelt Presidential Library \"a moving work of architecture\" — and makes the case for why it belongs in Medora, North Dakota.\n\nArchitecture critic Michael J. Lewis spent time on the ground before writing. A few of the details that stayed with him: the building, designed by Snøhetta, was built to the Living Building Challenge, the most rigorous standard for sustainable architecture, and its renewable sources already generate 105% of the electricity it uses. Its 96,000 square feet are capped by a native-grass green roof, so the structure reads as landscape first. Rammed-earth lobby walls are layered in browns, maroons and ochers, \"suggesting the stratigraphy of the Badlands.\" And a long breezeway opens, at its far end, onto the Badlands themselves \"in all their stratified splendor.\"\n\nHis conclusion: \"perhaps the only presidential library that gives us a sense of its subject's emotional life — his determination, his tragic dignity, and his boundless love of the American landscape.\"\n\nRead the full review: https://ow.ly/oqZR50ZuJEB",
-   "media": [
-    {
-     "src": "media/c849aa9b5b0834d8.jpg",
-     "w": 1000,
-     "h": 667,
-     "kind": "image"
-    },
-    {
-     "src": "media/cf187c01796cdc42.jpg",
-     "w": 1000,
-     "h": 667,
-     "kind": "image"
-    },
-    {
-     "src": "media/048f1220274a7391.jpg",
-     "w": 1000,
-     "h": 667,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.instagram.com/p/DbbIaXKDAlz/",
-   "sequence": null
-  },
-  {
-   "id": "13103650573:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-07-30T16:35:00Z",
-   "state": "SENT",
-   "text": "A new review in @WSJ calls the Theodore Roosevelt Presidential Library \"a moving work of architecture\" — and makes the case for why it belongs in Medora, North Dakota.\n\nArchitecture critic Michael J. Lewis spent time on the ground before writing. A few of the details that stayed with him: the building, designed by Snøhetta, was built to the Living Building Challenge, the most rigorous standard for sustainable architecture, and its renewable sources already generate 105% of the electricity it uses. Its 96,000 square feet are capped by a native-grass green roof, so the structure reads as landscape first. Rammed-earth lobby walls are layered in browns, maroons and ochers, \"suggesting the stratigraphy of the Badlands.\" And a long breezeway opens, at its far end, onto the Badlands themselves \"in all their stratified splendor.\"\n\nHis conclusion: \"perhaps the only presidential library that gives us a sense of its subject's emotional life — his determination, his tragic dignity, and his boundless love of the American landscape.\"\n\nRead the full review: https://ow.ly/fF3p50ZuJEn",
-   "media": [],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2082867618600329475",
-   "sequence": null
-  },
-  {
-   "id": "13103650574:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-07-30T16:35:00Z",
-   "state": "SENT",
-   "text": "A new review in The Wall Street Journal  calls the Theodore Roosevelt Presidential Library \"a moving work of architecture\" — and makes the case for why it belongs in Medora, North Dakota.\n\nArchitecture critic Michael J. Lewis spent time on the ground before writing. A few of the details that stayed with him: the building, designed by Snøhetta, was built to the Living Building Challenge, the most rigorous standard for sustainable architecture, and its renewable sources already generate 105% of the electricity it uses. Its 96,000 square feet are capped by a native-grass green roof, so the structure reads as landscape first. Rammed-earth lobby walls are layered in browns, maroons and ochers, \"suggesting the stratigraphy of the Badlands.\" And a long breezeway opens, at its far end, onto the Badlands themselves \"in all their stratified splendor.\"\n\nHis conclusion: \"perhaps the only presidential library that gives us a sense of its subject's emotional life — his determination, his tragic dignity, and his boundless love of the American landscape.\"\n\nRead the full review: https://ow.ly/psWM50ZuJEp",
-   "media": [],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7488633319597871104",
-   "sequence": null
-  },
-  {
-   "id": "13103650575:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-07-30T16:35:00Z",
-   "state": "SENT",
-   "text": "Why is Theodore Roosevelt's library in a North Dakota town of 130? The Wall Street Journal traveled to Medora to find out — and called it \"a moving work of architecture.\" Tucked beneath a green roof, opening onto the Badlands. Worth the trip.\n\n🔗: https://ow.ly/Tt5050ZuJEO",
-   "media": [],
-   "tags": [],
-   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mruuo26yvh27",
-   "sequence": null
-  },
   {
    "id": "13104198915:138745276",
    "profileId": "138745276",
