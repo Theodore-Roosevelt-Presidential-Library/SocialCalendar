@@ -37,7 +37,8 @@ CALENDAR = DATA_DIR / "calendar.json"
 CACHE = DATA_DIR / "link-cache.json"
 OUT = DATA_DIR / "links.json"
 
-MAX_STORIES = 20
+MAX_STORIES = 20            # published stories shown; scheduled ones are extra
+REVEAL_HORIZON_HOURS = 36   # how far ahead to carry, for the client-side reveal
 LOOKBACK_DAYS = 400
 HEADLINE_MAX = 90
 BLURB_MAX = 150
@@ -318,21 +319,15 @@ def main() -> int:
             story = stories[key] = {
                 "url": meta["final"],
                 "host": host_of(meta["final"]),
-                "publishAt": post["scheduledAt"],
-                "latestAt": post["scheduledAt"],
+                "_times": [],
                 "channels": [],
                 "_meta": meta,
                 "_copies": [],
                 "_media": None,
             }
-        # A link can recur across weeks - "buy tickets" turns up in many posts.
-        # publishAt (earliest) decides when the card may appear; latestAt (most
-        # recent) decides how fresh it looks and where it ranks, so a link that
-        # comes round again floats back up instead of looking a month stale.
-        if post["scheduledAt"] < story["publishAt"]:
-            story["publishAt"] = post["scheduledAt"]
-        if post["scheduledAt"] > story["latestAt"]:
-            story["latestAt"] = post["scheduledAt"]
+        # A link recurs: "More: trlibrary.com/tr/badlands" rides fifteen posts
+        # spread over two months. Collect every airing and decide afterwards.
+        story["_times"].append(post["scheduledAt"])
 
         prof = profiles.get(post["profileId"], {})
         if prof.get("network") and prof["network"] not in story["channels"]:
@@ -343,6 +338,18 @@ def main() -> int:
             story["_copies"].append(copy)
         if story["_media"] is None and post.get("media"):
             story["_media"] = post["media"][0]
+
+    now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    for story in stories.values():
+        times = sorted(story.pop("_times"))
+        past = [t for t in times if t <= now_iso]
+        # publishAt: earliest airing, so the card appears the moment the story
+        # first goes live. latestAt: most recent airing that has ALREADY
+        # happened, so a link scheduled to run again next month does not claim
+        # to be newer than something published this morning.
+        story["publishAt"] = times[0]
+        story["latestAt"] = past[-1] if past else times[0]
 
     ordered = sorted(stories.values(), key=lambda s: s["latestAt"], reverse=True)
 
@@ -403,8 +410,22 @@ def main() -> int:
             carried += 1
 
     items.sort(key=lambda i: i.get("latestAt") or i["publishAt"], reverse=True)
-    items = items[:MAX_STORIES]
+
+    # Cap the PUBLISHED stories, not the whole list. Counting scheduled ones
+    # against the limit let two months of future posts take every slot, and the
+    # page - which hides anything unpublished - came out nearly empty.
+    live = [i for i in items if i["publishAt"] <= now_iso][:MAX_STORIES]
+
+    # Carry a short runway of upcoming stories so the page can reveal them at
+    # their send time between builds. They are extra, never a substitute.
+    horizon = (datetime.now(timezone.utc)
+               + timedelta(hours=REVEAL_HORIZON_HOURS)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    soon = [i for i in items if now_iso < i["publishAt"] <= horizon]
+
+    items = soon + live
     print(f"{carried} story(ies) carried over from the previous build")
+    print(f"{len(live)} published (cap {MAX_STORIES}), "
+          f"{len(soon)} scheduled within {REVEAL_HORIZON_HOURS}h")
 
     CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False), encoding="utf-8")
 

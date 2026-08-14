@@ -44,7 +44,8 @@ so this rebuilds the same thing from the calendar snapshot. `build_links.py`
 takes recent posts that mention a URL (with or without a scheme), follows the
 `ow.ly` shortlink to its real destination, reads that page's own headline and
 description, and folds the six per-network variants of one story into a single
-card. Up to twenty stories are kept. Posts without a link are skipped, and
+card. Up to twenty **published** stories are kept; scheduled ones ride along
+as extras for the timed reveal rather than competing for those slots. Posts without a link are skipped, and
 anything that failed to send never appears.
 
 `links.json` is an archive, not a snapshot: the calendar only keeps a fortnight
