@@ -503,5 +503,26 @@
   "description": "Bill Bleyer Presents: \"Sagamore Hill: Theodore Roosevelt's Summer White House\"",
   "image": "https://www.trlibrary.com/themes/custom/trpl/images/metatags/logo.jpeg",
   "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/field-trips": {
+  "final": "https://www.trlibrary.com/field-trips",
+  "title": "Field Trips",
+  "description": null,
+  "image": "https://www.trlibrary.com/themes/custom/trpl/images/metatags/logo.jpeg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://www.trlibrary.com/project/native-plant-project": {
+  "final": "https://www.trlibrary.com/project/native-plant-project",
+  "title": "Native Plant Project",
+  "description": "The Native Plant Project restores the biodiversity Roosevelt saw in the 1880s Badlands — reseeding the Library grounds with the native prairie species of this country.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-03/20230621-TRPL-June-2023-00456-web.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://ow.ly/ilTr50ZA2kX": {
+  "final": "https://www.trlibrary.com/project/native-plant-project",
+  "title": "Native Plant Project",
+  "description": "The Native Plant Project restores the biodiversity Roosevelt saw in the 1880s Badlands — reseeding the Library grounds with the native prairie species of this country.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-03/20230621-TRPL-June-2023-00456-web.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
  }
 }
