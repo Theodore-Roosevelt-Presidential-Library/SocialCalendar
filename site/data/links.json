@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-16T18:07:54Z",
+ "generatedAt": "2026-08-16T21:07:00Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -63,8 +63,7 @@
     "INSTAGRAMBUSINESS",
     "TIKTOKBUSINESS",
     "TWITTER",
-    "THREADS",
-    "BLUESKY"
+    "THREADS"
    ],
    "thumb": {
     "src": "media/9533dbe1ebcc82a2.jpg",
@@ -472,28 +471,6 @@
     "THREADS"
    ],
    "thumb": null
-  },
-  {
-   "id": "49515213c7bf",
-   "url": "https://www.architecturalrecord.com/articles/18326-the-theodore-roosevelt-presidential-library-honors-a-conservationist",
-   "host": "architecturalrecord.com",
-   "headline": "The Theodore Roosevelt Presidential Library Honors a Conservationist",
-   "blurb": "Designed by Snøhetta, the environmentally ambitious museum built from rammed-earth and mass timber is integrated into North Dakota's rugged badlands…",
-   "publishAt": "2026-08-03T14:50:00Z",
-   "latestAt": "2026-08-03T14:50:00Z",
-   "channels": [
-    "THREADS",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "BLUESKY",
-    "INSTAGRAMBUSINESS"
-   ],
-   "thumb": {
-    "src": "media/26cd7b26253f96f1.jpg",
-    "w": 450,
-    "h": 535
-   }
   }
  ]
 }
