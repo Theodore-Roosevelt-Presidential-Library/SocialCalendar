@@ -1,11 +1,33 @@
 {
- "generatedAt": "2026-08-16T03:23:10Z",
+ "generatedAt": "2026-08-16T06:12:16Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "f33558af9ecf",
+   "url": "https://www.trlibrary.com/field-trips",
+   "host": "trlibrary.com",
+   "headline": "Field trips, K through college.",
+   "blurb": "",
+   "publishAt": "2026-08-17T18:00:00Z",
+   "latestAt": "2026-08-17T18:00:00Z",
+   "channels": [
+    "THREADS",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "INSTAGRAMBUSINESS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/3af51fe119addfd1.jpg",
+    "w": 799,
+    "h": 1000
+   }
+  },
   {
    "id": "fac5373c2fb9",
    "url": "https://www.trlibrary.com/tr/early-life/siblings",
