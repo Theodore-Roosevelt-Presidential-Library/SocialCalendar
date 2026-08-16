@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-15T21:07:48Z",
+ "generatedAt": "2026-08-16T00:21:38Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "fac5373c2fb9",
+   "url": "https://www.trlibrary.com/tr/early-life/siblings",
+   "host": "trlibrary.com",
+   "headline": "TR’s Siblings: Bamie, Elliott, and Corinne",
+   "blurb": "Theodore's siblings—devoted Bamie, charming and troubled Elliott, and warm Corinne—shaped him in ways both steadying and sorrowful throughout his…",
+   "publishAt": "2026-08-17T12:00:00Z",
+   "latestAt": "2026-08-17T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/0f84c1017bd7b50a.jpg",
+    "w": 801,
+    "h": 1000
+   }
+  },
   {
    "id": "b06049a5fb10",
    "url": "https://www.trlibrary.com/project/native-plant-project",
