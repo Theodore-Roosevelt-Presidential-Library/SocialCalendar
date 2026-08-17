@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17T09:19:31Z",
+ "generatedAt": "2026-08-17T12:11:36Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -454,23 +454,6 @@
     "w": 540,
     "h": 675
    }
-  },
-  {
-   "id": "cf03e9db0ca3",
-   "url": "https://www.inpursuit.org/lessons/a-more-perfect-union-requires-an-wider-we",
-   "host": "In Pursuit",
-   "headline": "Lesson #36: An ever more perfect union requires an ever wider “we”",
-   "blurb": "TR widened the circle of \"We the People\" further than almost any president before him — conservation, reform, the conviction that everybody counts.",
-   "publishAt": "2026-08-04T16:00:00Z",
-   "latestAt": "2026-08-04T16:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "THREADS"
-   ],
-   "thumb": null
   }
  ]
 }
