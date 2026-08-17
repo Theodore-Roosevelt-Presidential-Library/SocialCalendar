@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17T12:11:36Z",
+ "generatedAt": "2026-08-17T21:09:29Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -429,28 +429,6 @@
    ],
    "thumb": {
     "src": "media/16578d8690695f0a.jpg",
-    "w": 540,
-    "h": 675
-   }
-  },
-  {
-   "id": "febbce340732",
-   "url": "https://www.trlibrary.com/tickets",
-   "host": "trlibrary.com",
-   "headline": "50,000 participants have walked the boardwalk into the Badlands since July 4.",
-   "blurb": "Admission to the Theodore Roosevelt Presidential Library is by timed-entry ticket covering the full exhibit experience — how tickets work, and how to…",
-   "publishAt": "2026-08-04T20:30:00Z",
-   "latestAt": "2026-08-04T20:30:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "INSTAGRAMBUSINESS",
-    "TWITTER",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/1599ca232547c409.jpg",
     "w": 540,
     "h": 675
    }
