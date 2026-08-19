@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-19T09:14:10Z",
+ "generatedAt": "2026-08-19T12:12:05Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "b7cf9757bdc1",
+   "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
+   "host": "trlibrary.com",
+   "headline": "The Panama Canal: Roosevelt's Bold Gambit for American Power",
+   "blurb": "Theodore Roosevelt’s boldest use of American power — the decade-long feat of engineering that cut a canal across the Isthmus of Panama and joined two…",
+   "publishAt": "2026-08-15T12:00:00Z",
+   "latestAt": "2026-08-19T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/08acf94082ea9259.jpg",
+    "w": 1000,
+    "h": 524
+   }
+  },
   {
    "id": "da5acd21ee98",
    "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
@@ -90,27 +111,6 @@
     "src": "media/9533dbe1ebcc82a2.jpg",
     "w": 562,
     "h": 1000
-   }
-  },
-  {
-   "id": "b7cf9757bdc1",
-   "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
-   "host": "trlibrary.com",
-   "headline": "The Panama Canal: Roosevelt's Bold Gambit for American Power",
-   "blurb": "Theodore Roosevelt’s boldest use of American power — the decade-long feat of engineering that cut a canal across the Isthmus of Panama and joined two…",
-   "publishAt": "2026-08-15T12:00:00Z",
-   "latestAt": "2026-08-15T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/08acf94082ea9259.jpg",
-    "w": 1000,
-    "h": 524
    }
   },
   {
