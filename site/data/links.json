@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20T12:13:09Z",
+ "generatedAt": "2026-08-20T15:14:08Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -45,6 +45,28 @@
     "src": "media/89ea82f6cc46a527.jpg",
     "w": 1000,
     "h": 547
+   }
+  },
+  {
+   "id": "721539596d3d",
+   "url": "https://www.youtube.com/watch?v=M6_BsYEJm30",
+   "host": "youtube.com",
+   "headline": "\"Speak softly and carry a big stick; you will go far.\" T.R.",
+   "blurb": "",
+   "publishAt": "2026-08-20T13:32:41Z",
+   "latestAt": "2026-08-20T13:32:41Z",
+   "channels": [
+    "TWITTER",
+    "INSTAGRAMBUSINESS",
+    "LINKEDINCOMPANY",
+    "THREADS",
+    "BLUESKY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/afbb95ffd49570f7.jpg",
+    "w": 540,
+    "h": 675
    }
   },
   {
@@ -450,28 +472,6 @@
     "src": "media/643d18cc50c3a84b.jpg",
     "w": 813,
     "h": 1000
-   }
-  },
-  {
-   "id": "ed8b045445eb",
-   "url": "https://www.trlibrary.com/calendar/special-event/american-conservation-coalition-2026-public-programs",
-   "host": "trlibrary.com",
-   "headline": "American Conservation Coalition 2026 Public Programs",
-   "blurb": "",
-   "publishAt": "2026-08-06T16:00:00Z",
-   "latestAt": "2026-08-06T16:00:00Z",
-   "channels": [
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "BLUESKY",
-    "INSTAGRAMBUSINESS",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/16578d8690695f0a.jpg",
-    "w": 540,
-    "h": 675
    }
   }
  ]
