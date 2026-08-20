@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20T15:14:08Z",
+ "generatedAt": "2026-08-20T18:12:16Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -45,6 +45,28 @@
     "src": "media/89ea82f6cc46a527.jpg",
     "w": 1000,
     "h": 547
+   }
+  },
+  {
+   "id": "41ea70d0330e",
+   "url": "https://www.wdayradionow.com/news/local-news/theodore-roosevelt-presidential-library-surpasses-70000-visitors/",
+   "host": "wdayradionow.com",
+   "headline": "Theodore Roosevelt Presidential Library surpasses 70,000 visitors",
+   "blurb": "TRPL Executive Director Robbie Lauf on The Flag’s What’s On Your Mind MEDORA, N.D.",
+   "publishAt": "2026-08-20T20:00:00Z",
+   "latestAt": "2026-08-20T20:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "TWITTER",
+    "INSTAGRAMBUSINESS",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/cf3f25c709d198d6.jpg",
+    "w": 651,
+    "h": 366
    }
   },
   {
