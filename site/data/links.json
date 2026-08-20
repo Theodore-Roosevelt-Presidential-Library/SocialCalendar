@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-19T21:10:27Z",
+ "generatedAt": "2026-08-20T00:19:56Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "2bac4e544541",
+   "url": "https://www.trlibrary.com/tr/badlands/landscape",
+   "host": "trlibrary.com",
+   "headline": "The Badlands Landscape: The Land That Changed Roosevelt",
+   "blurb": "Eroded buttes, deep coulees, and the Little Missouri River shape the Dakota Badlands—the wild country that reshaped a young Theodore Roosevelt.",
+   "publishAt": "2026-08-21T12:00:00Z",
+   "latestAt": "2026-08-21T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/89ea82f6cc46a527.jpg",
+    "w": 1000,
+    "h": 547
+   }
+  },
   {
    "id": "b7cf9757bdc1",
    "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
