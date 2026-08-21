@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-20T21:10:26Z",
+ "generatedAt": "2026-08-21T00:21:07Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "9e9394f0bcd6",
+   "url": "https://www.trlibrary.com/tr/myths",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt Myths & Misconceptions",
+   "blurb": "Sort fact from folklore — the misquotes, the \"Teddy\" nickname he never chose, and the surprising truths behind the myths that still cling to…",
+   "publishAt": "2026-08-22T12:00:00Z",
+   "latestAt": "2026-08-22T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/eba8f166242dd508.jpg",
+    "w": 1000,
+    "h": 692
+   }
+  },
   {
    "id": "bc568ce28d72",
    "url": "https://www.trlibrary.com/calendar/special-event/911-whca-remembers-historic-tragedies-and-near-tragedies",
