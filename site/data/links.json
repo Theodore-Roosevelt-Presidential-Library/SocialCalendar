@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21T15:12:49Z",
+ "generatedAt": "2026-08-21T18:11:55Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -452,27 +452,6 @@
     "src": "media/7df674b513bfbf2f.jpg",
     "w": 1000,
     "h": 710
-   }
-  },
-  {
-   "id": "e6ada098de73",
-   "url": "https://www.trlibrary.com/calendar/special-event/downward-bull-moose-yoga-tr",
-   "host": "trlibrary.com",
-   "headline": "Downward Bull Moose: Yoga with T.R.",
-   "blurb": "",
-   "publishAt": "2026-08-08T18:00:00Z",
-   "latestAt": "2026-08-08T18:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "FACEBOOKPAGE",
-    "INSTAGRAMBUSINESS"
-   ],
-   "thumb": {
-    "src": "media/2a609398820c1db5.jpg",
-    "w": 772,
-    "h": 999
    }
   }
  ]
