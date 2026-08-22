@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-21T21:09:18Z",
+ "generatedAt": "2026-08-22T00:19:33Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "ef08c75b8732",
+   "url": "https://www.trlibrary.com/tr/badlands/first-trip",
+   "host": "trlibrary.com",
+   "headline": "TR’s First Trip West: The Buffalo Hunt That Changed Everything",
+   "blurb": "In September 1883, a 24-year-old New York assemblyman stepped off the train at Little Missouri for a buffalo hunt that would change his life.",
+   "publishAt": "2026-08-23T12:00:00Z",
+   "latestAt": "2026-08-23T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/60d5b7b02fa8f209.jpg",
+    "w": 1000,
+    "h": 690
+   }
+  },
   {
    "id": "9e9394f0bcd6",
    "url": "https://www.trlibrary.com/tr/myths",
