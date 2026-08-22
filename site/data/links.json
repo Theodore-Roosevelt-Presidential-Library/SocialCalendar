@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22T09:10:16Z",
+ "generatedAt": "2026-08-22T12:09:42Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -452,27 +452,6 @@
     "src": "media/df282245e3524b0d.jpg",
     "w": 1000,
     "h": 666
-   }
-  },
-  {
-   "id": "ea8fda6356f0",
-   "url": "https://www.trlibrary.com/tr/badlands/boat-thieves",
-   "host": "trlibrary.com",
-   "headline": "The Adventure of the Three Boat Thieves: Justice on the Little Missouri",
-   "blurb": "When three men stole his boat in March 1886, Roosevelt chased them down the icy Little Missouri to uphold the rule of law in the Badlands.",
-   "publishAt": "2026-08-09T12:00:00Z",
-   "latestAt": "2026-08-09T12:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "THREADS",
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/7df674b513bfbf2f.jpg",
-    "w": 1000,
-    "h": 710
    }
   }
  ]
