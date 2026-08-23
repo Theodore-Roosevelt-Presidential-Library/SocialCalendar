@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-23T15:07:42Z",
+ "generatedAt": "2026-08-23T18:07:56Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -430,27 +430,6 @@
     "src": "media/346ebb14acb12cbd.jpg",
     "w": 1000,
     "h": 666
-   }
-  },
-  {
-   "id": "a2e9cc140faf",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/rough-riders",
-   "host": "trlibrary.com",
-   "headline": "The Rough Riders: America's Most Famous Regiment",
-   "blurb": "Roosevelt and Wood recruited over 1,000 cowboys, Ivy League athletes, miners, and lawmen into the 1st Volunteer Cavalry, the famed Rough Riders.",
-   "publishAt": "2026-08-10T12:00:00Z",
-   "latestAt": "2026-08-10T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/ec04753aa826d34f.jpg",
-    "w": 1000,
-    "h": 834
    }
   }
  ]
