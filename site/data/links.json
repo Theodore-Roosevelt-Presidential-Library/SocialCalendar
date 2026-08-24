@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-23T21:07:34Z",
+ "generatedAt": "2026-08-24T00:20:53Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "283ae8afc7a7",
+   "url": "https://www.trlibrary.com/tr/presidency/ten-facts",
+   "host": "trlibrary.com",
+   "headline": "Ten Facts About Theodore Roosevelt's Presidency",
+   "blurb": "Ten facts about Theodore Roosevelt’s presidency — from the youngest man ever to take the office to trust-busting, conservation, and the Square Deal.",
+   "publishAt": "2026-08-25T12:00:00Z",
+   "latestAt": "2026-08-25T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/04461834b2cb79ea.jpg",
+    "w": 640,
+    "h": 445
+   }
+  },
   {
    "id": "e6ada098de73",
    "url": "https://www.trlibrary.com/calendar/special-event/downward-bull-moose-yoga-tr",
