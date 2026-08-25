@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-24T21:10:46Z",
+ "generatedAt": "2026-08-25T00:20:09Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "f21002547b31",
+   "url": "https://www.trlibrary.com/tr/badlands-timeline",
+   "host": "trlibrary.com",
+   "headline": "Timeline of TR in the Badlands",
+   "blurb": "At 24, Roosevelt came to the North Dakota Badlands to hunt bison and left a different man.",
+   "publishAt": "2026-08-26T12:00:00Z",
+   "latestAt": "2026-08-26T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/c315a2b0b38d4f21.jpg",
+    "w": 1000,
+    "h": 725
+   }
+  },
   {
    "id": "283ae8afc7a7",
    "url": "https://www.trlibrary.com/tr/presidency/ten-facts",
