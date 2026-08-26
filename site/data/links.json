@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-25T21:09:58Z",
+ "generatedAt": "2026-08-26T00:21:04Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "c2526bc4f05c",
+   "url": "https://www.trlibrary.com/tr/presidency/executive-power",
+   "host": "trlibrary.com",
+   "headline": "Executive Power: The Stewardship Theory and Modern Presidency",
+   "blurb": "Roosevelt reimagined the presidency itself, arguing the office empowered a president to act for the public good unless the Constitution expressly…",
+   "publishAt": "2026-08-27T12:00:00Z",
+   "latestAt": "2026-08-27T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/0fb4b990691f5ec4.jpg",
+    "w": 1000,
+    "h": 709
+   }
+  },
   {
    "id": "f21002547b31",
    "url": "https://www.trlibrary.com/tr/badlands-timeline",
@@ -223,7 +244,7 @@
    "host": "trlibrary.com",
    "headline": "Trust-Busting: Roosevelt's War on Monopoly",
    "blurb": "In 1902, Roosevelt's government sued the Northern Securities railroad monopoly under the Sherman Antitrust Act, asserting bold new presidential power.",
-   "publishAt": "2026-08-11T12:00:00Z",
+   "publishAt": "2026-08-20T12:00:00Z",
    "latestAt": "2026-08-20T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
