@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-08-26T22:02:46Z",
+ "generatedAt": "2026-08-27T01:49:55Z",
  "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-08-12T00:00:00Z",
-  "end": "2026-11-24T00:00:00Z"
+  "start": "2026-08-13T00:00:00Z",
+  "end": "2026-11-25T00:00:00Z"
  },
  "profiles": [
   {
@@ -79,156 +79,6 @@
  ],
  "tags": [],
  "posts": [
-  {
-   "id": "13105280247:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-08-12T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1884, Theodore Roosevelt sat down in Dakota Territory to write his friend Henry Cabot Lodge, and spent most of the letter on politics before getting to the part he clearly enjoyed:\n\n\"In a day or two I start out, with two hunters, six riding ponies and a canvas topped 'prairie schooner' for the Bighorn Mountains. You would be amused to see me, in my broad sombrero hat, fringed and beaded buckskin shirt, horse hide chaparajos or riding trousers, and cowhide boots, with braided bridle and silver spurs.\"\n\nHe was 25. Six months earlier, on a single February day, his mother and his wife had died in the same house — Mittie of typhoid before dawn, Alice eleven hours later, two days after giving birth. He wrote one line in his diary, under a large black X: \"The light has gone out of my life.\" Then he went west.\n\nThe buckskin suit was not something he found. He had it made — ordered from a Badlands woman named Mrs. Maddox, who measured him at her cabin. Roosevelt wanted to look like the thing he was trying to become, and he was clear-eyed about the theatre of it: \"You would be amused to see me.\"\n\nThe rest of the letter is a young man arguing about his party. He tells Lodge he cannot call Blaine and Logan \"fit nominees, or proper persons to fill the offices of President and Vice President,\" and that he may skip election day entirely: \"indeed I may be in Dakotah on election day.\"\n\nHe also takes a shot at the Anglophile hunting set, whose American drag hunts chased an anise-soaked bag rather than a live fox. Roosevelt preferred \"that description of sport which needs a buckskin shirt to that whose votaries adopt the red coat.\" Then, unimprovably: \"A buffalo is nobler game than an anise seed bag.\"\n\nHe headed the letter Little Missouri, Dakotah — the rough town on the west bank, across the river from Medora.\n\nMore on TR's Badlands years on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
-   "media": [
-    {
-     "src": "media/b384262971ec2d06.jpg",
-     "w": 720,
-     "h": 720,
-     "kind": "image"
-    },
-    {
-     "src": "media/9a920074b4b359be.jpg",
-     "w": 720,
-     "h": 720,
-     "kind": "image"
-    },
-    {
-     "src": "media/813e52b7db5bc0cd.jpg",
-     "w": 720,
-     "h": 720,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.instagram.com/p/Db8HXr6Gkdc/",
-   "sequence": null
-  },
-  {
-   "id": "13105280263:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-08-12T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1884, Theodore Roosevelt wrote Henry Cabot Lodge from Dakota Territory, describing himself with obvious delight:\n\n\"You would be amused to see me, in my broad sombrero hat, fringed and beaded buckskin shirt, horse hide chaparajos or riding trousers, and cowhide boots, with braided bridle and silver spurs.\"\n\nHe was 25, six months a widower, and about to ride for the Bighorns. He'd had the buckskin suit made to order.\n\ntrlibrary.com/tr/badlands/maltese-cross",
-   "media": [
-    {
-     "src": "media/da72d80b2a10daaf.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/2c5d923cf6e8a21e.jpg",
-     "w": 1000,
-     "h": 789,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/Db8HZ_qIGX_",
-   "sequence": null
-  },
-  {
-   "id": "13105280287:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-08-12T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1884, TR wrote Lodge from Dakota Territory: \"You would be amused to see me, in my broad sombrero hat, fringed and beaded buckskin shirt… and cowhide boots, with braided bridle and silver spurs.\"\n\n25, six months a widower, riding for the Bighorns.\n\ntrlibrary.com/tr/badlands/maltese-cross",
-   "media": [
-    {
-     "src": "media/e26dcadccef9e738.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/0b3373797651eeca.jpg",
-     "w": 1000,
-     "h": 789,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3msv3fzy3jz27",
-   "sequence": null
-  },
-  {
-   "id": "13105280833:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-08-12T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1884, Theodore Roosevelt sat down in Dakota Territory to write his friend Henry Cabot Lodge, and spent most of the letter on politics before getting to the part he clearly enjoyed:\n\n\"In a day or two I start out, with two hunters, six riding ponies and a canvas topped 'prairie schooner' for the Bighorn Mountains. You would be amused to see me, in my broad sombrero hat, fringed and beaded buckskin shirt, horse hide chaparajos or riding trousers, and cowhide boots, with braided bridle and silver spurs.\"\n\nHe was 25. Six months earlier, on a single February day, his mother and his wife had died in the same house — Mittie of typhoid before dawn, Alice eleven hours later, two days after giving birth. He wrote one line in his diary, under a large black X: \"The light has gone out of my life.\" Then he went west.\n\nThe buckskin suit was not something he found. He had it made — ordered from a Badlands woman named Mrs. Maddox, who measured him at her cabin. Roosevelt wanted to look like the thing he was trying to become, and he was clear-eyed about the theatre of it: \"You would be amused to see me.\"\n\nThe rest of the letter is a young man arguing about his party. He tells Lodge he cannot call Blaine and Logan \"fit nominees, or proper persons to fill the offices of President and Vice President,\" and that he may skip election day entirely: \"indeed I may be in Dakotah on election day.\"\n\nHe also takes a shot at the Anglophile hunting set, whose American drag hunts chased an anise-soaked bag rather than a live fox. Roosevelt preferred \"that description of sport which needs a buckskin shirt to that whose votaries adopt the red coat.\" Then, unimprovably: \"A buffalo is nobler game than an anise seed bag.\"\n\nHe headed the letter Little Missouri, Dakotah — the rough town on the west bank, across the river from Medora.\n\nMore: trlibrary.com/tr/badlands/maltese-cross\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
-   "media": [
-    {
-     "src": "media/60a65e4032388578.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/02774af1eee24ea4.jpg",
-     "w": 1000,
-     "h": 789,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7493275403269357568",
-   "sequence": null
-  },
-  {
-   "id": "13105280834:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-08-12T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1884, Theodore Roosevelt sat down in Dakota Territory to write his friend Henry Cabot Lodge, and spent most of the letter on politics before getting to the part he clearly enjoyed:\n\n\"In a day or two I start out, with two hunters, six riding ponies and a canvas topped 'prairie schooner' for the Bighorn Mountains. You would be amused to see me, in my broad sombrero hat, fringed and beaded buckskin shirt, horse hide chaparajos or riding trousers, and cowhide boots, with braided bridle and silver spurs.\"\n\nHe was 25. Six months earlier, on a single February day, his mother and his wife had died in the same house — Mittie of typhoid before dawn, Alice eleven hours later, two days after giving birth. He wrote one line in his diary, under a large black X: \"The light has gone out of my life.\" Then he went west.\n\nThe buckskin suit was not something he found. He had it made — ordered from a Badlands woman named Mrs. Maddox, who measured him at her cabin. Roosevelt wanted to look like the thing he was trying to become, and he was clear-eyed about the theatre of it: \"You would be amused to see me.\"\n\nThe rest of the letter is a young man arguing about his party. He tells Lodge he cannot call Blaine and Logan \"fit nominees, or proper persons to fill the offices of President and Vice President,\" and that he may skip election day entirely: \"indeed I may be in Dakotah on election day.\"\n\nHe also takes a shot at the Anglophile hunting set, whose American drag hunts chased an anise-soaked bag rather than a live fox. Roosevelt preferred \"that description of sport which needs a buckskin shirt to that whose votaries adopt the red coat.\" Then, unimprovably: \"A buffalo is nobler game than an anise seed bag.\"\n\nHe headed the letter Little Missouri, Dakotah — the rough town on the west bank, across the river from Medora.\n\nMore: trlibrary.com/tr/badlands/maltese-cross\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #Medora #NorthDakota",
-   "media": [
-    {
-     "src": "media/60a65e4032388578.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/02774af1eee24ea4.jpg",
-     "w": 1000,
-     "h": 789,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/144035749389560/posts/1106173445069498",
-   "sequence": null
-  },
-  {
-   "id": "13105284207:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-08-12T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1884, TR wrote Lodge from Dakota Territory: \"You would be amused to see me, in my broad sombrero hat, fringed and beaded buckskin shirt… with braided bridle and silver spurs.\"\n\n25, six months a widower, riding for the Bighorns.\n\ntrlibrary.com/tr/badlands/maltese-cross",
-   "media": [
-    {
-     "src": "media/6aa01afa132706b3.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/c89bd0499ba1605e.jpg",
-     "w": 1000,
-     "h": 789,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2087509717882998860",
-   "sequence": null
-  },
   {
    "id": "13105280454:138948229",
    "profileId": "138948229",

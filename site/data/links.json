@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-26T22:02:54Z",
+ "generatedAt": "2026-08-27T01:50:00Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "591308149364",
+   "url": "https://www.trlibrary.com/tr/conservation/by-the-numbers",
+   "host": "trlibrary.com",
+   "headline": "Conservation by the Numbers",
+   "blurb": "Roosevelt protected roughly 230 million acres—about ten percent of the United States—in just seven and a half years: conservation by the numbers.",
+   "publishAt": "2026-08-28T12:00:00Z",
+   "latestAt": "2026-08-28T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/05b5099acf15383f.jpg",
+    "w": 1000,
+    "h": 541
+   }
+  },
   {
    "id": "c2526bc4f05c",
    "url": "https://www.trlibrary.com/tr/presidency/executive-power",
