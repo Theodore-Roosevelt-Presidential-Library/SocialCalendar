@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-27T09:15:13Z",
+ "generatedAt": "2026-08-27T15:50:42Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -39,8 +39,7 @@
     "FACEBOOKPAGE",
     "LINKEDINCOMPANY",
     "TWITTER",
-    "THREADS",
-    "BLUESKY"
+    "THREADS"
    ],
    "thumb": {
     "src": "media/0fb4b990691f5ec4.jpg",
@@ -446,27 +445,6 @@
    ],
    "thumb": {
     "src": "media/67e9047dd91b7d61.jpg",
-    "w": 801,
-    "h": 1000
-   }
-  },
-  {
-   "id": "ed110705a4d7",
-   "url": "https://www.trlibrary.com/tr/badlands/maltese-cross",
-   "host": "trlibrary.com",
-   "headline": "Maltese Cross Ranch: Roosevelt's Dakota Foothold",
-   "blurb": "Seven miles south of Medora on the Little Missouri, the Maltese Cross Ranch was Roosevelt's first tangible commitment to the Dakota frontier.",
-   "publishAt": "2026-08-12T12:00:00Z",
-   "latestAt": "2026-08-12T12:00:00Z",
-   "channels": [
-    "THREADS",
-    "BLUESKY",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/da72d80b2a10daaf.jpg",
     "w": 801,
     "h": 1000
    }
