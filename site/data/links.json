@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-28T09:19:18Z",
+ "generatedAt": "2026-08-28T16:16:15Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -18,8 +18,7 @@
     "LINKEDINCOMPANY",
     "FACEBOOKPAGE",
     "TWITTER",
-    "THREADS",
-    "BLUESKY"
+    "THREADS"
    ],
    "thumb": {
     "src": "media/05b5099acf15383f.jpg",
@@ -426,27 +425,6 @@
     "src": "media/5c002ce8b80a7014.jpg",
     "w": 1000,
     "h": 666
-   }
-  },
-  {
-   "id": "88fab44e4fe6",
-   "url": "https://www.trlibrary.com/tr/people/ethel",
-   "host": "trlibrary.com",
-   "headline": "Ethel Roosevelt Derby: The Devoted Daughter",
-   "blurb": "Steady and principled, Ethel Roosevelt Derby grew up at Sagamore Hill as Theodore and Edith's most grounded and devoted daughter.",
-   "publishAt": "2026-08-13T12:00:00Z",
-   "latestAt": "2026-08-13T12:00:00Z",
-   "channels": [
-    "THREADS",
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/67e9047dd91b7d61.jpg",
-    "w": 801,
-    "h": 1000
    }
   }
  ]
