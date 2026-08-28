@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-08-27T21:16:49Z",
+ "generatedAt": "2026-08-28T03:12:57Z",
  "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-08-13T00:00:00Z",
-  "end": "2026-11-25T00:00:00Z"
+  "start": "2026-08-14T00:00:00Z",
+  "end": "2026-11-26T00:00:00Z"
  },
  "profiles": [
   {
@@ -79,360 +79,6 @@
  ],
  "tags": [],
  "posts": [
-  {
-   "id": "13105280454:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-08-13T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1891, Ethel Carow Roosevelt was born at Sagamore Hill — Theodore's fourth child, and Edith's third.\n\nShe is the Roosevelt child most people cannot name. Alice was famous. Ted, Kermit, Archie and Quentin all went to war; Quentin did not come home, and Archie came home badly wounded. Ethel gets left out of the story, which is a shame, because she may have been the most quietly formidable of them.\n\nOn September 26, 1914 — weeks after Europe went to war, and years before America did — Ethel sailed for France with her husband, the surgeon Richard Derby. He operated at the American Ambulance Hospital at Neuilly-sur-Seine, outside Paris. She nursed there.\n\nShe was 23. She left a five-month-old son at Sagamore Hill with her parents, and was the first of Roosevelt's six children to go to the war that would eventually take the youngest of them.\n\nThen she came home and did the unglamorous thing for the next sixty years.\n\nHer father died in 1919. Quentin was already dead in France. Kermit died in Alaska in 1943, Ted in Normandy in 1944. Edith died in 1948. Ethel outlived her parents and three of her brothers, and she spent those decades making sure Sagamore Hill did not become a private relic — working, year after year, for the house to be preserved and opened. It opened to the public in 1953 and became a National Historic Site in 1963.\n\nIf you have walked through those rooms, or ever do, you are there partly because of a woman born in that house on this date.\n\nMore on Ethel on our site — link in our bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #SagamoreHill #AmericanHistory",
-   "media": [
-    {
-     "src": "media/934cdc34f81624aa.jpg",
-     "w": 720,
-     "h": 720,
-     "kind": "image"
-    },
-    {
-     "src": "media/21b95d1a6e900386.jpg",
-     "w": 720,
-     "h": 720,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.instagram.com/p/Db-sH87nKEG/",
-   "sequence": null
-  },
-  {
-   "id": "13105280470:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-08-13T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1891, Ethel Carow Roosevelt was born at Sagamore Hill.\n\nShe's the Roosevelt child most people can't name. In 1914 she sailed for France with her surgeon husband and nursed wounded soldiers at Neuilly — leaving a five-month-old son behind, the first of TR's six children to go to that war.\n\nThen she spent decades working to preserve Sagamore Hill for the public.\n\ntrlibrary.com/tr/people/ethel",
-   "media": [
-    {
-     "src": "media/67e9047dd91b7d61.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/8489cc21ca5a35ce.jpg",
-     "w": 1000,
-     "h": 730,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/Db-sI9uoKUX",
-   "sequence": null
-  },
-  {
-   "id": "13105280477:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-08-13T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1891, Ethel Carow Roosevelt was born at Sagamore Hill.\n\nIn 1914 she left a five-month-old son behind to nurse wounded soldiers in France — the first of TR's children to serve. Then she spent decades preserving her father's house for the public.\n\ntrlibrary.com/tr/people/ethel",
-   "media": [
-    {
-     "src": "media/d2bd8524ab464763.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3msxlu2lhwz2d",
-   "sequence": null
-  },
-  {
-   "id": "13105280880:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-08-13T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1891, Ethel Carow Roosevelt was born at Sagamore Hill — Theodore's fourth child, and Edith's third.\n\nShe is the Roosevelt child most people cannot name. Alice was famous. Ted, Kermit, Archie and Quentin all went to war; Quentin did not come home, and Archie came home badly wounded. Ethel gets left out of the story, which is a shame, because she may have been the most quietly formidable of them.\n\nOn September 26, 1914 — weeks after Europe went to war, and years before America did — Ethel sailed for France with her husband, the surgeon Richard Derby. He operated at the American Ambulance Hospital at Neuilly-sur-Seine, outside Paris. She nursed there.\n\nShe was 23. She left a five-month-old son at Sagamore Hill with her parents, and was the first of Roosevelt's six children to go to the war that would eventually take the youngest of them.\n\nThen she came home and did the unglamorous thing for the next sixty years.\n\nHer father died in 1919. Quentin was already dead in France. Kermit died in Alaska in 1943, Ted in Normandy in 1944. Edith died in 1948. Ethel outlived her parents and three of her brothers, and she spent those decades making sure Sagamore Hill did not become a private relic — working, year after year, for the house to be preserved and opened. It opened to the public in 1953 and became a National Historic Site in 1963.\n\nIf you have walked through those rooms, or ever do, you are there partly because of a woman born in that house on this date.\n\nMore: trlibrary.com/tr/people/ethel\n\n#OTD #OnThisDay #TheodoreRoosevelt #SagamoreHill #AmericanHistory",
-   "media": [
-    {
-     "src": "media/5c9ca7ba485da6b7.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/e1806a7723f6da38.jpg",
-     "w": 1000,
-     "h": 730,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/144035749389560/posts/1107024214984421",
-   "sequence": null
-  },
-  {
-   "id": "13105280881:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-08-13T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1891, Ethel Carow Roosevelt was born at Sagamore Hill — Theodore's fourth child, and Edith's third.\n\nShe is the Roosevelt child most people cannot name. Alice was famous. Ted, Kermit, Archie and Quentin all went to war; Quentin did not come home, and Archie came home badly wounded. Ethel gets left out of the story, which is a shame, because she may have been the most quietly formidable of them.\n\nOn September 26, 1914 — weeks after Europe went to war, and years before America did — Ethel sailed for France with her husband, the surgeon Richard Derby. He operated at the American Ambulance Hospital at Neuilly-sur-Seine, outside Paris. She nursed there.\n\nShe was 23. She left a five-month-old son at Sagamore Hill with her parents, and was the first of Roosevelt's six children to go to the war that would eventually take the youngest of them.\n\nThen she came home and did the unglamorous thing for the next sixty years.\n\nHer father died in 1919. Quentin was already dead in France. Kermit died in Alaska in 1943, Ted in Normandy in 1944. Edith died in 1948. Ethel outlived her parents and three of her brothers, and she spent those decades making sure Sagamore Hill did not become a private relic — working, year after year, for the house to be preserved and opened. It opened to the public in 1953 and became a National Historic Site in 1963.\n\nIf you have walked through those rooms, or ever do, you are there partly because of a woman born in that house on this date.\n\nMore: trlibrary.com/tr/people/ethel\n\n#OTD #OnThisDay #TheodoreRoosevelt #SagamoreHill #AmericanHistory",
-   "media": [
-    {
-     "src": "media/5c9ca7ba485da6b7.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/e1806a7723f6da38.jpg",
-     "w": 1000,
-     "h": 730,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7493637668090585091",
-   "sequence": null
-  },
-  {
-   "id": "13105284218:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-08-13T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1891, Ethel Carow Roosevelt was born at Sagamore Hill.\n\nIn 1914 she left a five-month-old son behind to nurse wounded soldiers in France — the first of TR's children to serve. Then she spent decades preserving the house for the public.\n\ntrlibrary.com/tr/people/ethel",
-   "media": [
-    {
-     "src": "media/f508fd7f95fd9db2.jpg",
-     "w": 801,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/7492f10b3d593d74.jpg",
-     "w": 1000,
-     "h": 730,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2087871972550078865",
-   "sequence": null
-  },
-  {
-   "id": "13106122342:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-08-13T20:00:00Z",
-   "state": "SENT",
-   "text": "Honored to see the Theodore Roosevelt Presidential Library named a finalist in the 2026 METROPOLIS Planet Positive Awards.\n\nThe credit belongs first to Snøhetta, whose design does the thing this award is actually about: the building is shaped to merge with the butte rather than dominate it. A planted roof you can walk across. Mass timber inside. Restored native grassland along a nearly mile-long Boardwalk.\n\nThe Planet Positive Awards recognize work \"advancing a more sustainable, healthy, and equitable built environment.\" The Library is one of three finalists in the Cultural category, alongside Overland Partners for Marie Selby Botanical Gardens and WXY architecture + urban design with heneghan peng architects for Storm King Art Center. Good company.\n\nThe winners are chosen by a jury of academics, nonprofit leaders and sustainability experts, and will be announced September 30 in San Francisco.\n\nCongratulations to Snøhetta, and thank you to METROPOLIS.\n\nhttps://metropolismag.com/programs/here-are-the-2026-planet-positive-awards-project-and-innovation-finalists/",
-   "media": [
-    {
-     "src": "media/5c002ce8b80a7014.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/31ed00d517899fcb.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/60b3adc912ee9522.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/0935df2d1914cc20.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/144035749389560/posts/1107351428285033",
-   "sequence": null
-  },
-  {
-   "id": "13106122512:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-08-13T20:00:00Z",
-   "state": "SENT",
-   "text": "Honored to see the Theodore Roosevelt Presidential Library named a finalist in the 2026 METROPOLIS Planet Positive Awards.\n\nThe credit belongs first to Snøhetta, whose design does the thing this award is actually about: the building is shaped to merge with the butte rather than dominate it. A planted roof you can walk across. Mass timber inside. Restored native grassland along a nearly mile-long Boardwalk.\n\nThe Planet Positive Awards recognize work \"advancing a more sustainable, healthy, and equitable built environment.\" The Library is one of three finalists in the Cultural category, alongside Overland Partners for Marie Selby Botanical Gardens and WXY architecture + urban design with heneghan peng architects for Storm King Art Center. Good company.\n\nThe winners are chosen by a jury of academics, nonprofit leaders and sustainability experts, and will be announced September 30 at the Center for Architecture + Design in San Francisco.\n\nCongratulations to Snøhetta, and thank you to METROPOLIS.\n\nhttps://metropolismag.com/programs/here-are-the-2026-planet-positive-awards-project-and-innovation-finalists/",
-   "media": [
-    {
-     "src": "media/3f7d1a98b120ea85.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/948ff1b89f740691.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/09bcf650699edd2b.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/b08aabcc8b2806e5.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7493758457745989633",
-   "sequence": null
-  },
-  {
-   "id": "13106122601:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-08-13T20:00:00Z",
-   "state": "SENT",
-   "text": "Honored: the Theodore Roosevelt Presidential Library is a finalist in the 2026 METROPOLIS Planet Positive Awards, Cultural category.\n\nCredit to Snøhetta, whose design merges the building with the butte rather than dominating it.\n\nhttps://metropolismag.com/programs/here-are-the-2026-planet-positive-awards-project-and-innovation-finalists/",
-   "media": [
-    {
-     "src": "media/36cd35128c1b5d98.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/2b0f24885acfce36.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/a9246dbbfc2ad7ab.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/a3677a5d9d70c1d3.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2087992778257027276",
-   "sequence": null
-  },
-  {
-   "id": "13106122698:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-08-13T20:00:00Z",
-   "state": "SENT",
-   "text": "Honored to see the Theodore Roosevelt Presidential Library named a finalist in the 2026 @metropolismag Planet Positive Awards.\n\nThe credit belongs first to @snohetta, whose design does the thing this award is actually about: the building is shaped to merge with the butte rather than dominate it. A planted roof you can walk across. Mass timber inside. Restored native grassland along a nearly mile-long Boardwalk.\n\nThe Planet Positive Awards recognize work \"advancing a more sustainable, healthy, and equitable built environment.\" The Library is one of three finalists in the Cultural category, alongside Overland Partners for Marie Selby Botanical Gardens and WXY architecture + urban design with heneghan peng architects for Storm King Art Center. Good company.\n\nWinners are announced September 30 in San Francisco.\n\nCongratulations to Snøhetta, and thank you to METROPOLIS.\n\nhttps://metropolismag.com/programs/here-are-the-2026-planet-positive-awards-project-and-innovation-finalists/\n\n#PlanetPositive #Snohetta #MassTimber #SustainableDesign #Badlands #Medora #NorthDakota",
-   "media": [
-    {
-     "src": "media/ed8dd78a7eef2907.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/4c813effd09147bb.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/fe67f766505ac7d8.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/135a35ea01ecc32d.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.instagram.com/p/Db_jDlRmkSV/",
-   "sequence": null
-  },
-  {
-   "id": "13106122777:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-08-13T20:00:00Z",
-   "state": "SENT",
-   "text": "Honored to see the Theodore Roosevelt Presidential Library named a finalist in the 2026 METROPOLIS Planet Positive Awards (Cultural category).\n\nCredit belongs first to Snøhetta, whose design merges the building with the butte. A planted roof you can walk across, mass timber inside, restored native grassland along the Boardwalk.\n\nhttps://metropolismag.com/programs/here-are-the-2026-planet-positive-awards-project-and-innovation-finalists/",
-   "media": [
-    {
-     "src": "media/afa6048909d15a31.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/5794ae68b726aa9f.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/fd982055ecd81ce0.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/ec604d5ebb2d9b42.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/Db_jFanmOTG",
-   "sequence": null
-  },
-  {
-   "id": "13106122822:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-08-13T20:00:00Z",
-   "state": "SENT",
-   "text": "Theodore Roosevelt Presidential Library — a finalist in the 2026 METROPOLIS Planet Positive Awards, Cultural category.\n\nCredit to Snøhetta for a design that merges with the butte.\n\nhttps://metropolismag.com/programs/here-are-the-2026-planet-positive-awards-project-and-innovation-finalists/",
-   "media": [
-    {
-     "src": "media/60205cb5f9213629.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/af86f25597cddc9f.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/5e4b26dfdd52b2fd.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    },
-    {
-     "src": "media/a7c5d3cd7a4d05a3.jpg",
-     "w": 1000,
-     "h": 666,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3msygohoxni2w",
-   "sequence": null
-  },
   {
    "id": "13105280529:138948229",
    "profileId": "138948229",
@@ -4082,6 +3728,78 @@
      "src": "media/80f4a6498a8afc74.jpg",
      "w": 1000,
      "h": 750,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13108666294:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-08-28T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "This Sunday (8/30), Jenny and Joe Wiegand return for a lighthearted yoga class in the Breezeway. Downward Bull Moose: Yoga with T.R. begins at 9 AM; beginners all welcome, mats provided. Sign up before Sunday at https://ow.ly/yTQV50ZGijX.\n\n#yoga #presidentiallibrary #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/40b645609ed583d4.jpg",
+     "w": 750,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13108666295:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-08-28T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "This Sunday (8/30), Jenny and Joe Wiegand return for a lighthearted yoga class in the Breezeway. Downward Bull Moose: Yoga with T.R. begins at 9 AM; beginners all welcome, mats provided. Sign up before Sunday at https://ow.ly/jsOp50ZGijZ.\n\n#yoga #presidentiallibrary #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/40b645609ed583d4.jpg",
+     "w": 750,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13108666296:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-08-28T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "This Sunday (8/30), Jenny and Joe Wiegand return for a lighthearted yoga class in the Breezeway. Downward Bull Moose: Yoga with T.R. begins at 9 AM; beginners all welcome, mats provided. Sign up before Sunday at https://ow.ly/QURO50ZGik0.\n\n#yoga #presidentiallibrary #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/40b645609ed583d4.jpg",
+     "w": 750,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13108666297:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-08-28T18:00:00Z",
+   "state": "SCHEDULED",
+   "text": "This Sunday (8/30), Jenny and Joe Wiegand return for a lighthearted yoga class in the Breezeway. Downward Bull Moose: Yoga with T.R. begins at 9 AM; beginners all welcome, mats provided. Sign up before Sunday at https://ow.ly/iCUv50ZGijY.\n\n#yoga #presidentiallibrary #theodoreroosevelt",
+   "media": [
+    {
+     "src": "media/40b645609ed583d4.jpg",
+     "w": 750,
+     "h": 1000,
      "kind": "image"
     }
    ],
