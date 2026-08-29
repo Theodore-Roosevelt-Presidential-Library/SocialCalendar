@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-29T09:15:17Z",
+ "generatedAt": "2026-08-29T12:22:06Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -25,6 +25,27 @@
     "src": "media/9c1fe5d717fbd453.jpg",
     "w": 800,
     "h": 1000
+   }
+  },
+  {
+   "id": "da5acd21ee98",
+   "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
+   "host": "trlibrary.com",
+   "headline": "Frontier Life in the 1880s Badlands",
+   "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
+   "publishAt": "2026-08-16T12:00:00Z",
+   "latestAt": "2026-08-29T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/3fa7f2f67eee7a62.jpg",
+    "w": 1000,
+    "h": 654
    }
   },
   {
@@ -127,27 +148,6 @@
     "src": "media/04461834b2cb79ea.jpg",
     "w": 640,
     "h": 445
-   }
-  },
-  {
-   "id": "da5acd21ee98",
-   "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
-   "host": "trlibrary.com",
-   "headline": "Frontier Life in the 1880s Badlands",
-   "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
-   "publishAt": "2026-08-16T12:00:00Z",
-   "latestAt": "2026-08-24T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/3fa7f2f67eee7a62.jpg",
-    "w": 1000,
-    "h": 654
    }
   },
   {
