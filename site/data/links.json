@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-28T21:26:16Z",
+ "generatedAt": "2026-08-29T00:41:36Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "c9f90aad9ba2",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
+   "host": "trlibrary.com",
+   "headline": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
+   "blurb": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the…",
+   "publishAt": "2026-08-30T12:00:00Z",
+   "latestAt": "2026-08-30T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/9c1fe5d717fbd453.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
   {
    "id": "e6ada098de73",
    "url": "https://www.trlibrary.com/calendar/special-event/downward-bull-moose-yoga-tr",
