@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-29T21:13:20Z",
+ "generatedAt": "2026-08-30T00:50:30Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "a1e736d8071c",
+   "url": "https://www.trlibrary.com/tr/speeches/new-nationalism",
+   "host": "trlibrary.com",
+   "headline": "The New Nationalism (1910)",
+   "blurb": "Roosevelt's progressive manifesto, delivered August 31, 1910 at Osawatomie, Kansas, laying out a bolder vision of government serving the public good.",
+   "publishAt": "2026-08-31T12:00:00Z",
+   "latestAt": "2026-08-31T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/1c74c00f85254614.jpg",
+    "w": 1000,
+    "h": 756
+   }
+  },
   {
    "id": "c9f90aad9ba2",
    "url": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
@@ -304,7 +325,7 @@
    "host": "trlibrary.com",
    "headline": "The Panama Canal: Roosevelt's Bold Gambit for American Power",
    "blurb": "Theodore Roosevelt’s boldest use of American power — the decade-long feat of engineering that cut a canal across the Isthmus of Panama and joined two…",
-   "publishAt": "2026-08-15T12:00:00Z",
+   "publishAt": "2026-08-19T12:00:00Z",
    "latestAt": "2026-08-19T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
