@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-30T09:15:39Z",
+ "generatedAt": "2026-08-30T12:22:47Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -445,28 +445,6 @@
     "src": "media/45215d7ec66e4e48.jpg",
     "w": 1000,
     "h": 914
-   }
-  },
-  {
-   "id": "ee36c35ee66b",
-   "url": "https://metropolismag.com/programs/here-are-the-2026-planet-positive-awards-project-and-innovation-finalists/",
-   "host": "Metropolis",
-   "headline": "Here Are the 2026 Planet Positive Awards Project and Innovation Finalists - Metropolis",
-   "blurb": "Discover this year’s finalists in the Innovation and Project categories before winners are announced this fall.",
-   "publishAt": "2026-08-13T20:00:00Z",
-   "latestAt": "2026-08-13T20:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "INSTAGRAMBUSINESS",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/5c002ce8b80a7014.jpg",
-    "w": 1000,
-    "h": 666
    }
   }
  ]
