@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-08-30T21:13:34Z",
+ "generatedAt": "2026-08-31T00:51:23Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "be1fcc5af6cb",
+   "url": "https://www.trlibrary.com/tr/early-life/harvard",
+   "host": "trlibrary.com",
+   "headline": "Roosevelt at Harvard: The Making of a Historian and Political Thinker",
+   "blurb": "Arriving at Harvard in 1876 at seventeen, Theodore brought insatiable curiosity and a body remade by exercise, becoming a historian and political…",
+   "publishAt": "2026-09-01T12:00:00Z",
+   "latestAt": "2026-09-01T12:00:00Z",
+   "channels": [
+    "TWITTER",
+    "THREADS",
+    "BLUESKY",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/cfc52b263562b743.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
   {
    "id": "a1e736d8071c",
    "url": "https://www.trlibrary.com/tr/speeches/new-nationalism",
@@ -54,7 +75,7 @@
    "host": "trlibrary.com",
    "headline": "Frontier Life in the 1880s Badlands",
    "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
-   "publishAt": "2026-08-16T12:00:00Z",
+   "publishAt": "2026-08-18T12:00:00Z",
    "latestAt": "2026-08-29T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
