@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-31T09:24:19Z",
+ "generatedAt": "2026-08-31T12:27:12Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -445,27 +445,6 @@
     "src": "media/58b7376b312f83b6.jpg",
     "w": 540,
     "h": 675
-   }
-  },
-  {
-   "id": "3c9d1f2f3be8",
-   "url": "https://www.trlibrary.com/tr/presidency/brownsville",
-   "host": "trlibrary.com",
-   "headline": "The Brownsville Affair: An Injustice That Took 66 Years to Correct",
-   "blurb": "In 1906, soldiers of the all-Black 25th Infantry were wrongly accused after a Brownsville, Texas shooting, an injustice not corrected for 66 years.",
-   "publishAt": "2026-08-14T12:00:00Z",
-   "latestAt": "2026-08-14T12:00:00Z",
-   "channels": [
-    "THREADS",
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/45215d7ec66e4e48.jpg",
-    "w": 1000,
-    "h": 914
    }
   }
  ]
