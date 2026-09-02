@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-01T21:14:53Z",
+ "generatedAt": "2026-09-02T00:47:12Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "b53144c9171c",
+   "url": "https://www.trlibrary.com/tr/presidency",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Presidency",
+   "blurb": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
+   "publishAt": "2026-09-03T12:00:00Z",
+   "latestAt": "2026-09-03T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/3e43d1ba16845fce.jpg",
+    "w": 702,
+    "h": 768
+   }
+  },
   {
    "id": "fe0c5e3e078a",
    "url": "https://www.trlibrary.com/tr/quotes/leadership",
@@ -96,7 +117,7 @@
    "host": "trlibrary.com",
    "headline": "Frontier Life in the 1880s Badlands",
    "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
-   "publishAt": "2026-08-18T12:00:00Z",
+   "publishAt": "2026-08-24T12:00:00Z",
    "latestAt": "2026-08-29T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
