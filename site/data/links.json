@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-02T21:14:31Z",
+ "generatedAt": "2026-09-03T00:47:49Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "a4ba3fea3c6f",
+   "url": "https://www.trlibrary.com/tr/people/bill-sewall",
+   "host": "trlibrary.com",
+   "headline": "Bill Sewall: The Maine Woodsman Who Knew the Real TR",
+   "blurb": "A rugged Maine backwoodsman, Bill Sewall guided a young, asthmatic Roosevelt through the wilderness and became a lifelong, trusted friend.",
+   "publishAt": "2026-09-04T12:00:00Z",
+   "latestAt": "2026-09-04T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/c41755752b9a0e2d.jpg",
+    "w": 1000,
+    "h": 994
+   }
+  },
   {
    "id": "b53144c9171c",
    "url": "https://www.trlibrary.com/tr/presidency",
