@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T09:20:06Z",
+ "generatedAt": "2026-09-03T12:27:03Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -444,28 +444,6 @@
     "src": "media/08acf94082ea9259.jpg",
     "w": 1000,
     "h": 524
-   }
-  },
-  {
-   "id": "f33558af9ecf",
-   "url": "https://www.trlibrary.com/field-trips",
-   "host": "trlibrary.com",
-   "headline": "Field trips, K through college.",
-   "blurb": "",
-   "publishAt": "2026-08-17T18:00:00Z",
-   "latestAt": "2026-08-17T18:00:00Z",
-   "channels": [
-    "THREADS",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "INSTAGRAMBUSINESS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/3af51fe119addfd1.jpg",
-    "w": 799,
-    "h": 1000
    }
   }
  ]
