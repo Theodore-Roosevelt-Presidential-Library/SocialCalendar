@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T18:19:25Z",
+ "generatedAt": "2026-09-04T21:13:59Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-08-21T00:00:00Z",
@@ -3215,6 +3215,114 @@
    ],
    "tags": [],
    "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3muow3ptggo2p",
+   "sequence": null
+  },
+  {
+   "id": "13110199658:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-04T20:00:00Z",
+   "state": "SENT",
+   "text": "The doors opened on the Fourth of July. Today, two months later to the day, Gail and Doug Johnson walked through them and pushed the count past 100,000.\n\nOne hundred thousand people have now made the drive to Medora, climbed the bluff, and spent an afternoon with the story of a young New Yorker who came out to the Badlands and found something here that shaped the rest of his life.\n\nThank you to every one of them. To the families who put in the long, beautiful miles across North Dakota. To the school groups and the road-trippers. To the neighbors who live a few minutes down the road and came anyway. To the travelers from thirty-some countries who somehow found their way to a town of a few hundred people. And to everyone who lingered in the galleries long enough to need a gentle reminder that the building closes.\n\nGail and Doug, thanks for being number 100,000.\n\nTo number 100,001: the doors are open, and the light out here in September is worth the drive.\n\n#TheodoreRoosevelt #TRPL #Medora #NorthDakota #Badlands #TeddyRoosevelt",
+   "media": [
+    {
+     "src": "media/150b3130e8d95e34.jpg",
+     "w": 462,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7501730821548990465",
+   "sequence": null
+  },
+  {
+   "id": "13110199659:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-04T20:00:00Z",
+   "state": "SENT",
+   "text": "The doors opened on the Fourth of July. Today, two months later to the day, Gail and Doug Johnson walked through them and pushed the count past 100,000.\n\nOne hundred thousand people have now made the drive to Medora, climbed the bluff, and spent an afternoon with the story of a young New Yorker who came out to the Badlands and found something here that shaped the rest of his life.\n\nThank you to every one of them. To the families who put in the long, beautiful miles across North Dakota. To the school groups and the road-trippers. To the neighbors who live a few minutes down the road and came anyway. To the travelers from thirty-some countries who somehow found their way to a town of a few hundred people. And to everyone who lingered in the galleries long enough to need a gentle reminder that the building closes.\n\nGail and Doug, thanks for being number 100,000.\n\nTo number 100,001: the doors are open, and the light out here in September is worth the drive.\n\n#TheodoreRoosevelt #TRPL #Medora #NorthDakota #Badlands #TeddyRoosevelt",
+   "media": [
+    {
+     "src": "media/d6aa1140767077e2.jpg",
+     "w": 462,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.instagram.com/reel/Dc4L9IfCYPt/",
+   "sequence": null
+  },
+  {
+   "id": "13110199660:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-04T20:00:00Z",
+   "state": "SEND_FAILED_PERMANENTLY",
+   "text": "The doors opened on the Fourth of July. Today, two months later to the day, Gail and Doug Johnson walked through them and pushed the count past 100,000.\n\nOne hundred thousand people have now made the drive to Medora, climbed the bluff, and spent an afternoon with the story of a young New Yorker who came out to the Badlands and found something here that shaped the rest of his life.\n\nThank you to every one of them. To the families who put in the long, beautiful miles across North Dakota. To the school groups and the road-trippers. To the neighbors who live a few minutes down the road and came anyway. To the travelers from thirty-some countries who somehow found their way to a town of a few hundred people. And to everyone who lingered in the galleries long enough to need a gentle reminder that the building closes.\n\nGail and Doug, thanks for being number 100,000.\n\nTo number 100,001: the doors are open, and the light out here in September is worth the drive.\n\n#TheodoreRoosevelt #TRPL #Medora #NorthDakota #Badlands #TeddyRoosevelt",
+   "media": [
+    {
+     "src": "media/56e00604c930c9f5.jpg",
+     "w": 462,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13110199661:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-04T20:00:00Z",
+   "state": "SENT",
+   "text": "Gail and Doug Johnson walked in today and became participant number 100,000 — two months to the day since the doors opened.\n\nThank you to all one hundred thousand. The doors are still open, and September light in the Badlands is worth the drive.\n\n#TheodoreRoosevelt #Medora",
+   "media": [
+    {
+     "src": "media/d6aa1140767077e2.jpg",
+     "w": 462,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.threads.com/@trlibrary/post/Dc4MlQHjx8E",
+   "sequence": null
+  },
+  {
+   "id": "13110199662:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-04T20:00:00Z",
+   "state": "SENT",
+   "text": "Gail and Doug Johnson walked in today and became participant number 100,000 — two months to the day since the doors opened.\n\nThank you to all one hundred thousand. The doors are still open, and September light in the Badlands is worth the drive.\n\n#TheodoreRoosevelt #Medora",
+   "media": [
+    {
+     "src": "media/d6aa1140767077e2.jpg",
+     "w": 462,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mupqxu3qym2f",
+   "sequence": null
+  },
+  {
+   "id": "13110199663:138241987",
+   "profileId": "138241987",
+   "scheduledAt": "2026-09-04T20:00:00Z",
+   "state": "SENT",
+   "text": "The doors opened on the Fourth of July. Today, two months later to the day, Gail and Doug Johnson walked through them and pushed the count past 100,000.\n\nOne hundred thousand people have now made the drive to Medora, climbed the bluff, and spent an afternoon with the story of a young New Yorker who came out to the Badlands and found something here that shaped the rest of his life.\n\nThank you to every one of them. To the families who put in the long, beautiful miles across North Dakota. To the school groups and the road-trippers. To the neighbors who live a few minutes down the road and came anyway. To the travelers from thirty-some countries who somehow found their way to a town of a few hundred people. And to everyone who lingered in the galleries long enough to need a gentle reminder that the building closes.\n\nGail and Doug, thanks for being number 100,000.\n\nTo number 100,001: the doors are open, and the light out here in September is worth the drive.\n\n#TheodoreRoosevelt #TRPL #Medora #NorthDakota #Badlands #TeddyRoosevelt",
+   "media": [
+    {
+     "src": "media/150b3130e8d95e34.jpg",
+     "w": 462,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.tiktok.com/@trlibrary/video/7681772541282651405",
    "sequence": null
   },
   {
