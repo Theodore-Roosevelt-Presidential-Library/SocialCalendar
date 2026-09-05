@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05T09:15:41Z",
+ "generatedAt": "2026-09-05T12:21:52Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -444,27 +444,6 @@
     "src": "media/afbb95ffd49570f7.jpg",
     "w": 540,
     "h": 675
-   }
-  },
-  {
-   "id": "429711b1d1b8",
-   "url": "https://www.trlibrary.com/tr/presidency/trust-busting",
-   "host": "trlibrary.com",
-   "headline": "Trust-Busting: Roosevelt's War on Monopoly",
-   "blurb": "In 1902, Roosevelt's government sued the Northern Securities railroad monopoly under the Sherman Antitrust Act, asserting bold new presidential power.",
-   "publishAt": "2026-08-20T12:00:00Z",
-   "latestAt": "2026-08-20T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/50f1588ba9e46bac.jpg",
-    "w": 1000,
-    "h": 806
    }
   }
  ]
