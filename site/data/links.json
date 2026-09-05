@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-04T21:14:05Z",
+ "generatedAt": "2026-09-05T00:44:42Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "0ee1b2575383",
+   "url": "https://www.trlibrary.com/tr/rise-to-power",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Rise to Power",
+   "blurb": "Trace Roosevelt's climb from Rough Rider to the White House — San Juan Hill, a vice presidency meant to sideline him, and the fateful autumn of 1901.",
+   "publishAt": "2026-09-06T12:00:00Z",
+   "latestAt": "2026-09-06T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/940162c91f9019f6.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
   {
    "id": "7b58eb35c95d",
    "url": "https://www.trlibrary.com/tr/presidency/foreign-policy",
