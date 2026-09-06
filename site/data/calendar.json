@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-06T15:13:55Z",
+ "generatedAt": "2026-09-06T18:17:57Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-08-23T00:00:00Z",
@@ -3179,6 +3179,122 @@
    ],
    "tags": [],
    "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mutwzgexnc23",
+   "sequence": null
+  },
+  {
+   "id": "13110345599:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-06T22:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A good test of a museum: the teenager who didn't want to leave.\n\nMichael M. Rosen brought his 19-year-old son to Medora in mid-August and wrote it up for the Washington Free Beacon, under a title worth the price of admission — \"A Bull Moose Amid the Bison.\"\n\nRosen came prepared. Roosevelt caught him in high school, held him through the Edmund Morris volumes, and stayed with him long enough that he named his first son Theodore, in part for the president. The 19-year-old is that Theodore's younger brother, and by his father's account he \"isn't the world's biggest fan of museums.\"\n\nHe \"insisted we stay far longer than we had allocated to the visit.\"\n\nRosen singles out two highlights: the room devoted to the \"Man in the Arena\" speech, and the final exhibit of Roosevelt's own words, read aloud by a range of voices.\n\nThen father and son drove out into Theodore Roosevelt National Park and ran straight into a herd of bison. Which is, more or less, the correct way to end the day.\n\nHis last line: \"Bully for Medora, bully for TR, and bully for his astonishing legacy.\"\n\nThank you, Washington Free Beacon and Michael M. Rosen, for making the trip.\n\nhttps://freebeacon.com/culture/a-bull-moose-amid-the-bison/",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13110345604:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-06T22:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A good test of a museum: the teenager who didn't want to leave.\n\nMichael M. Rosen brought his 19-year-old son to Medora in mid-August and wrote it up for the Washington Free Beacon, under a title worth the price of admission — \"A Bull Moose Amid the Bison.\"\n\nRosen came prepared. Roosevelt caught him in high school, held him through the Edmund Morris volumes, and stayed with him long enough that he named his first son Theodore, in part for the president. The 19-year-old is that Theodore's younger brother, and by his father's account he \"isn't the world's biggest fan of museums.\"\n\nHe \"insisted we stay far longer than we had allocated to the visit.\"\n\nRosen singles out two highlights: the room devoted to the \"Man in the Arena\" speech, and the final exhibit of Roosevelt's own words, read aloud by a range of voices.\n\nThen father and son drove out into Theodore Roosevelt National Park and ran straight into a herd of bison.\n\nHis last line: \"Bully for Medora, bully for TR, and bully for his astonishing legacy.\"\n\nThank you, Washington Free Beacon and Michael M. Rosen, for making the trip.\n\nhttps://freebeacon.com/culture/a-bull-moose-amid-the-bison/",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13110345612:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-06T22:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A good test of a museum: the teenager who didn't want to leave.\n\n@michaelmrosen's 19-year-old \"isn't the world's biggest fan of museums,\" and \"insisted we stay far longer than we had allocated to the visit.\"\n\nThank you, @FreeBeacon.\n\nhttps://freebeacon.com/culture/a-bull-moose-amid-the-bison/",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13110345622:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-06T22:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Michael M. Rosen's 19-year-old \"isn't the world's biggest fan of museums.\" He \"insisted we stay far longer than we had allocated to the visit.\"\n\nThank you, Washington Free Beacon.\n\nhttps://freebeacon.com/culture/a-bull-moose-amid-the-bison/",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13110345648:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-06T22:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A good test of a museum: the teenager who didn't want to leave.\n\nMichael M. Rosen brought his 19-year-old son to Medora in mid-August and wrote it up for @washingtonfreebeacon, under a title worth the price of admission — \"A Bull Moose Amid the Bison.\"\n\nRosen came prepared. Roosevelt caught him in high school, held him through the Edmund Morris volumes, and stayed with him long enough that he named his first son Theodore, in part for the president. The 19-year-old is that Theodore's younger brother, and by his father's account he \"isn't the world's biggest fan of museums.\"\n\nHe \"insisted we stay far longer than we had allocated to the visit.\"\n\nRosen singles out two highlights: the room devoted to the \"Man in the Arena\" speech, and the final exhibit of Roosevelt's own words, read aloud by a range of voices.\n\nThen father and son drove out into Theodore Roosevelt National Park and ran straight into a herd of bison. Which is, more or less, the correct way to end the day.\n\nHis last line: \"Bully for Medora, bully for TR, and bully for his astonishing legacy.\"\n\nThank you, Washington Free Beacon and Michael M. Rosen, for making the trip.\n\nhttps://freebeacon.com/culture/a-bull-moose-amid-the-bison/\n\n#TheodoreRoosevelt #ManInTheArena #Medora #NorthDakota #Badlands #BullMoose",
+   "media": [
+    {
+     "src": "media/a0ece767e3587518.jpg",
+     "w": 1000,
+     "h": 666,
+     "kind": "image"
+    },
+    {
+     "src": "media/645ed8f1e9db545e.jpg",
+     "w": 1000,
+     "h": 666,
+     "kind": "image"
+    },
+    {
+     "src": "media/4e588939169180ce.jpg",
+     "w": 1000,
+     "h": 666,
+     "kind": "image"
+    },
+    {
+     "src": "media/190137a9e2df5fe5.jpg",
+     "w": 1000,
+     "h": 666,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13110345661:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-06T22:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A good test of a museum: the teenager who didn't want to leave.\n\nMichael M. Rosen brought his 19-year-old to Medora and wrote it up for the Washington Free Beacon. The son \"isn't the world's biggest fan of museums,\" and \"insisted we stay far longer than we had allocated to the visit.\"\n\nThen they drove into the park and met a herd of bison.\n\n\"Bully for Medora, bully for TR, and bully for his astonishing legacy.\"\n\nhttps://freebeacon.com/culture/a-bull-moose-amid-the-bison/",
+   "media": [
+    {
+     "src": "media/a9c970d4ccc71180.jpg",
+     "w": 1000,
+     "h": 666,
+     "kind": "image"
+    },
+    {
+     "src": "media/05d27607ccabcb66.jpg",
+     "w": 1000,
+     "h": 666,
+     "kind": "image"
+    },
+    {
+     "src": "media/f7206cf08a35bece.jpg",
+     "w": 1000,
+     "h": 666,
+     "kind": "image"
+    },
+    {
+     "src": "media/2b099e454971cba8.jpg",
+     "w": 1000,
+     "h": 666,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
    "sequence": null
   },
   {
