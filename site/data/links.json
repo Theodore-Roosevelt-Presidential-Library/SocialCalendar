@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-06T09:16:02Z",
+ "generatedAt": "2026-09-06T12:22:31Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -422,28 +422,6 @@
     "src": "media/cf3f25c709d198d6.jpg",
     "w": 651,
     "h": 366
-   }
-  },
-  {
-   "id": "721539596d3d",
-   "url": "https://www.youtube.com/watch?v=M6_BsYEJm30",
-   "host": "youtube.com",
-   "headline": "\"Speak softly and carry a big stick; you will go far.\" T.R.",
-   "blurb": "",
-   "publishAt": "2026-08-20T13:32:41Z",
-   "latestAt": "2026-08-20T13:32:41Z",
-   "channels": [
-    "TWITTER",
-    "INSTAGRAMBUSINESS",
-    "LINKEDINCOMPANY",
-    "THREADS",
-    "BLUESKY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/afbb95ffd49570f7.jpg",
-    "w": 540,
-    "h": 675
    }
   }
  ]
