@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T15:16:28Z",
+ "generatedAt": "2026-09-07T18:20:22Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -186,9 +186,9 @@
     "BLUESKY"
    ],
    "thumb": {
-    "src": "media/ffaba9b96d83b09f.jpg",
-    "w": 800,
-    "h": 1000
+    "src": "media/1928249cc3a64b28.jpg",
+    "w": 1000,
+    "h": 793
    }
   },
   {
@@ -438,47 +438,6 @@
     "src": "media/eba8f166242dd508.jpg",
     "w": 1000,
     "h": 692
-   }
-  },
-  {
-   "id": "bc568ce28d72",
-   "url": "https://www.trlibrary.com/calendar/special-event/911-whca-remembers-historic-tragedies-and-near-tragedies",
-   "host": "trlibrary.com",
-   "headline": "9/11: WHCA Remembers Historic Tragedies and Near Tragedies",
-   "blurb": "",
-   "publishAt": "2026-08-21T18:00:00Z",
-   "latestAt": "2026-08-21T18:00:00Z",
-   "channels": [
-    "TWITTER",
-    "INSTAGRAMBUSINESS",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY"
-   ],
-   "thumb": {
-    "src": "media/51963b9eb0db5d6d.jpg",
-    "w": 540,
-    "h": 675
-   }
-  },
-  {
-   "id": "2bac4e544541",
-   "url": "https://www.trlibrary.com/tr/badlands/landscape",
-   "host": "trlibrary.com",
-   "headline": "The Badlands Landscape: The Land That Changed Roosevelt",
-   "blurb": "Eroded buttes, deep coulees, and the Little Missouri River shape the Dakota Badlands—the wild country that reshaped a young Theodore Roosevelt.",
-   "publishAt": "2026-08-21T12:00:00Z",
-   "latestAt": "2026-08-21T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/89ea82f6cc46a527.jpg",
-    "w": 1000,
-    "h": 547
    }
   }
  ]

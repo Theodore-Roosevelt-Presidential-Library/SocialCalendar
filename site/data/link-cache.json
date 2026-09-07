@@ -762,5 +762,19 @@
   "description": "Riding fame from the Rough Riders and San Juan Hill, Theodore Roosevelt won the New York governorship in 1898, a key step toward the presidency.",
   "image": "https://www.trlibrary.com/sites/default/files/2026-07/s1_poster.jpg",
   "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/early-life": {
+  "final": "https://www.trlibrary.com/tr/early-life",
+  "title": "Theodore Roosevelt's Early Life",
+  "description": "Meet the sickly, asthmatic boy of 28 East 20th Street who willed himself strong — Theodore Roosevelt's early years of grit, curiosity, and hard-won health.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/el-hub_birthplace_sq.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/post-presidency/river-of-doubt": {
+  "final": "https://www.trlibrary.com/tr/post-presidency/river-of-doubt",
+  "title": "The River of Doubt: The Brazilian Expedition (1913–1914)",
+  "description": "After his 1912 defeat, a restless Roosevelt joined a perilous expedition to map Brazil's uncharted River of Doubt deep in the Amazon.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/rd_s1.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
  }
 }
