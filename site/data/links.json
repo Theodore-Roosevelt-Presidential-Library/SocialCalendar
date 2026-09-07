@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T09:25:21Z",
+ "generatedAt": "2026-09-07T12:26:37Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -62,6 +62,27 @@
     "src": "media/og2bac4b87c7d0a3.jpg",
     "w": 1000,
     "h": 667
+   }
+  },
+  {
+   "id": "c9f90aad9ba2",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
+   "host": "trlibrary.com",
+   "headline": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
+   "blurb": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the…",
+   "publishAt": "2026-08-30T12:00:00Z",
+   "latestAt": "2026-09-07T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/9c1fe5d717fbd453.jpg",
+    "w": 800,
+    "h": 1000
    }
   },
   {
@@ -253,27 +274,6 @@
     "src": "media/1c74c00f85254614.jpg",
     "w": 1000,
     "h": 756
-   }
-  },
-  {
-   "id": "c9f90aad9ba2",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
-   "host": "trlibrary.com",
-   "headline": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
-   "blurb": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the…",
-   "publishAt": "2026-08-30T12:00:00Z",
-   "latestAt": "2026-08-30T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/9c1fe5d717fbd453.jpg",
-    "w": 800,
-    "h": 1000
    }
   },
   {
