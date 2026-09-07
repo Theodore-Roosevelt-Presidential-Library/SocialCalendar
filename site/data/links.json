@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T06:37:54Z",
+ "generatedAt": "2026-09-07T09:25:21Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -222,14 +222,14 @@
    "publishAt": "2026-09-01T12:00:00Z",
    "latestAt": "2026-09-01T12:00:00Z",
    "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
     "TWITTER",
     "THREADS",
-    "BLUESKY",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
+    "BLUESKY"
    ],
    "thumb": {
-    "src": "media/cfc52b263562b743.jpg",
+    "src": "media/e2613b53f9699a1f.jpg",
     "w": 800,
     "h": 1000
    }
