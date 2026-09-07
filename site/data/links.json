@@ -1,11 +1,69 @@
 {
- "generatedAt": "2026-09-06T21:13:36Z",
+ "generatedAt": "2026-09-07T00:50:44Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "414dbd3381c5",
+   "url": "https://www.trlibrary.com/tr/badlands",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt in the Badlands",
+   "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
+   "publishAt": "2026-09-08T12:00:00Z",
+   "latestAt": "2026-09-08T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/954101e185d7f113.jpg",
+    "w": 1000,
+    "h": 757
+   }
+  },
+  {
+   "id": "b33a43916f54",
+   "url": "https://www.trlibrary.com/visit/hours",
+   "host": "trlibrary.com",
+   "headline": "Fall hours begin Monday, September 14.",
+   "blurb": "The Library is open year-round in Medora with seasonal hours — check the calendar for current dates and opening times before you visit.",
+   "publishAt": "2026-09-07T18:00:00Z",
+   "latestAt": "2026-09-07T18:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "TWITTER",
+    "THREADS",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/og4acaf00265331c.jpg",
+    "w": 1000,
+    "h": 482
+   }
+  },
+  {
+   "id": "063eea862846",
+   "url": "https://www.trlibrary.com/visit/groups",
+   "host": "trlibrary.com",
+   "headline": "Group Reservations",
+   "blurb": "Bring a group to the Theodore Roosevelt Presidential Library — guided experiences that connect students, tours, and organizations to TR's life and…",
+   "publishAt": "2026-09-07T18:00:00Z",
+   "latestAt": "2026-09-07T18:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/og2bac4b87c7d0a3.jpg",
+    "w": 1000,
+    "h": 667
+   }
+  },
   {
    "id": "ef4367e47ad5",
    "url": "https://freebeacon.com/culture/a-bull-moose-amid-the-bison/",
@@ -245,14 +303,13 @@
    "host": "trlibrary.com",
    "headline": "Downward Bull Moose: Yoga with T.R.",
    "blurb": "",
-   "publishAt": "2026-08-23T16:00:00Z",
+   "publishAt": "2026-08-28T18:00:00Z",
    "latestAt": "2026-08-28T18:00:00Z",
    "channels": [
     "INSTAGRAMBUSINESS",
     "TWITTER",
     "THREADS",
-    "FACEBOOKPAGE",
-    "BLUESKY"
+    "FACEBOOKPAGE"
    ],
    "thumb": {
     "src": "media/40b645609ed583d4.jpg",
@@ -422,28 +479,6 @@
     "src": "media/89ea82f6cc46a527.jpg",
     "w": 1000,
     "h": 547
-   }
-  },
-  {
-   "id": "41ea70d0330e",
-   "url": "https://www.wdayradionow.com/news/local-news/theodore-roosevelt-presidential-library-surpasses-70000-visitors/",
-   "host": "wdayradionow.com",
-   "headline": "Theodore Roosevelt Presidential Library surpasses 70,000 visitors",
-   "blurb": "TRPL Executive Director Robbie Lauf on The Flag’s What’s On Your Mind MEDORA, N.D.",
-   "publishAt": "2026-08-20T20:00:00Z",
-   "latestAt": "2026-08-20T20:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "TWITTER",
-    "INSTAGRAMBUSINESS",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/cf3f25c709d198d6.jpg",
-    "w": 651,
-    "h": 366
    }
   }
  ]
