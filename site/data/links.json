@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T21:14:33Z",
+ "generatedAt": "2026-09-08T00:47:10Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -282,14 +282,13 @@
    "host": "trlibrary.com",
    "headline": "Frontier Life in the 1880s Badlands",
    "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
-   "publishAt": "2026-08-24T12:00:00Z",
+   "publishAt": "2026-08-29T12:00:00Z",
    "latestAt": "2026-08-29T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
     "LINKEDINCOMPANY",
     "TWITTER",
-    "THREADS",
-    "BLUESKY"
+    "THREADS"
    ],
    "thumb": {
     "src": "media/3fa7f2f67eee7a62.jpg",
