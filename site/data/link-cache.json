@@ -783,5 +783,12 @@
   "description": "Follow Roosevelt after the White House — a year-long African safari, the Bull Moose run of 1912, and a near-fatal plunge down Brazil's River of Doubt.",
   "image": "https://www.trlibrary.com/sites/default/files/2026-07/pp-hub_safari_sq.jpg",
   "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/post-presidency/assassination-attempt": {
+  "final": "https://www.trlibrary.com/tr/post-presidency/assassination-attempt",
+  "title": "The Assassination Attempt: Milwaukee, October 14, 1912",
+  "description": "A delusional gunman shot Roosevelt in Milwaukee on October 14, 1912, an attempt that became one of the most dramatic moments of his campaign.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/aa_s1.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
  }
 }
