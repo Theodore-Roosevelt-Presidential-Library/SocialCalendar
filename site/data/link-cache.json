@@ -832,5 +832,19 @@
   "description": "Bill Bleyer Presents: \"Sagamore Hill: Theodore Roosevelt's Summer White House\"",
   "image": "https://www.trlibrary.com/themes/custom/trpl/images/metatags/logo.jpeg",
   "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/complex-legacy/race": {
+  "final": "https://www.trlibrary.com/tr/complex-legacy/race",
+  "title": "Theodore Roosevelt & Race: The Record and Its Contradictions",
+  "description": "Roosevelt's writings, beliefs, and actions on race—full of contradictions—traced from the frontier world of his youth through his broader public record.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/1_frontier_young_tr.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://trlibrary.com/tr/presidency/booker-t-washington": {
+  "final": "https://www.trlibrary.com/tr/presidency/booker-t-washington",
+  "title": "The Dinner with Booker T. Washington: Breaking Barriers and Revealing Limits",
+  "description": "On October 16, 1901, President Theodore Roosevelt invited Booker T. Washington to dine at the White House, a first that drew both praise and outrage.",
+  "image": "https://www.trlibrary.com/sites/default/files/2026-07/500px-Booker_T_Washington_retouched_flattened-crop.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
  }
 }
