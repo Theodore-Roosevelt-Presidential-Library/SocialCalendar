@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12T15:13:27Z",
+ "generatedAt": "2026-09-12T18:17:41Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-08-29T00:00:00Z",
@@ -3554,11 +3554,11 @@
    "id": "13110355185:140387002",
    "profileId": "140387002",
    "scheduledAt": "2026-09-12T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Fall service begins Tuesday, September 15.\n\nTuesday–Friday: full menu 11am–3pm, lite service 10–11am and 3–4pm\nSaturday–Sunday: full menu 11am–3pm, lite service 9–11am and 3–6pm\nClosed Mondays\n\nLite service is coffee and pastries. Full service is the full menu, and the dining room still looks out on the same buttes.",
    "media": [],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.facebook.com/122098024629357510/posts/122135478279357510",
    "sequence": null
   },
   {
