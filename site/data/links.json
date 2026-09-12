@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-12T09:16:12Z",
+ "generatedAt": "2026-09-12T12:22:03Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -25,6 +25,27 @@
     "src": "media/797c91da1161204c.jpg",
     "w": 640,
     "h": 800
+   }
+  },
+  {
+   "id": "b53144c9171c",
+   "url": "https://www.trlibrary.com/tr/presidency",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Presidency",
+   "blurb": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
+   "publishAt": "2026-09-03T12:00:00Z",
+   "latestAt": "2026-09-12T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/1928249cc3a64b28.jpg",
+    "w": 1000,
+    "h": 793
    }
   },
   {
@@ -232,27 +253,6 @@
     "src": "media/c41755752b9a0e2d.jpg",
     "w": 1000,
     "h": 994
-   }
-  },
-  {
-   "id": "b53144c9171c",
-   "url": "https://www.trlibrary.com/tr/presidency",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Presidency",
-   "blurb": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
-   "publishAt": "2026-09-03T12:00:00Z",
-   "latestAt": "2026-09-03T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/1928249cc3a64b28.jpg",
-    "w": 1000,
-    "h": 793
    }
   },
   {
