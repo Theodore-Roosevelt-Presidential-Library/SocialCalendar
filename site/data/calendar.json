@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-13T12:23:02Z",
+ "generatedAt": "2026-09-13T15:14:02Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-08-30T00:00:00Z",
@@ -3397,6 +3397,186 @@
    "state": "SCHEDULED",
    "text": "Today is the last day of summer hours — open until 6pm, last timed entry 4:30pm.\n\nTomorrow, Monday September 14, the Library is closed. Fall hours begin Tuesday: 10am–4pm Tuesday through Friday, 9am–6pm Saturday and Sunday, closed Mondays through November 30.\n\nThe outdoor boardwalk stays accessible on Mondays. No staff and no visitor services — but the view of the buttes doesn't keep hours.\n\ntrlibrary.com/visit/hours",
    "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13111518891:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-13T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "𝘐𝘯 𝘵𝘩𝘦 𝘙𝘰𝘰𝘮: 𝘚𝘪𝘹𝘵𝘺 𝘠𝘦𝘢𝘳𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘍𝘳𝘰𝘯𝘵 𝘓𝘪𝘯𝘦𝘴 𝘰𝘧 𝘏𝘪𝘴𝘵𝘰𝘳𝘺 brings more than 175 photographs from the David Hume Kennerly's career to the Theodore Roosevelt Presidential Library. Opening weekend is October 2 and 3, with public programming throughout the campus.\n\nRegister: https://ow.ly/nWBO50ZMW3q\n\n",
+   "media": [
+    {
+     "src": "media/483c36f20d6043ba.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b312a5ed04e5daef.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4bf73d007f784d0c.jpg",
+     "w": 772,
+     "h": 999,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13111518892:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-13T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Sixty years of American history, and David Hume Kennerly was in the room for all of it. \n\n𝘐𝘯 𝘵𝘩𝘦 𝘙𝘰𝘰𝘮: 𝘚𝘪𝘹𝘵𝘺 𝘠𝘦𝘢𝘳𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘍𝘳𝘰𝘯𝘵 𝘓𝘪𝘯𝘦𝘴 𝘰𝘧 𝘏𝘪𝘴𝘵𝘰𝘳𝘺 brings more than 175 photographs from the Pulitzer Prize winner's career to the Theodore Roosevelt Presidential Library–the first guest exhibition in the building. Opening weekend is October 2 and 3, with public programming throughout the campus.\n\nRegister: https://ow.ly/kvh350ZMW3p\n",
+   "media": [
+    {
+     "src": "media/e613e3ab28223655.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b143cfb718077ac6.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4b693d31c2834469.jpg",
+     "w": 772,
+     "h": 999,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13111518893:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-13T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The battlefields of Vietnam. Nixon's resignation. The Pentagon burning on September 11. \n\nDavid Hume Kennerly was in the room for all of it. \n\nOur first temporary exhibition, 𝘐𝘯 𝘵𝘩𝘦 𝘙𝘰𝘰𝘮: 𝘚𝘪𝘹𝘵𝘺 𝘠𝘦𝘢𝘳𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘍𝘳𝘰𝘯𝘵 𝘓𝘪𝘯𝘦𝘴 𝘰𝘧 𝘏𝘪𝘴𝘵𝘰𝘳𝘺 will bring more than 175 photographs from Kennerly's Pulitzer Prize-winning career to the Theodore Roosevelt Presidential Library. The show will open to the public in our Microsoft Gallery on October 2nd, 2026, with public programming occurring across the weekend. \n\nDon't miss your opportunity to be in the room. \n\nRegister: https://ow.ly/qU3g50ZMW3s\n\n#davidhumekennerly #photography #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/e613e3ab28223655.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b143cfb718077ac6.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4b693d31c2834469.jpg",
+     "w": 772,
+     "h": 999,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13111518894:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-13T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The battlefields of Vietnam. Nixon's resignation. The Pentagon burning on September 11. \n\nDavid Hume Kennerly (@davidhumekennerly) was in the room for all of it. \n\nOur first temporary exhibition, 𝘐𝘯 𝘵𝘩𝘦 𝘙𝘰𝘰𝘮: 𝘚𝘪𝘹𝘵𝘺 𝘠𝘦𝘢𝘳𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘍𝘳𝘰𝘯𝘵 𝘓𝘪𝘯𝘦𝘴 𝘰𝘧 𝘏𝘪𝘴𝘵𝘰𝘳𝘺 will bring more than 175 photographs from Kennerly's Pulitzer Prize-winning career to the Theodore Roosevelt Presidential Library. The show will open to the public in our Microsoft Gallery on October 2nd, 2026, with public programming occurring across the weekend. \n\nDon't miss your opportunity to be in the room. \n\nRegister: https://ow.ly/qU3g50ZMW3s\n\n#davidhumekennerly #photography #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/e613e3ab28223655.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b143cfb718077ac6.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4b693d31c2834469.jpg",
+     "w": 772,
+     "h": 999,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13111518895:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-13T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The battlefields of Vietnam. Nixon's resignation. The Pentagon burning on September 11. \n\nDavid Hume Kennerly was in the room for all of it. \n\nOur first temporary exhibition, 𝘐𝘯 𝘵𝘩𝘦 𝘙𝘰𝘰𝘮: 𝘚𝘪𝘹𝘵𝘺 𝘠𝘦𝘢𝘳𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘍𝘳𝘰𝘯𝘵 𝘓𝘪𝘯𝘦𝘴 𝘰𝘧 𝘏𝘪𝘴𝘵𝘰𝘳𝘺 will bring more than 175 photographs from Kennerly's Pulitzer Prize-winning career to the Theodore Roosevelt Presidential Library. The show will open to the public in our Microsoft Gallery on October 2nd, 2026, with public programming occurring across the weekend. \n\nDon't miss your opportunity to be in the room. \n\nRegister: https://ow.ly/qU3g50ZMW3s\n\n#davidhumekennerly #photography #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/e613e3ab28223655.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b143cfb718077ac6.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4b693d31c2834469.jpg",
+     "w": 772,
+     "h": 999,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13111518896:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-13T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The battlefields of Vietnam. Nixon's resignation. The Pentagon burning on September 11. \n\nDavid Hume Kennerly was in the room for all of it. \n\nOur first temporary exhibition, 𝘐𝘯 𝘵𝘩𝘦 𝘙𝘰𝘰𝘮: 𝘚𝘪𝘹𝘵𝘺 𝘠𝘦𝘢𝘳𝘴 𝘰𝘯 𝘵𝘩𝘦 𝘍𝘳𝘰𝘯𝘵 𝘓𝘪𝘯𝘦𝘴 𝘰𝘧 𝘏𝘪𝘴𝘵𝘰𝘳𝘺 will bring more than 175 photographs from Kennerly's Pulitzer Prize-winning career to the Theodore Roosevelt Presidential Library. The show will open to the public in our Microsoft Gallery on October 2nd, 2026, with public programming occurring across the weekend. \n\nDon't miss your opportunity to be in the room. \n\nRegister: https://ow.ly/qU3g50ZMW3s\n\n#davidhumekennerly #photography #presidentiallibrary",
+   "media": [
+    {
+     "src": "media/e613e3ab28223655.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b143cfb718077ac6.jpg",
+     "w": 772,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4b693d31c2834469.jpg",
+     "w": 772,
+     "h": 999,
+     "kind": "image"
+    }
+   ],
    "tags": [],
    "postUrl": null,
    "sequence": null
