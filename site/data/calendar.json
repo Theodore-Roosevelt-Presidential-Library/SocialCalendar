@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-13T15:14:02Z",
+ "generatedAt": "2026-09-13T18:18:24Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-08-30T00:00:00Z",
@@ -3361,44 +3361,44 @@
    "id": "13110355123:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-09-13T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Last day of summer hours — open until 6pm today, last timed entry 4:30pm.\n\nClosed tomorrow. Fall hours begin Tuesday: Tue–Fri 10am–4pm, Sat–Sun 9am–6pm, closed Mondays through Nov 30.\n\ntrlibrary.com/visit/hours",
    "media": [],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mvg6fmvlk72q",
    "sequence": null
   },
   {
    "id": "13110355124:138250117",
    "profileId": "138250117",
    "scheduledAt": "2026-09-13T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Last day of summer hours — open until 6pm today, last timed entry 4:30pm.\n\nClosed tomorrow. Fall hours begin Tuesday: Tue–Fri 10am–4pm, Sat–Sun 9am–6pm, closed Mondays through Nov 30.\n\ntrlibrary.com/visit/hours",
    "media": [],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://x.com/783364650180104192/status/2099196487292842187",
    "sequence": null
   },
   {
    "id": "13110355125:138745276",
    "profileId": "138745276",
    "scheduledAt": "2026-09-13T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Last day of summer hours — open until 6pm today, last timed entry 4:30pm.\n\nClosed tomorrow. Fall hours begin Tuesday: Tue–Fri 10am–4pm, Sat–Sun 9am–6pm, closed Mondays through Nov 30.\n\ntrlibrary.com/visit/hours",
    "media": [],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.threads.com/@trlibrary/post/DdPJ6DUoLgf",
    "sequence": null
   },
   {
    "id": "13110355141:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-09-13T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Today is the last day of summer hours — open until 6pm, last timed entry 4:30pm.\n\nTomorrow, Monday September 14, the Library is closed. Fall hours begin Tuesday: 10am–4pm Tuesday through Friday, 9am–6pm Saturday and Sunday, closed Mondays through November 30.\n\nThe outdoor boardwalk stays accessible on Mondays. No staff and no visitor services — but the view of the buttes doesn't keep hours.\n\ntrlibrary.com/visit/hours",
    "media": [],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.facebook.com/200587388961446/posts/1134387928914716",
    "sequence": null
   },
   {

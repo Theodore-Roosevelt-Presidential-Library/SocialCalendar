@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-13T15:14:16Z",
+ "generatedAt": "2026-09-13T18:18:31Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -47,6 +47,26 @@
     "src": "media/483c36f20d6043ba.jpg",
     "w": 772,
     "h": 1000
+   }
+  },
+  {
+   "id": "b33a43916f54",
+   "url": "https://www.trlibrary.com/visit/hours",
+   "host": "trlibrary.com",
+   "headline": "Fall hours begin Monday, September 14.",
+   "blurb": "The Library is open year-round in Medora with seasonal hours — check the calendar for current dates and opening times before you visit.",
+   "publishAt": "2026-09-07T18:00:00Z",
+   "latestAt": "2026-09-13T18:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "TWITTER",
+    "THREADS",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/og4acaf00265331c.jpg",
+    "w": 1000,
+    "h": 482
    }
   },
   {
@@ -174,26 +194,6 @@
     "src": "media/954101e185d7f113.jpg",
     "w": 1000,
     "h": 757
-   }
-  },
-  {
-   "id": "b33a43916f54",
-   "url": "https://www.trlibrary.com/visit/hours",
-   "host": "trlibrary.com",
-   "headline": "Fall hours begin Monday, September 14.",
-   "blurb": "The Library is open year-round in Medora with seasonal hours — check the calendar for current dates and opening times before you visit.",
-   "publishAt": "2026-09-07T18:00:00Z",
-   "latestAt": "2026-09-07T18:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "TWITTER",
-    "THREADS",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/og4acaf00265331c.jpg",
-    "w": 1000,
-    "h": 482
    }
   },
   {
