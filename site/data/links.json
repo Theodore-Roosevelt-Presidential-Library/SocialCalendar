@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-12T21:15:00Z",
+ "generatedAt": "2026-09-13T00:51:37Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "b0ae0f5b9089",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/becoming-president",
+   "host": "trlibrary.com",
+   "headline": "How Theodore Roosevelt Became President: The Pan-American Exposition and McKinley's…",
+   "blurb": "In September 1901, McKinley's assassination at Buffalo's Pan-American Exposition thrust 42-year-old Theodore Roosevelt into the presidency.",
+   "publishAt": "2026-09-14T12:00:00Z",
+   "latestAt": "2026-09-14T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/055b857d9eb52d4b.jpg",
+    "w": 813,
+    "h": 1000
+   }
+  },
   {
    "id": "ebebe8eca025",
    "url": "https://www.trlibrary.com/tr/family",
