@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-13T21:13:36Z",
+ "generatedAt": "2026-09-14T00:51:00Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "a2e9cc140faf",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/rough-riders",
+   "host": "trlibrary.com",
+   "headline": "The Rough Riders: America's Most Famous Regiment",
+   "blurb": "Roosevelt and Wood recruited over 1,000 cowboys, Ivy League athletes, miners, and lawmen into the 1st Volunteer Cavalry, the famed Rough Riders.",
+   "publishAt": "2026-09-15T12:00:00Z",
+   "latestAt": "2026-09-15T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/c0c018e15f87037e.jpg",
+    "w": 802,
+    "h": 1000
+   }
+  },
   {
    "id": "b0ae0f5b9089",
    "url": "https://www.trlibrary.com/tr/rise-to-power/becoming-president",
@@ -219,7 +240,7 @@
    "host": "trlibrary.com",
    "headline": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
    "blurb": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the…",
-   "publishAt": "2026-08-30T12:00:00Z",
+   "publishAt": "2026-09-07T12:00:00Z",
    "latestAt": "2026-09-07T12:00:00Z",
    "channels": [
     "LINKEDINCOMPANY",
