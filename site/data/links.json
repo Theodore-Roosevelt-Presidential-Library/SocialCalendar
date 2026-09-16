@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15T21:14:52Z",
+ "generatedAt": "2026-09-16T00:45:56Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -359,27 +359,6 @@
    "thumb": {
     "src": "media/44b3d3497adfb4d4.jpg",
     "w": 981,
-    "h": 1000
-   }
-  },
-  {
-   "id": "be1fcc5af6cb",
-   "url": "https://www.trlibrary.com/tr/early-life/harvard",
-   "host": "trlibrary.com",
-   "headline": "Roosevelt at Harvard: The Making of a Historian and Political Thinker",
-   "blurb": "Arriving at Harvard in 1876 at seventeen, Theodore brought insatiable curiosity and a body remade by exercise, becoming a historian and political…",
-   "publishAt": "2026-09-01T12:00:00Z",
-   "latestAt": "2026-09-01T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/e2613b53f9699a1f.jpg",
-    "w": 800,
     "h": 1000
    }
   },
