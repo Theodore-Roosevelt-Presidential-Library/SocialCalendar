@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-19T09:16:43Z",
+ "generatedAt": "2026-09-19T12:23:11Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "414dbd3381c5",
+   "url": "https://www.trlibrary.com/tr/badlands",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt in the Badlands",
+   "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
+   "publishAt": "2026-09-08T12:00:00Z",
+   "latestAt": "2026-09-19T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/954101e185d7f113.jpg",
+    "w": 1000,
+    "h": 757
+   }
+  },
   {
    "id": "5080aedeaa58",
    "url": "https://www.trlibrary.com/tr/people/alice-lee",
@@ -46,27 +67,6 @@
     "src": "media/d93993effae20c9f.jpg",
     "w": 835,
     "h": 1000
-   }
-  },
-  {
-   "id": "414dbd3381c5",
-   "url": "https://www.trlibrary.com/tr/badlands",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt in the Badlands",
-   "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
-   "publishAt": "2026-09-08T12:00:00Z",
-   "latestAt": "2026-09-16T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/954101e185d7f113.jpg",
-    "w": 1000,
-    "h": 757
    }
   },
   {
