@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-09-20T03:20:54Z",
+ "generatedAt": "2026-09-20T06:26:48Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "8ce3f16144ed",
+   "url": "https://www.trlibrary.com/calendar/special-event/artist-talk-room-david-hume-kennerly",
+   "host": "trlibrary.com",
+   "headline": "Artist Talk: \"In the Room\" with David Hume Kennerly",
+   "blurb": "",
+   "publishAt": "2026-09-21T18:00:00Z",
+   "latestAt": "2026-09-21T18:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "INSTAGRAMBUSINESS"
+   ],
+   "thumb": {
+    "src": "media/6af81a785e8c648f.jpg",
+    "w": 540,
+    "h": 675
+   }
+  },
   {
    "id": "39e7c0e5788a",
    "url": "https://www.trlibrary.com/tr/homes-and-places/sagamore-hill",
