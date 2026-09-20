@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-19T21:13:38Z",
+ "generatedAt": "2026-09-20T00:51:31Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "39e7c0e5788a",
+   "url": "https://www.trlibrary.com/tr/homes-and-places/sagamore-hill",
+   "host": "trlibrary.com",
+   "headline": "Sagamore Hill: The Heart of Roosevelt's Home Life",
+   "blurb": "Roosevelt built Sagamore Hill in 1885 and, with his second wife Edith, made the roomy Oyster Bay house the warm center of family life.",
+   "publishAt": "2026-09-21T12:00:00Z",
+   "latestAt": "2026-09-21T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/8bcabbe7fd82d895.jpg",
+    "w": 1000,
+    "h": 980
+   }
+  },
   {
    "id": "414dbd3381c5",
    "url": "https://www.trlibrary.com/tr/badlands",
