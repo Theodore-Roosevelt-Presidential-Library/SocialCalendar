@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T15:16:28Z",
+ "generatedAt": "2026-09-21T18:20:44Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -442,27 +442,6 @@
     "src": "media/44b3d3497adfb4d4.jpg",
     "w": 981,
     "h": 1000
-   }
-  },
-  {
-   "id": "a1e736d8071c",
-   "url": "https://www.trlibrary.com/tr/speeches/new-nationalism",
-   "host": "trlibrary.com",
-   "headline": "The New Nationalism (1910)",
-   "blurb": "Roosevelt's progressive manifesto, delivered August 31, 1910 at Osawatomie, Kansas, laying out a bolder vision of government serving the public good.",
-   "publishAt": "2026-08-31T12:00:00Z",
-   "latestAt": "2026-08-31T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/1c74c00f85254614.jpg",
-    "w": 1000,
-    "h": 756
    }
   }
  ]
