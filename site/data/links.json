@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-21T21:15:04Z",
+ "generatedAt": "2026-09-22T00:46:35Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "f28b9408f139",
+   "url": "https://www.trlibrary.com/tr/badlands/elkhorn-ranch",
+   "host": "trlibrary.com",
+   "headline": "Elkhorn Ranch: The Cradle of Conservation",
+   "blurb": "Seeking a remote refuge from grief, Roosevelt built the Elkhorn Ranch as his most cherished Dakota home and the cradle of his conservation vision.",
+   "publishAt": "2026-09-23T12:00:00Z",
+   "latestAt": "2026-09-23T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/25fa9967e7ddce8f.jpg",
+    "w": 1000,
+    "h": 656
+   }
+  },
   {
    "id": "777a59832f33",
    "url": "https://www.trlibrary.com/tr/post-presidency/bull-moose",
@@ -198,9 +219,9 @@
    "id": "b33a43916f54",
    "url": "https://www.trlibrary.com/visit/hours",
    "host": "trlibrary.com",
-   "headline": "Fall hours begin Monday, September 14.",
+   "headline": "Last day of summer hours — open until 6pm today, last timed entry 4:30pm.",
    "blurb": "The Library is open year-round in Medora with seasonal hours — check the calendar for current dates and opening times before you visit.",
-   "publishAt": "2026-09-07T18:00:00Z",
+   "publishAt": "2026-09-13T18:00:00Z",
    "latestAt": "2026-09-13T18:00:00Z",
    "channels": [
     "BLUESKY",
