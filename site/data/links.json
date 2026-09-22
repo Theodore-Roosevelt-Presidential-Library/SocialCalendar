@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T09:18:30Z",
+ "generatedAt": "2026-09-22T12:25:26Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -461,27 +461,6 @@
    "thumb": {
     "src": "media/f256aadb7db183dc.jpg",
     "w": 714,
-    "h": 1000
-   }
-  },
-  {
-   "id": "fe0c5e3e078a",
-   "url": "https://www.trlibrary.com/tr/quotes/leadership",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt on Leadership",
-   "blurb": "Roosevelt's own words on leadership, from picking capable people and trusting them to lead to his conviction that decisive action beats hesitation.",
-   "publishAt": "2026-09-02T12:00:00Z",
-   "latestAt": "2026-09-02T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/44b3d3497adfb4d4.jpg",
-    "w": 981,
     "h": 1000
    }
   }
