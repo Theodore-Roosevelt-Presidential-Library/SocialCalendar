@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-09-22T21:14:32Z",
+ "generatedAt": "2026-09-23T00:44:36Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "a6b1ea15ed1b",
+   "url": "https://www.trlibrary.com/tr/presidency/conservation/antiquities-act",
+   "host": "trlibrary.com",
+   "headline": "The Antiquities Act of 1906: Roosevelt's Conservation Superpower",
+   "blurb": "The Antiquities Act of 1906 gave Roosevelt sweeping power to shield archaeological sites and public lands as national monuments with a stroke of the…",
+   "publishAt": "2026-09-24T12:00:00Z",
+   "latestAt": "2026-09-24T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/4e0b9b806731ebde.jpg",
+    "w": 802,
+    "h": 1000
+   }
+  },
   {
    "id": "0fd79028f61a",
    "url": "https://www.trlibrary.com/calendar/special-event/gallery-david-hume-kennerly",
@@ -135,7 +155,7 @@
    "host": "trlibrary.com",
    "headline": "Theodore Roosevelt in the Badlands",
    "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
-   "publishAt": "2026-09-08T12:00:00Z",
+   "publishAt": "2026-09-09T12:00:00Z",
    "latestAt": "2026-09-19T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
