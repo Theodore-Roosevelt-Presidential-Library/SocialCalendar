@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-23T21:16:35Z",
+ "generatedAt": "2026-09-24T00:46:01Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "18b4d7c92cc5",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/vice-presidency",
+   "host": "trlibrary.com",
+   "headline": "The Reluctant Vice President: An Office Theodore Roosevelt Despised",
+   "blurb": "Roosevelt reluctantly took the vice presidency in 1901, an office he found nearly powerless, never guessing how soon it would carry him to the White…",
+   "publishAt": "2026-09-25T12:00:00Z",
+   "latestAt": "2026-09-25T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/31c5d154821a1a3e.jpg",
+    "w": 690,
+    "h": 560
+   }
+  },
   {
    "id": "a6b1ea15ed1b",
    "url": "https://www.trlibrary.com/tr/presidency/conservation/antiquities-act",
@@ -155,7 +176,7 @@
    "host": "trlibrary.com",
    "headline": "Theodore Roosevelt in the Badlands",
    "blurb": "Ride into Roosevelt's Dakota Badlands years — the buffalo hunt, the cattle ranches, and the grief and grit that remade a young man bound for the…",
-   "publishAt": "2026-09-09T12:00:00Z",
+   "publishAt": "2026-09-16T12:00:00Z",
    "latestAt": "2026-09-19T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
