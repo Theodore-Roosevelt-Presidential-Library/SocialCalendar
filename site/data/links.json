@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-09-24T06:30:39Z",
+ "generatedAt": "2026-09-24T09:20:09Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "f23a71200313",
+   "url": "https://www.trlibrary.com/calendar/special-event/artist-panel-kennerly-balkowitsch-and-ziemendorf",
+   "host": "trlibrary.com",
+   "headline": "Artist Panel: Kennerly, Balkowitsch, and Ziemendorf",
+   "blurb": "",
+   "publishAt": "2026-09-25T20:00:00Z",
+   "latestAt": "2026-09-25T20:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "INSTAGRAMBUSINESS",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/4ca83a6e08e093d2.jpg",
+    "w": 540,
+    "h": 675
+   }
+  },
   {
    "id": "18b4d7c92cc5",
    "url": "https://www.trlibrary.com/tr/rise-to-power/vice-presidency",
