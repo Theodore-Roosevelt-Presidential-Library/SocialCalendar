@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-25T18:20:40Z",
+ "generatedAt": "2026-09-25T21:15:34Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "88f7a5d47c3c",
+   "url": "https://www.trlibrary.com/calendar",
+   "host": "trlibrary.com",
+   "headline": "A full house in the Barry Auditorium last week for author Bill Bleyer's lecture on…",
+   "blurb": "See what's happening at the Theodore Roosevelt Presidential Library — events, tours, and activities on the calendar to help you plan your day in…",
+   "publishAt": "2026-09-26T18:00:00Z",
+   "latestAt": "2026-09-26T18:00:00Z",
+   "channels": [
+    "TWITTER",
+    "INSTAGRAMBUSINESS",
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/8912946dad3e22f6.jpg",
+    "w": 750,
+    "h": 1000
+   }
+  },
   {
    "id": "f23a71200313",
    "url": "https://www.trlibrary.com/calendar/special-event/artist-panel-kennerly-balkowitsch-and-ziemendorf",
@@ -27,34 +48,13 @@
    }
   },
   {
-   "id": "18b4d7c92cc5",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/vice-presidency",
-   "host": "trlibrary.com",
-   "headline": "The Reluctant Vice President: An Office Theodore Roosevelt Despised",
-   "blurb": "Roosevelt reluctantly took the vice presidency in 1901, an office he found nearly powerless, never guessing how soon it would carry him to the White…",
-   "publishAt": "2026-09-25T12:00:00Z",
-   "latestAt": "2026-09-25T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/31c5d154821a1a3e.jpg",
-    "w": 690,
-    "h": 560
-   }
-  },
-  {
    "id": "88b68546e133",
    "url": "https://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
    "host": "archpaper.com",
    "headline": "Just a moment...",
    "blurb": "Step inside the Library with this short film by Ben Stechschulte/Esto for @archpaper.com.",
    "publishAt": "2026-09-24T23:00:00Z",
-   "latestAt": "2026-09-24T23:00:00Z",
+   "latestAt": "2026-09-25T19:00:00Z",
    "channels": [
     "BLUESKY",
     "FACEBOOKPAGE",
@@ -75,7 +75,7 @@
    "headline": "Just a moment...",
    "blurb": "Step inside the Library with this short film by Ben Stechschulte/Esto, made for @archpaper.",
    "publishAt": "2026-09-24T23:00:00Z",
-   "latestAt": "2026-09-24T23:00:00Z",
+   "latestAt": "2026-09-25T19:00:00Z",
    "channels": [
     "INSTAGRAMBUSINESS"
    ],
@@ -83,6 +83,27 @@
     "src": "media/b28ddeb146aa7f9b.jpg",
     "w": 1000,
     "h": 563
+   }
+  },
+  {
+   "id": "18b4d7c92cc5",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/vice-presidency",
+   "host": "trlibrary.com",
+   "headline": "The Reluctant Vice President: An Office Theodore Roosevelt Despised",
+   "blurb": "Roosevelt reluctantly took the vice presidency in 1901, an office he found nearly powerless, never guessing how soon it would carry him to the White…",
+   "publishAt": "2026-09-25T12:00:00Z",
+   "latestAt": "2026-09-25T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/31c5d154821a1a3e.jpg",
+    "w": 690,
+    "h": 560
    }
   },
   {
@@ -410,28 +431,6 @@
     "src": "media/523ef0c65386adf6.jpg",
     "w": 513,
     "h": 640
-   }
-  },
-  {
-   "id": "2a0609ab1c54",
-   "url": "https://www.trlibrary.com/calendar/special-event/bill-bleyer-presents-sagamore-hill-theodore-roosevelts-summer-white-house",
-   "host": "trlibrary.com",
-   "headline": "Bill Bleyer Presents: \"Sagamore Hill: Theodore Roosevelt's Summer White House\"",
-   "blurb": "",
-   "publishAt": "2026-09-10T20:00:00Z",
-   "latestAt": "2026-09-10T20:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "THREADS",
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "INSTAGRAMBUSINESS",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/0bae49731862e8ad.jpg",
-    "w": 540,
-    "h": 675
    }
   }
  ]

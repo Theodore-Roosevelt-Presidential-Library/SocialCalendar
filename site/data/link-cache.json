@@ -979,5 +979,12 @@
   "description": null,
   "image": null,
   "site": null
+ },
+ "https://trlibrary.com/events": {
+  "final": "https://www.trlibrary.com/calendar",
+  "title": "Calendar",
+  "description": "See what's happening at the Theodore Roosevelt Presidential Library — events, tours, and activities on the calendar to help you plan your day in Medora.",
+  "image": "https://www.trlibrary.com/sites/default/files/2025-07/Snohetta-TRPL-4-Lobby-CopyrightPlomp-FINAL_0.jpg",
+  "site": "Theodore Roosevelt Presidential Library"
  }
 }
