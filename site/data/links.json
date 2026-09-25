@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T09:19:52Z",
+ "generatedAt": "2026-09-25T12:26:43Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -432,23 +432,6 @@
     "src": "media/0bae49731862e8ad.jpg",
     "w": 540,
     "h": 675
-   }
-  },
-  {
-   "id": "063eea862846",
-   "url": "https://www.trlibrary.com/visit/groups",
-   "host": "trlibrary.com",
-   "headline": "Group Reservations",
-   "blurb": "Bring a group to the Theodore Roosevelt Presidential Library — guided experiences that connect students, tours, and organizations to TR's life and…",
-   "publishAt": "2026-09-07T18:00:00Z",
-   "latestAt": "2026-09-07T18:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY"
-   ],
-   "thumb": {
-    "src": "media/og2bac4b87c7d0a3.jpg",
-    "w": 1000,
-    "h": 667
    }
   }
  ]
