@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T21:16:22Z",
+ "generatedAt": "2026-09-25T00:46:20Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -48,6 +48,44 @@
    }
   },
   {
+   "id": "88b68546e133",
+   "url": "https://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
+   "host": "archpaper.com",
+   "headline": "Just a moment...",
+   "blurb": "Step inside the Library with this short film by Ben Stechschulte/Esto for @archpaper.com.",
+   "publishAt": "2026-09-24T23:00:00Z",
+   "latestAt": "2026-09-24T23:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "FACEBOOKPAGE",
+    "THREADS",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/f0320f7f0c940b3b.jpg",
+    "w": 1000,
+    "h": 563
+   }
+  },
+  {
+   "id": "c77299b16ca5",
+   "url": "https://www.archpaper.com/",
+   "host": "archpaper.com",
+   "headline": "Just a moment...",
+   "blurb": "Step inside the Library with this short film by Ben Stechschulte/Esto, made for @archpaper.",
+   "publishAt": "2026-09-24T23:00:00Z",
+   "latestAt": "2026-09-24T23:00:00Z",
+   "channels": [
+    "INSTAGRAMBUSINESS"
+   ],
+   "thumb": {
+    "src": "media/b28ddeb146aa7f9b.jpg",
+    "w": 1000,
+    "h": 563
+   }
+  },
+  {
    "id": "a6b1ea15ed1b",
    "url": "https://www.trlibrary.com/tr/presidency/conservation/antiquities-act",
    "host": "trlibrary.com",
@@ -72,14 +110,10 @@
    "host": "trlibrary.com",
    "headline": "Roosevelt and the Conservation Story",
    "blurb": "Roosevelt's conservation story told in numbers and his own words — some 230 million acres of forests, parks, and refuges protected for the future.",
-   "publishAt": "2026-09-10T12:00:00Z",
+   "publishAt": "2026-09-24T12:00:00Z",
    "latestAt": "2026-09-24T12:00:00Z",
    "channels": [
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS"
+    "BLUESKY"
    ],
    "thumb": {
     "src": "media/d5029cfb8cdb6f29.jpg",
@@ -415,49 +449,6 @@
     "src": "media/og2bac4b87c7d0a3.jpg",
     "w": 1000,
     "h": 667
-   }
-  },
-  {
-   "id": "c9f90aad9ba2",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/assistant-navy-secretary",
-   "host": "trlibrary.com",
-   "headline": "Assistant Secretary of the Navy: Preparing for War (1897-1898)",
-   "blurb": "As Assistant Secretary of the Navy, Roosevelt built his naval policy on Alfred Thayer Mahan's doctrine that a great nation required command of the…",
-   "publishAt": "2026-09-07T12:00:00Z",
-   "latestAt": "2026-09-07T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/9c1fe5d717fbd453.jpg",
-    "w": 800,
-    "h": 1000
-   }
-  },
-  {
-   "id": "ef4367e47ad5",
-   "url": "https://freebeacon.com/culture/a-bull-moose-amid-the-bison/",
-   "host": "freebeacon.com",
-   "headline": "A Bull Moose Amid the Bison",
-   "blurb": "Medora, North Dakota, is positively cuckoo for Theodore Roosevelt.",
-   "publishAt": "2026-09-06T22:00:00Z",
-   "latestAt": "2026-09-06T22:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "BLUESKY",
-    "INSTAGRAMBUSINESS",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/a0ece767e3587518.jpg",
-    "w": 1000,
-    "h": 666
    }
   }
  ]

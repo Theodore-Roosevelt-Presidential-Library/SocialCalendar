@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-09-24T21:15:56Z",
+ "generatedAt": "2026-09-25T00:45:50Z",
  "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-09-10T00:00:00Z",
-  "end": "2026-12-23T00:00:00Z"
+  "start": "2026-09-11T00:00:00Z",
+  "end": "2026-12-24T00:00:00Z"
  },
  "profiles": [
   {
@@ -79,294 +79,6 @@
  ],
  "tags": [],
  "posts": [
-  {
-   "id": "13105831829:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-09-10T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1907, Theodore Roosevelt set aside 2,262,624 acres of Alaska rainforest — over the objection of his own Land Office.\n\nSix months earlier Congress had taken the power away from him. An amendment to an agriculture bill forbade any new forest reserve, or any addition to one, in Oregon, Washington, Idaho, Montana, Colorado or Wyoming \"except by Act of Congress.\" In the two days before he signed that bill, Roosevelt signed thirty-two proclamations — twenty-one new reserves and eleven enlargements, about sixteen million acres — in those six states. Then he signed the bill.\n\nThe amendment did not name Alaska.\n\nThe Forest Service had wanted far more than it got. Inspector F. E. Olmsted recommended reserving essentially all of southeastern Alaska, and a map was drawn for a \"Baranof National Forest.\" Richard Ballinger, Commissioner of the General Land Office, opposed creating any national forest in Alaska at all: the forests were not needed to protect a water supply, he argued, there was no fire hazard, and nothing needed replanting. His assistant commissioner, Fred Dennett, called the project a \"conspiracy\" to get around the ban on exporting Alaska timber. The map was withdrawn.\n\nSo W. A. Langille, the supervisor on the ground, drew a smaller one, and predicted: \"The only objection to creation of the reserve will come from those who oppose the national forest policy on general principles.\"\n\nHe was wrong about that. Both Alaska territorial parties, Republican and Democratic, had adopted planks the year before demanding that the reserve already there be abolished.\n\nRoosevelt signed anyway. Proclamation 772 set the land apart \"for the use and benefit of the people.\" It states no acreage at all — every figure since has come from Land Office bookkeeping. Three weeks before he left office, on 16 February 1909, he added 8.7 million acres more.\n\nThe Tongass is now 16.7 million acres, the largest national forest in the country and the largest intact coastal temperate rainforest on earth. It is also Tlingit, Haida and Tsimshian homeland, and the proclamations do not mention them. In 1959 the U.S. Court of Claims held that their aboriginal title had never been extinguished and that the proclamations creating the Tongass were an uncompensated taking. Damages were awarded in 1968 — though the court struck the award for fishing rights, which its own earlier opinion had called the most valuable thing they lost. Congress extinguished the remaining claims in 1971.\n\nMore: trlibrary.com/tr/conservation\n\n#OTD #OnThisDay #TheodoreRoosevelt #Conservation #Alaska #Tongass",
-   "media": [
-    {
-     "src": "media/d12dce5694130fc7.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/a53c6c790ffbee0c.jpg",
-     "w": 1000,
-     "h": 795,
-     "kind": "image"
-    },
-    {
-     "src": "media/6f05935392c4286b.jpg",
-     "w": 802,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/144035749389560/posts/1131515655868610",
-   "sequence": null
-  },
-  {
-   "id": "13105831830:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-09-10T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1907, Theodore Roosevelt set aside 2,262,624 acres of Alaska rainforest — over the objection of his own Land Office.\n\nSix months earlier Congress had taken the power away from him. An amendment to an agriculture bill forbade any new forest reserve, or any addition to one, in Oregon, Washington, Idaho, Montana, Colorado or Wyoming \"except by Act of Congress.\" In the two days before he signed that bill, Roosevelt signed thirty-two proclamations — twenty-one new reserves and eleven enlargements, about sixteen million acres — in those six states. Then he signed the bill.\n\nThe amendment did not name Alaska.\n\nThe Forest Service had wanted far more than it got. Inspector F. E. Olmsted recommended reserving essentially all of southeastern Alaska, and a map was drawn for a \"Baranof National Forest.\" Richard Ballinger, Commissioner of the General Land Office, opposed creating any national forest in Alaska at all: the forests were not needed to protect a water supply, he argued, there was no fire hazard, and nothing needed replanting. His assistant commissioner, Fred Dennett, called the project a \"conspiracy\" to get around the ban on exporting Alaska timber. The map was withdrawn.\n\nSo W. A. Langille, the supervisor on the ground, drew a smaller one, and predicted: \"The only objection to creation of the reserve will come from those who oppose the national forest policy on general principles.\"\n\nHe was wrong about that. Both Alaska territorial parties, Republican and Democratic, had adopted planks the year before demanding that the reserve already there be abolished.\n\nRoosevelt signed anyway. Proclamation 772 set the land apart \"for the use and benefit of the people.\" It states no acreage at all — every figure since has come from Land Office bookkeeping. Three weeks before he left office, on 16 February 1909, he added 8.7 million acres more.\n\nThe Tongass is now 16.7 million acres, the largest national forest in the country and the largest intact coastal temperate rainforest on earth. It is also Tlingit, Haida and Tsimshian homeland, and the proclamations do not mention them. In 1959 the U.S. Court of Claims held that their aboriginal title had never been extinguished and that the proclamations creating the Tongass were an uncompensated taking. Damages were awarded in 1968 — though the court struck the award for fishing rights, which its own earlier opinion had called the most valuable thing they lost. Congress extinguished the remaining claims in 1971.\n\nMore: trlibrary.com/tr/conservation\n\n#OTD #OnThisDay #TheodoreRoosevelt #Conservation #Alaska #Tongass",
-   "media": [
-    {
-     "src": "media/d12dce5694130fc7.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/a53c6c790ffbee0c.jpg",
-     "w": 1000,
-     "h": 795,
-     "kind": "image"
-    },
-    {
-     "src": "media/6f05935392c4286b.jpg",
-     "w": 802,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7503784429782323201",
-   "sequence": null
-  },
-  {
-   "id": "13105831858:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-09-10T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1907, Theodore Roosevelt set aside 2,262,624 acres of Alaska rainforest — over the objection of his own Land Office.\n\nSix months earlier Congress had stripped his power to create forest reserves in six western states. In the two days before signing that bill he signed thirty-two proclamations covering about sixteen million acres in those states anyway. Then he signed the bill.\n\nThe amendment did not name Alaska.\n\nThe Forest Service had wanted essentially all of southeastern Alaska. Richard Ballinger, head of the General Land Office, opposed any national forest in Alaska at all — no water supply to protect, he argued, no fire hazard, nothing to replant. The big map was withdrawn. Supervisor W. A. Langille drew a smaller one and predicted: \"The only objection to creation of the reserve will come from those who oppose the national forest policy on general principles.\"\n\nProclamation 772 set the land apart \"for the use and benefit of the people.\" It names no acreage at all.\n\nThe Tongass is now 16.7 million acres — the largest national forest in the country and the largest intact coastal temperate rainforest on earth. It is also Tlingit, Haida and Tsimshian homeland, and the proclamations do not mention them. In 1959 the Court of Claims held their aboriginal title had never been extinguished and that the proclamations were an uncompensated taking; damages followed in 1968, and Congress extinguished the remaining claims in 1971.\n\nMore at trlibrary.com — link in bio\n\n#OTD #OnThisDay #TheodoreRoosevelt #Conservation #Alaska #Tongass",
-   "media": [
-    {
-     "src": "media/0c4d36c1532382c4.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/1a3fde9a9c6ad03b.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/79f5b10841c8244c.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.instagram.com/p/DdGyVopIADs/",
-   "sequence": null
-  },
-  {
-   "id": "13105831878:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-09-10T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1907, TR made 2.26 million acres of Alaska rainforest the Tongass — over Land Office objections. Congress had barred this in six western states; Alaska wasn't on the list.\n\nTlingit, Haida and Tsimshian homeland. The proclamation doesn't say so.\n\ntrlibrary.com/tr/conservation",
-   "media": [
-    {
-     "src": "media/09bbd1dc495155d3.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/4a520fdf2f25e1f6.jpg",
-     "w": 1000,
-     "h": 795,
-     "kind": "image"
-    },
-    {
-     "src": "media/19374ad7d6af289b.jpg",
-     "w": 802,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2098018729309212692",
-   "sequence": null
-  },
-  {
-   "id": "13105831907:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-09-10T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1907, TR set aside 2,262,624 acres of Alaska rainforest as the Tongass National Forest — over the objection of his own General Land Office commissioner, whose assistant called the project a \"conspiracy\" to get around the ban on exporting Alaska timber.\n\nCongress had stripped his power to create forest reserves in six western states that March. The amendment didn't name Alaska.\n\nIt is Tlingit, Haida and Tsimshian homeland. The proclamation doesn't say so.\n\ntrlibrary.com/tr/conservation",
-   "media": [
-    {
-     "src": "media/250b8eb3557f46d3.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/79472b48ddb745df.jpg",
-     "w": 1000,
-     "h": 795,
-     "kind": "image"
-    },
-    {
-     "src": "media/bd10bbe7dc8f8cf9.jpg",
-     "w": 802,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/DdGyVomoJ4-",
-   "sequence": null
-  },
-  {
-   "id": "13105831929:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-09-10T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1907, TR made 2.26 million acres of Alaska rainforest the Tongass — over Land Office objections. Congress had barred this in six western states; Alaska wasn't named.\n\nTlingit, Haida and Tsimshian homeland. The proclamation doesn't say so.\n\ntrlibrary.com/tr/conservation",
-   "media": [
-    {
-     "src": "media/ce57bafb57d4ab31.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/497301c8fe6ac2c8.jpg",
-     "w": 1000,
-     "h": 795,
-     "kind": "image"
-    },
-    {
-     "src": "media/849f73f36d40e1cb.jpg",
-     "w": 802,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mv5yv6syuk2g",
-   "sequence": null
-  },
-  {
-   "id": "13110889484:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-09-10T20:00:00Z",
-   "state": "SENT",
-   "text": "Theodore Roosevelt designed Sagamore Hill as his ideal home, and it became the Summer White House during his presidency. In this free lecture, author Bill Bleyer traces the property from the Roosevelt family's first Oyster Bay summers through its preservation by the National Park Service.\n\nWednesday, September 16 | 1 PM | Barry Auditorium at the Theodore Roosevelt Presidential Library\n\nRegister: https://ow.ly/9L7050ZLxKt\n\n#sagamorehill #presidentiallibrary #lecture\n\n",
-   "media": [
-    {
-     "src": "media/0bae49731862e8ad.jpg",
-     "w": 540,
-     "h": 675,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7503905320621023232",
-   "sequence": null
-  },
-  {
-   "id": "13110889485:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-09-10T20:00:00Z",
-   "state": "SENT",
-   "text": "Theodore Roosevelt designed Sagamore Hill as his ideal home, and it became the Summer White House during his presidency. In this free lecture, author Bill Bleyer traces the property from the Roosevelt family's first Oyster Bay summers through its preservation by the National Park Service.\n\nWednesday, September 16 | 1 PM | Barry Auditorium at the Theodore Roosevelt Presidential Library\n\nRegister: https://ow.ly/xiuA50ZLxKq\n\n#sagamorehill #presidentiallibrary #lecture\n\n",
-   "media": [
-    {
-     "src": "media/0bae49731862e8ad.jpg",
-     "w": 540,
-     "h": 675,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/DdHpUgBmezL",
-   "sequence": null
-  },
-  {
-   "id": "13110889486:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-09-10T20:00:00Z",
-   "state": "SENT",
-   "text": "In this free lecture, author Bill Bleyer traces the property from the Roosevelt family's first Oyster Bay summers through its preservation by the National Park Service.\n\nRegister: https://ow.ly/bYfc50ZLxKp\n\n\n\n",
-   "media": [
-    {
-     "src": "media/8ef9428ecf6683f9.jpg",
-     "w": 540,
-     "h": 675,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mv6tq532n42c",
-   "sequence": null
-  },
-  {
-   "id": "13110889487:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-09-10T20:00:00Z",
-   "state": "SENT",
-   "text": "Theodore Roosevelt designed Sagamore Hill as his ideal home, and it became the Summer White House during his presidency. In this free lecture, author Bill Bleyer traces the property from the Roosevelt family's first Oyster Bay summers through its preservation by the National Park Service.\n\nWednesday, September 16 | 1 PM | Barry Auditorium at the Theodore Roosevelt Presidential Library\n\nRegister: https://ow.ly/t8FU50ZLxKo\n\n#sagamorehill #presidentiallibrary #lecture\n\n",
-   "media": [
-    {
-     "src": "media/0bae49731862e8ad.jpg",
-     "w": 540,
-     "h": 675,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/144035749389560/posts/1131893085830867",
-   "sequence": null
-  },
-  {
-   "id": "13110889488:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-09-10T20:00:00Z",
-   "state": "SENT",
-   "text": "Theodore Roosevelt designed Sagamore Hill as his ideal home, and it became the Summer White House during his presidency. In this free lecture, author Bill Bleyer traces the property from the Roosevelt family's first Oyster Bay summers through its preservation by the National Park Service.\n\nWednesday, September 16 | 1 PM | Barry Auditorium at the Theodore Roosevelt Presidential Library\n\nRegister: https://ow.ly/23wo50ZLxKr\n\n#sagamorehill #presidentiallibrary #lecture\n\n",
-   "media": [
-    {
-     "src": "media/0bae49731862e8ad.jpg",
-     "w": 540,
-     "h": 675,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.instagram.com/p/DdHpUM9m2pM/",
-   "sequence": null
-  },
-  {
-   "id": "13110889490:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-09-10T20:00:00Z",
-   "state": "SENT",
-   "text": "Theodore Roosevelt designed Sagamore Hill as his ideal home, and it became the Summer White House during his presidency. In this free lecture, author Bill Bleyer traces the property from the Roosevelt family's first Oyster Bay summers through its preservation by the National Park Service.\n\nWednesday, September 16 | 1 PM | Barry Auditorium at the Theodore Roosevelt Presidential Library\n\nRegister: https://ow.ly/BaYv50ZLxKs\n\n#sagamorehill #presidentiallibrary #lecture\n\n",
-   "media": [
-    {
-     "src": "media/0bae49731862e8ad.jpg",
-     "w": 540,
-     "h": 675,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2098139635444502678",
-   "sequence": null
-  },
   {
    "id": "13105832230:138241752",
    "profileId": "138241752",
@@ -3447,6 +3159,222 @@
    "sequence": null
   },
   {
+   "id": "13113688079:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-24T23:00:00Z",
+   "state": "SENT",
+   "text": "Thank you The Architect's Newspaper and Frank Edgerton Martin for this look at the Library's design: rammed earth walls, a living prairie roof, and the Badlands framed at every turn.\n\nPhotos: Nic Lehoux\n\nhttps://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
+   "media": [
+    {
+     "src": "media/7e8afd24894b5497.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/e9a3032c7a9f2f9d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/299a77e45be963d6.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/277b013d61206e28.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mwcecc6a6k2v",
+   "sequence": null
+  },
+  {
+   "id": "13113688128:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-24T23:00:00Z",
+   "state": "SENT",
+   "text": "The The Architect's Newspaper  has published a review of the Theodore Roosevelt Presidential Library by landscape historian Frank Edgerton Martin. Thank you to Frank and the AN team.\n\nThe piece traces Snøhetta's design from a 2020 campout along the Little Missouri River to the finished building: rammed earth walls that echo the striped buttes, a mass timber frame, and a living prairie roof that lets the Library settle into the Badlands.\n\nCredit belongs to the whole team named in the story, including Snøhetta, JLG Architects, JE Dunn, Confluence, Studio Loutsis, and Earth Wall Builders. Short film by Ben Stechschulte/Esto.\n\nRead the review:\nhttps://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/\n\nPhotos: Nic Lehoux",
+   "media": [
+    {
+     "src": "media/8ec670b974213255.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b8d8dea7a284d777.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/55ea0eb86a9f8d96.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6cab94436a8c25b9.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7509023982994563072",
+   "sequence": null
+  },
+  {
+   "id": "13113688153:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-24T23:00:00Z",
+   "state": "SENT",
+   "text": "Thank you, @archpaper and Frank Edgerton Martin, for a thoughtful review of the Library's design.\n\nFrank walked the prairie boardwalk with @snohetta founding partner Craig Dykers and wrote about the rammed earth walls that mirror the layered buttes, the living prairie roof, and the windows that pull the Badlands right into the galleries.\n\nThe full review, with a short film by Ben Stechschulte/Esto, is on archpaper.com.\n\nPhotos: Nic Lehoux\n\n#Architecture #Badlands #NorthDakota #TheodoreRoosevelt",
+   "media": [
+    {
+     "src": "media/b0840496fd68e594.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/81ba9dae501c09eb.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/e4780c1e80cdfeca.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ac74eb38b2c7e4c1.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.instagram.com/p/DdsBB-GjLXe/",
+   "sequence": null
+  },
+  {
+   "id": "13113688204:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-24T23:00:00Z",
+   "state": "SENT",
+   "text": "Thank you @archpaper and @F_Edgerton for this look at the Library's design: rammed earth walls that echo the buttes, a living prairie roof, and the Badlands framed at every turn. Film by Ben Stechschulte/Esto. @snohetta\n\nPhotos: Nic Lehoux\n\nhttps://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
+   "media": [
+    {
+     "src": "media/8fc150f680393c8d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9b1a8bec32df9800.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7b8f60ce85b02b7d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/1aeab359315f84eb.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2103258279040225471",
+   "sequence": null
+  },
+  {
+   "id": "13113688219:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-24T23:00:00Z",
+   "state": "SEND_FAILED_PERMANENTLY",
+   "text": "Thank you @archpaper and Frank Edgerton Martin for this look at the Library's design: rammed earth walls that echo the layered buttes, a living prairie roof, and the Badlands framed at every turn. Short film by Ben Stechschulte/Esto. @snohetta\n\nPhotos: Nic Lehoux\n\nhttps://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
+   "media": [
+    {
+     "src": "media/b1a0ccad4db4877c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ede3a33b35ffbbc8.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/1431ba92488862c5.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f7e1f362a47e49de.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113688357:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-24T23:00:00Z",
+   "state": "SENT",
+   "text": "Thank you,  The Architect's Newspaper  and Frank Edgerton Martin, for a thoughtful review of the Library's design.\n\nFrank walked the prairie boardwalk with Snøhetta founding partner Craig Dykers and traced the design from a 2020 campout along the Little Missouri River to the finished building: rammed earth walls that mirror the layered buttes, a living prairie roof, and windows that pull the Badlands right into the galleries.\n\nThe story includes a short film by Ben Stechschulte/Esto. Read it here:\nhttps://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/\n\nPhotos: Nic Lehoux",
+   "media": [
+    {
+     "src": "media/60804129a8752f55.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5953997bdf173bc3.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/440e6dc4672e90e5.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/3e244411454a54af.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/144035749389560/posts/1144088104611365",
+   "sequence": null
+  },
+  {
    "id": "13110383372:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-09-25T12:00:00Z",
@@ -3619,6 +3547,114 @@
      "src": "media/68d3c7a2196f15d5.jpg",
      "w": 1000,
      "h": 787,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113688710:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-25T19:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Step inside the Library with this short film by Ben Stechschulte/Esto for @archpaper.com. Rammed earth, timber, and the Badlands beyond every window.\n\nhttps://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
+   "media": [
+    {
+     "src": "media/f0320f7f0c940b3b.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113688740:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-25T19:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Step inside the Library with this short film by Ben Stechschulte/Esto, made for @archpaper.\n\nRammed earth walls, a timber frame, and the Badlands waiting beyond every window. Designed by @snohetta.\n\nFrank Edgerton Martin's full review is on archpaper.com.\n\nFilm: Ben Stechschulte/Esto for The Architect's Newspaper\n\n#Architecture #Badlands #NorthDakota #TheodoreRoosevelt",
+   "media": [
+    {
+     "src": "media/b28ddeb146aa7f9b.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113688778:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-25T19:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Take a walk through the Library with this short film by Ben Stechschulte/Esto, made for The The Architect's Newspaper .\n\nWatch for the rammed earth walls, the timber frame, and the Badlands waiting beyond every window. Then read Frank Edgerton Martin's full review:\nhttps://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
+   "media": [
+    {
+     "src": "media/91dfb0f76993b6cd.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113688785:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-25T19:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Step inside the Library with this short film by Ben Stechschulte/Esto for @archpaper. Rammed earth, timber, and the Badlands beyond every window. @snohetta\n\nFrank Edgerton Martin's full review: https://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
+   "media": [
+    {
+     "src": "media/30e1937a3c5349d8.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113688818:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-25T19:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A short film by Ben Stechschulte/Esto, made for  The Architect's Newspaper , takes you inside the Theodore Roosevelt Presidential Library: rammed earth walls, a mass timber frame, and the Badlands framed beyond every window.\n\nIt accompanies Frank Edgerton Martin's review of Snøhetta's design:\nhttps://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
+   "media": [
+    {
+     "src": "media/9da281593238c92b.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113688850:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-25T19:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Step inside the Library with this short film by Ben Stechschulte/Esto for @archpaper. Rammed earth, timber, and the Badlands beyond every window. @Snohetta\n\nReview by @F_Edgerton: https://www.archpaper.com/2026/09/snohetta-theodore-roosevelt-presidential-library/",
+   "media": [
+    {
+     "src": "media/bccb54c231606e33.jpg",
+     "w": 1000,
+     "h": 563,
      "kind": "image"
     }
    ],
