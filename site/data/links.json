@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-26T09:17:05Z",
+ "generatedAt": "2026-09-26T12:23:29Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -46,6 +46,27 @@
     "src": "media/8912946dad3e22f6.jpg",
     "w": 750,
     "h": 1000
+   }
+  },
+  {
+   "id": "18b4d7c92cc5",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/vice-presidency",
+   "host": "trlibrary.com",
+   "headline": "The Reluctant Vice President: An Office Theodore Roosevelt Despised",
+   "blurb": "Roosevelt reluctantly took the vice presidency in 1901, an office he found nearly powerless, never guessing how soon it would carry him to the White…",
+   "publishAt": "2026-09-25T12:00:00Z",
+   "latestAt": "2026-09-26T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/31c5d154821a1a3e.jpg",
+    "w": 690,
+    "h": 560
    }
   },
   {
@@ -104,27 +125,6 @@
     "src": "media/b28ddeb146aa7f9b.jpg",
     "w": 1000,
     "h": 563
-   }
-  },
-  {
-   "id": "18b4d7c92cc5",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/vice-presidency",
-   "host": "trlibrary.com",
-   "headline": "The Reluctant Vice President: An Office Theodore Roosevelt Despised",
-   "blurb": "Roosevelt reluctantly took the vice presidency in 1901, an office he found nearly powerless, never guessing how soon it would carry him to the White…",
-   "publishAt": "2026-09-25T12:00:00Z",
-   "latestAt": "2026-09-25T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/31c5d154821a1a3e.jpg",
-    "w": 690,
-    "h": 560
    }
   },
   {
