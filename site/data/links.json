@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-09-26T15:15:13Z",
+ "generatedAt": "2026-09-26T18:19:50Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "79acad5efd53",
+   "url": "https://www.trlibrary.com/calendar/special-event/artist-talk-chad-ziemendorf",
+   "host": "trlibrary.com",
+   "headline": "Artist Talk: Chad Ziemendorf",
+   "blurb": "",
+   "publishAt": "2026-09-27T20:00:00Z",
+   "latestAt": "2026-09-27T20:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "INSTAGRAMBUSINESS",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/773eeac2b344611e.jpg",
+    "w": 540,
+    "h": 675
+   }
+  },
   {
    "id": "be1fcc5af6cb",
    "url": "https://www.trlibrary.com/tr/early-life/harvard",
