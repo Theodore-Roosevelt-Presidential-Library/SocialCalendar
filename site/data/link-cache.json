@@ -986,5 +986,19 @@
   "description": "See what's happening at the Theodore Roosevelt Presidential Library — events, tours, and activities on the calendar to help you plan your day in Medora.",
   "image": "https://www.trlibrary.com/sites/default/files/2025-07/Snohetta-TRPL-4-Lobby-CopyrightPlomp-FINAL_0.jpg",
   "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://labs.trlibrary.com/living-library": {
+  "final": "https://labs.trlibrary.com/living-library",
+  "title": "The Living Library — TRPL Labs",
+  "description": "Microsoft's AI for Good Lab and the Theodore Roosevelt Presidential Library published the framework behind Campfire, the Archivist App, and Talk to TR - and a six-step process for applying it to another institution's collection.",
+  "image": null,
+  "site": "TRPL Labs"
+ },
+ "https://ow.ly/8I1T50ZRFFI": {
+  "final": "https://labs.trlibrary.com/living-library",
+  "title": "The Living Library — TRPL Labs",
+  "description": "Microsoft's AI for Good Lab and the Theodore Roosevelt Presidential Library published the framework behind Campfire, the Archivist App, and Talk to TR - and a six-step process for applying it to another institution's collection.",
+  "image": null,
+  "site": "TRPL Labs"
  }
 }

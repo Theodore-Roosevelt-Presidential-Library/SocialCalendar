@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-26T00:45:40Z",
+ "generatedAt": "2026-09-26T03:19:30Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-09-12T00:00:00Z",
@@ -4021,6 +4021,246 @@
      "src": "media/6337ad6e10641d2c.jpg",
      "w": 855,
      "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113912323:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-28T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "In March 1903, Theodore Roosevelt sat down in the White House and wrote to his son Kermit, away at school: \"We felt very homesick indeed as our darling tow-headed person started off by himself into the wide world.\"\n\nFollow the images and you can watch what happens to a letter like that now. It is read by machine. It is broken into what it actually contains — a letter, handwritten, from a father to his son, during the presidential years. It is connected to everything else in the collection. And then it can simply be asked about, in plain language, by anyone, anywhere, for free.\n\nRoosevelt left one of the richest written records of any American president, scattered across dozens of separate institutions and readable in practice only by those who could travel to an archive and already knew where to look. Roughly 300,000 records are now open to anyone with a question.\n\nAs of this month, how it was built is public too — the research paper and the complete source code, released so that any museum, library, or historical society can do the same with their own collection.\n\nOur thanks to Microsoft and the AI for Good Lab, who built this with us and then gave it away. And to the Theodore Roosevelt Center at Dickinson State University, whose archivists have been cataloguing this collection by hand since 2007 — none of it exists without that work.\n\nThe full story: https://labs.trlibrary.com/living-library",
+   "media": [
+    {
+     "src": "media/fe913e9a9f601a4e.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/322439f008489b7b.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/1d88226bce91075a.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/a49b6c48a4dd64ba.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/ac97c27f6423e2c3.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113912340:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-28T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A handwritten 1903 letter → machine-read → connected to the whole collection → answerable by anyone, in plain language.\n\nEvery museum is being asked what it's doing about AI. Here's ours — the paper and the complete source code, built with Microsoft's AI for Good Lab.\n\nhttps://ow.ly/8I1T50ZRFFI",
+   "media": [
+    {
+     "src": "media/8ef9d872c5e5390c.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/221edb7f1a944a50.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/06eb54bc460b48b3.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/80dfa8246df14d39.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113912374:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-28T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Every museum and library is being asked what it is doing about AI. Most of the guidance available comes from people with something to sell.\n\nHere is ours, in full.\n\nSwipe through and you can watch the whole idea in five frames: a handwritten 1903 letter from Theodore Roosevelt to his son Kermit → machine-read → broken into what it actually contains → connected to everything else in the collection → and finally answerable, in plain language, by anyone.\n\nMicrosoft's AI for Good Lab and the Theodore Roosevelt Presidential Library have now published both halves of how that was built — the peer-reviewable paper, and the complete source code. Roughly 300,000 records, gathered from dozens of separate institutions.\n\nThree things worth knowing if your institution is weighing something similar:\n\n→ It is four layers, and you can stop after three. The conversational avatar is the last layer, and it is optional. The first three give you a governed, searchable collection and a public research tool — the part most institutions actually need.\n\n→ The first step is not technical. It is an inventory: what you hold, where it actually lives, and what is not digitized yet. No vendor required.\n\n→ The paper states plainly what it could not resolve. For a presidential library, that candour is the point.\n\nSincere thanks to Microsoft and the AI for Good Lab, who built this with us and then gave it away — and to the Theodore Roosevelt Center at Dickinson State University, whose archivists have catalogued this collection by hand since 2007. None of it exists without that work.\n\nThe full breakdown, written for people who have to make decisions rather than read papers:\nhttps://labs.trlibrary.com/living-library",
+   "media": [
+    {
+     "src": "media/27e26aa4b7789f1c.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/56e144ec133ad7c5.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/0710b261d46653e9.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/03600c597cafb191.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/0ec4299f3e21fdea.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113912385:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-28T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A handwritten 1903 letter → machine-read → connected to the whole collection → answerable by anyone.\n\nEvery museum is being asked what it's doing about AI. Here's ours, in full — the paper and the complete source code, with @Microsoft's AI for Good Lab.\n\nhttps://labs.trlibrary.com/living-library",
+   "media": [
+    {
+     "src": "media/7b24df980cd2ab83.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/f6022571163d3044.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/407e3436b6c967e6.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/a16e8b9adda339f4.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113912405:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-28T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Watch an archive wake up.\n\nA handwritten 1903 letter from Theodore Roosevelt to his son → read by machine → broken into what it actually contains → connected to the rest of the collection → and finally answerable by anyone, in plain language.\n\nEvery museum and library is being asked what it's doing about AI. Here's ours, in full — the research paper and the complete source code, built with @Microsoft's AI for Good Lab and released for anyone to use.\n\nlabs.trlibrary.com/living-library",
+   "media": [
+    {
+     "src": "media/588af422bf6ca223.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/64d98c88f57a937c.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/5514b5aca72b0dc9.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/1673275de0623461.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/35d4bd7168342a6d.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13113912412:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-28T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Swipe to watch an archive wake up. →\n\n1. A letter Theodore Roosevelt wrote from the White House in 1903 to his son Kermit, away at school for the first time.\n2. Read by machine, line by line.\n3. Broken into what it actually contains — a handwritten letter, father to son, during the presidential years.\n4. Connected to everything else in the collection, and open to anyone with a question.\n5. And in Medora, you can stand in a room and ask him out loud.\n\nRoughly 300,000 letters, photographs, and documents, held across dozens of separate institutions, are now searchable by anyone, from anywhere, for free.\n\nAs of this month, how it was built is public too: the research paper and the complete source code, released so any museum, library, or historical society can do the same with their own collection.\n\nThanks to @microsoft and the AI for Good Lab, who built this with us and then gave it away. And to the Theodore Roosevelt Center at Dickinson State University, whose archivists have catalogued this collection by hand since 2007.\n\nThe full story is at the link in our bio.\n\n#TheodoreRoosevelt #PresidentialLibrary #Museums #Archives #DigitalHumanities #AIforGood #Medora #NorthDakota #Badlands",
+   "media": [
+    {
+     "src": "media/a6d9071164dc4368.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/82a538db79c7e324.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/396cd548736755f2.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/ba8e8600211eab16.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/c59ba876c0f14d6c.jpg",
+     "w": 1000,
+     "h": 563,
      "kind": "image"
     }
    ],
