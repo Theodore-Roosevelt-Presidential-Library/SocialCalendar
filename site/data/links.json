@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-25T21:15:34Z",
+ "generatedAt": "2026-09-26T00:45:59Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "be1fcc5af6cb",
+   "url": "https://www.trlibrary.com/tr/early-life/harvard",
+   "host": "trlibrary.com",
+   "headline": "Roosevelt at Harvard: The Making of a Historian and Political Thinker",
+   "blurb": "Arriving at Harvard in 1876 at seventeen, Theodore brought insatiable curiosity and a body remade by exercise, becoming a historian and political…",
+   "publishAt": "2026-09-27T12:00:00Z",
+   "latestAt": "2026-09-27T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/e2613b53f9699a1f.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
   {
    "id": "88f7a5d47c3c",
    "url": "https://www.trlibrary.com/calendar",
@@ -410,27 +431,6 @@
     "src": "media/4676873fe770e647.jpg",
     "w": 640,
     "h": 800
-   }
-  },
-  {
-   "id": "0ee1b2575383",
-   "url": "https://www.trlibrary.com/tr/rise-to-power",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Rise to Power",
-   "blurb": "Trace Roosevelt's climb from Rough Rider to the White House — San Juan Hill, a vice presidency meant to sideline him, and the fateful autumn of 1901.",
-   "publishAt": "2026-09-11T12:00:00Z",
-   "latestAt": "2026-09-11T12:00:00Z",
-   "channels": [
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "BLUESKY",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/523ef0c65386adf6.jpg",
-    "w": 513,
-    "h": 640
    }
   }
  ]
