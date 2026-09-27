@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-26T21:14:42Z",
+ "generatedAt": "2026-09-27T00:53:55Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "59c1d83e529b",
+   "url": "https://www.trlibrary.com/tr/presidency/coal-strike",
+   "host": "trlibrary.com",
+   "headline": "The Coal Strike of 1902: The President Who Sided with the Miners",
+   "blurb": "When 150,000 coal miners struck in 1902, Theodore Roosevelt intervened to end the crisis, marking a new role for the presidency in labor disputes.",
+   "publishAt": "2026-09-28T12:00:00Z",
+   "latestAt": "2026-09-28T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/b4459f6a124e3344.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
   {
    "id": "79acad5efd53",
    "url": "https://www.trlibrary.com/calendar/special-event/artist-talk-chad-ziemendorf",
@@ -354,7 +375,7 @@
    "host": "trlibrary.com",
    "headline": "Theodore Roosevelt's Presidency",
    "blurb": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
-   "publishAt": "2026-09-12T12:00:00Z",
+   "publishAt": "2026-09-17T12:00:00Z",
    "latestAt": "2026-09-17T12:00:00Z",
    "channels": [
     "LINKEDINCOMPANY",
