@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27T09:18:18Z",
+ "generatedAt": "2026-09-27T12:24:47Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -472,27 +472,6 @@
     "src": "media/og4acaf00265331c.jpg",
     "w": 1000,
     "h": 482
-   }
-  },
-  {
-   "id": "ebebe8eca025",
-   "url": "https://www.trlibrary.com/tr/family",
-   "host": "trlibrary.com",
-   "headline": "The Roosevelt Family",
-   "blurb": "Meet the Roosevelt family — TR's six spirited children, a family tree from New Amsterdam to two presidents, and the young niece named Eleanor.",
-   "publishAt": "2026-09-13T12:00:00Z",
-   "latestAt": "2026-09-13T12:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "THREADS",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/4676873fe770e647.jpg",
-    "w": 640,
-    "h": 800
    }
   }
  ]
