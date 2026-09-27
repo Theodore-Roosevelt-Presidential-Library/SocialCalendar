@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-27T03:22:10Z",
+ "generatedAt": "2026-09-27T06:29:21Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "caa30e89da08",
+   "url": "https://labs.trlibrary.com/living-library",
+   "host": "TRPL Labs",
+   "headline": "The Living Library",
+   "blurb": "Microsoft's AI for Good Lab and the Theodore Roosevelt Presidential Library published the framework behind Campfire, the Archivist App, and Talk to…",
+   "publishAt": "2026-09-28T17:00:00Z",
+   "latestAt": "2026-09-28T17:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/fe913e9a9f601a4e.jpg",
+    "w": 1000,
+    "h": 563
+   }
+  },
   {
    "id": "59c1d83e529b",
    "url": "https://www.trlibrary.com/tr/presidency/coal-strike",
