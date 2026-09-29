@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T15:17:54Z",
+ "generatedAt": "2026-09-29T18:22:51Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-09-15T00:00:00Z",
@@ -3767,7 +3767,7 @@
    "id": "13113952381:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-09-29T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Shane Balkowitsch has about fifteen minutes to turn a blank plate into a finished wet-plate portrait—and he's doing it in front of a live audience. Tickets purchased before 2 PM enter a drawing to be his subject, with a print of the plate mailed to the winner.\n\nTickets: https://ow.ly/RmSf50ZRSZi",
    "media": [
     {
@@ -3778,14 +3778,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mwofv36afh22",
    "sequence": null
   },
   {
    "id": "13113952382:138241752",
    "profileId": "138241752",
    "scheduledAt": "2026-09-29T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Shane Balkowitsch has about fifteen minutes to turn a blank plate into a finished wet-plate portrait—and he's doing it in front of a live audience. Tickets purchased before 2 PM enter a drawing to be his subject, with a print of the plate mailed to the winner.\n\nSaturday, October 3 | 2–3:30 PM | Barry Auditorium | $10 per person\n\nTickets: https://ow.ly/nxs550ZRSZl\n\n#wetplatephotography #ambrotype #photography #davidhumekennerly",
    "media": [
     {
@@ -3796,14 +3796,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7510760509475004417",
    "sequence": null
   },
   {
    "id": "13113952383:138250117",
    "profileId": "138250117",
    "scheduledAt": "2026-09-29T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Shane Balkowitsch has about fifteen minutes to turn a blank plate into a finished wet-plate portrait—and he's doing it in front of a live audience. Tickets purchased before 2 PM enter a drawing to be his subject, with a print of the plate mailed to the winner.\n\nSaturday, October 3 | 2–3:30 PM | Barry Auditorium | $10 per person\n\nTickets: https://ow.ly/kT8F50ZRSZm\n\n#wetplatephotography #ambrotype #photography #davidhumekennerly",
    "media": [
     {
@@ -3814,14 +3814,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://x.com/783364650180104192/status/2104994795609297319",
    "sequence": null
   },
   {
    "id": "13113952384:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-09-29T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Shane Balkowitsch (Shane Balkowitsch - Nostalgic Glass Wet Plate Studio) has about fifteen minutes to turn a blank plate into a finished wet-plate portrait—and he's doing it in front of a live audience. Tickets purchased before 2 PM enter a drawing to be his subject, with a print of the plate mailed to the winner.\n\nSaturday, October 3 | 2–3:30 PM | Barry Auditorium | $10 per person\n\nTickets: https://ow.ly/Yjn650ZRSZk\n\n#wetplatephotography #ambrotype #photography #davidhumekennerly",
    "media": [
     {
@@ -3832,14 +3832,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.facebook.com/144035749389560/posts/1148833574136818",
    "sequence": null
   },
   {
    "id": "13113952385:138948229",
    "profileId": "138948229",
    "scheduledAt": "2026-09-29T18:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Shane Balkowitsch (@balkowitsch) has about fifteen minutes to turn a blank plate into a finished wet-plate portrait—and he's doing it in front of a live audience. Tickets purchased before 2 PM enter a drawing to be his subject, with a print of the plate mailed to the winner.\n\nSaturday, October 3 | 2–3:30 PM | Barry Auditorium | $10 per person\n\nTickets: https://ow.ly/vsMw50ZRSZj\n\n#wetplatephotography #ambrotype #photography #davidhumekennerly",
    "media": [
     {
@@ -3850,7 +3850,7 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.instagram.com/p/Dd4Wq1HlxjU/",
    "sequence": null
   },
   {
@@ -4026,6 +4026,186 @@
      "src": "media/82266901ac30657c.jpg",
      "w": 1000,
      "h": 762,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13114398233:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-09-30T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Designed to be the most regenerative cultural building in the Americas. Global Traveler Magazine goes inside the Library.\n\nhttps://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/\n\nVisit: trlibrary.com/visit\nPhotos: Christopher Frederick Jones",
+   "media": [
+    {
+     "src": "media/e76f8f453dd00140.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/1b41499085df0764.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/b497078fbf8e3b75.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13114398329:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-09-30T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Designed to be the most regenerative cultural building in the Americas.\n\n@globaltravelermag and managing editor Aoife O'Riordan take readers inside the Library @snohetta shaped from the Badlands itself: a living prairie roof spanning 121,000 square feet, rammed-earth walls built from local soil, and a nearly mile-long boardwalk across restored landscape.\n\nThe goal is full Living Building Challenge certification, the world's most rigorous environmental standard, under a \"Four Zeros\" framework: zero energy, zero water, zero emissions and zero waste.\n\nRead the full story at globaltravelerusa.com. Plan your visit through the link in bio.\n\nPhotos: @christopherfrederickjones via @globaltravelermag\n\n#DareGreatly #TheodoreRoosevelt #Medora #NorthDakota #LivingBuildingChallenge",
+   "media": [
+    {
+     "src": "media/1ced027aabbfca9c.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/28dbb9001cfd16b3.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/8dbf1cad2e200e69.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13114398371:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-09-30T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Designed to be the most regenerative cultural building in the Americas. Global Traveler Magazine goes inside the Library.\n\nhttps://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/\n\nVisit: trlibrary.com/visit\nPhotos: Christopher Frederick Jones",
+   "media": [
+    {
+     "src": "media/dc08b8fb181c23cc.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/a069061baddc8ba1.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/71a38345e9a60af3.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13114398434:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-09-30T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Designed to be the most regenerative cultural building in the Americas. @GTmag goes inside the Library: a living prairie roof and a nearly mile-long Badlands boardwalk.\n\nhttps://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/\n\nVisit: trlibrary.com/visit #DareGreatly\nPhotos: Christopher Frederick Jones",
+   "media": [
+    {
+     "src": "media/82be6f694c4f2c0d.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/2c7b72c9fc6e77a3.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/674970b90be122e8.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13114398488:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-09-30T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Designed to be the most regenerative cultural building in the Americas.\n\nGlobal Traveler Magazine managing editor Aoife O'Riordan takes readers to Medora, where a living prairie roof spans 121,000 square feet, rammed-earth walls rise from local soil, and a nearly mile-long boardwalk threads through restored Badlands landscape. The Library is pursuing full Living Building Challenge certification under a \"Four Zeros\" framework: zero energy, zero water, zero emissions and zero waste.\n\nRead the story: https://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/\n\nPlan your visit: trlibrary.com/visit\n\nPhotos: Christopher Frederick Jones, via Global Traveler\n\n#DareGreatly",
+   "media": [
+    {
+     "src": "media/363cf2ef14ce0117.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/8ed160278cbffb8c.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/e7fcfbdb2ec64960.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13114398549:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-09-30T17:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Designed to be the most regenerative cultural building in the Americas.\n\nGlobal Traveler Magazine's Aoife O'Riordan looks at how Snøhetta built the Theodore Roosevelt Presidential Library into the Badlands: mass timber, reclaimed regional wood, low-carbon concrete and rammed-earth walls made from locally sourced soil, under a 121,000-square-foot living prairie roof.\n\nThe Library is pursuing full Living Building Challenge certification alongside the highest levels of LEED and SITES. Upon certification, it will be the only Living Certified presidential library and the largest and most complex Living Certified cultural institution in the world.\n\nRead the story: https://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/\n\nSee it in person: trlibrary.com/visit\n\nPhotos: Christopher Frederick Jones, via Global Traveler\n\n#DareGreatly #LivingBuildingChallenge #SustainableDesign #Architecture",
+   "media": [
+    {
+     "src": "media/12e5cca70d0723a9.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/f4b796f2879adb4a.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/2e0ac3b5ba78bbc0.jpg",
+     "w": 800,
+     "h": 1000,
      "kind": "image"
     }
    ],

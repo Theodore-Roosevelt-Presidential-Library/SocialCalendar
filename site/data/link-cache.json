@@ -1063,5 +1063,19 @@
   "description": "Artist Talk: Chad Ziemendorf",
   "image": "https://www.trlibrary.com/themes/custom/trpl/images/metatags/logo.jpeg",
   "site": "Theodore Roosevelt Presidential Library"
+ },
+ "https://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/": {
+  "final": "https://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/",
+  "title": "Theodore Roosevelt Presidential Library Opens in North Dakota",
+  "description": "Opened July 4, 2026, on the 250th anniversary of the United States, Theodore Roosevelt Presidential Library opened.",
+  "image": "https://www.globaltravelerusa.com/wp-content/uploads/2026/09/928-roosevelt-presidential-library-photo-christopher-frederick-jones-3-300x225.jpg",
+  "site": "Global Traveler"
+ },
+ "https://globaltravelerusa.com": {
+  "final": "https://www.globaltravelerusa.com/",
+  "title": "Global Magazine | Global Magazines | Travel Magazine",
+  "description": "Global Traveler Magazine is the ultimate source for news, reviews and travel guides for luxury business travelers. Reviews of golf courses, spas, technology, hotels, airlines, wine and more!",
+  "image": null,
+  "site": "Global Traveler"
  }
 }

@@ -1,11 +1,49 @@
 {
- "generatedAt": "2026-09-29T15:18:18Z",
+ "generatedAt": "2026-09-29T18:23:33Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "d06957bd74be",
+   "url": "https://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/",
+   "host": "Global Traveler",
+   "headline": "Theodore Roosevelt Presidential Library Opens in North Dakota",
+   "blurb": "Opened July 4, 2026, on the 250th anniversary of the United States, Theodore Roosevelt Presidential Library opened.",
+   "publishAt": "2026-09-30T17:00:00Z",
+   "latestAt": "2026-09-30T17:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "THREADS",
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/e76f8f453dd00140.jpg",
+    "w": 1000,
+    "h": 750
+   }
+  },
+  {
+   "id": "f78a0cd431f3",
+   "url": "https://www.globaltravelerusa.com/",
+   "host": "Global Traveler",
+   "headline": "Global Magazine | Global Magazines",
+   "blurb": "Global Traveler Magazine is the ultimate source for news, reviews and travel guides for luxury business travelers.",
+   "publishAt": "2026-09-30T17:00:00Z",
+   "latestAt": "2026-09-30T17:00:00Z",
+   "channels": [
+    "INSTAGRAMBUSINESS"
+   ],
+   "thumb": {
+    "src": "media/1ced027aabbfca9c.jpg",
+    "w": 1000,
+    "h": 750
+   }
+  },
   {
    "id": "5d6e3379c8ff",
    "url": "https://www.trlibrary.com/tr/rise-to-power/governor",
@@ -430,27 +468,6 @@
     "src": "media/954101e185d7f113.jpg",
     "w": 1000,
     "h": 757
-   }
-  },
-  {
-   "id": "5080aedeaa58",
-   "url": "https://www.trlibrary.com/tr/people/alice-lee",
-   "host": "trlibrary.com",
-   "headline": "Alice Hathaway Lee Roosevelt",
-   "blurb": "Born into Boston's Chestnut Hill elite in 1861, Alice Hathaway Lee charmed Theodore during his Harvard years and became his radiant first wife.",
-   "publishAt": "2026-09-18T12:00:00Z",
-   "latestAt": "2026-09-18T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/41df8796905faa76.jpg",
-    "w": 769,
-    "h": 600
    }
   }
  ]
