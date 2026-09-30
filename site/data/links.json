@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T15:19:14Z",
+ "generatedAt": "2026-09-30T18:22:56Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -426,48 +426,6 @@
     "src": "media/6af81a785e8c648f.jpg",
     "w": 540,
     "h": 675
-   }
-  },
-  {
-   "id": "39e7c0e5788a",
-   "url": "https://www.trlibrary.com/tr/homes-and-places/sagamore-hill",
-   "host": "trlibrary.com",
-   "headline": "Sagamore Hill: The Heart of Roosevelt's Home Life",
-   "blurb": "Roosevelt built Sagamore Hill in 1885 and, with his second wife Edith, made the roomy Oyster Bay house the warm center of family life.",
-   "publishAt": "2026-09-21T12:00:00Z",
-   "latestAt": "2026-09-21T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/8bcabbe7fd82d895.jpg",
-    "w": 1000,
-    "h": 980
-   }
-  },
-  {
-   "id": "a2e9cc140faf",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/rough-riders",
-   "host": "trlibrary.com",
-   "headline": "The Rough Riders: America's Most Famous Regiment",
-   "blurb": "Roosevelt and Wood recruited over 1,000 cowboys, Ivy League athletes, miners, and lawmen into the 1st Volunteer Cavalry, the famed Rough Riders.",
-   "publishAt": "2026-09-20T12:00:00Z",
-   "latestAt": "2026-09-20T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/c0c018e15f87037e.jpg",
-    "w": 802,
-    "h": 1000
    }
   }
  ]
