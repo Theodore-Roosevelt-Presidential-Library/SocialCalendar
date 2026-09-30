@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-09-29T21:17:00Z",
+ "generatedAt": "2026-09-30T00:51:52Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "9db63f97b044",
+   "url": "https://www.trlibrary.com/tr/homes-and-places/white-house",
+   "host": "trlibrary.com",
+   "headline": "The Roosevelt White House: Renovation, Power, and Family Chaos",
+   "blurb": "In 1902 Roosevelt hired McKim, Mead & White to modernize the White House and build the West Wing, all amid a house full of romping children.",
+   "publishAt": "2026-10-01T12:00:00Z",
+   "latestAt": "2026-10-01T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/8fa694b7417ac0ef.jpg",
+    "w": 1000,
+    "h": 721
+   }
+  },
   {
    "id": "d06957bd74be",
    "url": "https://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/",
@@ -434,7 +455,7 @@
    "host": "trlibrary.com",
    "headline": "The Rough Riders: America's Most Famous Regiment",
    "blurb": "Roosevelt and Wood recruited over 1,000 cowboys, Ivy League athletes, miners, and lawmen into the 1st Volunteer Cavalry, the famed Rough Riders.",
-   "publishAt": "2026-09-15T12:00:00Z",
+   "publishAt": "2026-09-20T12:00:00Z",
    "latestAt": "2026-09-20T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
