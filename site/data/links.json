@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02T18:23:54Z",
+ "generatedAt": "2026-10-02T21:16:39Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -407,27 +407,6 @@
     "src": "media/bf04b59592ef4e95.jpg",
     "w": 540,
     "h": 675
-   }
-  },
-  {
-   "id": "f28b9408f139",
-   "url": "https://www.trlibrary.com/tr/badlands/elkhorn-ranch",
-   "host": "trlibrary.com",
-   "headline": "Elkhorn Ranch: The Cradle of Conservation",
-   "blurb": "Seeking a remote refuge from grief, Roosevelt built the Elkhorn Ranch as his most cherished Dakota home and the cradle of his conservation vision.",
-   "publishAt": "2026-09-23T12:00:00Z",
-   "latestAt": "2026-09-23T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/25fa9967e7ddce8f.jpg",
-    "w": 1000,
-    "h": 656
    }
   }
  ]
