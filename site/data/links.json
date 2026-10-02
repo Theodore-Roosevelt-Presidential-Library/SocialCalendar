@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02T09:19:59Z",
+ "generatedAt": "2026-10-02T12:28:09Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -407,27 +407,6 @@
     "src": "media/25fa9967e7ddce8f.jpg",
     "w": 1000,
     "h": 656
-   }
-  },
-  {
-   "id": "777a59832f33",
-   "url": "https://www.trlibrary.com/tr/post-presidency/bull-moose",
-   "host": "trlibrary.com",
-   "headline": "The Bull Moose Campaign of 1912: The Third-Party Insurgency",
-   "blurb": "After breaking with President Taft over progressive reform, Roosevelt launched a bold third-party run in 1912 as the Bull Moose candidate.",
-   "publishAt": "2026-09-22T12:00:00Z",
-   "latestAt": "2026-09-22T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/ab7afff5c1d39e86.jpg",
-    "w": 800,
-    "h": 1000
    }
   }
  ]
