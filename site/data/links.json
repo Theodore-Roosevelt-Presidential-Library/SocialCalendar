@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-02T15:18:41Z",
+ "generatedAt": "2026-10-02T18:23:54Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "5ab29b0c53eb",
+   "url": "https://www.trlibrary.com/dhk-opening-weekend",
+   "host": "trlibrary.com",
+   "headline": "David Hume Kennerly Exhibition Opening Weekend",
+   "blurb": "In the Room: Sixty Years on the Front Lines of History opens today in the Microsoft Gallery.",
+   "publishAt": "2026-10-02T18:25:00Z",
+   "latestAt": "2026-10-02T18:25:00Z",
+   "channels": [
+    "TWITTER",
+    "THREADS",
+    "BLUESKY",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/ed94cdc4b6bd6101.jpg",
+    "w": 1000,
+    "h": 563
+   }
+  },
   {
    "id": "3977d5294866",
    "url": "https://www.trlibrary.com/tr/people/kermit",

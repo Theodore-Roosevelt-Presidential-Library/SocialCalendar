@@ -1077,5 +1077,12 @@
   "description": "Global Traveler Magazine is the ultimate source for news, reviews and travel guides for luxury business travelers. Reviews of golf courses, spas, technology, hotels, airlines, wine and more!",
   "image": null,
   "site": "Global Traveler"
+ },
+ "https://trlibrary.com/dhk-opening-weekend": {
+  "final": "https://www.trlibrary.com/dhk-opening-weekend",
+  "title": "David Hume Kennerly Exhibition Opening Weekend",
+  "description": null,
+  "image": "https://www.trlibrary.com/themes/custom/trpl/images/metatags/logo.jpeg",
+  "site": "Theodore Roosevelt Presidential Library"
  }
 }
