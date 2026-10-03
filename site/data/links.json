@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-02T21:16:39Z",
+ "generatedAt": "2026-10-03T00:47:12Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "de793c08cf03",
+   "url": "https://www.trlibrary.com/tr/post-presidency/river-of-doubt",
+   "host": "trlibrary.com",
+   "headline": "The River of Doubt: The Brazilian Expedition (1913",
+   "blurb": "After his 1912 defeat, a restless Roosevelt joined a perilous expedition to map Brazil's uncharted River of Doubt deep in the Amazon.",
+   "publishAt": "2026-10-04T12:00:00Z",
+   "latestAt": "2026-10-04T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/6f57a79f94ae6486.jpg",
+    "w": 1000,
+    "h": 757
+   }
+  },
   {
    "id": "5ab29b0c53eb",
    "url": "https://www.trlibrary.com/dhk-opening-weekend",
