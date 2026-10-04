@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-03T22:02:52Z",
+ "generatedAt": "2026-10-04T01:23:04Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "b53144c9171c",
+   "url": "https://www.trlibrary.com/tr/presidency",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Presidency",
+   "blurb": "Step inside Roosevelt's presidency — the Square Deal, the Panama Canal, trust-busting, and a bully pulpit that redefined what the office could do.",
+   "publishAt": "2026-10-05T12:00:00Z",
+   "latestAt": "2026-10-05T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "TWITTER",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/d93993effae20c9f.jpg",
+    "w": 835,
+    "h": 1000
+   }
+  },
   {
    "id": "de793c08cf03",
    "url": "https://www.trlibrary.com/tr/post-presidency/river-of-doubt",
