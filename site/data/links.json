@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T15:18:44Z",
+ "generatedAt": "2026-10-05T18:23:48Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -435,25 +435,6 @@
     "src": "media/b28ddeb146aa7f9b.jpg",
     "w": 1000,
     "h": 563
-   }
-  },
-  {
-   "id": "a6b1ea15ed1b",
-   "url": "https://www.trlibrary.com/tr/presidency/conservation/antiquities-act",
-   "host": "trlibrary.com",
-   "headline": "The Antiquities Act of 1906: Roosevelt's Conservation Superpower",
-   "blurb": "The Antiquities Act of 1906 gave Roosevelt sweeping power to shield archaeological sites and public lands as national monuments with a stroke of the…",
-   "publishAt": "2026-09-24T12:00:00Z",
-   "latestAt": "2026-09-24T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/4e0b9b806731ebde.jpg",
-    "w": 802,
-    "h": 1000
    }
   }
  ]
