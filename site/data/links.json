@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T09:31:01Z",
+ "generatedAt": "2026-10-05T12:29:24Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -452,23 +452,6 @@
    ],
    "thumb": {
     "src": "media/4e0b9b806731ebde.jpg",
-    "w": 802,
-    "h": 1000
-   }
-  },
-  {
-   "id": "0678f03bb0b3",
-   "url": "https://www.trlibrary.com/tr/conservation",
-   "host": "trlibrary.com",
-   "headline": "Roosevelt and the Conservation Story",
-   "blurb": "Roosevelt's conservation story told in numbers and his own words — some 230 million acres of forests, parks, and refuges protected for the future.",
-   "publishAt": "2026-09-24T12:00:00Z",
-   "latestAt": "2026-09-24T12:00:00Z",
-   "channels": [
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/d5029cfb8cdb6f29.jpg",
     "w": 802,
     "h": 1000
    }
