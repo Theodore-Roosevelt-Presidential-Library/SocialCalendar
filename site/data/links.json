@@ -1,11 +1,53 @@
 {
- "generatedAt": "2026-10-04T21:26:49Z",
+ "generatedAt": "2026-10-05T00:54:38Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "a7eb61df6891",
+   "url": "https://www.trlibrary.com/tr/early-life",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Early Life",
+   "blurb": "Meet the sickly, asthmatic boy of 28 East 20th Street who willed himself strong — Theodore Roosevelt's early years of grit, curiosity, and hard-won…",
+   "publishAt": "2026-10-06T12:00:00Z",
+   "latestAt": "2026-10-06T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/3fbb4dacf65cf346.jpg",
+    "w": 748,
+    "h": 600
+   }
+  },
+  {
+   "id": "a523ad2bfead",
+   "url": "https://www.am1100theflag.com/episode/badlands-trails-midterm-gambits-and-the-fight-for-americas-future-9-30-26/",
+   "host": "am1100theflag.com",
+   "headline": "Badlands Trails, Midterm Gambits, and the Fight for America’s Future (9-30-26)",
+   "blurb": "Broadcast live from the Theodore Roosevelt Presidential Library in Medora, North Dakota, this packed episode covers local history, national politics…",
+   "publishAt": "2026-10-05T16:00:00Z",
+   "latestAt": "2026-10-05T16:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "THREADS",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/ac2d6109dcf9b81c.jpg",
+    "w": 1000,
+    "h": 1000
+   }
+  },
   {
    "id": "b53144c9171c",
    "url": "https://www.trlibrary.com/tr/presidency",
