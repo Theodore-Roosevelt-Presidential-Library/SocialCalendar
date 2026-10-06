@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-06T03:22:14Z",
+ "generatedAt": "2026-10-06T06:31:29Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "146e3f50b40c",
+   "url": "https://www.am1100theflag.com/episode/from-white-house-lenses-to-local-wards-pink-at-the-pump-live-10-1-26/",
+   "host": "am1100theflag.com",
+   "headline": "From White House Lenses to Local Wards: Pink at the Pump Live!",
+   "blurb": "Broadcast live on location from PetroServe USA in Harwood, ND, Scott Hennon kicks off October's \"Pink at the Pump\" campaign, showing how everyday…",
+   "publishAt": "2026-10-07T16:00:00Z",
+   "latestAt": "2026-10-07T16:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/e6f0b95244a42507.jpg",
+    "w": 1000,
+    "h": 1000
+   }
+  },
   {
    "id": "a7eb61df6891",
    "url": "https://www.trlibrary.com/tr/early-life",
