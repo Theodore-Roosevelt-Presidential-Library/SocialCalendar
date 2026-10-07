@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-06T21:16:35Z",
+ "generatedAt": "2026-10-07T00:52:05Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "fbc5a6561b1f",
+   "url": "https://www.trlibrary.com/tr/post-presidency",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Post-Presidency",
+   "blurb": "Follow Roosevelt after the White House — a year-long African safari, the Bull Moose run of 1912, and a near-fatal plunge down Brazil's River of Doubt.",
+   "publishAt": "2026-10-08T12:00:00Z",
+   "latestAt": "2026-10-08T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/3b996c55528d765b.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
   {
    "id": "146e3f50b40c",
    "url": "https://www.am1100theflag.com/episode/from-white-house-lenses-to-local-wards-pink-at-the-pump-live-10-1-26/",
