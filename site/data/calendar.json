@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T12:27:58Z",
+ "generatedAt": "2026-10-08T15:17:13Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-09-24T00:00:00Z",
@@ -4256,6 +4256,86 @@
    "sequence": null
   },
   {
+   "id": "13116157899:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-10-08T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thank you, Brian T. Allen and National Review, for visiting the Library. Read the review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116158414:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-10-08T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thank you, Brian T. Allen and @NRO for visiting the Library.\n\n\"The expansive history museum is in the Badlands, which made the man and made the president.\"\n\nRead the review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n\n#DareGreatly",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116158675:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-10-08T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thank you, Brian T. Allen and National Review, for visiting the Library and sharing it with your readers.\n\n\"The expansive history museum is in the Badlands, which made the man and made the president.\"\n\nRead the full review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n\n#DareGreatly",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116158880:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-10-08T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thank you, Brian T. Allen and National Review, for visiting the Theodore Roosevelt Presidential Library and sharing it with your readers.\n\n\"The expansive history museum is in the Badlands, which made the man and made the president.\"\n\nRead the full review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n\n#DareGreatly",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116159603:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-10-08T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thank you, Brian T. Allen and @nationalreview, for visiting the Library and sharing it with your readers.\n\n\"The expansive history museum is in the Badlands, which made the man and made the president.\"\n\nRead the full review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n\nPhoto: Theodore Roosevelt Presidential Library Foundation\n\n#DareGreatly",
+   "media": [
+    {
+     "src": "media/18f266d3bdbdc519.jpg",
+     "w": 1000,
+     "h": 583,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116159683:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-10-08T20:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thank you, Brian T. Allen and @nationalreview, for visiting the Library. Read the review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/",
+   "media": [
+    {
+     "src": "media/23bc875c2ea96045.jpg",
+     "w": 1000,
+     "h": 583,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
    "id": "13110727373:138241752",
    "profileId": "138241752",
    "scheduledAt": "2026-10-09T12:00:00Z",
@@ -4737,6 +4817,86 @@
      "kind": "image"
     }
    ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116161715:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-10-10T15:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Marc Mellmer of JE Dunn shares lessons from building the Library in the Badlands. Thank you to the JE Dunn team and every subcontractor. \n\nhttps://www.grandforksherald.com/prairie-business/lessons-learned-from-building-the-theodore-roosevelt-presidential-library-in-the-badlands ",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116169035:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-10-10T15:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thank you, Marc Mellmer and the @JEDunn team, trade partners and subcontractors who built the Library on a Badlands butte. In @gfherald Prairie Business, Marc shares lessons from the jobsite. #DareGreatly\nhttps://www.grandforksherald.com/prairie-business/lessons-learned-from-building-the-theodore-roosevelt-presidential-library-in-the-badlands",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116169131:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-10-10T15:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A Badlands butte, a remote jobsite and 140,000+ native plants on the roof. Marc Mellmer of @jedunnconstruction shares lessons from building the Library. Thank you to the JE Dunn team and every subcontractor. \n\nhttps://www.grandforksherald.com/prairie-business/lessons-learned-from-building-the-theodore-roosevelt-presidential-library-in-the-badlands",
+   "media": [
+    {
+     "src": "media/14b4d094b41abc6f.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116169208:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-10-10T15:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Building a presidential library on a Badlands butte meant a remote jobsite, unpredictable weather and thousands of decisions that all had to work together.\n\nIn Prairie Business magazine (@gfherald), Marc Mellmer of @jedunnconstruction — a Dickinson native who leads the firm's North Dakota and South Dakota operations — shares what the team learned. The Library includes a two-acre green roof planted with more than 140,000 native plugs, a mass timber structure and a curved rammed-earth wall in the main hall.\n\nThank you, Marc, and thank you to every JE Dunn team member, trade partner and subcontractor who built the Library. Your craftsmanship greets every participant who walks through the doors.\n\nRead the article: https://www.grandforksherald.com/prairie-business/lessons-learned-from-building-the-theodore-roosevelt-presidential-library-in-the-badlands\n\n📷 Chad Ziemendorf\n#DareGreatly",
+   "media": [
+    {
+     "src": "media/61665a18c6b69f28.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116169574:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-10-10T15:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Building a presidential library on a Badlands butte meant a remote jobsite, unpredictable weather and thousands of decisions that all had to work together.\n\nIn Prairie Business magazine, Marc Mellmer  of JE Dunn Construction  — a Dickinson native who leads the firm's North Dakota and South Dakota operations — shares what the team learned. The Library includes a two-acre green roof planted with more than 140,000 native plugs, a mass timber structure and a curved rammed-earth wall in the main hall.\n\nThank you, Marc, and thank you to every JE Dunn team member, trade partner and subcontractor who built the Library. Your craftsmanship greets every participant who walks through the doors.\n\nRead the article: https://www.grandforksherald.com/prairie-business/lessons-learned-from-building-the-theodore-roosevelt-presidential-library-in-the-badlands\n#DareGreatly",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13116169818:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-10-10T15:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Building a presidential library on a Badlands butte meant a remote jobsite, unpredictable weather and thousands of decisions that all had to work together.\n\nIn Prairie Business magazine, Marc Mellmer of JE Dunn Construction — a Dickinson native who leads the firm's North Dakota and South Dakota operations — shares what the team learned. The Library includes a two-acre green roof planted with more than 140,000 native plugs, a mass timber structure and a curved rammed-earth wall in the main hall.\n\nThank you, Marc, and thank you to every JE Dunn team member, trade partner and subcontractor who built the Library. Your craftsmanship greets every participant who walks through the doors.\n\nRead the article: https://www.grandforksherald.com/prairie-business/lessons-learned-from-building-the-theodore-roosevelt-presidential-library-in-the-badlands \n#DareGreatly",
+   "media": [],
    "tags": [],
    "postUrl": null,
    "sequence": null
