@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T09:22:25Z",
+ "generatedAt": "2026-10-08T12:28:32Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -419,26 +419,6 @@
     "src": "media/31c5d154821a1a3e.jpg",
     "w": 690,
     "h": 560
-   }
-  },
-  {
-   "id": "f23a71200313",
-   "url": "https://www.trlibrary.com/calendar/special-event/artist-panel-kennerly-balkowitsch-and-ziemendorf",
-   "host": "trlibrary.com",
-   "headline": "Artist Panel: Kennerly, Balkowitsch, and Ziemendorf",
-   "blurb": "",
-   "publishAt": "2026-09-25T20:00:00Z",
-   "latestAt": "2026-09-25T20:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "INSTAGRAMBUSINESS",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/4ca83a6e08e093d2.jpg",
-    "w": 540,
-    "h": 675
    }
   }
  ]
