@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T09:22:56Z",
+ "generatedAt": "2026-10-09T12:26:26Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -46,6 +46,27 @@
    "thumb": {
     "src": "media/bf425e69b1f6dfc6.jpg",
     "w": 801,
+    "h": 1000
+   }
+  },
+  {
+   "id": "5d6e3379c8ff",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/governor",
+   "host": "trlibrary.com",
+   "headline": "Governor of New York: The Stepping Stone to the Presidency (1899-1900)",
+   "blurb": "Riding fame from the Rough Riders and San Juan Hill, Theodore Roosevelt won the New York governorship in 1898, a key step toward the presidency.",
+   "publishAt": "2026-09-30T12:00:00Z",
+   "latestAt": "2026-10-09T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/c38d456934085d65.jpg",
+    "w": 821,
     "h": 1000
    }
   },
@@ -337,27 +358,6 @@
     "src": "media/1ced027aabbfca9c.jpg",
     "w": 1000,
     "h": 750
-   }
-  },
-  {
-   "id": "5d6e3379c8ff",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/governor",
-   "host": "trlibrary.com",
-   "headline": "Governor of New York: The Stepping Stone to the Presidency (1899-1900)",
-   "blurb": "Riding fame from the Rough Riders and San Juan Hill, Theodore Roosevelt won the New York governorship in 1898, a key step toward the presidency.",
-   "publishAt": "2026-09-30T12:00:00Z",
-   "latestAt": "2026-09-30T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/c38d456934085d65.jpg",
-    "w": 821,
-    "h": 1000
    }
   },
   {
