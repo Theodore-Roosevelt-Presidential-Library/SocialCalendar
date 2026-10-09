@@ -1,11 +1,33 @@
 {
- "generatedAt": "2026-10-09T00:52:57Z",
+ "generatedAt": "2026-10-09T03:24:15Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "d8eeee6c9b20",
+   "url": "https://www.grandforksherald.com/prairie-business/lessons-learned-from-building-the-theodore-roosevelt-presidential-library-in-the-badlands",
+   "host": "Grand Forks Herald",
+   "headline": "Lessons learned from building the Theodore Roosevelt Presidential Library in the Badlands",
+   "blurb": "The building is one of the first presidential libraries to pursue Living Building Challenge Certification, along with LEED Platinum and SITES…",
+   "publishAt": "2026-10-10T15:00:00Z",
+   "latestAt": "2026-10-10T15:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "TWITTER",
+    "THREADS",
+    "INSTAGRAMBUSINESS",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/14b4d094b41abc6f.jpg",
+    "w": 1000,
+    "h": 667
+   }
+  },
   {
    "id": "57fcdf04d012",
    "url": "https://www.trlibrary.com/tr/presidency/conservation/bird-reserves",
