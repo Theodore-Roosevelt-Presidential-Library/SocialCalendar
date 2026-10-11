@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T09:17:57Z",
+ "generatedAt": "2026-10-11T12:26:25Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -23,6 +23,27 @@
    ],
    "thumb": {
     "src": "media/ab7afff5c1d39e86.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
+  {
+   "id": "fbc5a6561b1f",
+   "url": "https://www.trlibrary.com/tr/post-presidency",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Post-Presidency",
+   "blurb": "Follow Roosevelt after the White House — a year-long African safari, the Bull Moose run of 1912, and a near-fatal plunge down Brazil's River of Doubt.",
+   "publishAt": "2026-10-08T12:00:00Z",
+   "latestAt": "2026-10-11T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/3b996c55528d765b.jpg",
     "w": 800,
     "h": 1000
    }
@@ -130,27 +151,6 @@
     "src": "media/23bc875c2ea96045.jpg",
     "w": 1000,
     "h": 583
-   }
-  },
-  {
-   "id": "fbc5a6561b1f",
-   "url": "https://www.trlibrary.com/tr/post-presidency",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Post-Presidency",
-   "blurb": "Follow Roosevelt after the White House — a year-long African safari, the Bull Moose run of 1912, and a near-fatal plunge down Brazil's River of Doubt.",
-   "publishAt": "2026-10-08T12:00:00Z",
-   "latestAt": "2026-10-08T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/3b996c55528d765b.jpg",
-    "w": 800,
-    "h": 1000
    }
   },
   {
