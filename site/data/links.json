@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-12T21:15:22Z",
+ "generatedAt": "2026-10-13T00:53:43Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "6dadbde14105",
+   "url": "https://www.trlibrary.com/tr/post-presidency/assassination-attempt",
+   "host": "trlibrary.com",
+   "headline": "The Assassination Attempt: Milwaukee, October 14, 1912",
+   "blurb": "A delusional gunman shot Roosevelt in Milwaukee on October 14, 1912, an attempt that became one of the most dramatic moments of his campaign.",
+   "publishAt": "2026-10-14T12:00:00Z",
+   "latestAt": "2026-10-14T12:00:00Z",
+   "channels": [
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/970ccbf91dff78d6.jpg",
+    "w": 980,
+    "h": 620
+   }
+  },
   {
    "id": "777a59832f33",
    "url": "https://www.trlibrary.com/tr/post-presidency/bull-moose",
@@ -264,7 +285,7 @@
    "host": "trlibrary.com",
    "headline": "The Coal Strike of 1902: The President Who Sided with the Miners",
    "blurb": "When 150,000 coal miners struck in 1902, Theodore Roosevelt intervened to end the crisis, marking a new role for the presidency in labor disputes.",
-   "publishAt": "2026-09-28T12:00:00Z",
+   "publishAt": "2026-10-03T12:00:00Z",
    "latestAt": "2026-10-03T12:00:00Z",
    "channels": [
     "FACEBOOKPAGE",
