@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T09:23:57Z",
+ "generatedAt": "2026-10-13T12:29:22Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -25,6 +25,27 @@
     "src": "media/970ccbf91dff78d6.jpg",
     "w": 980,
     "h": 620
+   }
+  },
+  {
+   "id": "59c1d83e529b",
+   "url": "https://www.trlibrary.com/tr/presidency/coal-strike",
+   "host": "trlibrary.com",
+   "headline": "The Coal Strike of 1902: The President Who Sided with the Miners",
+   "blurb": "When 150,000 coal miners struck in 1902, Theodore Roosevelt intervened to end the crisis, marking a new role for the presidency in labor disputes.",
+   "publishAt": "2026-10-03T12:00:00Z",
+   "latestAt": "2026-10-13T12:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/b4459f6a124e3344.jpg",
+    "w": 800,
+    "h": 1000
    }
   },
   {
@@ -277,27 +298,6 @@
     "src": "media/6f57a79f94ae6486.jpg",
     "w": 1000,
     "h": 757
-   }
-  },
-  {
-   "id": "59c1d83e529b",
-   "url": "https://www.trlibrary.com/tr/presidency/coal-strike",
-   "host": "trlibrary.com",
-   "headline": "The Coal Strike of 1902: The President Who Sided with the Miners",
-   "blurb": "When 150,000 coal miners struck in 1902, Theodore Roosevelt intervened to end the crisis, marking a new role for the presidency in labor disputes.",
-   "publishAt": "2026-10-03T12:00:00Z",
-   "latestAt": "2026-10-03T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/b4459f6a124e3344.jpg",
-    "w": 800,
-    "h": 1000
    }
   },
   {
