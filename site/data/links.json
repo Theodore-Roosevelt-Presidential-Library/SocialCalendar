@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-14T21:15:02Z",
+ "generatedAt": "2026-10-15T00:42:21Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "323fdbf77ce9",
+   "url": "https://www.trlibrary.com/tr/presidency/booker-t-washington",
+   "host": "trlibrary.com",
+   "headline": "The Dinner with Booker T.",
+   "blurb": "On October 16, 1901, President Theodore Roosevelt invited Booker T.",
+   "publishAt": "2026-10-16T12:00:00Z",
+   "latestAt": "2026-10-16T12:00:00Z",
+   "channels": [
+    "TWITTER",
+    "THREADS",
+    "BLUESKY",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/4c4f97960de3bb0b.jpg",
+    "w": 836,
+    "h": 1000
+   }
+  },
   {
    "id": "0ee1b2575383",
    "url": "https://www.trlibrary.com/tr/rise-to-power",
@@ -202,7 +223,7 @@
    "host": "trlibrary.com",
    "headline": "Governor of New York: The Stepping Stone to the Presidency (1899-1900)",
    "blurb": "Riding fame from the Rough Riders and San Juan Hill, Theodore Roosevelt won the New York governorship in 1898, a key step toward the presidency.",
-   "publishAt": "2026-09-30T12:00:00Z",
+   "publishAt": "2026-10-09T12:00:00Z",
    "latestAt": "2026-10-09T12:00:00Z",
    "channels": [
     "LINKEDINCOMPANY",
