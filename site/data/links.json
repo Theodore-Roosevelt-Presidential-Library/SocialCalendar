@@ -1,11 +1,33 @@
 {
- "generatedAt": "2026-10-16T15:16:00Z",
+ "generatedAt": "2026-10-16T18:19:42Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "e4ae0a5a3c09",
+   "url": "https://www.eventbrite.com/e/the-leadership-of-president-theodore-roosevelt-with-robbie-lauf-tickets-2002756248853",
+   "host": "Eventbrite",
+   "headline": "The Leadership of President Theodore Roosevelt with Robbie Lauf",
+   "blurb": "How do you bring the legacy of America’s 26th president to life for a new generation in 2026?",
+   "publishAt": "2026-10-17T16:00:00Z",
+   "latestAt": "2026-10-17T16:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "INSTAGRAMBUSINESS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/080d58e85642c248.jpg",
+    "w": 1000,
+    "h": 667
+   }
+  },
   {
    "id": "bf8cbc5ba518",
    "url": "https://www.trlibrary.com/tr/complex-legacy/race",
