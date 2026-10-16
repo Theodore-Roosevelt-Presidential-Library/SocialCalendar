@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T09:18:19Z",
+ "generatedAt": "2026-10-16T12:25:52Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -446,27 +446,6 @@
     "src": "media/8fa694b7417ac0ef.jpg",
     "w": 1000,
     "h": 721
-   }
-  },
-  {
-   "id": "d06957bd74be",
-   "url": "https://www.globaltravelerusa.com/theodore-roosevelt-presidential-library-opens-in-north-dakota/",
-   "host": "Global Traveler",
-   "headline": "Theodore Roosevelt Presidential Library Opens in North Dakota",
-   "blurb": "Opened July 4, 2026, on the 250th anniversary of the United States, Theodore Roosevelt Presidential Library opened.",
-   "publishAt": "2026-09-30T17:00:00Z",
-   "latestAt": "2026-09-30T17:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "THREADS",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY"
-   ],
-   "thumb": {
-    "src": "media/e76f8f453dd00140.jpg",
-    "w": 1000,
-    "h": 750
    }
   }
  ]
