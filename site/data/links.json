@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-16T21:14:11Z",
+ "generatedAt": "2026-10-17T00:43:12Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "3c9d1f2f3be8",
+   "url": "https://www.trlibrary.com/tr/presidency/brownsville",
+   "host": "trlibrary.com",
+   "headline": "The Brownsville Affair: An Injustice That Took 66 Years to Correct",
+   "blurb": "In 1906, soldiers of the all-Black 25th Infantry were wrongly accused after a Brownsville, Texas shooting, an injustice not corrected for 66 years.",
+   "publishAt": "2026-10-18T12:00:00Z",
+   "latestAt": "2026-10-18T12:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER",
+    "THREADS",
+    "BLUESKY"
+   ],
+   "thumb": {
+    "src": "media/d1ba4d2402023cb5.jpg",
+    "w": 399,
+    "h": 470
+   }
+  },
   {
    "id": "e4ae0a5a3c09",
    "url": "https://www.eventbrite.com/e/the-leadership-of-president-theodore-roosevelt-with-robbie-lauf-tickets-2002756248853",
