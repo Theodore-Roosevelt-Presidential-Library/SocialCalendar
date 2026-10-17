@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T15:13:49Z",
+ "generatedAt": "2026-10-17T18:17:18Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -447,27 +447,6 @@
     "src": "media/ed94cdc4b6bd6101.jpg",
     "w": 1000,
     "h": 563
-   }
-  },
-  {
-   "id": "3977d5294866",
-   "url": "https://www.trlibrary.com/tr/people/kermit",
-   "host": "trlibrary.com",
-   "headline": "Kermit Roosevelt",
-   "blurb": "The adventurous second son of Theodore and Edith, Kermit Roosevelt shared his father's love of exploration and the strenuous life.",
-   "publishAt": "2026-10-02T12:00:00Z",
-   "latestAt": "2026-10-02T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/de02f95677bbbb23.jpg",
-    "w": 1000,
-    "h": 686
    }
   }
  ]
