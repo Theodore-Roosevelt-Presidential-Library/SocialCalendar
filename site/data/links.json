@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T18:17:18Z",
+ "generatedAt": "2026-10-17T21:13:21Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -25,6 +25,28 @@
     "src": "media/d1ba4d2402023cb5.jpg",
     "w": 399,
     "h": 470
+   }
+  },
+  {
+   "id": "a4e35c4ca6cf",
+   "url": "https://petergreenberg.com/2026/10/10/peter-greenberg-worldwide-medora-north-dakota-october-10-2026/",
+   "host": "petergreenberg.com",
+   "headline": "Peter Greenberg Worldwide — Medora, North Dakota - October 10, 2026 - Peter Greenberg…",
+   "blurb": "This week’s broadcast of Peter Greenberg Worldwide is from the newly opened Theodore Roosevelt Presidential Library in Medora, North Dakota.",
+   "publishAt": "2026-10-13T21:00:00Z",
+   "latestAt": "2026-10-17T21:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "INSTAGRAMBUSINESS",
+    "THREADS",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/f03d143f063da95a.jpg",
+    "w": 1000,
+    "h": 1000
    }
   },
   {
@@ -88,28 +110,6 @@
    "thumb": {
     "src": "media/4c4f97960de3bb0b.jpg",
     "w": 836,
-    "h": 1000
-   }
-  },
-  {
-   "id": "a4e35c4ca6cf",
-   "url": "https://petergreenberg.com/2026/10/10/peter-greenberg-worldwide-medora-north-dakota-october-10-2026/",
-   "host": "petergreenberg.com",
-   "headline": "Peter Greenberg Worldwide — Medora, North Dakota - October 10, 2026 - Peter Greenberg…",
-   "blurb": "This week’s broadcast of Peter Greenberg Worldwide is from the newly opened Theodore Roosevelt Presidential Library in Medora, North Dakota.",
-   "publishAt": "2026-10-13T21:00:00Z",
-   "latestAt": "2026-10-15T21:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "BLUESKY",
-    "INSTAGRAMBUSINESS",
-    "THREADS",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/f03d143f063da95a.jpg",
-    "w": 1000,
     "h": 1000
    }
   },
