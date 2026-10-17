@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T09:16:09Z",
+ "generatedAt": "2026-10-17T12:21:56Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -468,27 +468,6 @@
     "src": "media/de02f95677bbbb23.jpg",
     "w": 1000,
     "h": 686
-   }
-  },
-  {
-   "id": "9db63f97b044",
-   "url": "https://www.trlibrary.com/tr/homes-and-places/white-house",
-   "host": "trlibrary.com",
-   "headline": "The Roosevelt White House: Renovation, Power, and Family Chaos",
-   "blurb": "In 1902 Roosevelt hired McKim, Mead & White to modernize the White House and build the West Wing, all amid a house full of romping children.",
-   "publishAt": "2026-10-01T12:00:00Z",
-   "latestAt": "2026-10-01T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/8fa694b7417ac0ef.jpg",
-    "w": 1000,
-    "h": 721
    }
   }
  ]
