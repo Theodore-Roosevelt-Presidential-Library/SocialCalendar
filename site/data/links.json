@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T09:16:05Z",
+ "generatedAt": "2026-10-18T12:22:24Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -426,27 +426,6 @@
     "src": "media/6f57a79f94ae6486.jpg",
     "w": 1000,
     "h": 757
-   }
-  },
-  {
-   "id": "5ab29b0c53eb",
-   "url": "https://www.trlibrary.com/dhk-opening-weekend",
-   "host": "trlibrary.com",
-   "headline": "David Hume Kennerly Exhibition Opening Weekend",
-   "blurb": "In the Room: Sixty Years on the Front Lines of History opens today in the Microsoft Gallery.",
-   "publishAt": "2026-10-02T18:25:00Z",
-   "latestAt": "2026-10-02T18:25:00Z",
-   "channels": [
-    "TWITTER",
-    "THREADS",
-    "BLUESKY",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/ed94cdc4b6bd6101.jpg",
-    "w": 1000,
-    "h": 563
    }
   }
  ]
