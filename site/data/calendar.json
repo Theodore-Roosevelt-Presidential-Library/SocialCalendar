@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T18:21:49Z",
+ "generatedAt": "2026-10-19T21:15:17Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-10-05T00:00:00Z",
@@ -4319,7 +4319,7 @@
    "id": "13117003861:138241987",
    "profileId": "138241987",
    "scheduledAt": "2026-10-19T21:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "\"It tastes like the land.\" Executive Chef Candace Stock on the story behind Salt+Scoria, on Peter Greenberg Worldwide, broadcast from the Library on Oct. 10. Full show: search \"Peter Greenberg Worldwide\" wherever you get podcasts. #SaltAndScoria #Medora #IndigenousFood",
    "media": [
     {
@@ -4330,14 +4330,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.tiktok.com/@trlibrary/video/7698486658387184909",
    "sequence": null
   },
   {
    "id": "13117003905:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-10-19T21:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "\"It tastes like the land.\" Chef Candace Stock on the story behind Salt+Scoria, on Peter Greenberg Worldwide. Full show: https://petergreenberg.com/2026/10/10/peter-greenberg-worldwide-medora-north-dakota-october-10-2026/",
    "media": [
     {
@@ -4348,14 +4348,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3myazbmn74m2r",
    "sequence": null
   },
   {
    "id": "13117004024:138745276",
    "profileId": "138745276",
    "scheduledAt": "2026-10-19T21:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "\"It tastes like the land.\" Executive Chef Candace Stock with @petergreenberg on the story behind Salt+Scoria. Full show: https://petergreenberg.com/2026/10/10/peter-greenberg-worldwide-medora-north-dakota-october-10-2026/",
    "media": [
     {
@@ -4366,14 +4366,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.threads.com/@trlibrary/post/DesLIsUkt3Z",
    "sequence": null
   },
   {
    "id": "13117004119:138250117",
    "profileId": "138250117",
    "scheduledAt": "2026-10-19T21:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "\"It tastes like the land.\" Executive Chef Candace Stock on the story behind Salt+Scoria, on Peter Greenberg Worldwide with @PeterSGreenberg broadcast from the Library. Full show: https://petergreenberg.com/2026/10/10/peter-greenberg-worldwide-medora-north-dakota-october-10-2026/",
    "media": [
     {
@@ -4384,14 +4384,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://x.com/783364650180104192/status/2112287696836030973",
    "sequence": null
   },
   {
    "id": "13117004153:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-10-19T21:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "\"It tastes like the land.\"\n\nExecutive Chef Candace Stock told Peter Greenberg the story behind Salt+Scoria, the Library's restaurant, on Peter Greenberg Worldwide, broadcast from the Library on Oct. 10: Indigenous ingredients, salt bush and the red scoria of the Badlands.\n\nHear the full show: https://petergreenberg.com/2026/10/10/peter-greenberg-worldwide-medora-north-dakota-october-10-2026/\n\n#DareGreatly",
    "media": [
     {
@@ -4402,14 +4402,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.facebook.com/reel/1896489211769722/",
    "sequence": null
   },
   {
    "id": "13117004154:138241752",
    "profileId": "138241752",
    "scheduledAt": "2026-10-19T21:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "\"It tastes like the land.\"\n\nExecutive Chef Candace Stock told Peter Greenberg the story behind Salt+Scoria, the Library's restaurant, on Peter Greenberg Worldwide, broadcast from the Library on Oct. 10: Indigenous ingredients, salt bush and the red scoria of the Badlands.\n\nHear the full show: https://petergreenberg.com/2026/10/10/peter-greenberg-worldwide-medora-north-dakota-october-10-2026/\n\n#DareGreatly",
    "media": [
     {
@@ -4420,14 +4420,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7518053376157454336",
    "sequence": null
   },
   {
    "id": "13117004205:138948229",
    "profileId": "138948229",
    "scheduledAt": "2026-10-19T21:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "\"It tastes like the land.\"\n\nExecutive Chef Candace Stock joined @petergreenberg on Peter Greenberg Worldwide, broadcast from the Library on Oct. 10, to share the story behind Salt+Scoria: Indigenous ingredients, salt bush and the red scoria of the Badlands.\n\nFull show: https://petergreenberg.com/2026/10/10/peter-greenberg-worldwide-medora-north-dakota-october-10-2026/\n\n#SaltAndScoria #Medora #NorthDakota #IndigenousFood",
    "media": [
     {
@@ -4438,7 +4438,7 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.instagram.com/reel/DesKjugFDiD/",
    "sequence": null
   },
   {
