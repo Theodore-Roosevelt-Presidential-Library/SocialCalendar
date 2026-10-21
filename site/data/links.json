@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-21T15:17:06Z",
+ "generatedAt": "2026-10-21T18:21:27Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "2fc3c353a41b",
+   "url": "https://www.smithsonianmag.com/history/theodore-roosevelt-survived-an-assassination-attempt-because-a-speech-tucked-inside-his-pocket-slowed-the-bullet-he-insisted-on-delivering-his-remarks-anyway-180988911/",
+   "host": "Smithsonian Magazine",
+   "headline": "Theodore Roosevelt Survived an Assassination Attempt Because a Speech Tucked Inside His…",
+   "blurb": "\"I am very much uninterested in whether I am shot or not,\" he told an audience in Milwaukee.",
+   "publishAt": "2026-10-21T22:00:00Z",
+   "latestAt": "2026-10-21T22:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/og783602ed8e761e.jpg",
+    "w": 1000,
+    "h": 709
+   }
+  },
   {
    "id": "b53144c9171c",
    "url": "https://www.trlibrary.com/tr/presidency",
