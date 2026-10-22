@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T21:15:16Z",
+ "generatedAt": "2026-10-22T00:43:40Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -77,7 +77,7 @@
    "host": "trlibrary.com",
    "headline": "The Roosevelt Family",
    "blurb": "Meet the Roosevelt family — TR's six spirited children, a family tree from New Amsterdam to two presidents, and the young niece named Eleanor.",
-   "publishAt": "2026-10-07T12:00:00Z",
+   "publishAt": "2026-10-20T12:00:00Z",
    "latestAt": "2026-10-20T12:00:00Z",
    "channels": [
     "BLUESKY",
@@ -330,14 +330,13 @@
    "host": "am1100theflag.com",
    "headline": "From White House Lenses to Local Wards: Pink at the Pump Live!",
    "blurb": "Broadcast live on location from PetroServe USA in Harwood, ND, Scott Hennon kicks off October's \"Pink at the Pump\" campaign, showing how everyday…",
-   "publishAt": "2026-10-07T16:00:00Z",
+   "publishAt": "2026-10-09T16:00:00Z",
    "latestAt": "2026-10-09T16:00:00Z",
    "channels": [
     "BLUESKY",
     "TWITTER",
     "LINKEDINCOMPANY",
-    "THREADS",
-    "FACEBOOKPAGE"
+    "THREADS"
    ],
    "thumb": {
     "src": "media/3af6b23622a5eeeb.jpg",
@@ -427,27 +426,6 @@
     "src": "media/ac2d6109dcf9b81c.jpg",
     "w": 1000,
     "h": 1000
-   }
-  },
-  {
-   "id": "de793c08cf03",
-   "url": "https://www.trlibrary.com/tr/post-presidency/river-of-doubt",
-   "host": "trlibrary.com",
-   "headline": "The River of Doubt: The Brazilian Expedition (1913",
-   "blurb": "After his 1912 defeat, a restless Roosevelt joined a perilous expedition to map Brazil's uncharted River of Doubt deep in the Amazon.",
-   "publishAt": "2026-10-04T12:00:00Z",
-   "latestAt": "2026-10-04T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/6f57a79f94ae6486.jpg",
-    "w": 1000,
-    "h": 757
    }
   }
  ]
