@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T18:20:05Z",
+ "generatedAt": "2026-10-22T21:15:41Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-10-08T00:00:00Z",
@@ -4505,6 +4505,17 @@
      "kind": "image"
     }
    ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118686936:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-10-23T16:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library is the 2026 Architecture MasterPrize Architectural Design of the Year. Thank you to Snøhetta, JLG Architects and Confluence. https://archinect.com/news/bustler/11167/architecture-masterprize-honors-top-buildings-and-firms-of-2026 ",
+   "media": [],
    "tags": [],
    "postUrl": null,
    "sequence": null
