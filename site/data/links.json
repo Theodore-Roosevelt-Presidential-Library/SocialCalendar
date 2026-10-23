@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T09:19:23Z",
+ "generatedAt": "2026-10-23T12:24:53Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -21,6 +21,27 @@
     "src": "media/og4301b5e7a8df60.jpg",
     "w": 1000,
     "h": 589
+   }
+  },
+  {
+   "id": "ebebe8eca025",
+   "url": "https://www.trlibrary.com/tr/family",
+   "host": "trlibrary.com",
+   "headline": "The Roosevelt Family",
+   "blurb": "Meet the Roosevelt family — TR's six spirited children, a family tree from New Amsterdam to two presidents, and the young niece named Eleanor.",
+   "publishAt": "2026-10-20T12:00:00Z",
+   "latestAt": "2026-10-23T12:00:00Z",
+   "channels": [
+    "BLUESKY",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "THREADS",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/4676873fe770e647.jpg",
+    "w": 640,
+    "h": 800
    }
   },
   {
@@ -86,27 +107,6 @@
     "src": "media/f03d143f063da95a.jpg",
     "w": 1000,
     "h": 1000
-   }
-  },
-  {
-   "id": "ebebe8eca025",
-   "url": "https://www.trlibrary.com/tr/family",
-   "host": "trlibrary.com",
-   "headline": "The Roosevelt Family",
-   "blurb": "Meet the Roosevelt family — TR's six spirited children, a family tree from New Amsterdam to two presidents, and the young niece named Eleanor.",
-   "publishAt": "2026-10-20T12:00:00Z",
-   "latestAt": "2026-10-20T12:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "THREADS",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/4676873fe770e647.jpg",
-    "w": 640,
-    "h": 800
    }
   },
   {
