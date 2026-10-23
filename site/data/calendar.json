@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T12:24:00Z",
+ "generatedAt": "2026-10-23T15:16:15Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-10-09T00:00:00Z",
@@ -4256,6 +4256,87 @@
    "state": "SCHEDULED",
    "text": "The Theodore Roosevelt Presidential Library is the 2026 Architecture MasterPrize Architectural Design of the Year. Thank you to Snøhetta, JLG Architects and Confluence. https://archinect.com/news/bustler/11167/architecture-masterprize-honors-top-buildings-and-firms-of-2026 ",
    "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118814197:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-10-23T16:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library is the 2026 @ArchMasterPrize Architectural Design of the Year. Thank you to @snohetta, @JLGArchitects and @thinkConfluence for a building that rises out of a Badlands butte. Via @archinect: https://archinect.com/news/bustler/11167/architecture-masterprize-honors-top-buildings-and-firms-of-2026 #DareGreatly",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118814390:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-10-23T16:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library has been named Architectural Design of the Year in the 2026 Architecture MasterPrize.\n\nEntries were judged on design excellence, originality, function and sustainability. The program's managing director described the winner as \"a presidential library that disappears into its landscape.\" The winners will be honored next month at the Guggenheim Museum Bilbao.\n\nThank you to the partners who shaped a building that rises out of a Badlands butte: Snøhetta, design architect and landscape architect; JLG Architects, architect of record; and Confluence - Landscape Architecture, landscape architect of record.\n\nRead the announcement on Archinect: https://archinect.com/news/bustler/11167/architecture-masterprize-honors-top-buildings-and-firms-of-2026 \n\n#DareGreatly",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118814391:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-10-23T16:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library has been named Architectural Design of the Year in the 2026 Architecture MasterPrize.\n\nEntries were judged on design excellence, originality, function and sustainability. The program's managing director described the winner as \"a presidential library that disappears into its landscape.\" The winners will be honored next month at the Guggenheim Museum Bilbao.\n\nThank you to the partners who shaped a building that rises out of a Badlands butte: Snøhetta, design architect and landscape architect; JLG Architects, architect of record; and Confluence, landscape architect of record.\n\nRead the announcement on Archinect: https://archinect.com/news/bustler/11167/architecture-masterprize-honors-top-buildings-and-firms-of-2026\n\n#DareGreatly",
+   "media": [],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118814525:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-10-23T16:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Architectural Design of the Year.\n\nThe Theodore Roosevelt Presidential Library has been named Architectural Design of the Year in the 2026 @architecturemasterprize. Entries were judged on design excellence, originality, function and sustainability, and the winners will be honored next month at the Guggenheim Museum Bilbao.\n\nThank you to the partners who shaped a building that rises out of a Badlands butte: @snohetta, design architect and landscape architect; @jlgarchitects, architect of record; and @thinkconfluence, landscape architect of record.\n\nRead the announcement from @archinect: https://archinect.com/news/bustler/11167/architecture-masterprize-honors-top-buildings-and-firms-of-2026 \n\nPhotos via @archinect\n\n#DareGreatly #Architecture #NorthDakota",
+   "media": [
+    {
+     "src": "media/e11e15a19b231f61.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/522ec17e71af7cb4.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118814710:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-10-23T16:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library is the 2026 @architecturemasterprize Architectural Design of the Year. Thank you to @snohetta, @jlgarchitects and @thinkconfluence. https://archinect.com/news/bustler/11167/architecture-masterprize-honors-top-buildings-and-firms-of-2026 ",
+   "media": [
+    {
+     "src": "media/52f68160987b2a96.jpg",
+     "w": 1000,
+     "h": 750,
+     "kind": "image"
+    },
+    {
+     "src": "media/58b449a640ecb8c9.jpg",
+     "w": 1000,
+     "h": 706,
+     "kind": "image"
+    }
+   ],
    "tags": [],
    "postUrl": null,
    "sequence": null
