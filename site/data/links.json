@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-23T15:17:17Z",
+ "generatedAt": "2026-10-23T18:20:56Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "4a71a5abd98d",
+   "url": "https://www.nationalreview.com/magazine/2026/12/how-the-west-won-teddy-roosevelt/",
+   "host": "National Review",
+   "headline": "How the West Won Teddy Roosevelt",
+   "blurb": "What’s a presidential library doing in the North Dakota badlands?",
+   "publishAt": "2026-10-24T20:00:00Z",
+   "latestAt": "2026-10-24T20:00:00Z",
+   "channels": [
+    "INSTAGRAMBUSINESS",
+    "BLUESKY",
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/c4b394cc78fa566f.jpg",
+    "w": 1000,
+    "h": 1000
+   }
+  },
   {
    "id": "7ac459bf95ed",
    "url": "https://archinect.com/news/bustler/11167/architecture-masterprize-honors-top-buildings-and-firms-of-2026",
@@ -427,27 +448,6 @@
     "src": "media/3fbb4dacf65cf346.jpg",
     "w": 748,
     "h": 600
-   }
-  },
-  {
-   "id": "a523ad2bfead",
-   "url": "https://www.am1100theflag.com/episode/badlands-trails-midterm-gambits-and-the-fight-for-americas-future-9-30-26/",
-   "host": "am1100theflag.com",
-   "headline": "Badlands Trails, Midterm Gambits, and the Fight for America’s Future (9-30-26)",
-   "blurb": "Broadcast live from the Theodore Roosevelt Presidential Library in Medora, North Dakota, this packed episode covers local history, national politics…",
-   "publishAt": "2026-10-05T16:00:00Z",
-   "latestAt": "2026-10-05T16:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "BLUESKY",
-    "THREADS",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/ac2d6109dcf9b81c.jpg",
-    "w": 1000,
-    "h": 1000
    }
   }
  ]
