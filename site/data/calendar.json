@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-10-22T21:15:41Z",
+ "generatedAt": "2026-10-23T00:44:50Z",
  "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-10-08T00:00:00Z",
-  "end": "2027-01-20T00:00:00Z"
+  "start": "2026-10-09T00:00:00Z",
+  "end": "2027-01-21T00:00:00Z"
  },
  "profiles": [
   {
@@ -79,266 +79,6 @@
  ],
  "tags": [],
  "posts": [
-  {
-   "id": "13110726866:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-10-08T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1909, in camp beside a river in British East Africa, Theodore Roosevelt's diary entry for the whole day was one word.\n\nWrote.\n\nThat is the entire page. The printed columns for weather and temperature are blank. Nothing else.\n\nTurn back one leaf and Thursday looks like this: \"2 gazelle, 100 yards / 1 oryx, 120 / 1 giraffe, cow, 130\" — and then, taking up the rest of the page, a giraffe he drew himself in the same purple pencil, with a couple of antelope heads sketched underneath it.\n\nHe was not being cryptic. He kept this diary like a ledger, and he did it often — \"Wrote\" turns up alone twice in 1909, and \"Writing\" and \"Blank\" stand alone too, along with a run of bare place names: Naples, Messina, Aden, Entebbe.\n\nWhat he was writing was the reason the trip could happen at all. Scribner's had paid him $50,000 for the magazine rights to twelve articles, with the book a separate arrangement. The month he spent in that camp became the chapter on the Guaso Nyero, published in Scribner's Magazine the following July.\n\nHe had been in Africa five and a half months. Kermit had gone off to the southwest on 21 September, and the only other European in camp was the professional hunter R. J. Cuninghame. The men who made the camp work were African, and Roosevelt named them: \"my four regular attendants, Bakhari and Gouvimali the gun-bearers, Simba the sais, and Kiboko the skinner.\" Simba is the one to remember. Earlier in the trip, on the Kapiti Plains, a lion turned and came at them; Simba ran up on foot and took the bridle, and Roosevelt would not ride off and leave him. \"Good, Simba,\" he said, \"now we'll see this thing through\" — and shot the lion with his elbow resting on Simba's shoulder. Of the name, he wrote: \"Simba, a lion, and as I shall later show he was not unworthy of it.\"\n\nIt was a collecting expedition for the Smithsonian, and it killed a great deal. By Roosevelt's own tally at the back of African Game Trails he shot 296 animals and Kermit 216. The expedition as a whole killed or trapped some 11,400 — most of them small mammals, birds and reptiles taken by the naturalists.\n\nOn this particular day he shot nothing and went nowhere.\n\nMore: trlibrary.com/tr/post-presidency\n\n#OTD #OnThisDay #TheodoreRoosevelt #AmericanHistory",
-   "media": [
-    {
-     "src": "media/ed5872857969f637.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/7548dd7458e00498.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/7203fb1bef252a9a.jpg",
-     "w": 1000,
-     "h": 809,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/144035749389560/posts/1157060549980787",
-   "sequence": null
-  },
-  {
-   "id": "13110726867:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-10-08T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1909, in camp beside a river in British East Africa, Theodore Roosevelt's diary entry for the whole day was one word.\n\nWrote.\n\nThat is the entire page. The printed columns for weather and temperature are blank. Nothing else.\n\nTurn back one leaf and Thursday looks like this: \"2 gazelle, 100 yards / 1 oryx, 120 / 1 giraffe, cow, 130\" — and then, taking up the rest of the page, a giraffe he drew himself in the same purple pencil, with a couple of antelope heads sketched underneath it.\n\nHe was not being cryptic. He kept this diary like a ledger, and he did it often — \"Wrote\" turns up alone twice in 1909, and \"Writing\" and \"Blank\" stand alone too, along with a run of bare place names: Naples, Messina, Aden, Entebbe.\n\nWhat he was writing was the reason the trip could happen at all. Scribner's had paid him $50,000 for the magazine rights to twelve articles, with the book a separate arrangement. The month he spent in that camp became the chapter on the Guaso Nyero, published in Scribner's Magazine the following July.\n\nHe had been in Africa five and a half months. Kermit had gone off to the southwest on 21 September, and the only other European in camp was the professional hunter R. J. Cuninghame. The men who made the camp work were African, and Roosevelt named them: \"my four regular attendants, Bakhari and Gouvimali the gun-bearers, Simba the sais, and Kiboko the skinner.\" Simba is the one to remember. Earlier in the trip, on the Kapiti Plains, a lion turned and came at them; Simba ran up on foot and took the bridle, and Roosevelt would not ride off and leave him. \"Good, Simba,\" he said, \"now we'll see this thing through\" — and shot the lion with his elbow resting on Simba's shoulder. Of the name, he wrote: \"Simba, a lion, and as I shall later show he was not unworthy of it.\"\n\nIt was a collecting expedition for the Smithsonian, and it killed a great deal. By Roosevelt's own tally at the back of African Game Trails he shot 296 animals and Kermit 216. The expedition as a whole killed or trapped some 11,400 — most of them small mammals, birds and reptiles taken by the naturalists.\n\nOn this particular day he shot nothing and went nowhere.\n\nMore: trlibrary.com/tr/post-presidency\n\n#OTD #OnThisDay #TheodoreRoosevelt #AmericanHistory",
-   "media": [
-    {
-     "src": "media/ed5872857969f637.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/7548dd7458e00498.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/7203fb1bef252a9a.jpg",
-     "w": 1000,
-     "h": 809,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7513931297267023872",
-   "sequence": null
-  },
-  {
-   "id": "13110726915:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-10-08T12:00:00Z",
-   "state": "SEND_FAILED_PERMANENTLY",
-   "text": "#OTD in 1909, in camp beside a river in British East Africa, Theodore Roosevelt's diary entry for the whole day was one word.\n\nWrote.\n\nThat is the entire page — the printed columns for weather and temperature are blank.\n\nTurn back one leaf and Thursday reads \"2 gazelle, 100 yards / 1 oryx, 120 / 1 giraffe, cow, 130,\" and then a giraffe he drew himself in the same purple pencil, filling the rest of the page.\n\nHe was not being cryptic. He kept the diary like a ledger and did this often — \"Wrote\" turns up alone twice in 1909, and \"Writing\" and \"Blank\" stand alone too, along with bare place names: Naples, Messina, Aden, Entebbe.\n\nScribner's had paid him $50,000 for the magazine rights to twelve articles. That is what he was doing.\n\nHe had been in Africa five and a half months. The only other European in camp was the hunter R. J. Cuninghame. The men who made the camp work were African, and he named them: \"my four regular attendants, Bakhari and Gouvimali the gun-bearers, Simba the sais, and Kiboko the skinner.\" Of Simba he wrote: \"Simba, a lion, and as I shall later show he was not unworthy of it.\"\n\nIt was a collecting expedition, and it killed a great deal: by his own tally he shot 296 animals and Kermit 216.\n\nOn this day he shot nothing and went nowhere.\n\nMore at trlibrary.com — link in bio\n\n#OTD #OnThisDay #TheodoreRoosevelt #AmericanHistory",
-   "media": [
-    {
-     "src": "media/2a944d5a06c31b89.jpg",
-     "w": 800,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/999a962fcc2aec2a.jpg",
-     "w": 800,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/3c6f90801ebf1ead.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": null,
-   "sequence": null
-  },
-  {
-   "id": "13110726966:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-10-08T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1909, in camp in British East Africa, TR's whole diary entry for the day was one word:\n\nWrote\n\nThe facing page is a list of what he shot, and a giraffe he drew himself.\n\nScribner's had paid him $50,000 for twelve articles.\n\ntrlibrary.com/tr/post-presidency",
-   "media": [
-    {
-     "src": "media/b71b7886f1f20aa5.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/0678949cacb274cf.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/da8c1eda9d34e1e8.jpg",
-     "w": 1000,
-     "h": 809,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2108165596286275725",
-   "sequence": null
-  },
-  {
-   "id": "13110726999:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-10-08T12:00:00Z",
-   "state": "SENT",
-   "text": "#OTD in 1909, in camp beside a river in British East Africa, TR's diary entry for the whole day was one word: Wrote\n\nThat is the entire page. Turn back one leaf and Thursday reads \"2 gazelle, 100 yards / 1 oryx, 120 / 1 giraffe, cow, 130\" — and then a giraffe he drew himself, filling the page.\n\nScribner's had paid him $50,000 for the magazine rights to twelve articles. On this day he shot nothing and went nowhere.\n\ntrlibrary.com/tr/post-presidency",
-   "media": [
-    {
-     "src": "media/3cb7e87f7f993876.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/fd18f407896f828e.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/4d8fcfc300de1bde.jpg",
-     "w": 1000,
-     "h": 809,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/DeO4n85lk49",
-   "sequence": null
-  },
-  {
-   "id": "13110727024:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-10-08T12:00:00Z",
-   "state": "SEND_FAILED_PERMANENTLY",
-   "text": "#OTD in 1909, in camp in British East Africa, TR's whole diary entry for the day was one word:\n\nWrote\n\nThe facing page is a list of what he shot, and a giraffe he drew himself.\n\nScribner's had paid him $50,000 for twelve articles. That is what he was doing.\n\ntrlibrary.com/tr/post-presidency",
-   "media": [
-    {
-     "src": "media/f6c825c550423b4b.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/bd391be5af6f2db4.jpg",
-     "w": 640,
-     "h": 800,
-     "kind": "image"
-    },
-    {
-     "src": "media/3b0976d5c088e82b.jpg",
-     "w": 1000,
-     "h": 809,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": null,
-   "sequence": null
-  },
-  {
-   "id": "13116157899:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-10-08T20:00:00Z",
-   "state": "SENT",
-   "text": "Thank you, Brian T. Allen and National Review, for visiting the Library. Read the review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n",
-   "media": [],
-   "tags": [],
-   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mxfarx43qp2q",
-   "sequence": null
-  },
-  {
-   "id": "13116158414:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-10-08T20:00:00Z",
-   "state": "SENT",
-   "text": "Thank you, Brian T. Allen and @NRO for visiting the Library.\n\n\"The expansive history museum is in the Badlands, which made the man and made the president.\"\n\nRead the review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n\n#DareGreatly",
-   "media": [],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2108286496419516604",
-   "sequence": null
-  },
-  {
-   "id": "13116158675:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-10-08T20:00:00Z",
-   "state": "SENT",
-   "text": "Thank you, Brian T. Allen and National Review, for visiting the Library and sharing it with your readers.\n\n\"The expansive history museum is in the Badlands, which made the man and made the president.\"\n\nRead the full review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n\n#DareGreatly",
-   "media": [],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/200587388961446/posts/1157405129946329",
-   "sequence": null
-  },
-  {
-   "id": "13116158880:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-10-08T20:00:00Z",
-   "state": "SENT",
-   "text": "Thank you, Brian T. Allen and National Review, for visiting the Theodore Roosevelt Presidential Library and sharing it with your readers.\n\n\"The expansive history museum is in the Badlands, which made the man and made the president.\"\n\nRead the full review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n\n#DareGreatly",
-   "media": [],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7514052208221585409",
-   "sequence": null
-  },
-  {
-   "id": "13116159603:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-10-08T20:00:00Z",
-   "state": "SEND_FAILED_PERMANENTLY",
-   "text": "Thank you, Brian T. Allen and @nationalreview, for visiting the Library and sharing it with your readers.\n\n\"The expansive history museum is in the Badlands, which made the man and made the president.\"\n\nRead the full review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/\n\nPhoto: Theodore Roosevelt Presidential Library Foundation\n\n#DareGreatly",
-   "media": [
-    {
-     "src": "media/18f266d3bdbdc519.jpg",
-     "w": 1000,
-     "h": 583,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": null,
-   "sequence": null
-  },
-  {
-   "id": "13116159683:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-10-08T20:00:00Z",
-   "state": "SENT",
-   "text": "Thank you, Brian T. Allen and @nationalreview, for visiting the Library. Read the review: https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/",
-   "media": [
-    {
-     "src": "media/23bc875c2ea96045.jpg",
-     "w": 1000,
-     "h": 583,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/DePvknrGZ3Q",
-   "sequence": null
-  },
   {
    "id": "13110727373:138241752",
    "profileId": "138241752",
@@ -5845,6 +5585,1842 @@
      "src": "media/8f7278492a6d7035.jpg",
      "w": 824,
      "h": 836,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705186:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-10-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 31 October 1879. TR, 21, spent the day shooting, then went to \"a very pleasant \"All-Hallow E'en\" party at the Swans, where we had great fun, going through the canonical rites and dancing besides.\"\n\nHe doesn't say which rites.",
+   "media": [
+    {
+     "src": "media/b933a40cc20723cc.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/48821b19f52551a2.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/7e5e07fb5d6cf414.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    },
+    {
+     "src": "media/9837db5183801637.jpg",
+     "w": 1000,
+     "h": 674,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705236:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-10-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Friday, 31 October 1879. Theodore Roosevelt was twenty-one — he had turned twenty-one on the Monday — and home at Oyster Bay, away from Harvard in the middle of his senior year.\n\nHe spent the day shooting. From his diary, in his own hand:\n\n\"Took an old gunner, \"Ramson\", and drove off to an old farm house about eight miles off; spent six or seven hours walking through the woods and stubble fields. The quail were plenty; but scattered easily and had to be whistled together.\"\n\nAt the foot of the page, the tally he kept on shooting days: 3 rabbit, 3 woodcock, 9 quail.\n\nThen he washed up and went to a party.\n\n\"In the evening went to a very pleasant \"All-Hallow E'en\" party at the Swans, where we had great fun, going through the canonical rites and dancing besides.\"\n\nThe canonical rites. A twenty-one-year-old treating a parlour game as liturgy — and then, maddeningly, not saying which ones.\n\nSo all anyone can say is what was in the air. An 1879 Halloween was a fortune-telling night, and most of the fortunes were about who you were going to marry. An Ohio paper printing that same weekend ran through the old repertoire: molten lead poured through the wards of a key into water, an apple paring thrown over the left shoulder to land in the shape of an initial, chestnuts set out in pairs. It also observed that the customs varied from one country to another and even between parts of the same country — and thought the rites were dying out anyway, leaving mostly the pranks of youngsters and the carrying-off of gates.\n\nChambers's Book of Days, the standard Victorian catalogue of such things, runs through the British and Irish versions: ducking for apples in a tub of water; nuts named for sweethearts set on the grate, to see whether they burn quietly side by side or jump apart; and, in Scotland, a kail-stalk pulled up blindfold in a dark garden and read for the shape of a future spouse.\n\nHe went through them. He doesn't say which.\n\nWhat the entry does not mention is who had been on his mind that autumn. Nine days earlier he and a friend had given an opera party, and the diary lists the guests — among them \"Rose and Alice.\" Two days after the Swans' party he went into New York and called on the Lees.\n\nHe married Alice Hathaway Lee a year later, on his twenty-second birthday.\n\nhttps://www.trlibrary.com/tr/early-life/harvard",
+   "media": [
+    {
+     "src": "media/74441bd8fcffef60.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4354edfce01d7641.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/a941cdfae3fdcf43.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    },
+    {
+     "src": "media/a3da35b2bd6f2685.jpg",
+     "w": 1000,
+     "h": 674,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705237:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-10-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Friday, 31 October 1879. Theodore Roosevelt was twenty-one — he had turned twenty-one on the Monday — and home at Oyster Bay, away from Harvard in the middle of his senior year.\n\nHe spent the day shooting. From his diary, in his own hand:\n\n\"Took an old gunner, \"Ramson\", and drove off to an old farm house about eight miles off; spent six or seven hours walking through the woods and stubble fields. The quail were plenty; but scattered easily and had to be whistled together.\"\n\nAt the foot of the page, the tally he kept on shooting days: 3 rabbit, 3 woodcock, 9 quail.\n\nThen he washed up and went to a party.\n\n\"In the evening went to a very pleasant \"All-Hallow E'en\" party at the Swans, where we had great fun, going through the canonical rites and dancing besides.\"\n\nThe canonical rites. A twenty-one-year-old treating a parlour game as liturgy — and then, maddeningly, not saying which ones.\n\nSo all anyone can say is what was in the air. An 1879 Halloween was a fortune-telling night, and most of the fortunes were about who you were going to marry. An Ohio paper printing that same weekend ran through the old repertoire: molten lead poured through the wards of a key into water, an apple paring thrown over the left shoulder to land in the shape of an initial, chestnuts set out in pairs. It also observed that the customs varied from one country to another and even between parts of the same country — and thought the rites were dying out anyway, leaving mostly the pranks of youngsters and the carrying-off of gates.\n\nChambers's Book of Days, the standard Victorian catalogue of such things, runs through the British and Irish versions: ducking for apples in a tub of water; nuts named for sweethearts set on the grate, to see whether they burn quietly side by side or jump apart; and, in Scotland, a kail-stalk pulled up blindfold in a dark garden and read for the shape of a future spouse.\n\nHe went through them. He doesn't say which.\n\nWhat the entry does not mention is who had been on his mind that autumn. Nine days earlier he and a friend had given an opera party, and the diary lists the guests — among them \"Rose and Alice.\" Two days after the Swans' party he went into New York and called on the Lees.\n\nHe married Alice Hathaway Lee a year later, on his twenty-second birthday.\n\nhttps://www.trlibrary.com/tr/early-life/harvard",
+   "media": [
+    {
+     "src": "media/74441bd8fcffef60.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4354edfce01d7641.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/a941cdfae3fdcf43.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    },
+    {
+     "src": "media/a3da35b2bd6f2685.jpg",
+     "w": 1000,
+     "h": 674,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705315:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-10-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Friday, 31 October 1879. Theodore Roosevelt was twenty-one, home at Oyster Bay, away from Harvard in the middle of his senior year.\n\nHe spent the day shooting — six or seven hours in the woods and stubble; the quail \"scattered easily and had to be whistled together.\" Then he washed up and went to a party.\n\n\"In the evening went to a very pleasant \"All-Hallow E'en\" party at the Swans, where we had great fun, going through the canonical rites and dancing besides.\"\n\nThe canonical rites. A twenty-one-year-old treating a parlour game as liturgy — and then, maddeningly, not saying which ones.\n\nAn 1879 Halloween was a fortune-telling night, and most of the fortunes were about who you were going to marry. An Ohio paper printing that same weekend ran through the old repertoire: molten lead poured through the wards of a key into water, an apple paring thrown over the left shoulder to land in the shape of an initial, chestnuts set out in pairs. Chambers's Book of Days gives the British and Irish versions: ducking for apples, nuts named for sweethearts burned on the grate, a kail-stalk pulled blindfold in a dark Scottish garden.\n\nHe went through them. He doesn't say which.\n\nNine days earlier his diary had named the party he took to the opera: \"Rose and Alice.\" He married Alice Hathaway Lee a year later, on his twenty-second birthday.\n\n#OTD #TheodoreRoosevelt #Halloween #History",
+   "media": [
+    {
+     "src": "media/c9f68401583e8ccc.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d90748da5dc404c2.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ec1d8912cb0d9bb3.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/69bc6eb6d6b973bd.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705421:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-10-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 31 October 1879. Theodore Roosevelt, 21, spent the day shooting at Oyster Bay, then washed up and went out:\n\n\"In the evening went to a very pleasant \"All-Hallow E'en\" party at the Swans, where we had great fun, going through the canonical rites and dancing besides.\"\n\nThe canonical rites — and then, maddeningly, he doesn't say which. An 1879 Halloween was a fortune-telling night, and most of the fortunes were about who you were going to marry.",
+   "media": [
+    {
+     "src": "media/cc8196b9e9c11abb.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4b4245461d2e10f9.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/63cecd9a81ab68fe.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    },
+    {
+     "src": "media/ba0cf589cc9e123e.jpg",
+     "w": 1000,
+     "h": 674,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705473:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-10-31T12:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 31 October 1879. TR, aged 21, spends the day shooting, then goes out for the evening:\n\n\"went to a very pleasant \"All-Hallow E'en\" party at the Swans, where we had great fun, going through the canonical rites and dancing besides.\"\n\nhttps://www.trlibrary.com/tr/early-life/harvard",
+   "media": [
+    {
+     "src": "media/b0de5d62758334e3.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a4ee6f2ce4d12af0.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/0c7158e9c04bde36.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    },
+    {
+     "src": "media/80a06665cef97d44.jpg",
+     "w": 1000,
+     "h": 674,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705599:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 1 November 1886. The day before New York votes for mayor, the Republican candidate writes to Henry Cabot Lodge. The first thing he says is not about the election:\n\n\"on Saturday next I sail for England to marry Edith Carow.\"\n\nhttps://www.trlibrary.com/tr/rise-to-power/edith-roosevelt",
+   "media": [
+    {
+     "src": "media/f3e86db081e4e519.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/5e48a1a936d61604.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/da63150611ecd18a.jpg",
+     "w": 1000,
+     "h": 818,
+     "kind": "image"
+    },
+    {
+     "src": "media/2c068bfb9f653506.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705620:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The day before New York City voted for mayor, the Republican candidate sat down at his club and wrote to his closest friend. The first thing he told him was not about the election.\n\n1 November 1886. Theodore Roosevelt is twenty-eight. The letter is headed University Club, Madison Square, and opens \"Dear Cabot\" — Henry Cabot Lodge, standing for Congress in Massachusetts that same week.\n\n\"I have written Nannie telling her that on Saturday next I sail for England to marry Edith Carow. The chief reason I was so especially disappointed at not seeing you both this fall was because I wished to tell you in person. You know, old fellow, you and Nannie are more to me than any one else but my own immediate family. The engagement is not to be announced, nor a soul told, until the 8th.\"\n\nRead the dates again. He writes on the first. The city votes on the second. He sails on the sixth. The engagement stays secret until the eighth.\n\nThe election is in the letter, lower down — and even there, Lodge comes first: \"I only pray you may succeed. Here, I have but little chance.\"\n\nTomorrow, the city votes.\n\n#OTD #TheodoreRoosevelt #History #Archives",
+   "media": [
+    {
+     "src": "media/4c1d9fc6461e94a9.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/476e60cd4b7bcaed.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a12cebc55cf3800c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4ca737875de26d89.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705657:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The day before New York City voted for mayor, the Republican candidate sat down at his club and wrote to his closest friend. The first thing he told him was not about the election.\n\nIt is 1 November 1886. Theodore Roosevelt is twenty-eight. The letter is headed University Club, Madison Square, and opens \"Dear Cabot\" — Henry Cabot Lodge, who is standing for Congress in Massachusetts, and whose own election falls the next day too.\n\n\"I have written Nannie telling her that on Saturday next I sail for England to marry Edith Carow. The chief reason I was so especially disappointed at not seeing you both this fall was because I wished to tell you in person. You know, old fellow, you and Nannie are more to me than any one else but my own immediate family. The engagement is not to be announced, nor a soul told, until the 8th.\"\n\nRead the dates in that paragraph again. He writes on the first. The city votes on the second. He sails on the sixth. The engagement is not to be announced until the eighth.\n\nThe election is in the letter, lower down — and even there, Lodge comes first:\n\n\"I only pray you may succeed. Here, I have but little chance. I have made a rattling canvass, with heavy inroads on the Democratic vote; but the 'timid good' are for Hewitt.\"\n\nHe did sail on the Saturday, on the Cunard liner Etruria, with his sister Bamie. Two of his biographers, David McCullough and Nathan Miller, report that the tickets were bought under false names: Mr. and Miss Merrifield.\n\nTomorrow, the city votes.\n\nhttps://www.trlibrary.com/tr/rise-to-power/edith-roosevelt",
+   "media": [
+    {
+     "src": "media/c7dfaebc2ba89863.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/22da615b00e56f09.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f8ba24770d94605b.jpg",
+     "w": 1000,
+     "h": 818,
+     "kind": "image"
+    },
+    {
+     "src": "media/8eb84ddb326ea4bd.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705658:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The day before New York City voted for mayor, the Republican candidate sat down at his club and wrote to his closest friend. The first thing he told him was not about the election.\n\nIt is 1 November 1886. Theodore Roosevelt is twenty-eight. The letter is headed University Club, Madison Square, and opens \"Dear Cabot\" — Henry Cabot Lodge, who is standing for Congress in Massachusetts, and whose own election falls the next day too.\n\n\"I have written Nannie telling her that on Saturday next I sail for England to marry Edith Carow. The chief reason I was so especially disappointed at not seeing you both this fall was because I wished to tell you in person. You know, old fellow, you and Nannie are more to me than any one else but my own immediate family. The engagement is not to be announced, nor a soul told, until the 8th.\"\n\nRead the dates in that paragraph again. He writes on the first. The city votes on the second. He sails on the sixth. The engagement is not to be announced until the eighth.\n\nThe election is in the letter, lower down — and even there, Lodge comes first:\n\n\"I only pray you may succeed. Here, I have but little chance. I have made a rattling canvass, with heavy inroads on the Democratic vote; but the 'timid good' are for Hewitt.\"\n\nHe did sail on the Saturday, on the Cunard liner Etruria, with his sister Bamie. Two of his biographers, David McCullough and Nathan Miller, report that the tickets were bought under false names: Mr. and Miss Merrifield.\n\nTomorrow, the city votes.\n\nhttps://www.trlibrary.com/tr/rise-to-power/edith-roosevelt",
+   "media": [
+    {
+     "src": "media/c7dfaebc2ba89863.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/22da615b00e56f09.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f8ba24770d94605b.jpg",
+     "w": 1000,
+     "h": 818,
+     "kind": "image"
+    },
+    {
+     "src": "media/8eb84ddb326ea4bd.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705684:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 1 November 1886. The day before New York City voted for mayor, the Republican candidate wrote to his closest friend. The first thing he told him was not about the election:\n\n\"I have written Nannie telling her that on Saturday next I sail for England to marry Edith Carow... The engagement is not to be announced, nor a soul told, until the 8th.\"\n\nHe writes on the first. The city votes on the second. He sails on the sixth.",
+   "media": [
+    {
+     "src": "media/a4d57d69dfb2a141.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/e6dd3fb2d519f9b1.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/46306601a25f3ce6.jpg",
+     "w": 1000,
+     "h": 818,
+     "kind": "image"
+    },
+    {
+     "src": "media/8ddb61b838729d97.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705740:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 1 November 1886. The day before New York voted for mayor, the Republican candidate wrote to Lodge. The first thing he said was not about the election:\n\n\"on Saturday next I sail for England to marry Edith Carow.\"",
+   "media": [
+    {
+     "src": "media/5213af675a8a9174.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/3f8bc4a0a68cb835.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/da5dd0f93af60136.jpg",
+     "w": 1000,
+     "h": 818,
+     "kind": "image"
+    },
+    {
+     "src": "media/a4f077e1e0d06a2d.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705853:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 2 November 1886. Theodore Roosevelt, 28, finishes third in the New York City mayoral race — 60,435 votes to Abram Hewitt's 90,552.\n\nHe wires Henry Cabot Lodge, who has just won his seat in Congress. The whole telegram:\n\n\"Am more delighted than I can say. Do come on Thursday.\nAm badly defeated. Worse even than I feared.\"\n\nNote the order. Four days later he sailed for England to be married.",
+   "media": [
+    {
+     "src": "media/4cf0a986a1a1d447.jpg",
+     "w": 844,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/c1db638ff169567a.jpg",
+     "w": 1000,
+     "h": 529,
+     "kind": "image"
+    },
+    {
+     "src": "media/951af2321f5d1da7.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/620ba7e680ede92c.jpg",
+     "w": 767,
+     "h": 807,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118705989:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 2 November 1886. TR finishes third in the New York mayoral race. He wires Lodge, who has just won his seat in Congress:\n\n\"Am more delighted than I can say. Do come on Thursday.\nAm badly defeated. Worse even than I feared.\"\n\nNote the order.",
+   "media": [
+    {
+     "src": "media/33f3f6b99d2b6b60.jpg",
+     "w": 844,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/0d18b009aa2ee861.jpg",
+     "w": 1000,
+     "h": 529,
+     "kind": "image"
+    },
+    {
+     "src": "media/3a6468f1e3aa8a92.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/fa6fa7518a288ca4.jpg",
+     "w": 767,
+     "h": 807,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706028:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 2 November 1886. TR finishes third in the New York mayoral race.\n\nThat night he wires Lodge, who has just won his seat in Congress. The whole wire:\n\n\"Am more delighted than I can say. Do come on Thursday.\nAm badly defeated. Worse even than I feared.\"\n\nhttps://www.trlibrary.com/tr/new-york-politics",
+   "media": [
+    {
+     "src": "media/bc5526447ece21d2.jpg",
+     "w": 844,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b199c6cb68346545.jpg",
+     "w": 1000,
+     "h": 529,
+     "kind": "image"
+    },
+    {
+     "src": "media/2eeb25c20c98f751.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/85a420ba7b22dd3c.jpg",
+     "w": 767,
+     "h": 807,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706057:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "He lost, and he lost badly.\n\nOn 2 November 1886 New York City elected Abram S. Hewitt mayor. Henry George came second. Theodore Roosevelt, twenty-eight and the Republican candidate, came third — 60,435 votes to Hewitt's 90,552.\n\nThe Tribune's front page the next morning does not shout. Six columns of solid grey type, no display headline anywhere. The result sits in a single column at the far right, in letters about a sixth of an inch high: HEWITT THE NEXT MAYOR. Underneath, smaller again: GEORGE RUNS AHEAD OF ROOSEVELT.\n\nRoosevelt wired Henry Cabot Lodge in Boston, who had just won his seat in Congress by 728 votes. This is the whole telegram:\n\n\"Am more delighted than I can say. Do come on Thursday.\nAm badly defeated. Worse even than I feared.\"\n\nNote the order. The first line is about his friend. His own defeat comes second, in eight words, with no excuse attached.\n\nLodge went straight to him and stayed until he sailed. Four days after the first defeat of his political life, Roosevelt left for England. One month later he married Edith Carow in London.\n\n#OTD #TheodoreRoosevelt #History #NewYork",
+   "media": [
+    {
+     "src": "media/6bfad55889f88190.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d3416ef868991edf.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9759d960900c7cf2.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4bbd44e8d3dc44df.jpg",
+     "w": 807,
+     "h": 807,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706077:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "He lost, and he lost badly.\n\nOn 2 November 1886 New York City elected Abram S. Hewitt mayor. Henry George, the single-tax reformer, came second. Theodore Roosevelt, twenty-eight years old and the Republican candidate, came third. The official canvass, declared eleven days later: Hewitt 90,552, George 68,110, Roosevelt 60,435.\n\nThe Tribune's front page the next morning is worth looking at, because it does not shout. Six columns of solid grey type and no display headline anywhere on the page. The result sits in a single column at the far right, in letters about a sixth of an inch high: HEWITT THE NEXT MAYOR. Underneath, smaller again: GEORGE RUNS AHEAD OF ROOSEVELT.\n\nRoosevelt wired Henry Cabot Lodge in Boston, who had just won his seat in Congress by 728 votes. This is the whole telegram:\n\n\"Am more delighted than I can say. Do come on Thursday.\nAm badly defeated. Worse even than I feared.\"\n\nNote the order. The first line is about his friend. His own defeat comes second, in eight words, with no explanation and no excuse attached to it.\n\nLodge went straight to him. He wrote later:\n\n\"I went on immediately after this telegram was received and was with him and his sister until they sailed for Europe a day or two later. Roosevelt had made a fine and very telling campaign and was in excellent spirits in all ways and very happy in his approaching marriage.\"\n\nFour days after the first defeat of his political life, he sailed for England.\n\nOne month later, on 2 December, he married Edith Carow at St George's, Hanover Square, in London.\n\nhttps://www.trlibrary.com/tr/new-york-politics",
+   "media": [
+    {
+     "src": "media/5df750e65a2468c0.jpg",
+     "w": 844,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/147f7fa16aab6b59.jpg",
+     "w": 1000,
+     "h": 529,
+     "kind": "image"
+    },
+    {
+     "src": "media/eedd833fe650f8e8.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/41958060551cd92e.jpg",
+     "w": 767,
+     "h": 807,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706078:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "He lost, and he lost badly.\n\nOn 2 November 1886 New York City elected Abram S. Hewitt mayor. Henry George, the single-tax reformer, came second. Theodore Roosevelt, twenty-eight years old and the Republican candidate, came third. The official canvass, declared eleven days later: Hewitt 90,552, George 68,110, Roosevelt 60,435.\n\nThe Tribune's front page the next morning is worth looking at, because it does not shout. Six columns of solid grey type and no display headline anywhere on the page. The result sits in a single column at the far right, in letters about a sixth of an inch high: HEWITT THE NEXT MAYOR. Underneath, smaller again: GEORGE RUNS AHEAD OF ROOSEVELT.\n\nRoosevelt wired Henry Cabot Lodge in Boston, who had just won his seat in Congress by 728 votes. This is the whole telegram:\n\n\"Am more delighted than I can say. Do come on Thursday.\nAm badly defeated. Worse even than I feared.\"\n\nNote the order. The first line is about his friend. His own defeat comes second, in eight words, with no explanation and no excuse attached to it.\n\nLodge went straight to him. He wrote later:\n\n\"I went on immediately after this telegram was received and was with him and his sister until they sailed for Europe a day or two later. Roosevelt had made a fine and very telling campaign and was in excellent spirits in all ways and very happy in his approaching marriage.\"\n\nFour days after the first defeat of his political life, he sailed for England.\n\nOne month later, on 2 December, he married Edith Carow at St George's, Hanover Square, in London.\n\nhttps://www.trlibrary.com/tr/new-york-politics",
+   "media": [
+    {
+     "src": "media/5df750e65a2468c0.jpg",
+     "w": 844,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/147f7fa16aab6b59.jpg",
+     "w": 1000,
+     "h": 529,
+     "kind": "image"
+    },
+    {
+     "src": "media/eedd833fe650f8e8.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/41958060551cd92e.jpg",
+     "w": 767,
+     "h": 807,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706097:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On the morning of 3 November 1903, the President of the United States went home to vote.\n\nHe came up overnight from Washington, crossed Manhattan behind mounted police, and reached Oyster Bay at a quarter to ten. The superintendent of Sagamore Hill met him with what The Sun called \"a road-worn double seated wagon with yellow wheels, to which a long haired black horse was attached.\"\n\nThe polling place was Fisher's Hall on Main Street, up one flight of stairs over a laundry — the stairway so low the party had to take off their high hats. The Brooklyn Daily Eagle: \"He sprang out of the wagon and ran up the stairway and entered the polling place with the rapid step that is characteristic of him.\"\n\nJames Mills had been watching at the window. He sang out \"Theodore Roosevelt votes ballot No. 82.\" almost before the President was through the door. Then, as the Eagle recorded it: the President said \"Thank you, Mr. Mills.\" Mills said \"Thank you, Mr. President.\"\n\nThe booths were canvas and he picked the worst one, its door hanging \"as though it would like to slip down and fall on the man inside.\" On the way he dodged a big shepherd dog that \"seemed to be a fixture in the hall.\"\n\nThe Tribune's dispatch added a line the others didn't: \"On the way to the polling place the President was cheered by Republicans and Democrats alike, along the route.\"\n\n#OTD #TheodoreRoosevelt #History #OysterBay",
+   "media": [
+    {
+     "src": "media/af00598954ed4308.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4cb085db2c38cb46.jpg",
+     "w": 640,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/4e239d1ee5e11390.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5bad19d22a6f2626.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706149:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 3 November 1903. The President of the United States went home to Oyster Bay to vote.\n\nFisher's Hall on Main Street, up one flight of stairs over a laundry, the ceiling so low the party took off their high hats. Inspector James Mills sang out \"Theodore Roosevelt votes ballot No. 82.\" before he was through the door.\n\nHe took the ballot and said \"Thank you, Mr. Mills.\" Mills said \"Thank you, Mr. President.\"\n\nIn the booth at 9:52; ballot in a minute and a half later.",
+   "media": [
+    {
+     "src": "media/f496c58cbe3040d0.jpg",
+     "w": 1000,
+     "h": 770,
+     "kind": "image"
+    },
+    {
+     "src": "media/85b2ecc9a1e2eb3c.jpg",
+     "w": 600,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/ea7f3363df4a9f9c.jpg",
+     "w": 1000,
+     "h": 730,
+     "kind": "image"
+    },
+    {
+     "src": "media/763f954e56ed6a09.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706185:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On the morning of 3 November 1903, the President of the United States went home to vote.\n\nHe had come up overnight from Washington in a private car, crossed Manhattan behind mounted police, and reached Oyster Bay at a quarter to ten. Noah Seaman, the superintendent of Sagamore Hill, was waiting at the station with a two-seated wagon — \"a road-worn double seated wagon with yellow wheels, to which a long haired black horse was attached,\" as The Sun described it.\n\nThe polling place for the Fifth election district was Fisher's Hall on Main Street, up one flight of stairs over a laundry. The stairway ceiling was so low that the party had to take off their high hats to climb it. The Brooklyn Daily Eagle: \"He sprang out of the wagon and ran up the stairway and entered the polling place with the rapid step that is characteristic of him.\"\n\nJames Mills had been watching at the window and was ready. By The Sun's account he sang out \"Theodore Roosevelt votes ballot No. 82.\" almost before the President was through the door.\n\nThe Eagle's man caught something the other papers missed. Mills — \"one of the inspectors\" — handed over the ballot. The President said \"Thank you, Mr. Mills.\" Mills said \"Thank you, Mr. President.\"\n\nThe booths were canvas and he picked the worst one. \"The door was badly bunged up,\" wrote The Sun, \"and it hung as though it would like to slip down and fall on the man inside.\" On the way to it he dodged a big shepherd dog that, in The Sun's words, \"seemed to be a fixture in the hall.\" He was in the booth at 9:52 and had deposited his ballot, by the same account, a minute and a half later.\n\nThen he shook hands with everyone in the room and went down into the street. Most of those who turned out were school children, which The Sun says \"seemed to please Mr. Roosevelt very much.\" One local worthy missed him altogether: ex-Assemblyman Sol Townsend was at home pouring a pint of castor oil down his cow, which had colic, and the President arrived before he was done.\n\nThe Tribune's Oyster Bay dispatch added a line the others didn't: \"On the way to the polling place the President was cheered by Republicans and Democrats alike, along the route.\"\n\nHe was back on the train a little after eleven. The next morning the Tribune ran photographs of both candidates for mayor of New York at their polling places. Of the President's own morning, two photographs survive at Houghton Library: going in, and coming out with his hat raised under two printed POLLING PLACE signs.\n\nhttps://www.trlibrary.com/tr/presidency",
+   "media": [
+    {
+     "src": "media/eb4122a2cf89c6eb.jpg",
+     "w": 1000,
+     "h": 770,
+     "kind": "image"
+    },
+    {
+     "src": "media/6878177d410691ff.jpg",
+     "w": 600,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/a3a12dd96b3f5e96.jpg",
+     "w": 1000,
+     "h": 730,
+     "kind": "image"
+    },
+    {
+     "src": "media/e260ddbdc8f6c867.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706186:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On the morning of 3 November 1903, the President of the United States went home to vote.\n\nHe had come up overnight from Washington in a private car, crossed Manhattan behind mounted police, and reached Oyster Bay at a quarter to ten. Noah Seaman, the superintendent of Sagamore Hill, was waiting at the station with a two-seated wagon — \"a road-worn double seated wagon with yellow wheels, to which a long haired black horse was attached,\" as The Sun described it.\n\nThe polling place for the Fifth election district was Fisher's Hall on Main Street, up one flight of stairs over a laundry. The stairway ceiling was so low that the party had to take off their high hats to climb it. The Brooklyn Daily Eagle: \"He sprang out of the wagon and ran up the stairway and entered the polling place with the rapid step that is characteristic of him.\"\n\nJames Mills had been watching at the window and was ready. By The Sun's account he sang out \"Theodore Roosevelt votes ballot No. 82.\" almost before the President was through the door.\n\nThe Eagle's man caught something the other papers missed. Mills — \"one of the inspectors\" — handed over the ballot. The President said \"Thank you, Mr. Mills.\" Mills said \"Thank you, Mr. President.\"\n\nThe booths were canvas and he picked the worst one. \"The door was badly bunged up,\" wrote The Sun, \"and it hung as though it would like to slip down and fall on the man inside.\" On the way to it he dodged a big shepherd dog that, in The Sun's words, \"seemed to be a fixture in the hall.\" He was in the booth at 9:52 and had deposited his ballot, by the same account, a minute and a half later.\n\nThen he shook hands with everyone in the room and went down into the street. Most of those who turned out were school children, which The Sun says \"seemed to please Mr. Roosevelt very much.\" One local worthy missed him altogether: ex-Assemblyman Sol Townsend was at home pouring a pint of castor oil down his cow, which had colic, and the President arrived before he was done.\n\nThe Tribune's Oyster Bay dispatch added a line the others didn't: \"On the way to the polling place the President was cheered by Republicans and Democrats alike, along the route.\"\n\nHe was back on the train a little after eleven. The next morning the Tribune ran photographs of both candidates for mayor of New York at their polling places. Of the President's own morning, two photographs survive at Houghton Library: going in, and coming out with his hat raised under two printed POLLING PLACE signs.\n\nhttps://www.trlibrary.com/tr/presidency",
+   "media": [
+    {
+     "src": "media/eb4122a2cf89c6eb.jpg",
+     "w": 1000,
+     "h": 770,
+     "kind": "image"
+    },
+    {
+     "src": "media/6878177d410691ff.jpg",
+     "w": 600,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/a3a12dd96b3f5e96.jpg",
+     "w": 1000,
+     "h": 730,
+     "kind": "image"
+    },
+    {
+     "src": "media/e260ddbdc8f6c867.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706218:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 3 November 1903. The President went home to Oyster Bay to vote — up a flight of stairs over a laundry, into the worst booth in the hall, ballot No. 82.\n\nHe took it and said \"Thank you, Mr. Mills.\" The inspector said \"Thank you, Mr. President.\"",
+   "media": [
+    {
+     "src": "media/a0754493e4ae92da.jpg",
+     "w": 1000,
+     "h": 770,
+     "kind": "image"
+    },
+    {
+     "src": "media/b844cc0e9144adb3.jpg",
+     "w": 600,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/c92ef537c5b72357.jpg",
+     "w": 1000,
+     "h": 730,
+     "kind": "image"
+    },
+    {
+     "src": "media/fcae1622258cf683.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706268:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 3 November 1903. The President went home to Oyster Bay to vote — up one flight of stairs over a laundry, into the worst booth in the hall, ballot No. 82.\n\nThe Tribune: \"the President was cheered by Republicans and Democrats alike, along the route.\"\n\nhttps://www.trlibrary.com/tr/presidency",
+   "media": [
+    {
+     "src": "media/8975a71b522e2c49.jpg",
+     "w": 1000,
+     "h": 770,
+     "kind": "image"
+    },
+    {
+     "src": "media/fa88b42365cc6fb1.jpg",
+     "w": 600,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/666bcabdf76d6096.jpg",
+     "w": 1000,
+     "h": 730,
+     "kind": "image"
+    },
+    {
+     "src": "media/fdac55f209e9ab77.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706327:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-04T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 4 November 1878. Theodore Roosevelt, eight days past his twentieth birthday, decides to find out where his time goes:\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\n7.45 prayers. 8.00 breakfast. 8.30–1.00 study. 1.00 lunch. 1.30–4.30 study. 4.30–6.00 walk. 7.00 dinner with the University Crew. \"Came out towards 12.00 and lounged in Club for a couple of hours.\"\n\nBy Saturday he had stopped keeping the log.",
+   "media": [
+    {
+     "src": "media/251bfce0a75ec505.jpg",
+     "w": 836,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2164df00e20d1251.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/60e1f1c29f33f40b.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/7d707b23ed4217c1.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706368:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-04T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On Monday 4 November 1878, eight days after his twentieth birthday, Theodore Roosevelt decided to find out where his time went.\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\nThen, down the page in his own hand:\n\n7.45 prayers   8.00 breakfast.\n8.30 – 1.00 study. 1.00 lunch.\n1.30 – 4.30 study. 4.30 – 6.00 walk.\n7.00 went to dinner to University Crew.\nCame out towards 12.00 and lounged in Club for a couple of hours.\n\nThe Club is almost certainly the Porcellian, into which he had been initiated on the Saturday — and which had cost him the Sunday: \"Rather under the weather, owing to last nights spree.\"\n\nTuesday begins the same way and is then interrupted. \"To my utter astonishment Nell & Mother turned up, on for the day.\" His brother Elliott and his mother, unannounced. He took Elliott up to the Club, lunched with \"darling little Muffie\" — his mother — in town, and still logged study from three to five, boxing from five to six, whist until nine and study until eleven.\n\nWednesday holds: studied 8.30 to 4.00, then a walk with Dick Saltonstall and Jack Tebbetts.\n\nAnd then the diary goes wrong. Somewhere in that week he got a day ahead of himself. He struck out what he had written on the page headed Thursday, drew two diagonal strokes across it, and wrote the real Thursday entry on the next leaf — crossing out the printed \"FRIDAY 8\" and writing \"Thursday\" above it. Then he re-dated the next four pages by hand, until the diary caught up with itself.\n\nThe accurate abstract survived all of that. Friday: \"Studied 9.00 – 5.30. In the evening had a supper, with 8 or ten of the fellows, in the club — partridges & burgundy. Did not get to bed till towards two a.m.\"\n\nBy Saturday he had stopped keeping the log.\n\nhttps://www.trlibrary.com/tr/early-life/day-in-the-life",
+   "media": [
+    {
+     "src": "media/a75a79248836a9c7.jpg",
+     "w": 836,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/603ff449cf2bf3c1.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/fbfe85542bfcaa41.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/43aa5ed3c9c9adf8.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706369:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-04T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On Monday 4 November 1878, eight days after his twentieth birthday, Theodore Roosevelt decided to find out where his time went.\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\nThen, down the page in his own hand:\n\n7.45 prayers   8.00 breakfast.\n8.30 – 1.00 study. 1.00 lunch.\n1.30 – 4.30 study. 4.30 – 6.00 walk.\n7.00 went to dinner to University Crew.\nCame out towards 12.00 and lounged in Club for a couple of hours.\n\nThe Club is almost certainly the Porcellian, into which he had been initiated on the Saturday — and which had cost him the Sunday: \"Rather under the weather, owing to last nights spree.\"\n\nTuesday begins the same way and is then interrupted. \"To my utter astonishment Nell & Mother turned up, on for the day.\" His brother Elliott and his mother, unannounced. He took Elliott up to the Club, lunched with \"darling little Muffie\" — his mother — in town, and still logged study from three to five, boxing from five to six, whist until nine and study until eleven.\n\nWednesday holds: studied 8.30 to 4.00, then a walk with Dick Saltonstall and Jack Tebbetts.\n\nAnd then the diary goes wrong. Somewhere in that week he got a day ahead of himself. He struck out what he had written on the page headed Thursday, drew two diagonal strokes across it, and wrote the real Thursday entry on the next leaf — crossing out the printed \"FRIDAY 8\" and writing \"Thursday\" above it. Then he re-dated the next four pages by hand, until the diary caught up with itself.\n\nThe accurate abstract survived all of that. Friday: \"Studied 9.00 – 5.30. In the evening had a supper, with 8 or ten of the fellows, in the club — partridges & burgundy. Did not get to bed till towards two a.m.\"\n\nBy Saturday he had stopped keeping the log.\n\nhttps://www.trlibrary.com/tr/early-life/day-in-the-life",
+   "media": [
+    {
+     "src": "media/a75a79248836a9c7.jpg",
+     "w": 836,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/603ff449cf2bf3c1.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/fbfe85542bfcaa41.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/43aa5ed3c9c9adf8.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706404:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-04T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On Monday 4 November 1878, eight days after his twentieth birthday, Theodore Roosevelt decided to find out where his time went.\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\nThen, down the page in his own hand:\n\n7.45 prayers   8.00 breakfast.\n8.30 – 1.00 study. 1.00 lunch.\n1.30 – 4.30 study. 4.30 – 6.00 walk.\n7.00 went to dinner to University Crew.\nCame out towards 12.00 and lounged in Club for a couple of hours.\n\nTuesday begins the same way and is then interrupted: \"To my utter astonishment Nell & Mother turned up, on for the day.\" His brother Elliott and his mother, unannounced.\n\nWednesday holds. Then the diary goes wrong — somewhere that week he got a day ahead of himself, struck out the page headed Thursday, wrote the real Thursday entry on the next leaf, and re-dated the four pages after that by hand, until the diary caught up with itself.\n\nThe accurate abstract survived all of it. Friday: \"Studied 9.00 – 5.30. In the evening had a supper, with 8 or ten of the fellows, in the club — partridges & burgundy. Did not get to bed till towards two a.m.\"\n\nBy Saturday he had stopped keeping the log.\n\n#OTD #TheodoreRoosevelt #Harvard #History",
+   "media": [
+    {
+     "src": "media/e05e065c16e27b3c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/8fa059d611feb9b1.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7a3890eb7ebbead6.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ffcdcf896251d01c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706456:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-04T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 4 November 1878. TR, eight days past his twentieth birthday, decides to audit his own week:\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\n7.45 prayers. Study, lunch, study, walk. Dinner with the University Crew.\n\nhttps://www.trlibrary.com/tr/early-life/day-in-the-life",
+   "media": [
+    {
+     "src": "media/7337f6774666ccaa.jpg",
+     "w": 836,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/0a4af6323d8fbfda.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/0ca94ddc44b66624.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/2d5c0224b56cde41.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706495:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-04T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 4 November 1878. TR, just turned 20, decides to audit his own week: \"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\nPrayers at 7.45. Study, lunch, study, walk, dinner with the University Crew.\n\nBy Saturday he had stopped keeping the log.",
+   "media": [
+    {
+     "src": "media/a8217a5d5b60a05e.jpg",
+     "w": 836,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/47deacab9f219853.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/52dbdc4226a79f69.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/796b8f4fd0e91d27.jpg",
+     "w": 1000,
+     "h": 672,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706567:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-05T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "From June 1902 the Roosevelts did not live in the White House. Charles McKim had gutted it.\n\nOn 5 November they came back. The President stopped in Philadelphia to speak on the way; he and Edith and the two youngest boys, Archie and Quentin, reached Washington at twenty past seven that evening and slept in the house for the first time since the summer. He was at his desk in the new offices west of the house by half past nine the next morning.\n\nThe Evening Star, reporting it, put the state of the place carefully: \"The improvements throughout the building are still incomplete, but there is sufficient completed space for the accommodation of the household for the present.\"\n\nWhich is a generous way of saying the lower floor was still a building site. He left again for New York the following Monday.\n\nThe room that had changed most was the State Dining Room. McKim had pulled out the grand staircase and pushed the room into its footprint, making a room that could seat more than a hundred.\n\nThat sharpened a problem the house had been quietly carrying for a century. An inventory made the year before, under McKinley, had found very little china left from previous administrations — certainly nothing that would set a table for a hundred.\n\nWhat Edith Roosevelt did about that is why there is a White House china collection. She ordered a Wedgwood service of 1,344 pieces. She had cabinets built in the ground-floor corridor where visitors could see the older china. She ruled that nothing be bought — only given or lent. She had the collection made official government property so that it could never be dispersed. And she directed that broken pieces be destroyed rather than sold at auction — TR's military aide Archie Butt wrote that she thought that method \"cheapens the White House.\"\n\nThe idea was not originally hers. Caroline Harrison had wanted a cabinet built for the china a decade earlier and died before it happened. But the collection is Edith's doing, and it begins in a house still too full of builders' dust to lay a table properly.\n\nhttps://www.trlibrary.com/tr/homes-and-places/white-house",
+   "media": [
+    {
+     "src": "media/b4827f1403446a1b.jpg",
+     "w": 1000,
+     "h": 715,
+     "kind": "image"
+    },
+    {
+     "src": "media/2eb42457675da182.jpg",
+     "w": 1000,
+     "h": 800,
+     "kind": "image"
+    },
+    {
+     "src": "media/2cecf03edf66dd56.jpg",
+     "w": 1000,
+     "h": 831,
+     "kind": "image"
+    },
+    {
+     "src": "media/774e78659f95ec1d.jpg",
+     "w": 1000,
+     "h": 863,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706568:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-05T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "From June 1902 the Roosevelts did not live in the White House. Charles McKim had gutted it.\n\nOn 5 November they came back. The President stopped in Philadelphia to speak on the way; he and Edith and the two youngest boys, Archie and Quentin, reached Washington at twenty past seven that evening and slept in the house for the first time since the summer. He was at his desk in the new offices west of the house by half past nine the next morning.\n\nThe Evening Star, reporting it, put the state of the place carefully: \"The improvements throughout the building are still incomplete, but there is sufficient completed space for the accommodation of the household for the present.\"\n\nWhich is a generous way of saying the lower floor was still a building site. He left again for New York the following Monday.\n\nThe room that had changed most was the State Dining Room. McKim had pulled out the grand staircase and pushed the room into its footprint, making a room that could seat more than a hundred.\n\nThat sharpened a problem the house had been quietly carrying for a century. An inventory made the year before, under McKinley, had found very little china left from previous administrations — certainly nothing that would set a table for a hundred.\n\nWhat Edith Roosevelt did about that is why there is a White House china collection. She ordered a Wedgwood service of 1,344 pieces. She had cabinets built in the ground-floor corridor where visitors could see the older china. She ruled that nothing be bought — only given or lent. She had the collection made official government property so that it could never be dispersed. And she directed that broken pieces be destroyed rather than sold at auction — TR's military aide Archie Butt wrote that she thought that method \"cheapens the White House.\"\n\nThe idea was not originally hers. Caroline Harrison had wanted a cabinet built for the china a decade earlier and died before it happened. But the collection is Edith's doing, and it begins in a house still too full of builders' dust to lay a table properly.\n\nhttps://www.trlibrary.com/tr/homes-and-places/white-house",
+   "media": [
+    {
+     "src": "media/b4827f1403446a1b.jpg",
+     "w": 1000,
+     "h": 715,
+     "kind": "image"
+    },
+    {
+     "src": "media/2eb42457675da182.jpg",
+     "w": 1000,
+     "h": 800,
+     "kind": "image"
+    },
+    {
+     "src": "media/2cecf03edf66dd56.jpg",
+     "w": 1000,
+     "h": 831,
+     "kind": "image"
+    },
+    {
+     "src": "media/774e78659f95ec1d.jpg",
+     "w": 1000,
+     "h": 863,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706596:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-05T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 5 November 1902. The Roosevelts move back into a White House that isn't finished. The Evening Star reported the improvements \"still incomplete\" — but enough space done to house the family.\n\nThe lower floor was still a building site.\n\nhttps://www.trlibrary.com/tr/homes-and-places/white-house",
+   "media": [
+    {
+     "src": "media/562358a69ac11424.jpg",
+     "w": 1000,
+     "h": 715,
+     "kind": "image"
+    },
+    {
+     "src": "media/bc2d6bd6a3c18865.jpg",
+     "w": 1000,
+     "h": 800,
+     "kind": "image"
+    },
+    {
+     "src": "media/a966bbff54b33bcb.jpg",
+     "w": 1000,
+     "h": 831,
+     "kind": "image"
+    },
+    {
+     "src": "media/c6b25ed71b786dbc.jpg",
+     "w": 1000,
+     "h": 863,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706616:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-05T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "From June 1902 the Roosevelts did not live in the White House. Charles McKim had gutted it.\n\nOn 5 November they came back — the President stopping in Philadelphia to speak on the way — and slept in the house for the first time since the summer. He was at his desk by half past nine the next morning.\n\nThe Evening Star put the state of the place carefully: \"The improvements throughout the building are still incomplete, but there is sufficient completed space for the accommodation of the household for the present.\" Which is a generous way of saying the lower floor was still a building site.\n\nThe rebuilt State Dining Room could seat more than a hundred — which sharpened a problem. An inventory the year before had found very little china left from previous administrations, and certainly nothing that would set a table for a hundred.\n\nWhat Edith Roosevelt did about that is why there is a White House china collection: a Wedgwood service of 1,344 pieces, cabinets where visitors could see the older china, nothing to be bought — only given or lent — and the collection made government property so it could never be dispersed.\n\n#OTD #TheodoreRoosevelt #WhiteHouse #History",
+   "media": [
+    {
+     "src": "media/5a696d448efe998d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/78cd56a9bfbde594.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/dd5dd08c9f039e21.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4bac00718af0a6ba.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706633:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-05T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 5 November 1902. After nearly five months away while McKim gutted the place, the Roosevelts moved back into the White House.\n\nIt wasn't finished. The Evening Star put it carefully: \"The improvements throughout the building are still incomplete, but there is sufficient completed space for the accommodation of the household for the present.\"\n\nThe lower floor was still a building site.",
+   "media": [
+    {
+     "src": "media/887ace9b557867ee.jpg",
+     "w": 1000,
+     "h": 715,
+     "kind": "image"
+    },
+    {
+     "src": "media/49ba7f0b705b7e26.jpg",
+     "w": 1000,
+     "h": 800,
+     "kind": "image"
+    },
+    {
+     "src": "media/f96cf52d99d53133.jpg",
+     "w": 1000,
+     "h": 831,
+     "kind": "image"
+    },
+    {
+     "src": "media/2314c555a21e5b5c.jpg",
+     "w": 1000,
+     "h": 863,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706663:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-05T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 5 November 1902. The Roosevelts move back into a White House that isn't finished. The Evening Star reported the improvements \"still incomplete\" — but that enough space was done to house the family for now.\n\nThe lower floor was still a building site.",
+   "media": [
+    {
+     "src": "media/818344b65eec9564.jpg",
+     "w": 1000,
+     "h": 715,
+     "kind": "image"
+    },
+    {
+     "src": "media/5af9c50bdb96e4a4.jpg",
+     "w": 1000,
+     "h": 800,
+     "kind": "image"
+    },
+    {
+     "src": "media/a32ff4ac94747f88.jpg",
+     "w": 1000,
+     "h": 831,
+     "kind": "image"
+    },
+    {
+     "src": "media/056b8ebb8fa74488.jpg",
+     "w": 1000,
+     "h": 863,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706704:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-06T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The Cunard liner Etruria was advertised to leave Pier 40, North River, at one o'clock on Saturday 6 November 1886. Mails closed at ten. Cabin passage was $60, $80 and $100.\n\nFour days after losing the New York mayoral election, Theodore Roosevelt went aboard her. The Times listed the party the next morning — \"Mr. and Mrs. Douglas Robinson, Miss Roosevelt, and Mr. Theodore Roosevelt\" — his sister Corinne and her husband, his sister Bamie, and him. They were going over for his wedding.\n\nSomewhere on the same ship was a young British diplomat named Cecil Spring Rice. He had been told in advance that the Roosevelts would be aboard and that he should go and introduce himself. He did.\n\nWriting home about the crossing, Spring Rice described his new acquaintance:\n\n\"I came over with Roosevelt, who has been standing for the mayoralty of New York against H. George and who is supposed to be the boss Republican young man. He is going to be married and then to be in England in February so that you will see him, I hope.\"\n\nTwenty-six days later, Spring Rice was best man at the wedding.\n\nThe Etruria was not the only ship due out of the North River at one o'clock that afternoon. The French liner La Gascogne was leaving at the same hour, carrying Ferdinand de Lesseps and part of the French delegation home from the unveiling of the Statue of Liberty nine days earlier. The Etruria took the lead, and La Gascogne, in the Times' phrase, \"quietly waited until she was well under way before she followed her.\"\n\nThe Sun put the sailing on its front page the next morning. He was, it said, \"accompanied to the steamer by many of his family and friends and sent off with warm wishes and congratulations.\"\n\nA week later, at twenty to twelve on the morning of Saturday 13 November, the Etruria reached Queenstown.\n\nhttps://www.trlibrary.com/tr/people/edith-roosevelt",
+   "media": [
+    {
+     "src": "media/8b96d63d39391d91.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/2c329889f03b16a6.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/2079969c5aa0e9f0.jpg",
+     "w": 970,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5afda59ab2f8c68a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706705:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-06T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The Cunard liner Etruria was advertised to leave Pier 40, North River, at one o'clock on Saturday 6 November 1886. Mails closed at ten. Cabin passage was $60, $80 and $100.\n\nFour days after losing the New York mayoral election, Theodore Roosevelt went aboard her. The Times listed the party the next morning — \"Mr. and Mrs. Douglas Robinson, Miss Roosevelt, and Mr. Theodore Roosevelt\" — his sister Corinne and her husband, his sister Bamie, and him. They were going over for his wedding.\n\nSomewhere on the same ship was a young British diplomat named Cecil Spring Rice. He had been told in advance that the Roosevelts would be aboard and that he should go and introduce himself. He did.\n\nWriting home about the crossing, Spring Rice described his new acquaintance:\n\n\"I came over with Roosevelt, who has been standing for the mayoralty of New York against H. George and who is supposed to be the boss Republican young man. He is going to be married and then to be in England in February so that you will see him, I hope.\"\n\nTwenty-six days later, Spring Rice was best man at the wedding.\n\nThe Etruria was not the only ship due out of the North River at one o'clock that afternoon. The French liner La Gascogne was leaving at the same hour, carrying Ferdinand de Lesseps and part of the French delegation home from the unveiling of the Statue of Liberty nine days earlier. The Etruria took the lead, and La Gascogne, in the Times' phrase, \"quietly waited until she was well under way before she followed her.\"\n\nThe Sun put the sailing on its front page the next morning. He was, it said, \"accompanied to the steamer by many of his family and friends and sent off with warm wishes and congratulations.\"\n\nA week later, at twenty to twelve on the morning of Saturday 13 November, the Etruria reached Queenstown.\n\nhttps://www.trlibrary.com/tr/people/edith-roosevelt",
+   "media": [
+    {
+     "src": "media/8b96d63d39391d91.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/2c329889f03b16a6.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/2079969c5aa0e9f0.jpg",
+     "w": 970,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5afda59ab2f8c68a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706806:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-06T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 6 November 1886. Four days after losing the mayoral race, TR sailed for England to marry Edith Carow.\n\nAboard the same ship was a young diplomat, tipped off to introduce himself. Twenty-six days later Cecil Spring Rice was best man at the wedding.",
+   "media": [
+    {
+     "src": "media/4ee29ff2eeb264f2.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/52716e73ffaea517.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/b277ce538a016a6e.jpg",
+     "w": 970,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/00ecadbfc3d367c7.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706829:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-06T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 6 November 1886. Four days after losing the mayoral race, TR sails for England to marry Edith Carow.\n\nAboard the same ship: a young diplomat, tipped off to introduce himself. Twenty-six days later Cecil Spring Rice was best man at the wedding.\n\nhttps://www.trlibrary.com/tr/people/edith-roosevelt",
+   "media": [
+    {
+     "src": "media/ffa64163d5ad3432.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/05ecdb2a4ccc6026.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/7f740fbe570461dc.jpg",
+     "w": 970,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9c99cef7016e0814.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706868:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-06T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 6 November 1886. The Cunard liner Etruria was advertised out of Pier 40, North River, at one o'clock. Cabin passage $60, $80 and $100.\n\nFour days after losing the New York mayoral race, TR was aboard, bound for England to marry Edith Carow.\n\nSo was a young British diplomat who had been told to go and introduce himself. Twenty-six days later Cecil Spring Rice was best man at the wedding.",
+   "media": [
+    {
+     "src": "media/5f92b1802b9b305f.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/76b4c51cf5d836e0.jpg",
+     "w": 1000,
+     "h": 834,
+     "kind": "image"
+    },
+    {
+     "src": "media/274763b5be2df164.jpg",
+     "w": 970,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4517b09f77a5fa2e.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118706903:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-06T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The Cunard liner Etruria was advertised to leave Pier 40, North River, at one o'clock on Saturday 6 November 1886. Mails closed at ten. Cabin passage was $60, $80 and $100.\n\nFour days after losing the New York mayoral election, Theodore Roosevelt went aboard her. The Times listed the party the next morning — \"Mr. and Mrs. Douglas Robinson, Miss Roosevelt, and Mr. Theodore Roosevelt\" — his sister Corinne and her husband, his sister Bamie, and him. They were going over for his wedding.\n\nSomewhere on the same ship was a young British diplomat named Cecil Spring Rice, who had been told in advance that the Roosevelts would be aboard and that he should go and introduce himself. He did.\n\nWriting home about the crossing: \"I came over with Roosevelt, who has been standing for the mayoralty of New York against H. George and who is supposed to be the boss Republican young man. He is going to be married and then to be in England in February so that you will see him, I hope.\"\n\nTwenty-six days later, Spring Rice was best man at the wedding.\n\n#OTD #TheodoreRoosevelt #History #Archives",
+   "media": [
+    {
+     "src": "media/9bed644a37be1445.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/da594cd933cb1c9c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6e5ec16180483af0.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a7a20588a781f9ad.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118707074:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-07T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Eleven days married. Theodore Roosevelt's diary for Sunday 7 November 1880, in his own hand — this is the whole entry:\n\n\"In the morning I read aloud from the bible; in the afternoon we took a long walk through woods and fields, in the beautiful, clear, cool Autumn weather. Alice is a beautiful walker, with her long, firm step, and clambers over fences about as easily as I do.\n\nMy old hunter keeps us pretty well supplied with woodcock & partridge.\"\n\nIt is the second sentence that does the work. A twenty-two-year-old noting, apparently with pleasure, that his wife can keep up with him and get over a fence as easily as he can.\n\nThe day before, rain had kept them indoors: \"I love to talk over everything with Baby, from Politics to Poetry, and to read aloud to her, either from a History or standard novel or from the daily newspaper that forms our only intercourse with the outside world.\"\n\nThat same Sunday morning the White Star liner Germanic was finally getting to sea. She had been advertised out on the Saturday, but a storm and then dense fog held the whole European fleet at their piers — her captain would not take her through it. She left on the Sunday, and as she passed the light-ship she struck a Dutch ship, the Samarang, which had hove to there to drop her pilot.\n\nAboard the Germanic, according to Geoffrey Ward's life of the young Franklin Roosevelt, were James Roosevelt and Sara Delano, a month into their own honeymoon — they had married on 7 October. James was Theodore's fourth cousin once removed. Their son Franklin, born in January 1882, would be Theodore's fifth cousin.\n\nhttps://www.trlibrary.com/tr/family/fdr-connection",
+   "media": [
+    {
+     "src": "media/d56bf0a6877c5d31.jpg",
+     "w": 988,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f003142ae5dbf1fe.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/24be4bd99b1888c5.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    },
+    {
+     "src": "media/3c36704f10dac54b.jpg",
+     "w": 1000,
+     "h": 713,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118707075:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-07T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Eleven days married. Theodore Roosevelt's diary for Sunday 7 November 1880, in his own hand — this is the whole entry:\n\n\"In the morning I read aloud from the bible; in the afternoon we took a long walk through woods and fields, in the beautiful, clear, cool Autumn weather. Alice is a beautiful walker, with her long, firm step, and clambers over fences about as easily as I do.\n\nMy old hunter keeps us pretty well supplied with woodcock & partridge.\"\n\nIt is the second sentence that does the work. A twenty-two-year-old noting, apparently with pleasure, that his wife can keep up with him and get over a fence as easily as he can.\n\nThe day before, rain had kept them indoors: \"I love to talk over everything with Baby, from Politics to Poetry, and to read aloud to her, either from a History or standard novel or from the daily newspaper that forms our only intercourse with the outside world.\"\n\nThat same Sunday morning the White Star liner Germanic was finally getting to sea. She had been advertised out on the Saturday, but a storm and then dense fog held the whole European fleet at their piers — her captain would not take her through it. She left on the Sunday, and as she passed the light-ship she struck a Dutch ship, the Samarang, which had hove to there to drop her pilot.\n\nAboard the Germanic, according to Geoffrey Ward's life of the young Franklin Roosevelt, were James Roosevelt and Sara Delano, a month into their own honeymoon — they had married on 7 October. James was Theodore's fourth cousin once removed. Their son Franklin, born in January 1882, would be Theodore's fifth cousin.\n\nhttps://www.trlibrary.com/tr/family/fdr-connection",
+   "media": [
+    {
+     "src": "media/d56bf0a6877c5d31.jpg",
+     "w": 988,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f003142ae5dbf1fe.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/24be4bd99b1888c5.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    },
+    {
+     "src": "media/3c36704f10dac54b.jpg",
+     "w": 1000,
+     "h": 713,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118707128:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-07T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 7 November 1880. Eleven days married, TR writes in his diary:\n\n\"Alice is a beautiful walker, with her long, firm step, and clambers over fences about as easily as I do.\"\n\nhttps://www.trlibrary.com/tr/family/fdr-connection",
+   "media": [
+    {
+     "src": "media/bad44083ca99e8f2.jpg",
+     "w": 988,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f2aa9b62a18f9420.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d8d7ea6cad1ca3a3.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    },
+    {
+     "src": "media/03192aa058871d02.jpg",
+     "w": 1000,
+     "h": 713,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118707192:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-07T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 7 November 1880. Eleven days married. The whole of Theodore Roosevelt's diary entry:\n\n\"In the morning I read aloud from the bible; in the afternoon we took a long walk through woods and fields, in the beautiful, clear, cool Autumn weather. Alice is a beautiful walker, with her long, firm step, and clambers over fences about as easily as I do.\n\nMy old hunter keeps us pretty well supplied with woodcock & partridge.\"",
+   "media": [
+    {
+     "src": "media/421b6fb154adaef1.jpg",
+     "w": 988,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2d639f80f658c933.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b54c31f0a8ba25d9.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    },
+    {
+     "src": "media/3cef02e525288d32.jpg",
+     "w": 1000,
+     "h": 713,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118707247:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-07T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Eleven days married. Theodore Roosevelt's diary for Sunday 7 November 1880, in his own hand — this is the whole entry:\n\n\"In the morning I read aloud from the bible; in the afternoon we took a long walk through woods and fields, in the beautiful, clear, cool Autumn weather. Alice is a beautiful walker, with her long, firm step, and clambers over fences about as easily as I do.\n\nMy old hunter keeps us pretty well supplied with woodcock & partridge.\"\n\nIt is the second sentence that does the work — a twenty-two-year-old noting, apparently with pleasure, that his wife can keep up with him and get over a fence as easily as he can.\n\nThe day before, rain had kept them indoors: \"I love to talk over everything with Baby, from Politics to Poetry, and to read aloud to her, either from a History or standard novel or from the daily newspaper that forms our only intercourse with the outside world.\"\n\n#OTD #TheodoreRoosevelt #OysterBay #History",
+   "media": [
+    {
+     "src": "media/fd314387de8d090c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b1c211016760b764.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b0e2ec2029c48abb.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/01c88d5539d9c557.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118707269:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-07T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 7 November 1880. Eleven days married, TR writes in his diary:\n\n\"Alice is a beautiful walker, with her long, firm step, and clambers over fences about as easily as I do.\"\n\nThat, and a line about woodcock, is the whole entry.",
+   "media": [
+    {
+     "src": "media/c721214de423c7f7.jpg",
+     "w": 988,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a6fa626c5cc36872.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f151b830e8c89e32.jpg",
+     "w": 1000,
+     "h": 729,
+     "kind": "image"
+    },
+    {
+     "src": "media/8de3b2e2a5523e52.jpg",
+     "w": 1000,
+     "h": 713,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118713255:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-23T17:05:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library has been nominated for Best New Museum in the USA TODAY 10Best Readers' Choice Awards.\n\nEditors and a panel of experts picked the nominees. Now readers choose the winners. Voting is open through Dec. 21.\n\nCast your vote: https://10best.usatoday.com/qr/67017 ",
+   "media": [
+    {
+     "src": "media/8d5d53f99cf3e8dd.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118713256:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-23T17:05:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library has been nominated for Best New Museum in the USA TODAY 10Best Readers' Choice Awards.\n\nEditors and a panel of experts picked the nominees. Now readers choose the winners. Voting is open through Dec. 21.\n\nCast your vote: https://10best.usatoday.com/qr/67017 ",
+   "media": [
+    {
+     "src": "media/8d5d53f99cf3e8dd.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118713381:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-23T17:05:00Z",
+   "state": "SCHEDULED",
+   "text": "Best New Museum? Help settle it. 🗳️\n\nThe Theodore Roosevelt Presidential Library is a nominee in the USA TODAY 10Best Readers' Choice Awards. Voting is open through Dec. 21. The link is in our bio.\n\nhttps://10best.usatoday.com/qr/67017",
+   "media": [
+    {
+     "src": "media/641d9f45d494ab4f.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118713432:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-23T17:05:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library is up for Best New Museum in the USA TODAY 10Best Readers' Choice Awards. Vote through Dec. 21: https://10best.usatoday.com/qr/67017 ",
+   "media": [
+    {
+     "src": "media/237a4862051db097.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118713508:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-23T17:05:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library is up for Best New Museum in the USA TODAY 10Best Readers' Choice Awards. Vote through Dec. 21: https://10best.usatoday.com/qr/67017",
+   "media": [
+    {
+     "src": "media/226457cc24079f7f.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13118713509:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-23T17:05:00Z",
+   "state": "SCHEDULED",
+   "text": "The Theodore Roosevelt Presidential Library is up for Best New Museum in the USA TODAY 10Best Readers' Choice Awards. Vote through Dec. 21: https://10best.usatoday.com/qr/67017",
+   "media": [
+    {
+     "src": "media/226457cc24079f7f.jpg",
+     "w": 1000,
+     "h": 525,
      "kind": "image"
     }
    ],
