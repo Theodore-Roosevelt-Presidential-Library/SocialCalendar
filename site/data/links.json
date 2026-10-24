@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T18:18:53Z",
+ "generatedAt": "2026-10-24T21:15:09Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -427,27 +427,6 @@
     "src": "media/23bc875c2ea96045.jpg",
     "w": 1000,
     "h": 583
-   }
-  },
-  {
-   "id": "a7eb61df6891",
-   "url": "https://www.trlibrary.com/tr/early-life",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Early Life",
-   "blurb": "Meet the sickly, asthmatic boy of 28 East 20th Street who willed himself strong — Theodore Roosevelt's early years of grit, curiosity, and hard-won…",
-   "publishAt": "2026-10-06T12:00:00Z",
-   "latestAt": "2026-10-06T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/3fbb4dacf65cf346.jpg",
-    "w": 748,
-    "h": 600
    }
   }
  ]
