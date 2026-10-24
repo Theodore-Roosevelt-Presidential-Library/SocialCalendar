@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T09:16:46Z",
+ "generatedAt": "2026-10-24T12:22:01Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -25,6 +25,27 @@
     "src": "media/c4b394cc78fa566f.jpg",
     "w": 1000,
     "h": 1000
+   }
+  },
+  {
+   "id": "0ee1b2575383",
+   "url": "https://www.trlibrary.com/tr/rise-to-power",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Rise to Power",
+   "blurb": "Trace Roosevelt's climb from Rough Rider to the White House — San Juan Hill, a vice presidency meant to sideline him, and the fateful autumn of 1901.",
+   "publishAt": "2026-10-15T12:00:00Z",
+   "latestAt": "2026-10-24T12:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "BLUESKY",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/523ef0c65386adf6.jpg",
+    "w": 513,
+    "h": 640
    }
   },
   {
@@ -239,27 +260,6 @@
     "src": "media/4c4f97960de3bb0b.jpg",
     "w": 836,
     "h": 1000
-   }
-  },
-  {
-   "id": "0ee1b2575383",
-   "url": "https://www.trlibrary.com/tr/rise-to-power",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Rise to Power",
-   "blurb": "Trace Roosevelt's climb from Rough Rider to the White House — San Juan Hill, a vice presidency meant to sideline him, and the fateful autumn of 1901.",
-   "publishAt": "2026-10-15T12:00:00Z",
-   "latestAt": "2026-10-15T12:00:00Z",
-   "channels": [
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "BLUESKY",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/523ef0c65386adf6.jpg",
-    "w": 513,
-    "h": 640
    }
   },
   {
