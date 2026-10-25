@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-25T09:16:43Z",
+ "generatedAt": "2026-10-25T12:22:27Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "323fdbf77ce9",
+   "url": "https://www.trlibrary.com/tr/presidency/booker-t-washington",
+   "host": "trlibrary.com",
+   "headline": "The Dinner with Booker T.",
+   "blurb": "On October 16, 1901, President Theodore Roosevelt invited Booker T.",
+   "publishAt": "2026-10-16T12:00:00Z",
+   "latestAt": "2026-10-25T12:00:00Z",
+   "channels": [
+    "TWITTER",
+    "THREADS",
+    "BLUESKY",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/4c4f97960de3bb0b.jpg",
+    "w": 836,
+    "h": 1000
+   }
+  },
   {
    "id": "4a71a5abd98d",
    "url": "https://www.nationalreview.com/magazine/2026/12/how-the-west-won-teddy-roosevelt/",
@@ -239,27 +260,6 @@
     "src": "media/4b5b1d1b318bc6b9.jpg",
     "w": 1000,
     "h": 524
-   }
-  },
-  {
-   "id": "323fdbf77ce9",
-   "url": "https://www.trlibrary.com/tr/presidency/booker-t-washington",
-   "host": "trlibrary.com",
-   "headline": "The Dinner with Booker T.",
-   "blurb": "On October 16, 1901, President Theodore Roosevelt invited Booker T.",
-   "publishAt": "2026-10-16T12:00:00Z",
-   "latestAt": "2026-10-16T12:00:00Z",
-   "channels": [
-    "TWITTER",
-    "THREADS",
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY"
-   ],
-   "thumb": {
-    "src": "media/4c4f97960de3bb0b.jpg",
-    "w": 836,
-    "h": 1000
    }
   },
   {
