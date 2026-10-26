@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-10-25T21:14:16Z",
+ "generatedAt": "2026-10-26T00:46:41Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "a4584a4d2eab",
+   "url": "https://www.trlibrary.com/tr/new-york-politics/alice-lee",
+   "host": "trlibrary.com",
+   "headline": "Alice Hathaway Lee Roosevelt: Theodore's First Love",
+   "blurb": "Theodore Roosevelt met Alice Hathaway Lee at a Chestnut Hill dinner in 1878 and fell in love at first sight with the young woman who became his first…",
+   "publishAt": "2026-10-27T12:00:00Z",
+   "latestAt": "2026-10-27T12:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/adf0881a4a58813b.jpg",
+    "w": 930,
+    "h": 880
+   }
+  },
   {
    "id": "323fdbf77ce9",
    "url": "https://www.trlibrary.com/tr/presidency/booker-t-washington",
