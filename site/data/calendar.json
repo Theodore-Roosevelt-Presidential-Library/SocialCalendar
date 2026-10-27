@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T12:25:47Z",
+ "generatedAt": "2026-10-27T15:18:04Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-10-13T00:00:00Z",
@@ -4202,7 +4202,7 @@
    "id": "13119310717:138948229",
    "profileId": "138948229",
    "scheduledAt": "2026-10-27T14:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Theodore Roosevelt was born 168 years ago today, on October 27, 1858, in New York City.\n\nHelp celebrate by signing his birthday card. Blow out the candles, add your name and share your wish for the world. The best wishes will appear on the card for everyone to read.\n\nSign the card at the link in our bio, or go to https://ow.ly/MHhg5101fZN \n\n#HappyBirthdayTR #DareGreatly #TheodoreRoosevelt #NorthDakota",
    "media": [
     {
@@ -4213,14 +4213,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.instagram.com/p/DfABh3Tl7by/",
    "sequence": null
   },
   {
    "id": "13119310752:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-10-27T14:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Theodore Roosevelt was born 168 years ago today, on October 27, 1858, in New York City.\n\nHelp celebrate by signing his birthday card. Blow out the candles, add your name and share your wish for the world. The best wishes will appear on the card for everyone to read.\n\nSign the card: https://ow.ly/OONz5101g0b \n\n#HappyBirthdayTR #DareGreatly",
    "media": [
     {
@@ -4231,14 +4231,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.facebook.com/144035749389560/posts/1175146564838852",
    "sequence": null
   },
   {
    "id": "13119310753:138241752",
    "profileId": "138241752",
    "scheduledAt": "2026-10-27T14:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Theodore Roosevelt was born 168 years ago today, on October 27, 1858, in New York City.\n\nHelp celebrate by signing his birthday card. Blow out the candles, add your name and share your wish for the world. The best wishes will appear on the card for everyone to read.\n\nSign the card: https://ow.ly/BYxF5101g0c \n\n#HappyBirthdayTR #DareGreatly",
    "media": [
     {
@@ -4249,14 +4249,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7520847787362697218",
    "sequence": null
   },
   {
    "id": "13119310773:138250117",
    "profileId": "138250117",
    "scheduledAt": "2026-10-27T14:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Happy 168th birthday, Theodore Roosevelt! Born October 27, 1858. Blow out the candles, sign his birthday card and share your wish for the world: https://ow.ly/uROP5101g0B #DareGreatly",
    "media": [
     {
@@ -4267,14 +4267,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://x.com/783364650180104192/status/2115081363816612048",
    "sequence": null
   },
   {
    "id": "13119310774:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-10-27T14:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Happy 168th birthday, Theodore Roosevelt! Born October 27, 1858. Blow out the candles, sign his birthday card and share your wish for the world: https://ow.ly/88Zg5101g0A #DareGreatly",
    "media": [
     {
@@ -4285,14 +4285,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3myufkhj7d22y",
    "sequence": null
   },
   {
    "id": "13119310775:138745276",
    "profileId": "138745276",
    "scheduledAt": "2026-10-27T14:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Happy 168th birthday, Theodore Roosevelt! Born October 27, 1858. Blow out the candles, sign his birthday card and share your wish for the world: https://ow.ly/6JbI5101g0z #DareGreatly",
    "media": [
     {
@@ -4303,7 +4303,7 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.threads.com/@trlibrary/post/DfABgxDlnyd",
    "sequence": null
   },
   {
@@ -4731,6 +4731,132 @@
      "src": "media/07b84cd3ca61feb9.jpg",
      "w": 1000,
      "h": 790,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13119332333:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-10-29T21:00:00Z",
+   "state": "SCHEDULED",
+   "text": "You know these pictures. Meet the photographer who took them.\n\n@kennerly \"In the Room\" is on view at the Theodore Roosevelt Presidential Library through Jan. 10, 2027. #DareGreatly\n\nhttps://www.trlibrary.com/calendar/daily-activity/david-hume-kennerly-exhibition",
+   "media": [
+    {
+     "src": "media/0a4913f9a83f4d1b.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13119332405:138241987",
+   "profileId": "138241987",
+   "scheduledAt": "2026-10-29T21:00:00Z",
+   "state": "SCHEDULED",
+   "text": "You know these pictures. Meet the photographer who took them. David Hume Kennerly's \"In the Room\" is on view at the Theodore Roosevelt Presidential Library in Medora through Jan. 10, 2027. Details: link in bio. #DareGreatly #InTheRoom #Photojournalism #History",
+   "media": [
+    {
+     "src": "media/8cbe2ba599da754f.jpg",
+     "w": 562,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13119332487:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-10-29T21:00:00Z",
+   "state": "SCHEDULED",
+   "text": "You know these pictures. Meet the photographer who took them.\n\n@davidhumekennerly's \"In the Room\" is on view in Medora for a limited time, through Jan. 10, 2027. #DareGreatly\n\nhttps://www.trlibrary.com/calendar/daily-activity/david-hume-kennerly-exhibition",
+   "media": [
+    {
+     "src": "media/7c4712caae87835b.jpg",
+     "w": 562,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13119332644:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-10-29T21:00:00Z",
+   "state": "SCHEDULED",
+   "text": "You know these pictures. Now meet the photographer who took them.\n\nFor sixty years, @davidhumekennerly has stood where history was made: on the front lines in Vietnam, where his photographs earned the 1972 Pulitzer Prize; inside the White House as President Ford's personal photographer; and at summits, campaigns and turning points ever since.\n\n\"In the Room: Sixty Years on the Front Lines of History\" is on view at the Theodore Roosevelt Presidential Library in Medora for a limited time, through January 10, 2027. Included with general admission and free for Members.\n\nExhibition details: link in bio\n\nPhotographs © Center for Creative Photography, Arizona Board of Regents.\n\n#DareGreatly #InTheRoom #Medora #NorthDakota #Photojournalism",
+   "media": [
+    {
+     "src": "media/5f6acd44cce8286c.jpg",
+     "w": 562,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13119332718:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-10-29T21:00:00Z",
+   "state": "SCHEDULED",
+   "text": "You know these pictures. Meet the photographer who took them.\n\nDavid Hume Kennerly's \"In the Room\" is on view in Medora for a limited time, through Jan. 10, 2027.\n\nhttps://www.trlibrary.com/calendar/daily-activity/david-hume-kennerly-exhibition",
+   "media": [
+    {
+     "src": "media/50edb4c30f0f6699.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13119333057:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-10-29T21:00:00Z",
+   "state": "SCHEDULED",
+   "text": "You know these pictures. Now meet the photographer who took them.\n\nFor sixty years, David Hume Kennerly stood where history was made: on the front lines in Vietnam, where his photographs earned the 1972 Pulitzer Prize; inside the White House as President Ford's personal photographer; and at summits, campaigns and turning points ever since.\n\n\"In the Room: Sixty Years on the Front Lines of History\" is on view at the Theodore Roosevelt Presidential Library in Medora for a limited time, through January 10, 2027. Included with general admission and free for Members.\n\nSee the exhibition: https://www.trlibrary.com/calendar/daily-activity/david-hume-kennerly-exhibition\n\nPhotographs © Center for Creative Photography, Arizona Board of Regents.\n#DareGreatly",
+   "media": [
+    {
+     "src": "media/0efc7b4e97c37e8f.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13119333174:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-10-29T21:00:00Z",
+   "state": "SCHEDULED",
+   "text": "You know these pictures. Now meet the photographer who took them.\n\nFor sixty years, David Hume Kennerly has stood where history was made: on the front lines in Vietnam, where his photographs earned the 1972 Pulitzer Prize; inside the White House as President Ford's personal photographer; and at summits, campaigns and turning points ever since.\n\n\"In the Room: Sixty Years on the Front Lines of History\" is on view at the Theodore Roosevelt Presidential Library in Medora for a limited time, through January 10, 2027. Included with general admission and free for Members.\n\nSee the exhibition: https://www.trlibrary.com/calendar/daily-activity/david-hume-kennerly-exhibition\n\nPhotographs © Center for Creative Photography, Arizona Board of Regents.\n#DareGreatly",
+   "media": [
+    {
+     "src": "media/6481a761468e5a71.jpg",
+     "w": 1000,
+     "h": 563,
      "kind": "image"
     }
    ],

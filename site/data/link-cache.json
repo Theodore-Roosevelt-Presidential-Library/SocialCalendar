@@ -1245,5 +1245,12 @@
   "description": "Add your name and share a wish for the world.",
   "image": "https://card.labs.trlibrary.com/assets/img/og-card.jpg",
   "site": null
+ },
+ "https://www.trlibrary.com/calendar/daily-activity/david-hume-kennerly-exhibition": {
+  "final": "https://www.trlibrary.com/calendar/daily-activity/room-sixty-years-front-lines-history",
+  "title": "In the Room: Sixty Years on the Front Lines of History",
+  "description": "Roosevelt understood the camera before most politicians did. He posed in buckskin in the Badlands, stood with John Muir at Yosemite, and left behind one of the",
+  "image": "https://www.trlibrary.com/themes/custom/trpl/images/metatags/logo.jpeg",
+  "site": "Theodore Roosevelt Presidential Library"
  }
 }
