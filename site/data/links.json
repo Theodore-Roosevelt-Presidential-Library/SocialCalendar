@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T09:20:45Z",
+ "generatedAt": "2026-10-27T12:26:38Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -23,6 +23,28 @@
     "src": "media/bc5526447ece21d2.jpg",
     "w": 844,
     "h": 1000
+   }
+  },
+  {
+   "id": "49b26553562f",
+   "url": "https://card.labs.trlibrary.com/?c=tr-birthday-2026&utm_source=social&utm_medium=organic&utm_campaign=tr-birthday-2026",
+   "host": "card.labs.trlibrary.com",
+   "headline": "Happy 168th birthday, Theodore Roosevelt!",
+   "blurb": "Add your name and share a wish for the world.",
+   "publishAt": "2026-10-27T14:00:00Z",
+   "latestAt": "2026-10-27T14:00:00Z",
+   "channels": [
+    "INSTAGRAMBUSINESS",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "BLUESKY",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/16086ced955715fd.jpg",
+    "w": 1000,
+    "h": 525
    }
   },
   {
@@ -444,27 +466,6 @@
     "src": "media/c38d456934085d65.jpg",
     "w": 821,
     "h": 1000
-   }
-  },
-  {
-   "id": "829cae95eaad",
-   "url": "https://www.nationalreview.com/2026/10/bully-as-teddy-would-say-about-time-for-roosevelts-presidential-library/",
-   "host": "National Review",
-   "headline": "Bully, as Teddy Would Say: About Time for Roosevelt’s Presidential Library",
-   "blurb": "The expansive history museum is in the Badlands, which made the man and made the president.",
-   "publishAt": "2026-10-08T20:00:00Z",
-   "latestAt": "2026-10-08T20:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/23bc875c2ea96045.jpg",
-    "w": 1000,
-    "h": 583
    }
   }
  ]
