@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-10-26T21:16:15Z",
+ "generatedAt": "2026-10-27T00:45:14Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "8c9ad2805b61",
+   "url": "https://www.trlibrary.com/tr/new-york-politics",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt in New York Politics",
+   "blurb": "Roosevelt's first years in politics — a cyclone in the Albany Assembly at twenty-three, and the single February day in 1884 that changed his life…",
+   "publishAt": "2026-10-28T12:00:00Z",
+   "latestAt": "2026-10-28T12:00:00Z",
+   "channels": [
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/bc5526447ece21d2.jpg",
+    "w": 844,
+    "h": 1000
+   }
+  },
   {
    "id": "a4584a4d2eab",
    "url": "https://www.trlibrary.com/tr/new-york-politics/alice-lee",
