@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T09:15:10Z",
+ "generatedAt": "2026-10-28T12:19:03Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -464,26 +464,6 @@
    "thumb": {
     "src": "media/bf425e69b1f6dfc6.jpg",
     "w": 801,
-    "h": 1000
-   }
-  },
-  {
-   "id": "146e3f50b40c",
-   "url": "https://www.am1100theflag.com/episode/from-white-house-lenses-to-local-wards-pink-at-the-pump-live-10-1-26/",
-   "host": "am1100theflag.com",
-   "headline": "From White House Lenses to Local Wards: Pink at the Pump Live!",
-   "blurb": "Broadcast live on location from PetroServe USA in Harwood, ND, Scott Hennon kicks off October's \"Pink at the Pump\" campaign, showing how everyday…",
-   "publishAt": "2026-10-09T16:00:00Z",
-   "latestAt": "2026-10-09T16:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/3af6b23622a5eeeb.jpg",
-    "w": 562,
     "h": 1000
    }
   }
