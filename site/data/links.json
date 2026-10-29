@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T09:15:26Z",
+ "generatedAt": "2026-10-29T12:19:45Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -444,27 +444,6 @@
     "src": "media/14b4d094b41abc6f.jpg",
     "w": 1000,
     "h": 667
-   }
-  },
-  {
-   "id": "57fcdf04d012",
-   "url": "https://www.trlibrary.com/tr/presidency/conservation/bird-reserves",
-   "host": "trlibrary.com",
-   "headline": "51 Federal Bird Reserves: Roosevelt's Ornithological Vision",
-   "blurb": "A boyhood love of birds led Theodore Roosevelt to establish 51 federal bird reserves, pioneering federal protection for America's wildlife.",
-   "publishAt": "2026-10-10T12:00:00Z",
-   "latestAt": "2026-10-10T12:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/bf425e69b1f6dfc6.jpg",
-    "w": 801,
-    "h": 1000
    }
   }
  ]
