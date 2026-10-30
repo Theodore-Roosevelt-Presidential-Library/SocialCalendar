@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T12:19:02Z",
+ "generatedAt": "2026-10-30T15:11:59Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-10-16T00:00:00Z",
@@ -6224,6 +6224,726 @@
     {
      "src": "media/ae33e2a3d19f7d0a.jpg",
      "w": 830,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120048658:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-12T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 12 Nov 1879. Theodore Roosevelt, Harvard senior, age 21, in his diary:\n\n\"I have been off on a great many sprees this year, and have been studying well and keeping late hours ...\"\n\nHe credited a summer in top condition for standing the pace.",
+   "media": [
+    {
+     "src": "media/c675b5f736a2d1a5.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b0074965bf312bc8.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/786db50931c207d6.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120048761:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-12T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 12 November 1879. Theodore Roosevelt, a Harvard senior of 21, writes in his diary:\n\n\"I have been off on a great many sprees this year, and have been studying well and keeping late hours; thanks to the magnificent condition I am in after the summer I seem to stand it pretty well.\"\n\nThat summer he had climbed Mount Katahdin in Maine.",
+   "media": [
+    {
+     "src": "media/049be6cec8d50f5f.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/0345a625f053fa93.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/e0e2d64d73e75290.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120048853:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-12T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 12 Nov 1879. Harvard senior Theodore Roosevelt, 21, in his diary:\n\n\"I have been off on a great many sprees this year, and have been studying well and keeping late hours ...\"\n\nHe credited his summer conditioning.\n\nhttps://www.trlibrary.com/tr/early-life/harvard",
+   "media": [
+    {
+     "src": "media/66f0ded1f5be972d.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/95a8c7bb8e17245f.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/067ac87e2d1b8867.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120049284:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-12T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Theodore Roosevelt at 21, in his own words.\n\nIn the fall of 1879 he was a senior at Harvard. His diary for Wednesday 12 November records a drive out to the Saltonstalls, the family whose home in Chestnut Hill was where he had met Alice Hathaway Lee the year before. Then he took stock of college life.\n\nHe spent most of his spare time \"in the club,\" he wrote, and went \"a good deal\" to the Alpha Delta Phi, where the members were \"very pleasant and intellectual,\" which he called \"a rare thing with college boys.\"\n\nThen this:\n\n\"I have been off on a great many sprees this year, and have been studying well and keeping late hours; thanks to the magnificent condition I am in after the summer I seem to stand it pretty well.\"\n\nThat summer he had gone back to the Maine woods and climbed Mount Katahdin with the guides Bill Sewall and Wilmot Dow. Five years later, Sewall and Dow came west to help run Roosevelt's Elkhorn Ranch in the Dakota Badlands.\n\nHe was also courting Alice. She said yes in January.\n\nThe diary page survives in the Theodore Roosevelt Papers at the Library of Congress and is shown here, along with his room in Cambridge and a photograph taken that May of Alice, her cousin Rose Saltonstall, and Theodore.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Harvard #AmericanHistory",
+   "media": [
+    {
+     "src": "media/d1c6a248a16f64d8.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/717f5713c09212ae.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/be6b73cd61321650.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120049405:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-12T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Theodore Roosevelt at 21, in his own words.\n\nIn the fall of 1879 he was a senior at Harvard. His diary for Wednesday 12 November records a drive out to the Saltonstalls, the family whose home in Chestnut Hill was where he had met Alice Hathaway Lee the year before. Then he took stock of college life.\n\nHe spent most of his spare time \"in the club,\" he wrote, and went \"a good deal\" to the Alpha Delta Phi, where the members were \"very pleasant and intellectual,\" which he called \"a rare thing with college boys.\"\n\nThen this:\n\n\"I have been off on a great many sprees this year, and have been studying well and keeping late hours; thanks to the magnificent condition I am in after the summer I seem to stand it pretty well.\"\n\nThat summer he had gone back to the Maine woods and climbed Mount Katahdin with the guides Bill Sewall and Wilmot Dow. Five years later, Sewall and Dow came west to help run Roosevelt's Elkhorn Ranch in the Dakota Badlands.\n\nHe was also courting Alice. She said yes in January.\n\nThe diary page survives in the Theodore Roosevelt Papers at the Library of Congress and is shown here, along with his room in Cambridge and a photograph taken that May of Alice, her cousin Rose Saltonstall, and Theodore.\n\nhttps://www.trlibrary.com/tr/early-life/harvard",
+   "media": [
+    {
+     "src": "media/aa42e05995a26427.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/98b40b71c4577f46.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/41f33f99b995f560.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120049406:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-12T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Theodore Roosevelt at 21, in his own words.\n\nIn the fall of 1879 he was a senior at Harvard. His diary for Wednesday 12 November records a drive out to the Saltonstalls, the family whose home in Chestnut Hill was where he had met Alice Hathaway Lee the year before. Then he took stock of college life.\n\nHe spent most of his spare time \"in the club,\" he wrote, and went \"a good deal\" to the Alpha Delta Phi, where the members were \"very pleasant and intellectual,\" which he called \"a rare thing with college boys.\"\n\nThen this:\n\n\"I have been off on a great many sprees this year, and have been studying well and keeping late hours; thanks to the magnificent condition I am in after the summer I seem to stand it pretty well.\"\n\nThat summer he had gone back to the Maine woods and climbed Mount Katahdin with the guides Bill Sewall and Wilmot Dow. Five years later, Sewall and Dow came west to help run Roosevelt's Elkhorn Ranch in the Dakota Badlands.\n\nHe was also courting Alice. She said yes in January.\n\nThe diary page survives in the Theodore Roosevelt Papers at the Library of Congress and is shown here, along with his room in Cambridge and a photograph taken that May of Alice, her cousin Rose Saltonstall, and Theodore.\n\nhttps://www.trlibrary.com/tr/early-life/harvard",
+   "media": [
+    {
+     "src": "media/aa42e05995a26427.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/98b40b71c4577f46.jpg",
+     "w": 1000,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/41f33f99b995f560.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120049567:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-13T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 13 November 1905. The British hunter F. C. Selous visits the White House. Before dinner, Theodore Roosevelt gets him to tell \"delightfully exciting lion and hyena stories to Ethel, Archie and Quentin.\"\n\n\"He told them most vividly and so enthralled the little boys that the next evening I had to tell them a large number myself.\"",
+   "media": [
+    {
+     "src": "media/bd90350925d7f167.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/13cd54f37406b124.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/77edf0e9fcdba1b4.jpg",
+     "w": 1000,
+     "h": 771,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120049653:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-13T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 13 Nov 1905. British hunter F. C. Selous visits the White House, and Theodore Roosevelt gets him to tell \"delightfully exciting lion and hyena stories to Ethel, Archie and Quentin.\"",
+   "media": [
+    {
+     "src": "media/0b2fee5317bb5c7c.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f5ccede6cf103d10.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9fdcd8cf199dad9b.jpg",
+     "w": 1000,
+     "h": 771,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120049762:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-13T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 13 Nov 1905. British hunter F. C. Selous stays at the White House. Before dinner, Theodore Roosevelt gets him to tell \"delightfully exciting lion and hyena stories to Ethel, Archie and Quentin.\"\n\nhttps://www.trlibrary.com/tr/post-presidency/african-safari",
+   "media": [
+    {
+     "src": "media/1e78fcfda8b1da7d.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/fd1cc96788732c20.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2a6e749f5aced6f6.jpg",
+     "w": 1000,
+     "h": 771,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120049905:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-13T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Lion stories at the White House.\n\nOn Monday 13 November 1905, President Theodore Roosevelt had a houseguest he admired: Frederick Courteney Selous, the British hunter and explorer. Selous had spent decades in southern Africa, a career that included guiding Cecil Rhodes's 1890 expedition into what became Rhodesia, now Zimbabwe.\n\n\"He is a perfect old dear; just as simple and natural as can be and very interesting,\" Roosevelt wrote to his son Kermit a few days later.\n\nIn the afternoon Roosevelt took him \"for a good scramble and climb\" with a party that included Gifford Pinchot. Before dinner, he wrote, he got Selous \"to spend three-quarters of an hour in telling delightfully exciting lion and hyena stories to Ethel, Archie and Quentin.\"\n\n\"He told them most vividly and so enthralled the little boys that the next evening I had to tell them a large number myself.\"\n\nSome of those stories the children already knew from their father reading them aloud, as he recalled years later in his Autobiography. Once Selous told them, he admitted, \"my own rendering of the incidents was cast entirely into the shade.\"\n\nIn 1909 Roosevelt went to Africa himself, and Selous was there too. The two of them rode the front of a train together in British East Africa that year, shown here.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #WhiteHouse #AmericanHistory",
+   "media": [
+    {
+     "src": "media/9bdae9eab60a1b78.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/c05c7faa8a8364fe.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/06c5d7489cb21c29.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050013:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-13T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Lion stories at the White House.\n\nOn Monday 13 November 1905, President Theodore Roosevelt had a houseguest he admired: Frederick Courteney Selous, the British hunter and explorer. Selous had spent decades in southern Africa, a career that included guiding Cecil Rhodes's 1890 expedition into what became Rhodesia, now Zimbabwe.\n\n\"He is a perfect old dear; just as simple and natural as can be and very interesting,\" Roosevelt wrote to his son Kermit a few days later.\n\nIn the afternoon Roosevelt took him \"for a good scramble and climb\" with a party that included Gifford Pinchot. Before dinner, he wrote, he got Selous \"to spend three-quarters of an hour in telling delightfully exciting lion and hyena stories to Ethel, Archie and Quentin.\"\n\n\"He told them most vividly and so enthralled the little boys that the next evening I had to tell them a large number myself.\"\n\nSome of those stories the children already knew from their father reading them aloud, as he recalled years later in his Autobiography. Once Selous told them, he admitted, \"my own rendering of the incidents was cast entirely into the shade.\"\n\nIn 1909 Roosevelt went to Africa himself, and Selous was there too. The two of them rode the front of a train together in British East Africa that year, shown here.\n\nhttps://www.trlibrary.com/tr/post-presidency/african-safari",
+   "media": [
+    {
+     "src": "media/c513df6865b45a6d.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d3b15476f9871b9b.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d927ec60c9270ea5.jpg",
+     "w": 1000,
+     "h": 771,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050014:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-13T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Lion stories at the White House.\n\nOn Monday 13 November 1905, President Theodore Roosevelt had a houseguest he admired: Frederick Courteney Selous, the British hunter and explorer. Selous had spent decades in southern Africa, a career that included guiding Cecil Rhodes's 1890 expedition into what became Rhodesia, now Zimbabwe.\n\n\"He is a perfect old dear; just as simple and natural as can be and very interesting,\" Roosevelt wrote to his son Kermit a few days later.\n\nIn the afternoon Roosevelt took him \"for a good scramble and climb\" with a party that included Gifford Pinchot. Before dinner, he wrote, he got Selous \"to spend three-quarters of an hour in telling delightfully exciting lion and hyena stories to Ethel, Archie and Quentin.\"\n\n\"He told them most vividly and so enthralled the little boys that the next evening I had to tell them a large number myself.\"\n\nSome of those stories the children already knew from their father reading them aloud, as he recalled years later in his Autobiography. Once Selous told them, he admitted, \"my own rendering of the incidents was cast entirely into the shade.\"\n\nIn 1909 Roosevelt went to Africa himself, and Selous was there too. The two of them rode the front of a train together in British East Africa that year, shown here.\n\nhttps://www.trlibrary.com/tr/post-presidency/african-safari",
+   "media": [
+    {
+     "src": "media/c513df6865b45a6d.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d3b15476f9871b9b.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d927ec60c9270ea5.jpg",
+     "w": 1000,
+     "h": 771,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050145:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-14T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 14 Nov 1902. In Mississippi, guide Holt Collier ropes a stunned bear to a tree for Theodore Roosevelt to shoot. He refuses. A cartoon follows, then a toy: the teddy bear.",
+   "media": [
+    {
+     "src": "media/74563d247764d5e8.jpg",
+     "w": 1000,
+     "h": 844,
+     "kind": "image"
+    },
+    {
+     "src": "media/a42a6b736fae8107.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5074a7bc404960e8.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050246:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-14T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 14 November 1902. On a Mississippi bear hunt, guide Holt Collier stuns a bear, sends for Theodore Roosevelt, and ropes it to a tree for him to shoot. He refuses, and has it put out of its misery.\n\nA newspaper cartoon followed, then a toy: the teddy bear.",
+   "media": [
+    {
+     "src": "media/49ab5c6998d32a05.jpg",
+     "w": 1000,
+     "h": 844,
+     "kind": "image"
+    },
+    {
+     "src": "media/769ec8181ac436ba.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/86bca1c744ae1708.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050332:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-14T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 14 Nov 1902. In Mississippi, guide Holt Collier ropes a stunned bear to a tree for Theodore Roosevelt to shoot. He refuses. A newspaper cartoon follows, then a toy: the teddy bear.\n\nhttps://www.trlibrary.com/tr/legacy/teddy-bear",
+   "media": [
+    {
+     "src": "media/91475fde0c376f8c.jpg",
+     "w": 1000,
+     "h": 844,
+     "kind": "image"
+    },
+    {
+     "src": "media/48ef55389eed4cc5.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d5cc6e214e67b6a8.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050500:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-14T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The real story behind the teddy bear is rougher than the toy.\n\nOn 14 November 1902, President Theodore Roosevelt was on a bear hunt in the Mississippi Delta, near Smedes. His guide was Holt Collier, born enslaved and by then a renowned bear hunter in the Delta. Roosevelt later wrote that Collier had spent half a century hunting bears, \"having killed or assisted in killing over three thousand bears.\"\n\nThe president had no luck that day. While he was back at camp for lunch, Collier's hounds ran a bear into a water hole. The exhausted animal killed one of the dogs. Collier struck it with his rifle and sent word for Roosevelt. Meanwhile he roped the bear and tied it to a tree.\n\nRoosevelt arrived to find a stunned, bloodied bear tied up and waiting for him. He refused to shoot it. He had it put out of its misery instead, and it was killed with a knife.\n\nHe was not pleased. Writing to a friend later that month, he called it \"a most unsatisfactory experience in a bear hunt in Mississippi,\" and said his hosts had turned the outing into \"a cross between a hunt and a picnic.\"\n\nThe newspapers saw it differently. Clifford Berryman drew the scene for the front page of The Washington Post, captioned \"Drawing the Line in Mississippi.\" In the cartoon the bear looks like a cub. The real one, newspapers reported, was a grown bear of more than 200 pounds.\n\nIn Brooklyn, shopkeepers Morris and Rose Michtom made a stuffed bear; family accounts say they called it \"Teddy's bear.\" Within a few years, toy bears were a national craze.\n\nHolt Collier has his own legacy. The Holt Collier National Wildlife Refuge in the Mississippi Delta bears his name; the U.S. Fish and Wildlife Service calls it the only national wildlife refuge named for an African American.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #TeddyBear #AmericanHistory",
+   "media": [
+    {
+     "src": "media/b8f3aeef674d8f67.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7a5e586bed52056a.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/56a96bc2ba504ab9.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050686:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-14T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The real story behind the teddy bear is rougher than the toy.\n\nOn 14 November 1902, President Theodore Roosevelt was on a bear hunt in the Mississippi Delta, near Smedes. His guide was Holt Collier, born enslaved and by then a renowned bear hunter in the Delta. Roosevelt later wrote that Collier had spent half a century hunting bears, \"having killed or assisted in killing over three thousand bears.\"\n\nThe president had no luck that day. While he was back at camp for lunch, Collier's hounds ran a bear into a water hole. The exhausted animal killed one of the dogs. Collier struck it with his rifle and sent word for Roosevelt. Meanwhile he roped the bear and tied it to a tree.\n\nRoosevelt arrived to find a stunned, bloodied bear tied up and waiting for him. He refused to shoot it. He had it put out of its misery instead, and it was killed with a knife.\n\nHe was not pleased. Writing to a friend later that month, he called it \"a most unsatisfactory experience in a bear hunt in Mississippi,\" and said his hosts had turned the outing into \"a cross between a hunt and a picnic.\"\n\nThe newspapers saw it differently. Clifford Berryman drew the scene for the front page of The Washington Post, captioned \"Drawing the Line in Mississippi.\" In the cartoon the bear looks like a cub. The real one, newspapers reported, was a grown bear of more than 200 pounds.\n\nIn Brooklyn, shopkeepers Morris and Rose Michtom made a stuffed bear; family accounts say they called it \"Teddy's bear.\" Within a few years, toy bears were a national craze.\n\nHolt Collier has his own legacy. The Holt Collier National Wildlife Refuge in the Mississippi Delta bears his name; the U.S. Fish and Wildlife Service calls it the only national wildlife refuge named for an African American.\n\nhttps://www.trlibrary.com/tr/legacy/teddy-bear",
+   "media": [
+    {
+     "src": "media/062048525a781948.jpg",
+     "w": 1000,
+     "h": 844,
+     "kind": "image"
+    },
+    {
+     "src": "media/5484414b6d1073a7.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7d584155ef4c4b3e.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050687:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-14T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "The real story behind the teddy bear is rougher than the toy.\n\nOn 14 November 1902, President Theodore Roosevelt was on a bear hunt in the Mississippi Delta, near Smedes. His guide was Holt Collier, born enslaved and by then a renowned bear hunter in the Delta. Roosevelt later wrote that Collier had spent half a century hunting bears, \"having killed or assisted in killing over three thousand bears.\"\n\nThe president had no luck that day. While he was back at camp for lunch, Collier's hounds ran a bear into a water hole. The exhausted animal killed one of the dogs. Collier struck it with his rifle and sent word for Roosevelt. Meanwhile he roped the bear and tied it to a tree.\n\nRoosevelt arrived to find a stunned, bloodied bear tied up and waiting for him. He refused to shoot it. He had it put out of its misery instead, and it was killed with a knife.\n\nHe was not pleased. Writing to a friend later that month, he called it \"a most unsatisfactory experience in a bear hunt in Mississippi,\" and said his hosts had turned the outing into \"a cross between a hunt and a picnic.\"\n\nThe newspapers saw it differently. Clifford Berryman drew the scene for the front page of The Washington Post, captioned \"Drawing the Line in Mississippi.\" In the cartoon the bear looks like a cub. The real one, newspapers reported, was a grown bear of more than 200 pounds.\n\nIn Brooklyn, shopkeepers Morris and Rose Michtom made a stuffed bear; family accounts say they called it \"Teddy's bear.\" Within a few years, toy bears were a national craze.\n\nHolt Collier has his own legacy. The Holt Collier National Wildlife Refuge in the Mississippi Delta bears his name; the U.S. Fish and Wildlife Service calls it the only national wildlife refuge named for an African American.\n\nhttps://www.trlibrary.com/tr/legacy/teddy-bear",
+   "media": [
+    {
+     "src": "media/062048525a781948.jpg",
+     "w": 1000,
+     "h": 844,
+     "kind": "image"
+    },
+    {
+     "src": "media/5484414b6d1073a7.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7d584155ef4c4b3e.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050837:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-15T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 15 Nov 1906. 120 years ago, Theodore Roosevelt comes ashore in Panama to inspect the canal, in the rain. The State Department records it as the first visit abroad by a sitting president.",
+   "media": [
+    {
+     "src": "media/629488238eb82392.jpg",
+     "w": 1000,
+     "h": 796,
+     "kind": "image"
+    },
+    {
+     "src": "media/24fb323bcf441934.jpg",
+     "w": 1000,
+     "h": 968,
+     "kind": "image"
+    },
+    {
+     "src": "media/921789f3101627ca.jpg",
+     "w": 1000,
+     "h": 970,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120050916:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-15T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 15 November 1906. 120 years ago, Theodore Roosevelt comes ashore in Panama to inspect the canal: the first visit abroad by a sitting president.\n\nHe chose November \"partly because it is the rainiest month of the year,\" and it rained for three days.",
+   "media": [
+    {
+     "src": "media/fde3279f62218349.jpg",
+     "w": 1000,
+     "h": 796,
+     "kind": "image"
+    },
+    {
+     "src": "media/0f63e3f92779ab91.jpg",
+     "w": 1000,
+     "h": 968,
+     "kind": "image"
+    },
+    {
+     "src": "media/10fa19c31cc3b68e.jpg",
+     "w": 1000,
+     "h": 970,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120051024:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-15T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "120 years ago today, a president of the United States stepped ashore in a foreign country to see a job for himself.\n\nThe battleship Louisiana reached Colón, Panama, a day early, on the afternoon of Wednesday 14 November 1906. On Thursday morning, 15 November, Theodore Roosevelt came ashore to inspect the Panama Canal. The State Department records the trip as the first visit abroad by a sitting president. The Canal Zone had come under American control after Panama broke away from Colombia in 1903, with American support.\n\nHe picked the season on purpose. \"I chose the month of November for my visit partly because it is the rainiest month of the year, the month in which the work goes forward at the greatest disadvantage, and one of the two months which the medical department of the French Canal Company found most unhealthy,\" he told Congress afterward.\n\nIt was raining when he came ashore, and the rain hardly let up for three days.\n\nThat first day, by his own report, he toured the bay by tug, inspected Ancon Hospital, and dropped in for a meal without notice. \"I myself took dinner at the La Boca government hotel, no warning whatever having been given of my coming,\" he wrote. His meal, he said, was \"excellent.\" The 30-cent meal at those hotels ran to soup, beef, mashed potatoes, peas, beets, chili con carne and plum pudding.\n\nThose hotels served the canal's white American employees. Most of the canal's labor force, tens of thousands of workers, came from the West Indies, and they were paid and housed separately.\n\nThe next morning he climbed into the cab of one of the 95-ton steam shovels as the rain came on, and that photograph is shown here too.\n\nhttps://www.trlibrary.com/tr/presidency/panama-canal",
+   "media": [
+    {
+     "src": "media/6925e9576b52ff56.jpg",
+     "w": 1000,
+     "h": 796,
+     "kind": "image"
+    },
+    {
+     "src": "media/0bff2e869cff395d.jpg",
+     "w": 1000,
+     "h": 968,
+     "kind": "image"
+    },
+    {
+     "src": "media/010dae0c022d75e4.jpg",
+     "w": 1000,
+     "h": 970,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120051025:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-15T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "120 years ago today, a president of the United States stepped ashore in a foreign country to see a job for himself.\n\nThe battleship Louisiana reached Colón, Panama, a day early, on the afternoon of Wednesday 14 November 1906. On Thursday morning, 15 November, Theodore Roosevelt came ashore to inspect the Panama Canal. The State Department records the trip as the first visit abroad by a sitting president. The Canal Zone had come under American control after Panama broke away from Colombia in 1903, with American support.\n\nHe picked the season on purpose. \"I chose the month of November for my visit partly because it is the rainiest month of the year, the month in which the work goes forward at the greatest disadvantage, and one of the two months which the medical department of the French Canal Company found most unhealthy,\" he told Congress afterward.\n\nIt was raining when he came ashore, and the rain hardly let up for three days.\n\nThat first day, by his own report, he toured the bay by tug, inspected Ancon Hospital, and dropped in for a meal without notice. \"I myself took dinner at the La Boca government hotel, no warning whatever having been given of my coming,\" he wrote. His meal, he said, was \"excellent.\" The 30-cent meal at those hotels ran to soup, beef, mashed potatoes, peas, beets, chili con carne and plum pudding.\n\nThose hotels served the canal's white American employees. Most of the canal's labor force, tens of thousands of workers, came from the West Indies, and they were paid and housed separately.\n\nThe next morning he climbed into the cab of one of the 95-ton steam shovels as the rain came on, and that photograph is shown here too.\n\nhttps://www.trlibrary.com/tr/presidency/panama-canal",
+   "media": [
+    {
+     "src": "media/6925e9576b52ff56.jpg",
+     "w": 1000,
+     "h": 796,
+     "kind": "image"
+    },
+    {
+     "src": "media/0bff2e869cff395d.jpg",
+     "w": 1000,
+     "h": 968,
+     "kind": "image"
+    },
+    {
+     "src": "media/010dae0c022d75e4.jpg",
+     "w": 1000,
+     "h": 970,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120051266:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-15T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 15 Nov 1906. 120 years ago, Theodore Roosevelt comes ashore in Panama to inspect the canal, in the rain. The State Department records it as the first visit abroad by a sitting president.\n\nhttps://www.trlibrary.com/tr/presidency/panama-canal",
+   "media": [
+    {
+     "src": "media/f16a4c931120ad00.jpg",
+     "w": 1000,
+     "h": 796,
+     "kind": "image"
+    },
+    {
+     "src": "media/27fd01f58e7aead9.jpg",
+     "w": 1000,
+     "h": 968,
+     "kind": "image"
+    },
+    {
+     "src": "media/1f9d06887f69efdd.jpg",
+     "w": 1000,
+     "h": 970,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13120051448:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-15T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "120 years ago today, a president of the United States stepped ashore in a foreign country to see a job for himself.\n\nThe battleship Louisiana reached Colón, Panama, a day early, on the afternoon of Wednesday 14 November 1906. On Thursday morning, 15 November, Theodore Roosevelt came ashore to inspect the Panama Canal. The State Department records the trip as the first visit abroad by a sitting president. The Canal Zone had come under American control after Panama broke away from Colombia in 1903, with American support.\n\nHe picked the season on purpose. \"I chose the month of November for my visit partly because it is the rainiest month of the year, the month in which the work goes forward at the greatest disadvantage, and one of the two months which the medical department of the French Canal Company found most unhealthy,\" he told Congress afterward.\n\nIt was raining when he came ashore, and the rain hardly let up for three days.\n\nThat first day, by his own report, he toured the bay by tug, inspected Ancon Hospital, and dropped in for a meal without notice. \"I myself took dinner at the La Boca government hotel, no warning whatever having been given of my coming,\" he wrote. His meal, he said, was \"excellent.\" The 30-cent meal at those hotels ran to soup, beef, mashed potatoes, peas, beets, chili con carne and plum pudding.\n\nThose hotels served the canal's white American employees. Most of the canal's labor force, tens of thousands of workers, came from the West Indies, and they were paid and housed separately.\n\nThe next morning he climbed into the cab of one of the 95-ton steam shovels as the rain came on, and that photograph is shown here too.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #PanamaCanal #PresidentialHistory",
+   "media": [
+    {
+     "src": "media/5d520cf4492e5eed.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f8d14dc2e293f5bb.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/fcf213d34e496b47.jpg",
+     "w": 1000,
      "h": 1000,
      "kind": "image"
     }
