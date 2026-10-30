@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T09:14:52Z",
+ "generatedAt": "2026-10-30T12:19:52Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -23,6 +23,27 @@
     "src": "media/74441bd8fcffef60.jpg",
     "w": 800,
     "h": 1000
+   }
+  },
+  {
+   "id": "6dadbde14105",
+   "url": "https://www.trlibrary.com/tr/post-presidency/assassination-attempt",
+   "host": "trlibrary.com",
+   "headline": "The Assassination Attempt: Milwaukee, October 14, 1912",
+   "blurb": "A delusional gunman shot Roosevelt in Milwaukee on October 14, 1912, an attempt that became one of the most dramatic moments of his campaign.",
+   "publishAt": "2026-10-19T12:00:00Z",
+   "latestAt": "2026-10-30T12:00:00Z",
+   "channels": [
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/970ccbf91dff78d6.jpg",
+    "w": 980,
+    "h": 620
    }
   },
   {
@@ -294,27 +315,6 @@
     "src": "media/f03d143f063da95a.jpg",
     "w": 1000,
     "h": 1000
-   }
-  },
-  {
-   "id": "6dadbde14105",
-   "url": "https://www.trlibrary.com/tr/post-presidency/assassination-attempt",
-   "host": "trlibrary.com",
-   "headline": "The Assassination Attempt: Milwaukee, October 14, 1912",
-   "blurb": "A delusional gunman shot Roosevelt in Milwaukee on October 14, 1912, an attempt that became one of the most dramatic moments of his campaign.",
-   "publishAt": "2026-10-19T12:00:00Z",
-   "latestAt": "2026-10-19T12:00:00Z",
-   "channels": [
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "BLUESKY",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/970ccbf91dff78d6.jpg",
-    "w": 980,
-    "h": 620
    }
   },
   {
