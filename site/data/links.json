@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-30T15:13:18Z",
+ "generatedAt": "2026-10-30T18:14:03Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "5edde1e725e5",
+   "url": "https://www.trlibrary.com/calendar/special-event/virtual-learning-session-reconstruction-and-second-founding",
+   "host": "trlibrary.com",
+   "headline": "Virtual Learning Session: Reconstruction and the Second Founding",
+   "blurb": "Join the National Constitution Center and the Theodore Roosevelt Presidential Library for “Reconstruction and the Second Founding,” a virtual…",
+   "publishAt": "2026-10-31T18:00:00Z",
+   "latestAt": "2026-10-31T18:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "LINKEDINCOMPANY",
+    "INSTAGRAMBUSINESS"
+   ],
+   "thumb": {
+    "src": "media/e6c4381836dca354.jpg",
+    "w": 540,
+    "h": 675
+   }
+  },
   {
    "id": "be1fcc5af6cb",
    "url": "https://www.trlibrary.com/tr/early-life/harvard",
@@ -22,6 +43,27 @@
    "thumb": {
     "src": "media/66f0ded1f5be972d.jpg",
     "w": 801,
+    "h": 1000
+   }
+  },
+  {
+   "id": "0bed627d9019",
+   "url": "https://www.trlibrary.com/midwinter-table",
+   "host": "trlibrary.com",
+   "headline": "Midwinter Table",
+   "blurb": "An evening of Badlands food and drink–with the people who make it.",
+   "publishAt": "2026-10-30T18:00:00Z",
+   "latestAt": "2026-10-30T18:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "INSTAGRAMBUSINESS",
+    "THREADS",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/b71e9b0a8b7f7ebc.jpg",
+    "w": 799,
     "h": 1000
    }
   },
@@ -419,27 +461,6 @@
    ],
    "thumb": {
     "src": "media/ab7afff5c1d39e86.jpg",
-    "w": 800,
-    "h": 1000
-   }
-  },
-  {
-   "id": "fbc5a6561b1f",
-   "url": "https://www.trlibrary.com/tr/post-presidency",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt's Post-Presidency",
-   "blurb": "Follow Roosevelt after the White House — a year-long African safari, the Bull Moose run of 1912, and a near-fatal plunge down Brazil's River of Doubt.",
-   "publishAt": "2026-10-11T12:00:00Z",
-   "latestAt": "2026-10-11T12:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER",
-    "THREADS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/3b996c55528d765b.jpg",
     "w": 800,
     "h": 1000
    }
