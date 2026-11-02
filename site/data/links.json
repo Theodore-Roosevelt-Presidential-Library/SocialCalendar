@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-02T12:18:32Z",
+ "generatedAt": "2026-11-02T15:13:29Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "8c9ad2805b61",
+   "url": "https://www.trlibrary.com/tr/new-york-politics",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt in New York Politics",
+   "blurb": "Roosevelt's first years in politics — a cyclone in the Albany Assembly at twenty-three, and the single February day in 1884 that changed his life…",
+   "publishAt": "2026-10-28T12:00:00Z",
+   "latestAt": "2026-11-02T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/bc5526447ece21d2.jpg",
+    "w": 844,
+    "h": 1000
+   }
+  },
   {
    "id": "d42d6dd0f20a",
    "url": "https://www.trlibrary.com/tr/rise-to-power/edith-roosevelt",
@@ -145,25 +164,6 @@
     "src": "media/31c5d154821a1a3e.jpg",
     "w": 690,
     "h": 560
-   }
-  },
-  {
-   "id": "8c9ad2805b61",
-   "url": "https://www.trlibrary.com/tr/new-york-politics",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt in New York Politics",
-   "blurb": "Roosevelt's first years in politics — a cyclone in the Albany Assembly at twenty-three, and the single February day in 1884 that changed his life…",
-   "publishAt": "2026-10-28T12:00:00Z",
-   "latestAt": "2026-10-28T12:00:00Z",
-   "channels": [
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/bc5526447ece21d2.jpg",
-    "w": 844,
-    "h": 1000
    }
   },
   {
