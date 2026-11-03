@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-03T00:29:49Z",
+ "generatedAt": "2026-11-03T03:13:28Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "0806bf28a23f",
+   "url": "https://www.trlibrary.com/tr/early-life/day-in-the-life",
+   "host": "trlibrary.com",
+   "headline": "A Day in the Life of Young Theodore: Inside the Life of an Extraordinary Boy",
+   "blurb": "Follow eleven-year-old Theodore Roosevelt through a single 1870 day, waking before dawn in his family's Manhattan townhouse to keep his own ambitious…",
+   "publishAt": "2026-11-04T13:00:00Z",
+   "latestAt": "2026-11-04T13:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/a75a79248836a9c7.jpg",
+    "w": 836,
+    "h": 1000
+   }
+  },
   {
    "id": "8c9ad2805b61",
    "url": "https://www.trlibrary.com/tr/new-york-politics",
