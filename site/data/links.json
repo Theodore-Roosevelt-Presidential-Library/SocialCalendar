@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T12:17:11Z",
+ "generatedAt": "2026-11-04T15:12:31Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -433,28 +433,6 @@
     "src": "media/d1ba4d2402023cb5.jpg",
     "w": 399,
     "h": 470
-   }
-  },
-  {
-   "id": "e4ae0a5a3c09",
-   "url": "https://www.eventbrite.com/e/the-leadership-of-president-theodore-roosevelt-with-robbie-lauf-tickets-2002756248853",
-   "host": "Eventbrite",
-   "headline": "The Leadership of President Theodore Roosevelt with Robbie Lauf",
-   "blurb": "How do you bring the legacy of America’s 26th president to life for a new generation in 2026?",
-   "publishAt": "2026-10-17T16:00:00Z",
-   "latestAt": "2026-10-17T16:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "TWITTER",
-    "THREADS",
-    "INSTAGRAMBUSINESS",
-    "BLUESKY"
-   ],
-   "thumb": {
-    "src": "media/080d58e85642c248.jpg",
-    "w": 1000,
-    "h": 667
    }
   }
  ]
