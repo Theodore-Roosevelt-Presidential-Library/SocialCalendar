@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-05T00:30:22Z",
+ "generatedAt": "2026-11-05T03:13:34Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "53ad3cf2c6af",
+   "url": "https://www.trlibrary.com/tr/people/edith-roosevelt",
+   "host": "trlibrary.com",
+   "headline": "Edith Kermit Carow Roosevelt",
+   "blurb": "Childhood friends on Manhattan's Union Square, Edith Kermit Carow and Theodore Roosevelt grew inseparable, and she became his wife and First Lady.",
+   "publishAt": "2026-11-06T13:00:00Z",
+   "latestAt": "2026-11-06T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/a8031f60c4c8b1e9.jpg",
+    "w": 814,
+    "h": 1000
+   }
+  },
   {
    "id": "9db63f97b044",
    "url": "https://www.trlibrary.com/tr/homes-and-places/white-house",
