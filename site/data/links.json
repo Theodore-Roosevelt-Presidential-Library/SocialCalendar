@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-06T00:30:27Z",
+ "generatedAt": "2026-11-06T03:13:49Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "83c0c08397ac",
+   "url": "https://www.trlibrary.com/tr/family/fdr-connection",
+   "host": "trlibrary.com",
+   "headline": "How Theodore and Franklin Roosevelt Were Related",
+   "blurb": "Theodore and Franklin Roosevelt were fifth cousins, and Theodore's niece Eleanor married Franklin.",
+   "publishAt": "2026-11-07T13:00:00Z",
+   "latestAt": "2026-11-07T13:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/d56bf0a6877c5d31.jpg",
+    "w": 988,
+    "h": 1000
+   }
+  },
   {
    "id": "53ad3cf2c6af",
    "url": "https://www.trlibrary.com/tr/people/edith-roosevelt",
