@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T15:11:15Z",
+ "generatedAt": "2026-11-06T18:14:43Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-10-23T00:00:00Z",
@@ -3874,6 +3874,96 @@
    ],
    "tags": [],
    "postUrl": "https://www.instagram.com/p/DfZqjA4F7tO/",
+   "sequence": null
+  },
+  {
+   "id": "13121389328:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-06T17:00:00Z",
+   "state": "SENT",
+   "text": "“Being a citizen puts you in the arena. You’re not allowed to be a critic. You’re not allowed to be in the mezzanine if you’re a citizen.”\n\nAmbassador Rahm Emanuel joins Ted Roosevelt V on the new episode of Good Citizen. The former White House Chief of Staff, congressman, Chicago mayor and ambassador to Japan sat down during the grand opening of the Theodore Roosevelt Presidential Library to talk about citizenship, what he heard on a bike ride across New Hampshire, and why people want to be seen and heard.\n\nListen: https://www.trlibrary.com/podcast/good-citizen/rahm-emanuel-fight-center-and-winning-lottery-life\n\n#GoodCitizen #DareGreatly",
+   "media": [
+    {
+     "src": "media/5717e6e2b8023651.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.facebook.com/reel/29012110388449444/",
+   "sequence": null
+  },
+  {
+   "id": "13121389821:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-06T17:00:00Z",
+   "state": "SENT",
+   "text": "“Being a citizen puts you in the arena.” Rahm Emanuel joins Ted Roosevelt V on the new episode of Good Citizen, recorded at the Library’s grand opening.\n\nhttps://www.trlibrary.com/podcast/good-citizen/rahm-emanuel-fight-center-and-winning-lottery-life\n\n#GoodCitizen",
+   "media": [
+    {
+     "src": "media/8f2b8fee11b08013.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mznuclend52l",
+   "sequence": null
+  },
+  {
+   "id": "13121390058:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-06T17:00:00Z",
+   "state": "SENT",
+   "text": "“Being a citizen puts you in the arena.” @rahmemanuel joins Ted Roosevelt V on the new episode of Good Citizen, recorded at the Library’s grand opening.\n\nhttps://www.trlibrary.com/podcast/good-citizen/rahm-emanuel-fight-center-and-winning-lottery-life\n\n#GoodCitizen",
+   "media": [
+    {
+     "src": "media/6053ce243c3ba503.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.threads.com/@trlibrary/post/DfaGFpCO1I5",
+   "sequence": null
+  },
+  {
+   "id": "13121390409:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-06T17:00:00Z",
+   "state": "SENT",
+   "text": "“Being a citizen puts you in the arena. You’re not allowed to be a critic. You’re not allowed to be in the mezzanine if you’re a citizen.”\n\nAmbassador Rahm Emanuel joins Ted Roosevelt V on the new episode of Good Citizen. The former White House Chief of Staff, congressman, Chicago mayor and ambassador to Japan sat down during the grand opening of the Theodore Roosevelt Presidential Library to talk about citizenship, what he heard on a bike ride across New Hampshire, and why people want to be seen and heard.\n\nListen: https://www.trlibrary.com/podcast/good-citizen/rahm-emanuel-fight-center-and-winning-lottery-life\n\n#GoodCitizen #DareGreatly",
+   "media": [
+    {
+     "src": "media/b266230c88bf3191.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524515987744817152",
+   "sequence": null
+  },
+  {
+   "id": "13121390707:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-06T17:00:00Z",
+   "state": "SENT",
+   "text": "“Being a citizen puts you in the arena. You’re not allowed to be a critic. You’re not allowed to be in the mezzanine if you’re a citizen.”\n\nAmbassador @RahmEmanuel joins Ted Roosevelt V on the new episode of Good Citizen. The former White House Chief of Staff, congressman, Chicago mayor and ambassador to Japan sat down during the grand opening of the Theodore Roosevelt Presidential Library to talk about citizenship, what he heard on a bike ride across New Hampshire, and why people want to be seen and heard.\n\nListen: https://www.trlibrary.com/podcast/good-citizen/rahm-emanuel-fight-center-and-winning-lottery-life\n\n#GoodCitizen #DareGreatly",
+   "media": [
+    {
+     "src": "media/6c28582794053e0a.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": "https://x.com/783364650180104192/status/2118750266656719133",
    "sequence": null
   },
   {

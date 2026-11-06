@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T15:12:22Z",
+ "generatedAt": "2026-11-06T18:15:46Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -22,6 +22,27 @@
    "thumb": {
     "src": "media/d56bf0a6877c5d31.jpg",
     "w": 988,
+    "h": 1000
+   }
+  },
+  {
+   "id": "9aa8d78f38f7",
+   "url": "https://www.trlibrary.com/podcast/good-citizen/rahm-emanuel-fight-center-and-winning-lottery-life",
+   "host": "trlibrary.com",
+   "headline": "Rahm Emanuel: A Fight for the Center and Winning the Lottery of Life",
+   "blurb": "Rahm Emanuel has never been shy about being in the arena, whether as White House Chief of Staff, an Illinois congressman, Chicago mayor, or…",
+   "publishAt": "2026-11-06T17:00:00Z",
+   "latestAt": "2026-11-06T17:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "BLUESKY",
+    "THREADS",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/5717e6e2b8023651.jpg",
+    "w": 1000,
     "h": 1000
    }
   },
@@ -406,28 +427,6 @@
     "src": "media/4676873fe770e647.jpg",
     "w": 640,
     "h": 800
-   }
-  },
-  {
-   "id": "2fc3c353a41b",
-   "url": "https://www.smithsonianmag.com/history/theodore-roosevelt-survived-an-assassination-attempt-because-a-speech-tucked-inside-his-pocket-slowed-the-bullet-he-insisted-on-delivering-his-remarks-anyway-180988911/",
-   "host": "Smithsonian Magazine",
-   "headline": "Theodore Roosevelt Survived an Assassination Attempt Because a Speech Tucked Inside His…",
-   "blurb": "\"I am very much uninterested in whether I am shot or not,\" he told an audience in Milwaukee.",
-   "publishAt": "2026-10-21T22:00:00Z",
-   "latestAt": "2026-10-21T22:00:00Z",
-   "channels": [
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE",
-    "BLUESKY",
-    "TWITTER",
-    "INSTAGRAMBUSINESS",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/7275d6b203602ac0.jpg",
-    "w": 1000,
-    "h": 1000
    }
   }
  ]
