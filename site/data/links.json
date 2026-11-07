@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-07T00:28:37Z",
+ "generatedAt": "2026-11-07T03:13:08Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "5d6e3379c8ff",
+   "url": "https://www.trlibrary.com/tr/rise-to-power/governor",
+   "host": "trlibrary.com",
+   "headline": "Governor of New York: The Stepping Stone to the Presidency (1899-1900)",
+   "blurb": "Riding fame from the Rough Riders and San Juan Hill, Theodore Roosevelt won the New York governorship in 1898, a key step toward the presidency.",
+   "publishAt": "2026-11-08T13:00:00Z",
+   "latestAt": "2026-11-08T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/3a30ebe0070a15ad.jpg",
+    "w": 1000,
+    "h": 664
+   }
+  },
   {
    "id": "83c0c08397ac",
    "url": "https://www.trlibrary.com/tr/family/fdr-connection",
