@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T12:15:17Z",
+ "generatedAt": "2026-11-08T15:09:38Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -422,28 +422,6 @@
     "src": "media/523ef0c65386adf6.jpg",
     "w": 513,
     "h": 640
-   }
-  },
-  {
-   "id": "7ac459bf95ed",
-   "url": "https://archinect.com/news/bustler/11167/architecture-masterprize-honors-top-buildings-and-firms-of-2026",
-   "host": "Archinect",
-   "headline": "Architecture MasterPrize honors top buildings and firms of 2026",
-   "blurb": "The Architecture MasterPrize has revealed the award recipients of its 2026 edition.",
-   "publishAt": "2026-10-23T16:00:00Z",
-   "latestAt": "2026-10-23T16:00:00Z",
-   "channels": [
-    "BLUESKY",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "INSTAGRAMBUSINESS",
-    "THREADS"
-   ],
-   "thumb": {
-    "src": "media/e11e15a19b231f61.jpg",
-    "w": 1000,
-    "h": 1000
    }
   }
  ]
