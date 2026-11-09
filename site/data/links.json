@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-09T00:32:41Z",
+ "generatedAt": "2026-11-09T03:16:02Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "5080aedeaa58",
+   "url": "https://www.trlibrary.com/tr/people/alice-lee",
+   "host": "trlibrary.com",
+   "headline": "Alice Hathaway Lee Roosevelt",
+   "blurb": "Born into Boston's Chestnut Hill elite in 1861, Alice Hathaway Lee charmed Theodore during his Harvard years and became his radiant first wife.",
+   "publishAt": "2026-11-10T13:00:00Z",
+   "latestAt": "2026-11-10T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/4b8fd6ccc21142d5.jpg",
+    "w": 807,
+    "h": 694
+   }
+  },
   {
    "id": "a1e736d8071c",
    "url": "https://www.trlibrary.com/tr/speeches/new-nationalism",
