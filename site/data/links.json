@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T12:16:48Z",
+ "generatedAt": "2026-11-10T15:10:57Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -396,27 +396,6 @@
    "thumb": {
     "src": "media/4c4f97960de3bb0b.jpg",
     "w": 836,
-    "h": 1000
-   }
-  },
-  {
-   "id": "4a71a5abd98d",
-   "url": "https://www.nationalreview.com/magazine/2026/12/how-the-west-won-teddy-roosevelt/",
-   "host": "National Review",
-   "headline": "How the West Won Teddy Roosevelt",
-   "blurb": "What’s a presidential library doing in the North Dakota badlands?",
-   "publishAt": "2026-10-24T20:00:00Z",
-   "latestAt": "2026-10-24T20:00:00Z",
-   "channels": [
-    "INSTAGRAMBUSINESS",
-    "BLUESKY",
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY"
-   ],
-   "thumb": {
-    "src": "media/c4b394cc78fa566f.jpg",
-    "w": 1000,
     "h": 1000
    }
   }
