@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-11T12:17:57Z",
+ "generatedAt": "2026-11-11T15:11:05Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "53ad3cf2c6af",
+   "url": "https://www.trlibrary.com/tr/people/edith-roosevelt",
+   "host": "trlibrary.com",
+   "headline": "Edith Kermit Carow Roosevelt",
+   "blurb": "Childhood friends on Manhattan's Union Square, Edith Kermit Carow and Theodore Roosevelt grew inseparable, and she became his wife and First Lady.",
+   "publishAt": "2026-11-06T13:00:00Z",
+   "latestAt": "2026-11-11T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/a8031f60c4c8b1e9.jpg",
+    "w": 814,
+    "h": 1000
+   }
+  },
   {
    "id": "5080aedeaa58",
    "url": "https://www.trlibrary.com/tr/people/alice-lee",
@@ -100,25 +119,6 @@
    "thumb": {
     "src": "media/5717e6e2b8023651.jpg",
     "w": 1000,
-    "h": 1000
-   }
-  },
-  {
-   "id": "53ad3cf2c6af",
-   "url": "https://www.trlibrary.com/tr/people/edith-roosevelt",
-   "host": "trlibrary.com",
-   "headline": "Edith Kermit Carow Roosevelt",
-   "blurb": "Childhood friends on Manhattan's Union Square, Edith Kermit Carow and Theodore Roosevelt grew inseparable, and she became his wife and First Lady.",
-   "publishAt": "2026-11-06T13:00:00Z",
-   "latestAt": "2026-11-06T13:00:00Z",
-   "channels": [
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/a8031f60c4c8b1e9.jpg",
-    "w": 814,
     "h": 1000
    }
   },
