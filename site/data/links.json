@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T12:17:13Z",
+ "generatedAt": "2026-11-12T15:11:41Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -22,6 +22,25 @@
    "thumb": {
     "src": "media/1e78fcfda8b1da7d.jpg",
     "w": 800,
+    "h": 1000
+   }
+  },
+  {
+   "id": "be1fcc5af6cb",
+   "url": "https://www.trlibrary.com/tr/early-life/harvard",
+   "host": "trlibrary.com",
+   "headline": "Roosevelt at Harvard: The Making of a Historian and Political Thinker",
+   "blurb": "Arriving at Harvard in 1876 at seventeen, Theodore brought insatiable curiosity and a body remade by exercise, becoming a historian and political…",
+   "publishAt": "2026-10-31T12:00:00Z",
+   "latestAt": "2026-11-12T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/66f0ded1f5be972d.jpg",
+    "w": 801,
     "h": 1000
    }
   },
@@ -255,25 +274,6 @@
     "src": "media/e6c4381836dca354.jpg",
     "w": 540,
     "h": 675
-   }
-  },
-  {
-   "id": "be1fcc5af6cb",
-   "url": "https://www.trlibrary.com/tr/early-life/harvard",
-   "host": "trlibrary.com",
-   "headline": "Roosevelt at Harvard: The Making of a Historian and Political Thinker",
-   "blurb": "Arriving at Harvard in 1876 at seventeen, Theodore brought insatiable curiosity and a body remade by exercise, becoming a historian and political…",
-   "publishAt": "2026-10-31T12:00:00Z",
-   "latestAt": "2026-10-31T12:00:00Z",
-   "channels": [
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY"
-   ],
-   "thumb": {
-    "src": "media/66f0ded1f5be972d.jpg",
-    "w": 801,
-    "h": 1000
    }
   },
   {
