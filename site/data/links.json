@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-12T00:30:09Z",
+ "generatedAt": "2026-11-12T03:14:39Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "2ac777627c11",
+   "url": "https://www.trlibrary.com/tr/post-presidency/african-safari",
+   "host": "trlibrary.com",
+   "headline": "The African Safari (1909",
+   "blurb": "In 1909, the fifty-year-old former president set off with his son Kermit on a Smithsonian hunting and scientific expedition into the African interior.",
+   "publishAt": "2026-11-13T13:00:00Z",
+   "latestAt": "2026-11-13T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/1e78fcfda8b1da7d.jpg",
+    "w": 800,
+    "h": 1000
+   }
+  },
   {
    "id": "53ad3cf2c6af",
    "url": "https://www.trlibrary.com/tr/people/edith-roosevelt",
