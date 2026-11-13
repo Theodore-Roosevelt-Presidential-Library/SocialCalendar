@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-13T00:30:07Z",
+ "generatedAt": "2026-11-13T03:14:03Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "433db63fe57c",
+   "url": "https://www.trlibrary.com/tr/legacy/teddy-bear",
+   "host": "trlibrary.com",
+   "headline": "The Teddy Bear: A Moment of Mercy That Became an Icon",
+   "blurb": "On a 1902 Mississippi hunt, Roosevelt refused to shoot a captive black bear—a moment of mercy that inspired the beloved teddy bear.",
+   "publishAt": "2026-11-14T13:00:00Z",
+   "latestAt": "2026-11-14T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/91475fde0c376f8c.jpg",
+    "w": 1000,
+    "h": 844
+   }
+  },
   {
    "id": "2ac777627c11",
    "url": "https://www.trlibrary.com/tr/post-presidency/african-safari",
