@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T12:16:53Z",
+ "generatedAt": "2026-11-13T15:11:00Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -414,27 +414,6 @@
     "src": "media/adf0881a4a58813b.jpg",
     "w": 930,
     "h": 880
-   }
-  },
-  {
-   "id": "323fdbf77ce9",
-   "url": "https://www.trlibrary.com/tr/presidency/booker-t-washington",
-   "host": "trlibrary.com",
-   "headline": "The Dinner with Booker T.",
-   "blurb": "On October 16, 1901, President Theodore Roosevelt invited Booker T.",
-   "publishAt": "2026-10-25T12:00:00Z",
-   "latestAt": "2026-10-25T12:00:00Z",
-   "channels": [
-    "TWITTER",
-    "THREADS",
-    "BLUESKY",
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY"
-   ],
-   "thumb": {
-    "src": "media/4c4f97960de3bb0b.jpg",
-    "w": 836,
-    "h": 1000
    }
   }
  ]
