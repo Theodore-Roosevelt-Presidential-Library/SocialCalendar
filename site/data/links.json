@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-14T00:28:38Z",
+ "generatedAt": "2026-11-14T03:12:48Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "b7cf9757bdc1",
+   "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt and the Panama Canal, 1903",
+   "blurb": "How Roosevelt got the Panama Canal built: the failed French attempt, Panama’s 1903 revolution, the canal treaty and the locks that opened in 1914.",
+   "publishAt": "2026-11-15T13:00:00Z",
+   "latestAt": "2026-11-15T13:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/6925e9576b52ff56.jpg",
+    "w": 1000,
+    "h": 796
+   }
+  },
   {
    "id": "433db63fe57c",
    "url": "https://www.trlibrary.com/tr/legacy/teddy-bear",
