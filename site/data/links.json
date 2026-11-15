@@ -1,11 +1,33 @@
 {
- "generatedAt": "2026-11-14T21:09:33Z",
+ "generatedAt": "2026-11-15T00:32:23Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "5462fd58f27c",
+   "url": "https://blooloop.com/theodore-roosevelt-presidential-library-storytelling/",
+   "host": "blooloop",
+   "headline": "​Theodore Roosevelt Presidential Library: immersive storytelling & sustainability",
+   "blurb": "The project offers lessons in integrating complex AV, interactive storytelling and environmental performance",
+   "publishAt": "2026-11-15T17:00:00Z",
+   "latestAt": "2026-11-15T17:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "TWITTER",
+    "INSTAGRAMBUSINESS",
+    "BLUESKY",
+    "FACEBOOKPAGE",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/0659e1976a23325d.jpg",
+    "w": 1000,
+    "h": 591
+   }
+  },
   {
    "id": "b7cf9757bdc1",
    "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
@@ -69,7 +91,7 @@
    "host": "trlibrary.com",
    "headline": "Roosevelt at Harvard: The Making of a Historian and Political Thinker",
    "blurb": "Arriving at Harvard in 1876 at seventeen, Theodore brought insatiable curiosity and a body remade by exercise, becoming a historian and political…",
-   "publishAt": "2026-10-31T12:00:00Z",
+   "publishAt": "2026-11-12T13:00:00Z",
    "latestAt": "2026-11-12T13:00:00Z",
    "channels": [
     "TWITTER",
