@@ -1,11 +1,33 @@
 {
- "generatedAt": "2026-11-17T18:14:26Z",
+ "generatedAt": "2026-11-17T21:10:45Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "b3e1e235454e",
+   "url": "https://www.trlibrary.com/holidaytrees",
+   "host": "trlibrary.com",
+   "headline": "The Holiday Trees at the Library in Medora, North Dakota",
+   "blurb": "Six holiday trees made by North Dakota artisans from ranch leather, lariats, prairie grass, bandanas and clay are on view at the Library in Medora.",
+   "publishAt": "2026-11-17T20:21:13Z",
+   "latestAt": "2026-11-17T20:32:39Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "INSTAGRAMBUSINESS",
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "BLUESKY",
+    "THREADS"
+   ],
+   "thumb": {
+    "src": "media/1d1617330938d202.jpg",
+    "w": 1000,
+    "h": 563
+   }
+  },
   {
    "id": "5462fd58f27c",
    "url": "https://blooloop.com/theodore-roosevelt-presidential-library-storytelling/",
@@ -42,9 +64,9 @@
     "TWITTER"
    ],
    "thumb": {
-    "src": "media/6925e9576b52ff56.jpg",
-    "w": 1000,
-    "h": 796
+    "src": "media/0922fa16d6c67c31.jpg",
+    "w": 801,
+    "h": 1000
    }
   },
   {
@@ -76,13 +98,13 @@
    "latestAt": "2026-11-13T13:00:00Z",
    "channels": [
     "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
    ],
    "thumb": {
-    "src": "media/1e78fcfda8b1da7d.jpg",
-    "w": 800,
-    "h": 1000
+    "src": "media/23850cc397b6d8e2.jpg",
+    "w": 1000,
+    "h": 810
    }
   },
   {
@@ -374,27 +396,6 @@
     "src": "media/970ccbf91dff78d6.jpg",
     "w": 980,
     "h": 620
-   }
-  },
-  {
-   "id": "8991e72531bc",
-   "url": "https://www.trlibrary.com/calendar/daily-activity/room-sixty-years-front-lines-history",
-   "host": "trlibrary.com",
-   "headline": "In the Room: Sixty Years on the Front Lines of History",
-   "blurb": "Roosevelt understood the camera before most politicians did.",
-   "publishAt": "2026-10-29T21:00:00Z",
-   "latestAt": "2026-10-29T21:00:00Z",
-   "channels": [
-    "TWITTER",
-    "THREADS",
-    "BLUESKY",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/0a4913f9a83f4d1b.jpg",
-    "w": 1000,
-    "h": 1000
    }
   }
  ]
