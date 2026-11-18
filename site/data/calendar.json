@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T15:10:19Z",
+ "generatedAt": "2026-11-18T18:12:24Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-11-04T00:00:00Z",
@@ -2809,7 +2809,7 @@
    "id": "13123309513:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-11-18T17:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "A first for the Happy Hooligans, on the Library's first day.\n\nThe 119th Wing North Dakota Air National Guard of the North Dakota National Guard marked the Library's July 4 opening ceremonies in Medora with an MQ-9 Reaper flyover. It was the first time the Wing's MQ-9 aircraft have flown over an event.\n\nThese photos show the part of that flyover no one in Medora saw: the aircraft on the ramp and the crews at the controls.\n\nThank you to the Airmen who helped open the Library.\n\nPlan a visit: https://www.trlibrary.com/visit\n\nU.S. Air National Guard photos by Senior Master Sgt. Michael Knodle\n\n#DareGreatly #TR250",
    "media": [
     {
@@ -2844,14 +2844,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.facebook.com/144035749389560/posts/1198316452521863",
    "sequence": null
   },
   {
    "id": "13123309838:138241752",
    "profileId": "138241752",
    "scheduledAt": "2026-11-18T17:00:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "A first for the Happy Hooligans, on the Library's first day.\n\nThe Air National Guard ND 119th Wing of the North Dakota National Guard marked the Library's July 4 opening ceremonies in Medora with an MQ-9 Reaper flyover. It was the first time the Wing's MQ-9 aircraft have flown over an event.\n\nThese photos show the part of that flyover no one in Medora saw: the aircraft on the ramp and the crews at the controls.\n\nThank you to the Airmen who helped open the Library.\n\nPlan a visit: https://www.trlibrary.com/visit\n\nU.S. Air National Guard photos by Senior Master Sgt. Michael Knodle\n\n#DareGreatly #TR250",
    "media": [
     {
@@ -2886,7 +2886,7 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528865450500313088",
    "sequence": null
   },
   {
@@ -6122,6 +6122,726 @@
      "src": "media/6a121610fd65ab17.jpg",
      "w": 1000,
      "h": 667,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123454649:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-08T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty years ago today, on 8 December 1906, Theodore Roosevelt signed three proclamations that protected three very different corners of the Southwest.\n\nThe Antiquities Act was six months old. He had used it once, in September, for Devils Tower. Now he used it three more times.\n\nIn the Territory of New Mexico: El Morro, a sandstone bluff above a pool of rainwater where travelers stopped for centuries. Ancestors of today's Pueblo peoples, including the Zuni, carved petroglyphs into it. Spanish travelers added their names; the earliest dated inscription, from 1605, records Juan de Oñate. American soldiers and emigrants followed. The proclamation called the rocks \"of the greatest historical value\" and set them aside.\n\nIn the Territory of Arizona: Montezuma Castle, a five-story stone dwelling tucked into a limestone cliff above Beaver Creek. Montezuma never saw it. Settlers named it for the Aztec ruler, but it was built centuries earlier by the people archaeologists call the Sinagua. The proclamation judged it \"of the greatest ethnological value and scientific interest\" and reserved it.\n\nAlso in Arizona: the Petrified Forest, ancient logs turned to stone and scattered across banded badlands. Collectors had been carting the wood away for years. The proclamation described \"the mineralized remains of Mesozoic forests\" as \"of the greatest scientific interest and value\" and reserved them.\n\nAll three are still protected. El Morro and Montezuma Castle remain national monuments, and the Petrified Forest became a national park in 1962.\n\nShown here: a postcard of the Blue Forest at Petrified Forest, about 1900 to 1920; Inscription Rock at El Morro, photographed by Timothy O'Sullivan for the Wheeler survey in 1873; and Montezuma Castle in 1887, photographed by Edgar Mearns (all Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #PublicLands #NationalMonuments #PetrifiedForest",
+   "media": [
+    {
+     "src": "media/306048d48ece220d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d686b0746d58c801.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2caec5c4d9fd4ced.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123454720:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-08T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 120 years ago, 8 Dec 1906: TR proclaims three national monuments in one day: El Morro, Montezuma Castle and the Petrified Forest. All three are still protected.\n\nhttps://www.trlibrary.com/tr/presidency/conservation/antiquities-act",
+   "media": [
+    {
+     "src": "media/ccf5bbc3082746fb.jpg",
+     "w": 1000,
+     "h": 658,
+     "kind": "image"
+    },
+    {
+     "src": "media/c0b107927a685283.jpg",
+     "w": 933,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/53901ecd1801db95.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123454783:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-08T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 120 years ago today, 8 December 1906: Theodore Roosevelt signs three Antiquities Act proclamations in one day.\n\nEl Morro, \"of the greatest historical value\"; Montezuma Castle, \"of the greatest ethnological value and scientific interest\"; and the Petrified Forest, \"of the greatest scientific interest and value\" — all three still protected today.",
+   "media": [
+    {
+     "src": "media/af26eec837205120.jpg",
+     "w": 1000,
+     "h": 658,
+     "kind": "image"
+    },
+    {
+     "src": "media/f24d7ff95a182a37.jpg",
+     "w": 933,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/276294bdc16fc279.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123454830:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-08T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 120 years ago, 8 Dec 1906: TR proclaims three national monuments in one day: El Morro in New Mexico, and Montezuma Castle and the Petrified Forest in Arizona. All three are still protected.",
+   "media": [
+    {
+     "src": "media/af482215285d626b.jpg",
+     "w": 1000,
+     "h": 658,
+     "kind": "image"
+    },
+    {
+     "src": "media/b4b7d5fb47c8816f.jpg",
+     "w": 933,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9b96e313f2157523.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123454967:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-08T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty years ago today, on 8 December 1906, Theodore Roosevelt signed three proclamations that protected three very different corners of the Southwest.\n\nThe Antiquities Act was six months old. He had used it once, in September, for Devils Tower. Now he used it three more times.\n\nIn the Territory of New Mexico: El Morro, a sandstone bluff above a pool of rainwater where travelers stopped for centuries. Ancestors of today's Pueblo peoples, including the Zuni, carved petroglyphs into it. Spanish travelers added their names; the earliest dated inscription, from 1605, records Juan de Oñate. American soldiers and emigrants followed. The proclamation called the rocks \"of the greatest historical value\" and set them aside.\n\nIn the Territory of Arizona: Montezuma Castle, a five-story stone dwelling tucked into a limestone cliff above Beaver Creek. Montezuma never saw it. Settlers named it for the Aztec ruler, but it was built centuries earlier by the people archaeologists call the Sinagua. The proclamation judged it \"of the greatest ethnological value and scientific interest\" and reserved it.\n\nAlso in Arizona: the Petrified Forest, ancient logs turned to stone and scattered across banded badlands. Collectors had been carting the wood away for years. The proclamation described \"the mineralized remains of Mesozoic forests\" as \"of the greatest scientific interest and value\" and reserved them.\n\nAll three are still protected. El Morro and Montezuma Castle remain national monuments, and the Petrified Forest became a national park in 1962.\n\nShown here: a postcard of the Blue Forest at Petrified Forest, about 1900 to 1920; Inscription Rock at El Morro, photographed by Timothy O'Sullivan for the Wheeler survey in 1873; and Montezuma Castle in 1887, photographed by Edgar Mearns (all Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/conservation/antiquities-act",
+   "media": [
+    {
+     "src": "media/98615461f3bec16e.jpg",
+     "w": 1000,
+     "h": 658,
+     "kind": "image"
+    },
+    {
+     "src": "media/6e7581e8b5c240e9.jpg",
+     "w": 933,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/dd99a0bac7d6ee5a.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123454968:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-08T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty years ago today, on 8 December 1906, Theodore Roosevelt signed three proclamations that protected three very different corners of the Southwest.\n\nThe Antiquities Act was six months old. He had used it once, in September, for Devils Tower. Now he used it three more times.\n\nIn the Territory of New Mexico: El Morro, a sandstone bluff above a pool of rainwater where travelers stopped for centuries. Ancestors of today's Pueblo peoples, including the Zuni, carved petroglyphs into it. Spanish travelers added their names; the earliest dated inscription, from 1605, records Juan de Oñate. American soldiers and emigrants followed. The proclamation called the rocks \"of the greatest historical value\" and set them aside.\n\nIn the Territory of Arizona: Montezuma Castle, a five-story stone dwelling tucked into a limestone cliff above Beaver Creek. Montezuma never saw it. Settlers named it for the Aztec ruler, but it was built centuries earlier by the people archaeologists call the Sinagua. The proclamation judged it \"of the greatest ethnological value and scientific interest\" and reserved it.\n\nAlso in Arizona: the Petrified Forest, ancient logs turned to stone and scattered across banded badlands. Collectors had been carting the wood away for years. The proclamation described \"the mineralized remains of Mesozoic forests\" as \"of the greatest scientific interest and value\" and reserved them.\n\nAll three are still protected. El Morro and Montezuma Castle remain national monuments, and the Petrified Forest became a national park in 1962.\n\nShown here: a postcard of the Blue Forest at Petrified Forest, about 1900 to 1920; Inscription Rock at El Morro, photographed by Timothy O'Sullivan for the Wheeler survey in 1873; and Montezuma Castle in 1887, photographed by Edgar Mearns (all Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/conservation/antiquities-act",
+   "media": [
+    {
+     "src": "media/98615461f3bec16e.jpg",
+     "w": 1000,
+     "h": 658,
+     "kind": "image"
+    },
+    {
+     "src": "media/6e7581e8b5c240e9.jpg",
+     "w": 933,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/dd99a0bac7d6ee5a.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123455102:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-09T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 9 Dec 1897: TR thanks C. Hart Merriam for naming the Olympic elk Cervus roosevelti after him. In 1909 he protected much of its range as Mount Olympus National Monument.\n\nhttps://www.trlibrary.com/tr/presidency/conservation/national-monuments",
+   "media": [
+    {
+     "src": "media/519f10c8cf391349.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/c79938afe7b3eac0.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/e8fd2e6296790f39.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123455806:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-09T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 9 December 1897, the Assistant Secretary of the Navy wrote to thank a friend for naming an elk after him.\n\nThe friend was C. Hart Merriam, chief of the government's Biological Survey and one of the country's leading experts on mammals. The elk lived in the rain-soaked Olympic Mountains of Washington.\n\nThey looked different from the elk of the Rockies, and Roosevelt had helped spot the difference. At the 1893 World's Columbian Exposition in Chicago, he looked over mounted elk heads in the Oregon exhibit and told Merriam they weren't the same animal. Merriam later wrote that Roosevelt pointed out they were \"black\" and had \"antlers with relatively straight beams.\"\n\nIn the summer of 1897 Merriam arranged with two trappers on the Hoh River to collect a specimen. When a big bull reached the National Museum that fall, he wrote it up as a new species and gave it a name: Cervus roosevelti. \"I deem it a privilege to name this splendid animal Roosevelt's Wapiti,\" he wrote.\n\nRoosevelt wrote back that he deeply appreciated the compliment, and was only sorry it would never be in his power to do anything \"except to just merely appreciate it\" in return.\n\nHe was wrong. On 2 March 1909, two days before he left the White House, President Roosevelt proclaimed Mount Olympus National Monument, more than 600,000 acres. The proclamation named the reason: the region had long been \"the summer range and breeding grounds of the Olympic Elk (Cervus roosevelti), a species peculiar to these mountains and rapidly decreasing in numbers.\" In 1938 the monument became the heart of Olympic National Park, where Roosevelt elk still graze the Hoh Rain Forest.\n\nShown here: a bull Roosevelt elk in the Hoh Rain Forest, 2022 (U.S. Fish and Wildlife Service); the first page of Merriam's paper, published 17 December 1897 (Biodiversity Heritage Library); and C. Hart Merriam about 1901 (Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Conservation #OlympicNationalPark #RooseveltElk",
+   "media": [
+    {
+     "src": "media/11bc0d05851f92ce.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6c21977b8d26c12c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2d1a1e2367d815bd.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123455888:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-09T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 9 December 1897, the Assistant Secretary of the Navy wrote to thank a friend for naming an elk after him.\n\nThe friend was C. Hart Merriam, chief of the government's Biological Survey and one of the country's leading experts on mammals. The elk lived in the rain-soaked Olympic Mountains of Washington.\n\nThey looked different from the elk of the Rockies, and Roosevelt had helped spot the difference. At the 1893 World's Columbian Exposition in Chicago, he looked over mounted elk heads in the Oregon exhibit and told Merriam they weren't the same animal. Merriam later wrote that Roosevelt pointed out they were \"black\" and had \"antlers with relatively straight beams.\"\n\nIn the summer of 1897 Merriam arranged with two trappers on the Hoh River to collect a specimen. When a big bull reached the National Museum that fall, he wrote it up as a new species and gave it a name: Cervus roosevelti. \"I deem it a privilege to name this splendid animal Roosevelt's Wapiti,\" he wrote.\n\nRoosevelt wrote back that he deeply appreciated the compliment, and was only sorry it would never be in his power to do anything \"except to just merely appreciate it\" in return.\n\nHe was wrong. On 2 March 1909, two days before he left the White House, President Roosevelt proclaimed Mount Olympus National Monument, more than 600,000 acres. The proclamation named the reason: the region had long been \"the summer range and breeding grounds of the Olympic Elk (Cervus roosevelti), a species peculiar to these mountains and rapidly decreasing in numbers.\" In 1938 the monument became the heart of Olympic National Park, where Roosevelt elk still graze the Hoh Rain Forest.\n\nShown here: a bull Roosevelt elk in the Hoh Rain Forest, 2022 (U.S. Fish and Wildlife Service); the first page of Merriam's paper, published 17 December 1897 (Biodiversity Heritage Library); and C. Hart Merriam about 1901 (Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/conservation/national-monuments",
+   "media": [
+    {
+     "src": "media/1ed69e3a90a32b96.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/5827cbcb4d79467b.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/dbc424088ec41434.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123455889:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-09T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 9 December 1897, the Assistant Secretary of the Navy wrote to thank a friend for naming an elk after him.\n\nThe friend was C. Hart Merriam, chief of the government's Biological Survey and one of the country's leading experts on mammals. The elk lived in the rain-soaked Olympic Mountains of Washington.\n\nThey looked different from the elk of the Rockies, and Roosevelt had helped spot the difference. At the 1893 World's Columbian Exposition in Chicago, he looked over mounted elk heads in the Oregon exhibit and told Merriam they weren't the same animal. Merriam later wrote that Roosevelt pointed out they were \"black\" and had \"antlers with relatively straight beams.\"\n\nIn the summer of 1897 Merriam arranged with two trappers on the Hoh River to collect a specimen. When a big bull reached the National Museum that fall, he wrote it up as a new species and gave it a name: Cervus roosevelti. \"I deem it a privilege to name this splendid animal Roosevelt's Wapiti,\" he wrote.\n\nRoosevelt wrote back that he deeply appreciated the compliment, and was only sorry it would never be in his power to do anything \"except to just merely appreciate it\" in return.\n\nHe was wrong. On 2 March 1909, two days before he left the White House, President Roosevelt proclaimed Mount Olympus National Monument, more than 600,000 acres. The proclamation named the reason: the region had long been \"the summer range and breeding grounds of the Olympic Elk (Cervus roosevelti), a species peculiar to these mountains and rapidly decreasing in numbers.\" In 1938 the monument became the heart of Olympic National Park, where Roosevelt elk still graze the Hoh Rain Forest.\n\nShown here: a bull Roosevelt elk in the Hoh Rain Forest, 2022 (U.S. Fish and Wildlife Service); the first page of Merriam's paper, published 17 December 1897 (Biodiversity Heritage Library); and C. Hart Merriam about 1901 (Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/conservation/national-monuments",
+   "media": [
+    {
+     "src": "media/1ed69e3a90a32b96.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/5827cbcb4d79467b.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/dbc424088ec41434.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123455956:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-09T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 9 December 1897: Theodore Roosevelt thanks naturalist C. Hart Merriam for naming the Olympic Mountains elk Cervus roosevelti. He was sorry, he wrote, that it would never be in his power to do anything \"except to just merely appreciate it\" in return.\n\nIn 1909 he protected much of its range as Mount Olympus National Monument, now Olympic National Park.",
+   "media": [
+    {
+     "src": "media/4d25b8f17c92b518.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/7602ea38606bf95a.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/09ce33de6629811b.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123456052:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-09T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 9 Dec 1897: TR thanks C. Hart Merriam for naming the Olympic elk Cervus roosevelti. Eleven years later he protected much of its range as Mount Olympus National Monument, now Olympic National Park.",
+   "media": [
+    {
+     "src": "media/39f607ecc26e39c1.jpg",
+     "w": 1000,
+     "h": 563,
+     "kind": "image"
+    },
+    {
+     "src": "media/97207723966dcefc.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/c2314e872882e63b.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123456122:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-10T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 120 years ago, 10 Dec 1906: TR is awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War, the first American to win any Nobel. He set the prize money aside for industrial peace, and later gave it to war relief.",
+   "media": [
+    {
+     "src": "media/b2311f7d44d39352.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2210f48d8795d0fc.jpg",
+     "w": 1000,
+     "h": 996,
+     "kind": "image"
+    },
+    {
+     "src": "media/c69e815b4a8d14c2.jpg",
+     "w": 732,
+     "h": 452,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123456183:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-10T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty years ago today, on 10 December 1906, Theodore Roosevelt was awarded the Nobel Peace Prize. He was the first American to win a Nobel Prize of any kind.\n\nThe prize honored his role in ending the Russo-Japanese War. In August 1905 he brought the Russian and Japanese envoys together aboard the presidential yacht Mayflower at Oyster Bay, then kept the talks from collapsing until the two sides signed the Treaty of Portsmouth that September.\n\nRoosevelt didn't go to the ceremony in Christiania, now Oslo. The American minister to Norway, Herbert H. D. Peirce, accepted for him and read a telegram from the President:\n\n\"I am profoundly moved and touched by the signal honor shown me through your body in conferring upon me the Nobel Peace Prize.\"\n\nHe gave the credit away: \"for what I did, I was able to accomplish only as the representative of the nation of which, for the time being, I am president.\"\n\nThen he gave the money away, too. The prize came to about $37,000, and he set it aside to found \"a permanent industrial peace committee\" in Washington, to work for better relations between employers and wage workers. A foundation was set up, but its trustees never put the money to work. With the fund still unspent, Roosevelt asked Congress to return it, and in August 1918 he gave it to war relief, including the American Red Cross, the YMCA, the Knights of Columbus, the Jewish Welfare Board and the Salvation Army.\n\nHe did make it to Norway eventually. On 5 May 1910, on his way home from Africa, he delivered his Nobel address in Christiania.\n\nShown here: President Roosevelt in 1906; Roosevelt with the Russian and Japanese envoys aboard the Mayflower, 1905; and the envoys in session at the Portsmouth Navy Yard (all Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #NobelPeacePrize #History",
+   "media": [
+    {
+     "src": "media/9a570664f6342ad5.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a1523466ab78743e.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2346eedca55bac87.jpg",
+     "w": 732,
+     "h": 732,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123456266:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-10T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty years ago today, on 10 December 1906, Theodore Roosevelt was awarded the Nobel Peace Prize. He was the first American to win a Nobel Prize of any kind.\n\nThe prize honored his role in ending the Russo-Japanese War. In August 1905 he brought the Russian and Japanese envoys together aboard the presidential yacht Mayflower at Oyster Bay, then kept the talks from collapsing until the two sides signed the Treaty of Portsmouth that September.\n\nRoosevelt didn't go to the ceremony in Christiania, now Oslo. The American minister to Norway, Herbert H. D. Peirce, accepted for him and read a telegram from the President:\n\n\"I am profoundly moved and touched by the signal honor shown me through your body in conferring upon me the Nobel Peace Prize.\"\n\nHe gave the credit away: \"for what I did, I was able to accomplish only as the representative of the nation of which, for the time being, I am president.\"\n\nThen he gave the money away, too. The prize came to about $37,000, and he set it aside to found \"a permanent industrial peace committee\" in Washington, to work for better relations between employers and wage workers. A foundation was set up, but its trustees never put the money to work. With the fund still unspent, Roosevelt asked Congress to return it, and in August 1918 he gave it to war relief, including the American Red Cross, the YMCA, the Knights of Columbus, the Jewish Welfare Board and the Salvation Army.\n\nHe did make it to Norway eventually. On 5 May 1910, on his way home from Africa, he delivered his Nobel address in Christiania.\n\nShown here: President Roosevelt in 1906; Roosevelt with the Russian and Japanese envoys aboard the Mayflower, 1905; and the envoys in session at the Portsmouth Navy Yard (all Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/nobel-peace-prize",
+   "media": [
+    {
+     "src": "media/f654bb4ab18f7ebe.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b87465ca41a7cf0b.jpg",
+     "w": 1000,
+     "h": 996,
+     "kind": "image"
+    },
+    {
+     "src": "media/aa588856c58c536d.jpg",
+     "w": 732,
+     "h": 452,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123456267:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-10T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty years ago today, on 10 December 1906, Theodore Roosevelt was awarded the Nobel Peace Prize. He was the first American to win a Nobel Prize of any kind.\n\nThe prize honored his role in ending the Russo-Japanese War. In August 1905 he brought the Russian and Japanese envoys together aboard the presidential yacht Mayflower at Oyster Bay, then kept the talks from collapsing until the two sides signed the Treaty of Portsmouth that September.\n\nRoosevelt didn't go to the ceremony in Christiania, now Oslo. The American minister to Norway, Herbert H. D. Peirce, accepted for him and read a telegram from the President:\n\n\"I am profoundly moved and touched by the signal honor shown me through your body in conferring upon me the Nobel Peace Prize.\"\n\nHe gave the credit away: \"for what I did, I was able to accomplish only as the representative of the nation of which, for the time being, I am president.\"\n\nThen he gave the money away, too. The prize came to about $37,000, and he set it aside to found \"a permanent industrial peace committee\" in Washington, to work for better relations between employers and wage workers. A foundation was set up, but its trustees never put the money to work. With the fund still unspent, Roosevelt asked Congress to return it, and in August 1918 he gave it to war relief, including the American Red Cross, the YMCA, the Knights of Columbus, the Jewish Welfare Board and the Salvation Army.\n\nHe did make it to Norway eventually. On 5 May 1910, on his way home from Africa, he delivered his Nobel address in Christiania.\n\nShown here: President Roosevelt in 1906; Roosevelt with the Russian and Japanese envoys aboard the Mayflower, 1905; and the envoys in session at the Portsmouth Navy Yard (all Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/nobel-peace-prize",
+   "media": [
+    {
+     "src": "media/f654bb4ab18f7ebe.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b87465ca41a7cf0b.jpg",
+     "w": 1000,
+     "h": 996,
+     "kind": "image"
+    },
+    {
+     "src": "media/aa588856c58c536d.jpg",
+     "w": 732,
+     "h": 452,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123456348:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-10T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 120 years ago, 10 Dec 1906: TR is awarded the Nobel Peace Prize for his role in ending the Russo-Japanese War, the first American to win any Nobel. He gave the prize money away.\n\nhttps://www.trlibrary.com/tr/presidency/nobel-peace-prize",
+   "media": [
+    {
+     "src": "media/ac3dbabca4e7ab0b.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/30732e2f79403488.jpg",
+     "w": 1000,
+     "h": 996,
+     "kind": "image"
+    },
+    {
+     "src": "media/d86f157f0389d703.jpg",
+     "w": 732,
+     "h": 452,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123456820:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-10T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 120 years ago today, 10 December 1906: Theodore Roosevelt is awarded the Nobel Peace Prize, the first American to win any Nobel Prize.\n\nHis telegram, read at the ceremony, gave the credit to the country: \"for what I did, I was able to accomplish only as the representative of the nation of which, for the time being, I am president.\"",
+   "media": [
+    {
+     "src": "media/149eb5ac975f0b6e.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4d1e209eac6a8dd6.jpg",
+     "w": 1000,
+     "h": 996,
+     "kind": "image"
+    },
+    {
+     "src": "media/5ff8a076613eeec8.jpg",
+     "w": 732,
+     "h": 452,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123456999:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-11T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Saturday, 11 December 1880, New York. Theodore Roosevelt was 22 and had been married just over six weeks.\n\nHe and his bride, Alice Hathaway Lee, were living with his mother in the family house on West 57th Street. That night the house was full for a grand reception, and afterward he wrote in his diary:\n\n\"There was a grand reception at our house; I enjoyed it very much, as I could move round and talk to whomever I wanted to.\"\n\nHe admitted he was \"not very fond of going out.\" Alice was another matter. \"Alice is universally and greatly admired; and she seems to grow more beautiful day by day,\" he wrote. \"She seems very happy; and oh, how happy she has made me!\"\n\nThey had married on 27 October, his 22nd birthday, in Brookline, Massachusetts. Alice was 19. Three days before the reception, the family had given a ball at the house for Alice and his sister Corinne.\n\nAnyone who knows the story knows what's coming. On 14 February 1884, two days after giving birth to their daughter, Alice died in that house, hours after his mother died there too. But on this December night in 1880, the diary belongs to a young man who could hardly believe his luck.\n\nShown here: Alice Hathaway Lee Roosevelt in 1881, photographed by William Notman; Alice with Theodore's sisters Corinne and Anna, early 1880s, photographed by Julius Ludovici; and the dining room of the Roosevelt house at 6 West 57th Street (all Houghton Library, Harvard University).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #AliceLeeRoosevelt #History",
+   "media": [
+    {
+     "src": "media/0a26b1699462fb81.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6e71b0f2c87f59d5.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4ad291cc432ce7a5.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123457080:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-11T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 11 Dec 1880: Six weeks married, TR writes after a reception: \"Alice is universally and greatly admired; and she seems to grow more beautiful day by day.\"\n\nhttps://www.trlibrary.com/tr/people/alice-lee",
+   "media": [
+    {
+     "src": "media/ffd28dba1acd93c4.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/e3eef107273a7f5a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d3c32beff757f6bc.jpg",
+     "w": 1000,
+     "h": 725,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123457162:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-11T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 11 December 1880, New York. Theodore Roosevelt, six weeks married, writes in his diary after a family reception:\n\n\"Alice is universally and greatly admired; and she seems to grow more beautiful day by day.\" And: \"She seems very happy; and oh, how happy she has made me!\"",
+   "media": [
+    {
+     "src": "media/602ac82e8627412a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/0e3b3002695ce2a8.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/3aac29a14faa5669.jpg",
+     "w": 1000,
+     "h": 725,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123457278:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-11T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 11 Dec 1880: Six weeks married, TR writes in his diary: \"Alice is universally and greatly admired; and she seems to grow more beautiful day by day.\" And: \"oh, how happy she has made me!\"",
+   "media": [
+    {
+     "src": "media/698c8ad9fae3b1ce.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/bb3da4cf9724657f.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f435516a0d37d0ef.jpg",
+     "w": 1000,
+     "h": 725,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123457779:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-11T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Saturday, 11 December 1880, New York. Theodore Roosevelt was 22 and had been married just over six weeks.\n\nHe and his bride, Alice Hathaway Lee, were living with his mother in the family house on West 57th Street. That night the house was full for a grand reception, and afterward he wrote in his diary:\n\n\"There was a grand reception at our house; I enjoyed it very much, as I could move round and talk to whomever I wanted to.\"\n\nHe admitted he was \"not very fond of going out.\" Alice was another matter. \"Alice is universally and greatly admired; and she seems to grow more beautiful day by day,\" he wrote. \"She seems very happy; and oh, how happy she has made me!\"\n\nThey had married on 27 October, his 22nd birthday, in Brookline, Massachusetts. Alice was 19. Three days before the reception, the family had given a ball at the house for Alice and his sister Corinne.\n\nAnyone who knows the story knows what's coming. On 14 February 1884, two days after giving birth to their daughter, Alice died in that house, hours after his mother died there too. But on this December night in 1880, the diary belongs to a young man who could hardly believe his luck.\n\nShown here: Alice Hathaway Lee Roosevelt in 1881, photographed by William Notman; Alice with Theodore's sisters Corinne and Anna, early 1880s, photographed by Julius Ludovici; and the dining room of the Roosevelt house at 6 West 57th Street (all Houghton Library, Harvard University).\n\nhttps://www.trlibrary.com/tr/people/alice-lee",
+   "media": [
+    {
+     "src": "media/b505bb012b09cfc3.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/e164b39c0c675cbc.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5e8f54e63925c8b6.jpg",
+     "w": 1000,
+     "h": 725,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123457780:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-11T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Saturday, 11 December 1880, New York. Theodore Roosevelt was 22 and had been married just over six weeks.\n\nHe and his bride, Alice Hathaway Lee, were living with his mother in the family house on West 57th Street. That night the house was full for a grand reception, and afterward he wrote in his diary:\n\n\"There was a grand reception at our house; I enjoyed it very much, as I could move round and talk to whomever I wanted to.\"\n\nHe admitted he was \"not very fond of going out.\" Alice was another matter. \"Alice is universally and greatly admired; and she seems to grow more beautiful day by day,\" he wrote. \"She seems very happy; and oh, how happy she has made me!\"\n\nThey had married on 27 October, his 22nd birthday, in Brookline, Massachusetts. Alice was 19. Three days before the reception, the family had given a ball at the house for Alice and his sister Corinne.\n\nAnyone who knows the story knows what's coming. On 14 February 1884, two days after giving birth to their daughter, Alice died in that house, hours after his mother died there too. But on this December night in 1880, the diary belongs to a young man who could hardly believe his luck.\n\nShown here: Alice Hathaway Lee Roosevelt in 1881, photographed by William Notman; Alice with Theodore's sisters Corinne and Anna, early 1880s, photographed by Julius Ludovici; and the dining room of the Roosevelt house at 6 West 57th Street (all Houghton Library, Harvard University).\n\nhttps://www.trlibrary.com/tr/people/alice-lee",
+   "media": [
+    {
+     "src": "media/b505bb012b09cfc3.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/e164b39c0c675cbc.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5e8f54e63925c8b6.jpg",
+     "w": 1000,
+     "h": 725,
      "kind": "image"
     }
    ],
