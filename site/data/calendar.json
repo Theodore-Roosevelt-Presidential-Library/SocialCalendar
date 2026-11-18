@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-17T21:09:51Z",
+ "generatedAt": "2026-11-18T00:29:13Z",
  "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-11-03T00:00:00Z",
-  "end": "2027-02-15T00:00:00Z"
+  "start": "2026-11-04T00:00:00Z",
+  "end": "2027-02-16T00:00:00Z"
  },
  "profiles": [
   {
@@ -79,222 +79,6 @@
  ],
  "tags": [],
  "posts": [
-  {
-   "id": "13118706097:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-11-03T13:00:00Z",
-   "state": "SENT",
-   "text": "On the morning of 3 November 1903, the President of the United States went home to vote.\n\nHe came up overnight from Washington, crossed Manhattan behind mounted police, and reached Oyster Bay at a quarter to ten. The superintendent of Sagamore Hill met him with what The Sun called \"a road-worn double seated wagon with yellow wheels, to which a long haired black horse was attached.\"\n\nThe polling place was Fisher's Hall on Main Street, up one flight of stairs over a laundry — the stairway so low the party had to take off their high hats. The Brooklyn Daily Eagle: \"He sprang out of the wagon and ran up the stairway and entered the polling place with the rapid step that is characteristic of him.\"\n\nJames Mills had been watching at the window. He sang out \"Theodore Roosevelt votes ballot No. 82.\" almost before the President was through the door. Then, as the Eagle recorded it: the President said \"Thank you, Mr. Mills.\" Mills said \"Thank you, Mr. President.\"\n\nThe booths were canvas and he picked the worst one, its door hanging \"as though it would like to slip down and fall on the man inside.\" On the way he dodged a big shepherd dog that \"seemed to be a fixture in the hall.\"\n\nThe Tribune's dispatch added a line the others didn't: \"On the way to the polling place the President was cheered by Republicans and Democrats alike, along the route.\"\n\n#OTD #TheodoreRoosevelt #History #OysterBay",
-   "media": [
-    {
-     "src": "media/af00598954ed4308.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/4cb085db2c38cb46.jpg",
-     "w": 640,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/4e239d1ee5e11390.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/5bad19d22a6f2626.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.instagram.com/p/DfR8LC-Fwdi/",
-   "sequence": null
-  },
-  {
-   "id": "13118706149:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-11-03T13:00:00Z",
-   "state": "SENT",
-   "text": "#OTD 3 November 1903. The President of the United States went home to Oyster Bay to vote.\n\nFisher's Hall on Main Street, up one flight of stairs over a laundry, the ceiling so low the party took off their high hats. Inspector James Mills sang out \"Theodore Roosevelt votes ballot No. 82.\" before he was through the door.\n\nHe took the ballot and said \"Thank you, Mr. Mills.\" Mills said \"Thank you, Mr. President.\"\n\nIn the booth at 9:52; ballot in a minute and a half later.",
-   "media": [
-    {
-     "src": "media/f496c58cbe3040d0.jpg",
-     "w": 1000,
-     "h": 770,
-     "kind": "image"
-    },
-    {
-     "src": "media/85b2ecc9a1e2eb3c.jpg",
-     "w": 600,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/ea7f3363df4a9f9c.jpg",
-     "w": 1000,
-     "h": 730,
-     "kind": "image"
-    },
-    {
-     "src": "media/763f954e56ed6a09.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/DfR8KygILVX",
-   "sequence": null
-  },
-  {
-   "id": "13118706185:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-11-03T13:00:00Z",
-   "state": "SENT",
-   "text": "On the morning of 3 November 1903, the President of the United States went home to vote.\n\nHe had come up overnight from Washington in a private car, crossed Manhattan behind mounted police, and reached Oyster Bay at a quarter to ten. Noah Seaman, the superintendent of Sagamore Hill, was waiting at the station with a two-seated wagon — \"a road-worn double seated wagon with yellow wheels, to which a long haired black horse was attached,\" as The Sun described it.\n\nThe polling place for the Fifth election district was Fisher's Hall on Main Street, up one flight of stairs over a laundry. The stairway ceiling was so low that the party had to take off their high hats to climb it. The Brooklyn Daily Eagle: \"He sprang out of the wagon and ran up the stairway and entered the polling place with the rapid step that is characteristic of him.\"\n\nJames Mills had been watching at the window and was ready. By The Sun's account he sang out \"Theodore Roosevelt votes ballot No. 82.\" almost before the President was through the door.\n\nThe Eagle's man caught something the other papers missed. Mills — \"one of the inspectors\" — handed over the ballot. The President said \"Thank you, Mr. Mills.\" Mills said \"Thank you, Mr. President.\"\n\nThe booths were canvas and he picked the worst one. \"The door was badly bunged up,\" wrote The Sun, \"and it hung as though it would like to slip down and fall on the man inside.\" On the way to it he dodged a big shepherd dog that, in The Sun's words, \"seemed to be a fixture in the hall.\" He was in the booth at 9:52 and had deposited his ballot, by the same account, a minute and a half later.\n\nThen he shook hands with everyone in the room and went down into the street. Most of those who turned out were school children, which The Sun says \"seemed to please Mr. Roosevelt very much.\" One local worthy missed him altogether: ex-Assemblyman Sol Townsend was at home pouring a pint of castor oil down his cow, which had colic, and the President arrived before he was done.\n\nThe Tribune's Oyster Bay dispatch added a line the others didn't: \"On the way to the polling place the President was cheered by Republicans and Democrats alike, along the route.\"\n\nHe was back on the train a little after eleven. The next morning the Tribune ran photographs of both candidates for mayor of New York at their polling places. Of the President's own morning, two photographs survive at Houghton Library: going in, and coming out with his hat raised under two printed POLLING PLACE signs.\n\nhttps://www.trlibrary.com/tr/presidency",
-   "media": [
-    {
-     "src": "media/eb4122a2cf89c6eb.jpg",
-     "w": 1000,
-     "h": 770,
-     "kind": "image"
-    },
-    {
-     "src": "media/6878177d410691ff.jpg",
-     "w": 600,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/a3a12dd96b3f5e96.jpg",
-     "w": 1000,
-     "h": 730,
-     "kind": "image"
-    },
-    {
-     "src": "media/e260ddbdc8f6c867.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523368805335719936",
-   "sequence": null
-  },
-  {
-   "id": "13118706186:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-11-03T13:00:00Z",
-   "state": "SENT",
-   "text": "On the morning of 3 November 1903, the President of the United States went home to vote.\n\nHe had come up overnight from Washington in a private car, crossed Manhattan behind mounted police, and reached Oyster Bay at a quarter to ten. Noah Seaman, the superintendent of Sagamore Hill, was waiting at the station with a two-seated wagon — \"a road-worn double seated wagon with yellow wheels, to which a long haired black horse was attached,\" as The Sun described it.\n\nThe polling place for the Fifth election district was Fisher's Hall on Main Street, up one flight of stairs over a laundry. The stairway ceiling was so low that the party had to take off their high hats to climb it. The Brooklyn Daily Eagle: \"He sprang out of the wagon and ran up the stairway and entered the polling place with the rapid step that is characteristic of him.\"\n\nJames Mills had been watching at the window and was ready. By The Sun's account he sang out \"Theodore Roosevelt votes ballot No. 82.\" almost before the President was through the door.\n\nThe Eagle's man caught something the other papers missed. Mills — \"one of the inspectors\" — handed over the ballot. The President said \"Thank you, Mr. Mills.\" Mills said \"Thank you, Mr. President.\"\n\nThe booths were canvas and he picked the worst one. \"The door was badly bunged up,\" wrote The Sun, \"and it hung as though it would like to slip down and fall on the man inside.\" On the way to it he dodged a big shepherd dog that, in The Sun's words, \"seemed to be a fixture in the hall.\" He was in the booth at 9:52 and had deposited his ballot, by the same account, a minute and a half later.\n\nThen he shook hands with everyone in the room and went down into the street. Most of those who turned out were school children, which The Sun says \"seemed to please Mr. Roosevelt very much.\" One local worthy missed him altogether: ex-Assemblyman Sol Townsend was at home pouring a pint of castor oil down his cow, which had colic, and the President arrived before he was done.\n\nThe Tribune's Oyster Bay dispatch added a line the others didn't: \"On the way to the polling place the President was cheered by Republicans and Democrats alike, along the route.\"\n\nHe was back on the train a little after eleven. The next morning the Tribune ran photographs of both candidates for mayor of New York at their polling places. Of the President's own morning, two photographs survive at Houghton Library: going in, and coming out with his hat raised under two printed POLLING PLACE signs.\n\nhttps://www.trlibrary.com/tr/presidency",
-   "media": [
-    {
-     "src": "media/eb4122a2cf89c6eb.jpg",
-     "w": 1000,
-     "h": 770,
-     "kind": "image"
-    },
-    {
-     "src": "media/6878177d410691ff.jpg",
-     "w": 600,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/a3a12dd96b3f5e96.jpg",
-     "w": 1000,
-     "h": 730,
-     "kind": "image"
-    },
-    {
-     "src": "media/e260ddbdc8f6c867.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/144035749389560/posts/1182085124144996",
-   "sequence": null
-  },
-  {
-   "id": "13118706218:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-11-03T13:00:00Z",
-   "state": "SENT",
-   "text": "#OTD 3 November 1903. The President went home to Oyster Bay to vote — up a flight of stairs over a laundry, into the worst booth in the hall, ballot No. 82.\n\nHe took it and said \"Thank you, Mr. Mills.\" The inspector said \"Thank you, Mr. President.\"",
-   "media": [
-    {
-     "src": "media/a0754493e4ae92da.jpg",
-     "w": 1000,
-     "h": 770,
-     "kind": "image"
-    },
-    {
-     "src": "media/b844cc0e9144adb3.jpg",
-     "w": 600,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/c92ef537c5b72357.jpg",
-     "w": 1000,
-     "h": 730,
-     "kind": "image"
-    },
-    {
-     "src": "media/fcae1622258cf683.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mzfvgk3nkb2z",
-   "sequence": null
-  },
-  {
-   "id": "13118706268:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-11-03T13:00:00Z",
-   "state": "SENT",
-   "text": "#OTD 3 November 1903. The President went home to Oyster Bay to vote — up one flight of stairs over a laundry, into the worst booth in the hall, ballot No. 82.\n\nThe Tribune: \"the President was cheered by Republicans and Democrats alike, along the route.\"\n\nhttps://www.trlibrary.com/tr/presidency",
-   "media": [
-    {
-     "src": "media/8975a71b522e2c49.jpg",
-     "w": 1000,
-     "h": 770,
-     "kind": "image"
-    },
-    {
-     "src": "media/fa88b42365cc6fb1.jpg",
-     "w": 600,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/666bcabdf76d6096.jpg",
-     "w": 1000,
-     "h": 730,
-     "kind": "image"
-    },
-    {
-     "src": "media/fdac55f209e9ab77.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2117602810476859871",
-   "sequence": null
-  },
   {
    "id": "13118706327:138745276",
    "profileId": "138745276",
@@ -3646,6 +3430,330 @@
    "sequence": null
   },
   {
+   "id": "13123316265:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 22 Nov 1884: Theodore Roosevelt rides into town and back at \"20° below zero.\" He's 26 and organizing the Little Missouri ranchers. On 19 Dec they form a stockmen's association in Medora and elect him chairman.\n\nhttps://www.trlibrary.com/tr/badlands/frontier-life",
+   "media": [
+    {
+     "src": "media/d07b3e2e5c8caf6f.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/30310618fac4c97e.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316396:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Twenty degrees below zero.\n\nThat is what Theodore Roosevelt's thermometer read on 22 November 1884, the day he rode from the Maltese Cross ranch into town and back with Bill Sewall. His diary entry is short: six sharptail grouse shot, a cold ride, \"thermometer 20° below zero.\"\n\nHe was 26, back in the Badlands for a few early-winter weeks, nine months after his wife and his mother died on the same day in New York. He was not just passing time. The next day he told his sister Anna he was trying to start a stockmen's association.\n\nThe cattlemen of the Little Missouri shared open range. Their herds mixed, roundups needed planning, brands needed recording, and there were thieves to worry about. There was no one to set rules but the ranchers themselves. Others, Howard Eaton among them, had tried to organize earlier that year.\n\nIn the days that followed, as biographer Hermann Hagedorn tells it, Roosevelt and Sewall rode from ranch to ranch along the valley, making the case. On 19 December 1884, representatives of eleven cattle outfits met in Medora and organized the Little Missouri River Stockmen's Association. They elected Roosevelt chairman.\n\nA little over a year earlier he had come west as a New York hunter after buffalo. Now the stockmen of the Little Missouri had chosen him to run their meetings.\n\nShown here: the Maltese Cross ranch house, with Sylvane Ferris, and Roosevelt in buckskins, photographed in 1885.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #NorthDakota #Medora #RanchHistory",
+   "media": [
+    {
+     "src": "media/629fdbf5e9ac540b.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/50830a89b56da32b.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316446:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 22 November 1884: Theodore Roosevelt's diary records a ride into town and back, \"thermometer 20° below zero.\"\n\nHe was 26, back in the Badlands for a few early-winter weeks, and trying to organize his neighbors. In the days that followed he rode ranch to ranch along the Little Missouri. On 19 December the ranchers met in Medora, formed a stockmen's association and elected him chairman.",
+   "media": [
+    {
+     "src": "media/172bf386922d8896.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/6d568005b06d94ba.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316474:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 22 Nov 1884: Theodore Roosevelt rides into town and back at \"20° below zero.\" He's 26 and rallying Little Missouri ranchers. On 19 Dec they form a stockmen's association in Medora and elect him chairman.",
+   "media": [
+    {
+     "src": "media/b2c8d76fabdc1f01.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/e109f4a565cf0361.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316577:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Twenty degrees below zero.\n\nThat is what Theodore Roosevelt's thermometer read on 22 November 1884, the day he rode from the Maltese Cross ranch into town and back with Bill Sewall. His diary entry is short: six sharptail grouse shot, a cold ride, \"thermometer 20° below zero.\"\n\nHe was 26, back in the Badlands for a few early-winter weeks, nine months after his wife and his mother died on the same day in New York. He was not just passing time. The next day he told his sister Anna he was trying to start a stockmen's association.\n\nThe cattlemen of the Little Missouri shared open range. Their herds mixed, roundups needed planning, brands needed recording, and there were thieves to worry about. There was no one to set rules but the ranchers themselves. Others, Howard Eaton among them, had tried to organize earlier that year.\n\nIn the days that followed, as biographer Hermann Hagedorn tells it, Roosevelt and Sewall rode from ranch to ranch along the valley, making the case. On 19 December 1884, representatives of eleven cattle outfits met in Medora and organized the Little Missouri River Stockmen's Association. They elected Roosevelt chairman.\n\nA little over a year earlier he had come west as a New York hunter after buffalo. Now the stockmen of the Little Missouri had chosen him to run their meetings.\n\nShown here: the Maltese Cross ranch house, with Sylvane Ferris, and Roosevelt in buckskins, photographed in 1885.\n\nhttps://www.trlibrary.com/tr/badlands/frontier-life",
+   "media": [
+    {
+     "src": "media/8b3b305ac76d00af.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/279f221878b1c72d.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316578:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Twenty degrees below zero.\n\nThat is what Theodore Roosevelt's thermometer read on 22 November 1884, the day he rode from the Maltese Cross ranch into town and back with Bill Sewall. His diary entry is short: six sharptail grouse shot, a cold ride, \"thermometer 20° below zero.\"\n\nHe was 26, back in the Badlands for a few early-winter weeks, nine months after his wife and his mother died on the same day in New York. He was not just passing time. The next day he told his sister Anna he was trying to start a stockmen's association.\n\nThe cattlemen of the Little Missouri shared open range. Their herds mixed, roundups needed planning, brands needed recording, and there were thieves to worry about. There was no one to set rules but the ranchers themselves. Others, Howard Eaton among them, had tried to organize earlier that year.\n\nIn the days that followed, as biographer Hermann Hagedorn tells it, Roosevelt and Sewall rode from ranch to ranch along the valley, making the case. On 19 December 1884, representatives of eleven cattle outfits met in Medora and organized the Little Missouri River Stockmen's Association. They elected Roosevelt chairman.\n\nA little over a year earlier he had come west as a New York hunter after buffalo. Now the stockmen of the Little Missouri had chosen him to run their meetings.\n\nShown here: the Maltese Cross ranch house, with Sylvane Ferris, and Roosevelt in buckskins, photographed in 1885.\n\nhttps://www.trlibrary.com/tr/badlands/frontier-life",
+   "media": [
+    {
+     "src": "media/8b3b305ac76d00af.jpg",
+     "w": 1000,
+     "h": 691,
+     "kind": "image"
+    },
+    {
+     "src": "media/279f221878b1c72d.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316625:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 23 November 1884: From the Chimney Butte ranch, Theodore Roosevelt writes his sister Bamie, who is raising his nine-month-old daughter Alice.\n\nHe tells her about a night in an empty hut with no supper, a ride through a snowstorm at twenty below, and a stockmen's association he's organizing. He asks for blank checks. Only at the very end: \"Give many kisses to wee Baby.\"",
+   "media": [
+    {
+     "src": "media/a2ac8a8b61c53363.jpg",
+     "w": 1000,
+     "h": 678,
+     "kind": "image"
+    },
+    {
+     "src": "media/8e40a1a5a203d2a2.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6c2af1faefbc1619.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316675:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 23 Nov 1884: From a frozen Dakota ranch, Theodore Roosevelt writes his sister Bamie: a night in an empty hut, a ride home at 20 below, a plea for blank checks. Only at the end, his baby daughter: \"Give many kisses to wee Baby.\"\n\nhttps://www.trlibrary.com/tr/people/bamie",
+   "media": [
+    {
+     "src": "media/763a9c72c2921a0a.jpg",
+     "w": 1000,
+     "h": 678,
+     "kind": "image"
+    },
+    {
+     "src": "media/da8078731e00772c.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/25d1288c4316152f.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316709:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 23 Nov 1884: From a Dakota ranch, Theodore Roosevelt writes his sister Bamie of a night in an empty hut, a ride home at 20 below, and a plea for blank checks. Last line, for his baby daughter: \"Give many kisses to wee Baby.\"",
+   "media": [
+    {
+     "src": "media/c1a5f54da681df71.jpg",
+     "w": 1000,
+     "h": 678,
+     "kind": "image"
+    },
+    {
+     "src": "media/c0bc13c5a30551fd.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/bbcfc64a3db93654.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316755:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "\"Give many kisses to wee Baby.\"\n\nTheodore Roosevelt wrote that line on 23 November 1884, at the very end of a letter from the Chimney Butte ranch in Dakota Territory to his older sister Anna, the family's \"Bamie.\" The baby was his daughter Alice, nine months old and living with Bamie in New York. Her mother, Alice Hathaway Lee Roosevelt, had died two days after she was born.\n\nThe letter is written on paper with a black mourning border. Most of it reads like a ranch report.\n\nHe had set out alone for his second ranch, the Elkhorn, forty-five miles down the Little Missouri. Darkness came early, and he spent a bitterly cold night in an empty hut with no supper. At dawn he shot prairie chickens and made a hearty breakfast. At the Elkhorn he found his friends from Maine, Bill Sewall and Wilmot Dow, who had already hewn the logs for the new ranch house. Riding back upriver with them through a snowstorm, he reached the Maltese Cross late at night with the thermometer at twenty below. His fur coat and buffalo bag, he told her, had come in very handy.\n\nThen business. He was trying to start a stockmen's association, and he needed blank checks from his checkbook, right away.\n\nOnly then, the baby.\n\nWithin three years Alice would be living with her father and his second wife, Edith, at Sagamore Hill.\n\nShown here: Dow, Roosevelt and Sewall at the Elkhorn, photographed in 1886; baby Alice in 1885; and Alice Hathaway Lee Roosevelt with Theodore's sisters Corinne and Anna.\n\nhttps://www.trlibrary.com/tr/people/bamie",
+   "media": [
+    {
+     "src": "media/405135c3c6803a0b.jpg",
+     "w": 1000,
+     "h": 678,
+     "kind": "image"
+    },
+    {
+     "src": "media/aafccd92d5493eda.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d2a668d66e090c9a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316756:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "\"Give many kisses to wee Baby.\"\n\nTheodore Roosevelt wrote that line on 23 November 1884, at the very end of a letter from the Chimney Butte ranch in Dakota Territory to his older sister Anna, the family's \"Bamie.\" The baby was his daughter Alice, nine months old and living with Bamie in New York. Her mother, Alice Hathaway Lee Roosevelt, had died two days after she was born.\n\nThe letter is written on paper with a black mourning border. Most of it reads like a ranch report.\n\nHe had set out alone for his second ranch, the Elkhorn, forty-five miles down the Little Missouri. Darkness came early, and he spent a bitterly cold night in an empty hut with no supper. At dawn he shot prairie chickens and made a hearty breakfast. At the Elkhorn he found his friends from Maine, Bill Sewall and Wilmot Dow, who had already hewn the logs for the new ranch house. Riding back upriver with them through a snowstorm, he reached the Maltese Cross late at night with the thermometer at twenty below. His fur coat and buffalo bag, he told her, had come in very handy.\n\nThen business. He was trying to start a stockmen's association, and he needed blank checks from his checkbook, right away.\n\nOnly then, the baby.\n\nWithin three years Alice would be living with her father and his second wife, Edith, at Sagamore Hill.\n\nShown here: Dow, Roosevelt and Sewall at the Elkhorn, photographed in 1886; baby Alice in 1885; and Alice Hathaway Lee Roosevelt with Theodore's sisters Corinne and Anna.\n\nhttps://www.trlibrary.com/tr/people/bamie",
+   "media": [
+    {
+     "src": "media/405135c3c6803a0b.jpg",
+     "w": 1000,
+     "h": 678,
+     "kind": "image"
+    },
+    {
+     "src": "media/aafccd92d5493eda.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d2a668d66e090c9a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316808:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "\"Give many kisses to wee Baby.\"\n\nTheodore Roosevelt wrote that line on 23 November 1884, at the very end of a letter from the Chimney Butte ranch in Dakota Territory to his older sister Anna, the family's \"Bamie.\" The baby was his daughter Alice, nine months old and living with Bamie in New York. Her mother, Alice Hathaway Lee Roosevelt, had died two days after she was born.\n\nThe letter is written on paper with a black mourning border. Most of it reads like a ranch report.\n\nHe had set out alone for his second ranch, the Elkhorn, forty-five miles down the Little Missouri. Darkness came early, and he spent a bitterly cold night in an empty hut with no supper. At dawn he shot prairie chickens and made a hearty breakfast. At the Elkhorn he found his friends from Maine, Bill Sewall and Wilmot Dow, who had already hewn the logs for the new ranch house. Riding back upriver with them through a snowstorm, he reached the Maltese Cross late at night with the thermometer at twenty below. His fur coat and buffalo bag, he told her, had come in very handy.\n\nThen business. He was trying to start a stockmen's association, and he needed blank checks from his checkbook, right away.\n\nOnly then, the baby.\n\nWithin three years Alice would be living with her father and his second wife, Edith, at Sagamore Hill.\n\nShown here: Dow, Roosevelt and Sewall at the Elkhorn, photographed in 1886; baby Alice in 1885; and Alice Hathaway Lee Roosevelt with Theodore's sisters Corinne and Anna.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Badlands #NorthDakota #RooseveltFamily #Letters",
+   "media": [
+    {
+     "src": "media/f4deedf4a85253e9.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/13cf9f3e7da06364.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f5bbe415afc068bb.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
    "id": "13118713255:138241752",
    "profileId": "138241752",
    "scheduledAt": "2026-11-23T17:05:00Z",
@@ -3746,6 +3854,1626 @@
      "src": "media/226457cc24079f7f.jpg",
      "w": 1000,
      "h": 525,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316850:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 24 Nov 1908: Theodore Roosevelt creates the Dakota National Forest, about 14,000 acres of pine country in what is now Slope County, ND. Same day: Ocala NF, Florida. Wilson abolished it in 1917.\n\nhttps://www.trlibrary.com/tr/presidency/conservation/national-forests",
+   "media": [
+    {
+     "src": "media/35f89004407343cd.jpg",
+     "w": 906,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/188f7af48ac460d3.jpg",
+     "w": 1000,
+     "h": 683,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316888:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "North Dakota once had a national forest.\n\nIn the badlands of what is now Slope County, up the Little Missouri from Medora, there are scattered stands of ponderosa pine. On 24 November 1908, Theodore Roosevelt signed a proclamation setting aside about 14,000 acres of that country, some 22 sections, as the Dakota National Forest.\n\nThe proclamation is a few sentences long. It says the public lands there were \"in part covered with timber,\" and that \"the public good would be promoted by utilizing said lands as a National Forest.\" The same day, Roosevelt signed a second proclamation creating the Ocala National Forest in Florida.\n\nAccording to the State Historical Society of North Dakota, Governor John Burke had brought the pines to the Forest Service's attention, and a forester came out to look them over that summer. A quarter century after Roosevelt first came to the Little Missouri, the pines upriver from his old range were under federal protection.\n\nThe forest did not last. A tree nursery was started there in 1912, but on 30 July 1917 President Woodrow Wilson abolished the Dakota National Forest by proclamation. Some of that country lies within today's Little Missouri National Grassland.\n\nShown here: the Forest Service diagram of the Dakota National Forest and the text of Roosevelt's proclamation, both from Volume 35 of the U.S. Statutes at Large.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Conservation #NationalForests #NorthDakota #PublicLands",
+   "media": [
+    {
+     "src": "media/ffe201fd16e85f6c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/59b311862c984713.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316953:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "North Dakota once had a national forest.\n\nIn the badlands of what is now Slope County, up the Little Missouri from Medora, there are scattered stands of ponderosa pine. On 24 November 1908, Theodore Roosevelt signed a proclamation setting aside about 14,000 acres of that country, some 22 sections, as the Dakota National Forest.\n\nThe proclamation is a few sentences long. It says the public lands there were \"in part covered with timber,\" and that \"the public good would be promoted by utilizing said lands as a National Forest.\" The same day, Roosevelt signed a second proclamation creating the Ocala National Forest in Florida.\n\nAccording to the State Historical Society of North Dakota, Governor John Burke had brought the pines to the Forest Service's attention, and a forester came out to look them over that summer. A quarter century after Roosevelt first came to the Little Missouri, the pines upriver from his old range were under federal protection.\n\nThe forest did not last. A tree nursery was started there in 1912, but on 30 July 1917 President Woodrow Wilson abolished the Dakota National Forest by proclamation. Some of that country lies within today's Little Missouri National Grassland.\n\nShown here: the Forest Service diagram of the Dakota National Forest and the text of Roosevelt's proclamation, both from Volume 35 of the U.S. Statutes at Large.\n\nhttps://www.trlibrary.com/tr/presidency/conservation/national-forests",
+   "media": [
+    {
+     "src": "media/27304759479bebd4.jpg",
+     "w": 906,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/98af521acde10ce8.jpg",
+     "w": 1000,
+     "h": 683,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316954:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "North Dakota once had a national forest.\n\nIn the badlands of what is now Slope County, up the Little Missouri from Medora, there are scattered stands of ponderosa pine. On 24 November 1908, Theodore Roosevelt signed a proclamation setting aside about 14,000 acres of that country, some 22 sections, as the Dakota National Forest.\n\nThe proclamation is a few sentences long. It says the public lands there were \"in part covered with timber,\" and that \"the public good would be promoted by utilizing said lands as a National Forest.\" The same day, Roosevelt signed a second proclamation creating the Ocala National Forest in Florida.\n\nAccording to the State Historical Society of North Dakota, Governor John Burke had brought the pines to the Forest Service's attention, and a forester came out to look them over that summer. A quarter century after Roosevelt first came to the Little Missouri, the pines upriver from his old range were under federal protection.\n\nThe forest did not last. A tree nursery was started there in 1912, but on 30 July 1917 President Woodrow Wilson abolished the Dakota National Forest by proclamation. Some of that country lies within today's Little Missouri National Grassland.\n\nShown here: the Forest Service diagram of the Dakota National Forest and the text of Roosevelt's proclamation, both from Volume 35 of the U.S. Statutes at Large.\n\nhttps://www.trlibrary.com/tr/presidency/conservation/national-forests",
+   "media": [
+    {
+     "src": "media/27304759479bebd4.jpg",
+     "w": 906,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/98af521acde10ce8.jpg",
+     "w": 1000,
+     "h": 683,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123316983:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 24 November 1908: North Dakota gets a national forest. Theodore Roosevelt proclaims about 14,000 acres of pine country in what is now Slope County, up the Little Missouri from Medora, as the Dakota National Forest. The same day he creates the Ocala National Forest in Florida.\n\nOcala is still there. The Dakota forest was abolished in 1917.",
+   "media": [
+    {
+     "src": "media/0bcd1de76b76da47.jpg",
+     "w": 906,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/c9980ccec0a8d240.jpg",
+     "w": 1000,
+     "h": 683,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123317026:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 24 Nov 1908: Theodore Roosevelt creates the Dakota National Forest, about 14,000 acres of pine country up the Little Missouri in what is now Slope County, ND. Same day: Ocala NF, Florida. The Dakota forest was abolished in 1917.",
+   "media": [
+    {
+     "src": "media/44558691f029d3a7.jpg",
+     "w": 906,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/8850eb7daea94ec0.jpg",
+     "w": 1000,
+     "h": 683,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123317067:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Tomorrow is Thanksgiving. On Thanksgiving Day 1880, four weeks after his wedding, Theodore Roosevelt hosted dinner for New York's newsboys.\n\n\"Emlen and I gave the newsboys a big dinner; about a hundred came,\" he wrote in his diary on 25 November 1880. Emlen was his first cousin, William Emlen Roosevelt.\n\nThe dinner was his father's tradition. Theodore Roosevelt Sr. was a close friend of Charles Loring Brace, whose Children's Aid Society ran the Newsboys' Lodging House, where boys who sold papers on the street could get a cheap bed, a wash and a meal. In his Autobiography, Roosevelt recalled that on Thanksgiving or Christmas his father \"was always back in time to go to the dinner at the Newsboys' Lodging-House.\" \"At a very early age we children were taken with him and were required to help.\"\n\nHis father had died in February 1878. Now 22, a Columbia law student and newly married to Alice Hathaway Lee, Roosevelt kept the custom going. That evening the family sat down to its own Thanksgiving. \"We had a great family dinner in the evening,\" he wrote; \"Alice looked like a little Queen.\"\n\nYears later, Roosevelt noted that when he was president, the governor of Alaska, John Green Brady, was one of those former newsboys, sent west as a boy by Brace and by Roosevelt's father.\n\nShown here: \"Washing up\" in the newsboys' lodging house, about 1890, and a newsboy at the Duane Street lodging house, about 1888–89. Photographs by Jacob A. Riis, Library of Congress.\n\nhttps://www.trlibrary.com/tr/thanksgiving-timeline",
+   "media": [
+    {
+     "src": "media/381ae504a3606956.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    },
+    {
+     "src": "media/0c38e8791b2a24cc.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123317068:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Tomorrow is Thanksgiving. On Thanksgiving Day 1880, four weeks after his wedding, Theodore Roosevelt hosted dinner for New York's newsboys.\n\n\"Emlen and I gave the newsboys a big dinner; about a hundred came,\" he wrote in his diary on 25 November 1880. Emlen was his first cousin, William Emlen Roosevelt.\n\nThe dinner was his father's tradition. Theodore Roosevelt Sr. was a close friend of Charles Loring Brace, whose Children's Aid Society ran the Newsboys' Lodging House, where boys who sold papers on the street could get a cheap bed, a wash and a meal. In his Autobiography, Roosevelt recalled that on Thanksgiving or Christmas his father \"was always back in time to go to the dinner at the Newsboys' Lodging-House.\" \"At a very early age we children were taken with him and were required to help.\"\n\nHis father had died in February 1878. Now 22, a Columbia law student and newly married to Alice Hathaway Lee, Roosevelt kept the custom going. That evening the family sat down to its own Thanksgiving. \"We had a great family dinner in the evening,\" he wrote; \"Alice looked like a little Queen.\"\n\nYears later, Roosevelt noted that when he was president, the governor of Alaska, John Green Brady, was one of those former newsboys, sent west as a boy by Brace and by Roosevelt's father.\n\nShown here: \"Washing up\" in the newsboys' lodging house, about 1890, and a newsboy at the Duane Street lodging house, about 1888–89. Photographs by Jacob A. Riis, Library of Congress.\n\nhttps://www.trlibrary.com/tr/thanksgiving-timeline",
+   "media": [
+    {
+     "src": "media/381ae504a3606956.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    },
+    {
+     "src": "media/0c38e8791b2a24cc.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123317118:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD Thanksgiving, 25 Nov 1880: \"Emlen and I gave the newsboys a big dinner; about a hundred came.\" Theodore Roosevelt, 22 and newly married, keeps his late father's custom of a holiday dinner for New York's newsboys.",
+   "media": [
+    {
+     "src": "media/c268baef446195b1.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    },
+    {
+     "src": "media/5cc3de74c97687c0.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123317154:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD Thanksgiving, 25 November 1880: \"Emlen and I gave the newsboys a big dinner; about a hundred came.\"\n\nTheodore Roosevelt, 22 and four weeks married, was keeping up his late father's custom of a holiday dinner for New York's newsboys. His father always went to the dinner at the Newsboys' Lodging-House. \"At a very early age we children were taken with him and were required to help,\" he wrote later.",
+   "media": [
+    {
+     "src": "media/1031837b2d861acf.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    },
+    {
+     "src": "media/1af8baeb75540144.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123317199:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD Thanksgiving, 25 Nov 1880: \"Emlen and I gave the newsboys a big dinner; about a hundred came.\" Four weeks married and 22, Theodore Roosevelt keeps up his late father's holiday custom of a dinner for New York's newsboys.\n\nhttps://www.trlibrary.com/tr/thanksgiving-timeline",
+   "media": [
+    {
+     "src": "media/ef1ed055a5aeeee7.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    },
+    {
+     "src": "media/d5160b6b1c2a6d22.jpg",
+     "w": 1000,
+     "h": 799,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123317241:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Tomorrow is Thanksgiving. On Thanksgiving Day 1880, four weeks after his wedding, Theodore Roosevelt hosted dinner for New York's newsboys.\n\n\"Emlen and I gave the newsboys a big dinner; about a hundred came,\" he wrote in his diary on 25 November 1880. Emlen was his first cousin, William Emlen Roosevelt.\n\nThe dinner was his father's tradition. Theodore Roosevelt Sr. was a close friend of Charles Loring Brace, whose Children's Aid Society ran the Newsboys' Lodging House, where boys who sold papers on the street could get a cheap bed, a wash and a meal. In his Autobiography, Roosevelt recalled that on Thanksgiving or Christmas his father \"was always back in time to go to the dinner at the Newsboys' Lodging-House.\" \"At a very early age we children were taken with him and were required to help.\"\n\nHis father had died in February 1878. Now 22, a Columbia law student and newly married to Alice Hathaway Lee, Roosevelt kept the custom going. That evening the family sat down to its own Thanksgiving. \"We had a great family dinner in the evening,\" he wrote; \"Alice looked like a little Queen.\"\n\nYears later, Roosevelt noted that when he was president, the governor of Alaska, John Green Brady, was one of those former newsboys, sent west as a boy by Brace and by Roosevelt's father.\n\nShown here: \"Washing up\" in the newsboys' lodging house, about 1890, and a newsboy at the Duane Street lodging house, about 1888–89. Photographs by Jacob A. Riis, Library of Congress.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Thanksgiving #NewYorkHistory #GildedAge",
+   "media": [
+    {
+     "src": "media/d0fa848c2a00c80a.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/51a520e84c6d169b.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328271:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD Thanksgiving, 26 Nov 1908: the Roosevelts' last White House Thanksgiving. Quentin, 11 and just out of a leg cast, \"went to the slaughter-house and got a pig for Thanksgiving dinner.\" It shared the table with a 25-pound turkey.",
+   "media": [
+    {
+     "src": "media/c114714be28222da.jpg",
+     "w": 833,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/af8a1092233c6df7.jpg",
+     "w": 1000,
+     "h": 783,
+     "kind": "image"
+    },
+    {
+     "src": "media/6cc6c7dc2814fcd5.jpg",
+     "w": 1000,
+     "h": 648,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328318:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD Thanksgiving, 26 Nov 1908: the Roosevelts' last White House Thanksgiving. Quentin, 11 and just out of a leg cast, roller-skates, romps all over the house and fetches the pig for dinner from the slaughterhouse.\n\nhttps://www.trlibrary.com/tr/thanksgiving",
+   "media": [
+    {
+     "src": "media/9de85686abe15cdf.jpg",
+     "w": 833,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/992b4a09e2afd20f.jpg",
+     "w": 1000,
+     "h": 783,
+     "kind": "image"
+    },
+    {
+     "src": "media/263b47ebe61cd54b.jpg",
+     "w": 1000,
+     "h": 648,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328370:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD Thanksgiving, 26 November 1908: the Roosevelts' last Thanksgiving in the White House.\n\nQuentin, 11, was just out of a leg cast. \"He roller-skated; he practised football,\" his father wrote, and \"he went to the slaughter-house and got a pig for Thanksgiving dinner.\"\n\nThe menu: a turkey of more than 25 pounds, the roast pig, and ice cream shaped like quail.",
+   "media": [
+    {
+     "src": "media/2a81af4fd284d608.jpg",
+     "w": 833,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/091258a9f5f04720.jpg",
+     "w": 1000,
+     "h": 783,
+     "kind": "image"
+    },
+    {
+     "src": "media/ae6d9228c223af1f.jpg",
+     "w": 1000,
+     "h": 648,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328400:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thanksgiving fell on 26 November in 1908, too. It was the Roosevelts' last one in the White House.\n\nQuentin, who had turned 11 the week before, had just had his leg taken out of a plaster cast, and he made up for lost time. His father wrote to Archie, away at school, the next day:\n\n\"His leg was out of plaster and there was nothing he did not do. He roller-skated; he practised football; he had engineering work and electrical work; he went all around the city; he romped all over the White House; he went to the slaughter-house and got a pig for Thanksgiving dinner.\"\n\nThat evening was a family dinner: the President and Edith, Ethel, Quentin, Alice and Nick Longworth, and a few others. One was Captain Archie Butt, the President's military aide, who wrote a long letter to his sister-in-law Clara about it.\n\nButt's menu: creamed pea soup, then the biggest turkey he had ever seen, a little over 25 pounds dressed. Behind it came a roast pig with an apple in its mouth. When Quentin asked whether there would be vegetables, out came spinach, sugared sweet potatoes and rice. Then a salad of lettuce and avocado (\"alligator pears\"), apple and mince pies, and ice cream molded in the shape of quail, with melted brown sugar poured over for gravy.\n\nWhen the waiter began to serve the sherry, Edith told him that since it was Thanksgiving he could serve champagne. Butt said he had never seen anything stronger than sherry or Rhine wine on that table except at formal dinners. The President, he wrote, told one story after another all through dinner.\n\nIn March the family left the White House for good.\n\nShown here: the President with Archie and Quentin, about 1904; Archie and Quentin at play, about 1904 (Library of Congress); and \"A Thanksgiving Truce,\" a 1905 Puck cartoon of Roosevelt at a holiday table with the animals.\n\nHappy Thanksgiving from Medora.\n\nhttps://www.trlibrary.com/tr/thanksgiving",
+   "media": [
+    {
+     "src": "media/ab93cd23ac7ed4f8.jpg",
+     "w": 833,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/70f51997499ffbbe.jpg",
+     "w": 1000,
+     "h": 783,
+     "kind": "image"
+    },
+    {
+     "src": "media/febb06bb04d0a215.jpg",
+     "w": 1000,
+     "h": 648,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328401:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thanksgiving fell on 26 November in 1908, too. It was the Roosevelts' last one in the White House.\n\nQuentin, who had turned 11 the week before, had just had his leg taken out of a plaster cast, and he made up for lost time. His father wrote to Archie, away at school, the next day:\n\n\"His leg was out of plaster and there was nothing he did not do. He roller-skated; he practised football; he had engineering work and electrical work; he went all around the city; he romped all over the White House; he went to the slaughter-house and got a pig for Thanksgiving dinner.\"\n\nThat evening was a family dinner: the President and Edith, Ethel, Quentin, Alice and Nick Longworth, and a few others. One was Captain Archie Butt, the President's military aide, who wrote a long letter to his sister-in-law Clara about it.\n\nButt's menu: creamed pea soup, then the biggest turkey he had ever seen, a little over 25 pounds dressed. Behind it came a roast pig with an apple in its mouth. When Quentin asked whether there would be vegetables, out came spinach, sugared sweet potatoes and rice. Then a salad of lettuce and avocado (\"alligator pears\"), apple and mince pies, and ice cream molded in the shape of quail, with melted brown sugar poured over for gravy.\n\nWhen the waiter began to serve the sherry, Edith told him that since it was Thanksgiving he could serve champagne. Butt said he had never seen anything stronger than sherry or Rhine wine on that table except at formal dinners. The President, he wrote, told one story after another all through dinner.\n\nIn March the family left the White House for good.\n\nShown here: the President with Archie and Quentin, about 1904; Archie and Quentin at play, about 1904 (Library of Congress); and \"A Thanksgiving Truce,\" a 1905 Puck cartoon of Roosevelt at a holiday table with the animals.\n\nHappy Thanksgiving from Medora.\n\nhttps://www.trlibrary.com/tr/thanksgiving",
+   "media": [
+    {
+     "src": "media/ab93cd23ac7ed4f8.jpg",
+     "w": 833,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/70f51997499ffbbe.jpg",
+     "w": 1000,
+     "h": 783,
+     "kind": "image"
+    },
+    {
+     "src": "media/febb06bb04d0a215.jpg",
+     "w": 1000,
+     "h": 648,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328433:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thanksgiving fell on 26 November in 1908, too. It was the Roosevelts' last one in the White House.\n\nQuentin, who had turned 11 the week before, had just had his leg taken out of a plaster cast, and he made up for lost time. His father wrote to Archie, away at school, the next day:\n\n\"His leg was out of plaster and there was nothing he did not do. He roller-skated; he practised football; he had engineering work and electrical work; he went all around the city; he romped all over the White House; he went to the slaughter-house and got a pig for Thanksgiving dinner.\"\n\nThat evening was a family dinner: the President and Edith, Ethel, Quentin, Alice and Nick Longworth, and a few others. One was Captain Archie Butt, the President's military aide, who wrote a long letter to his sister-in-law Clara about it.\n\nButt's menu: creamed pea soup, then the biggest turkey he had ever seen, a little over 25 pounds dressed. Behind it came a roast pig with an apple in its mouth. When Quentin asked whether there would be vegetables, out came spinach, sugared sweet potatoes and rice. Then a salad of lettuce and avocado (\"alligator pears\"), apple and mince pies, and ice cream molded in the shape of quail, with melted brown sugar poured over for gravy.\n\nWhen the waiter began to serve the sherry, Edith told him that since it was Thanksgiving he could serve champagne. Butt said he had never seen anything stronger than sherry or Rhine wine on that table except at formal dinners. The President, he wrote, told one story after another all through dinner.\n\nIn March the family left the White House for good.\n\nShown here: the President with Archie and Quentin, about 1904; Archie and Quentin at play, about 1904 (Library of Congress); and \"A Thanksgiving Truce,\" a 1905 Puck cartoon of Roosevelt at a holiday table with the animals.\n\nHappy Thanksgiving from Medora.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Thanksgiving #WhiteHouseHistory #QuentinRoosevelt",
+   "media": [
+    {
+     "src": "media/2407f339de7393ff.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/74c736745b3c0696.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/3fee238b017189ce.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328471:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 27 November 1905: Mark Twain comes to lunch at the White House, three days before his 70th birthday.\n\nThe New York Times called it \"purely social.\" It wasn't. He came to press Theodore Roosevelt about atrocities in King Leopold's Congo. Afterward he wrote Edith Roosevelt that the matter \"was on my citizen-conscience & must be unloaded.\"",
+   "media": [
+    {
+     "src": "media/5e8d9e6c0c95f49d.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/995e1dffe843de89.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328580:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Mark Twain came to lunch at the White House on 27 November 1905, three days before his 70th birthday.\n\nThe New York Times put it on the front page the next morning and called the visit \"purely social.\" It was not.\n\nTwain had come about the Congo. Under King Leopold II of Belgium, the Congo Free State was run as his personal possession, worked for rubber, and reports of forced labor, mutilation and killing had been reaching Europe and America for years. Twain was an honorary vice president of the American Congo Reform Association, and that September it had published his King Leopold's Soliloquy, a furious satire in the king's own voice.\n\nSo Twain sat down to lunch with the President, the First Lady and a few guests, and found a private word with Roosevelt about the Congo. According to Twain scholar Hunt Hawkins, Roosevelt showed interest and said he would ask Assistant Secretary of State Robert Bacon for a report. Bacon wrote to Twain a week later, asking what England had already done.\n\nThe next day Twain wrote to Edith Roosevelt to explain himself. \"I am a citizen,\" he wrote, \"& the matter was on my citizen-conscience & must be unloaded.\"\n\nThe two did not always get along. Twain said sharp things about Roosevelt over the years, much of it in private. On this day they shared a table, and Twain got his hearing.\n\nShown here: Mark Twain about 1907, and a 1904 portrait print of Samuel L. Clemens (Library of Congress).\n\nhttps://www.trlibrary.com/tr/books-and-writings",
+   "media": [
+    {
+     "src": "media/6d5b454499549bc8.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2e9ca9d506b1eee1.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328581:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Mark Twain came to lunch at the White House on 27 November 1905, three days before his 70th birthday.\n\nThe New York Times put it on the front page the next morning and called the visit \"purely social.\" It was not.\n\nTwain had come about the Congo. Under King Leopold II of Belgium, the Congo Free State was run as his personal possession, worked for rubber, and reports of forced labor, mutilation and killing had been reaching Europe and America for years. Twain was an honorary vice president of the American Congo Reform Association, and that September it had published his King Leopold's Soliloquy, a furious satire in the king's own voice.\n\nSo Twain sat down to lunch with the President, the First Lady and a few guests, and found a private word with Roosevelt about the Congo. According to Twain scholar Hunt Hawkins, Roosevelt showed interest and said he would ask Assistant Secretary of State Robert Bacon for a report. Bacon wrote to Twain a week later, asking what England had already done.\n\nThe next day Twain wrote to Edith Roosevelt to explain himself. \"I am a citizen,\" he wrote, \"& the matter was on my citizen-conscience & must be unloaded.\"\n\nThe two did not always get along. Twain said sharp things about Roosevelt over the years, much of it in private. On this day they shared a table, and Twain got his hearing.\n\nShown here: Mark Twain about 1907, and a 1904 portrait print of Samuel L. Clemens (Library of Congress).\n\nhttps://www.trlibrary.com/tr/books-and-writings",
+   "media": [
+    {
+     "src": "media/6d5b454499549bc8.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2e9ca9d506b1eee1.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328609:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Mark Twain came to lunch at the White House on 27 November 1905, three days before his 70th birthday.\n\nThe New York Times put it on the front page the next morning and called the visit \"purely social.\" It was not.\n\nTwain had come about the Congo. Under King Leopold II of Belgium, the Congo Free State was run as his personal possession, worked for rubber, and reports of forced labor, mutilation and killing had been reaching Europe and America for years. Twain was an honorary vice president of the American Congo Reform Association, and that September it had published his King Leopold's Soliloquy, a furious satire in the king's own voice.\n\nSo Twain sat down to lunch with the President, the First Lady and a few guests, and found a private word with Roosevelt about the Congo. According to Twain scholar Hunt Hawkins, Roosevelt showed interest and said he would ask Assistant Secretary of State Robert Bacon for a report. Bacon wrote to Twain a week later, asking what England had already done.\n\nThe next day Twain wrote to Edith Roosevelt to explain himself. \"I am a citizen,\" he wrote, \"& the matter was on my citizen-conscience & must be unloaded.\"\n\nThe two did not always get along. Twain said sharp things about Roosevelt over the years, much of it in private. On this day they shared a table, and Twain got his hearing.\n\nShown here: Mark Twain about 1907, and a 1904 portrait print of Samuel L. Clemens (Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #MarkTwain #WhiteHouseHistory #AmericanHistory",
+   "media": [
+    {
+     "src": "media/705cdb2b73a969ab.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6fc856a8656beddd.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328636:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 27 Nov 1905: Mark Twain lunches at the White House. The Times calls it \"purely social.\" It isn't: he presses TR about atrocities in King Leopold's Congo, a matter \"on my citizen-conscience,\" he writes the next day.\n\nhttps://www.trlibrary.com/tr/books-and-writings",
+   "media": [
+    {
+     "src": "media/459f8713c2b7d1a1.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/495eedf4c51d773d.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328681:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 27 Nov 1905: Mark Twain lunches at the White House. The New York Times calls it \"purely social.\" It isn't: he presses Theodore Roosevelt about atrocities in King Leopold's Congo, a matter \"on my citizen-conscience,\" he writes the next day.",
+   "media": [
+    {
+     "src": "media/7f1dddbdfdc9e04c.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a9c9da31ad0b9290.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328715:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "In 1899 Theodore Roosevelt published The Rough Riders, his own account of the regiment he led in Cuba. It was told very, very much in the first person.\n\nChicago humorist Finley Peter Dunne noticed. His famous character Mr. Dooley, the Irish saloonkeeper who held forth on the news of the day, gave the book a review. Mr. Dooley's verdict: \"if I was him I'd call th' book 'Alone in Cubia.'\"\n\nThe line stuck. Roosevelt was Governor of New York by then and a rising national figure. He could have sulked. Instead, on 28 November 1899, he wrote to Dunne:\n\n\"I regret to state that my family and intimate friends are delighted with your review of my book.\"\n\nThen he invited Dunne to pay him a visit the next time he came east. The two finally met at the 1900 Republican convention and became friends, and Mr. Dooley kept on teasing Roosevelt for years without losing him.\n\nShown here: Finley Peter Dunne in 1903, and Colonel Roosevelt in his Rough Rider uniform (Library of Congress).\n\nhttps://www.trlibrary.com/tr/rise-to-power/rough-riders",
+   "media": [
+    {
+     "src": "media/e9e43b29931313c4.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a30463117e369904.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328716:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "In 1899 Theodore Roosevelt published The Rough Riders, his own account of the regiment he led in Cuba. It was told very, very much in the first person.\n\nChicago humorist Finley Peter Dunne noticed. His famous character Mr. Dooley, the Irish saloonkeeper who held forth on the news of the day, gave the book a review. Mr. Dooley's verdict: \"if I was him I'd call th' book 'Alone in Cubia.'\"\n\nThe line stuck. Roosevelt was Governor of New York by then and a rising national figure. He could have sulked. Instead, on 28 November 1899, he wrote to Dunne:\n\n\"I regret to state that my family and intimate friends are delighted with your review of my book.\"\n\nThen he invited Dunne to pay him a visit the next time he came east. The two finally met at the 1900 Republican convention and became friends, and Mr. Dooley kept on teasing Roosevelt for years without losing him.\n\nShown here: Finley Peter Dunne in 1903, and Colonel Roosevelt in his Rough Rider uniform (Library of Congress).\n\nhttps://www.trlibrary.com/tr/rise-to-power/rough-riders",
+   "media": [
+    {
+     "src": "media/e9e43b29931313c4.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a30463117e369904.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328748:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 28 Nov 1899: Mr. Dooley has joked that TR's war memoir should be called \"Alone in Cubia.\" TR writes the author: \"I regret to state that my family and intimate friends are delighted with your review of my book.\" They became friends.",
+   "media": [
+    {
+     "src": "media/c44ed12d6ee7a330.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/37d7d97435c0ff8a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328772:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 28 Nov 1899: Mr. Dooley has joked that TR's The Rough Riders should be called \"Alone in Cubia.\" TR writes its author: \"I regret to state that my family and intimate friends are delighted with your review of my book.\"\n\nhttps://www.trlibrary.com/tr/rise-to-power/rough-riders",
+   "media": [
+    {
+     "src": "media/d6cb342fa11963b0.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/662daf20434add47.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328809:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 28 November 1899: humorist Finley Peter Dunne's Mr. Dooley had mocked Theodore Roosevelt's war memoir The Rough Riders, saying it should be called \"Alone in Cubia.\"\n\nTR wrote Dunne: \"I regret to state that my family and intimate friends are delighted with your review of my book.\" Then he invited him to visit. They became friends.",
+   "media": [
+    {
+     "src": "media/9eeb7952ff71ebdf.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/600e35e6e25ea2b6.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328872:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "In 1899 Theodore Roosevelt published The Rough Riders, his own account of the regiment he led in Cuba. It was told very, very much in the first person.\n\nChicago humorist Finley Peter Dunne noticed. His famous character Mr. Dooley, the Irish saloonkeeper who held forth on the news of the day, gave the book a review. Mr. Dooley's verdict: \"if I was him I'd call th' book 'Alone in Cubia.'\"\n\nThe line stuck. Roosevelt was Governor of New York by then and a rising national figure. He could have sulked. Instead, on 28 November 1899, he wrote to Dunne:\n\n\"I regret to state that my family and intimate friends are delighted with your review of my book.\"\n\nThen he invited Dunne to pay him a visit the next time he came east. The two finally met at the 1900 Republican convention and became friends, and Mr. Dooley kept on teasing Roosevelt for years without losing him.\n\nShown here: Finley Peter Dunne in 1903, and Colonel Roosevelt in his Rough Rider uniform (Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #RoughRiders #MrDooley #AmericanHumor",
+   "media": [
+    {
+     "src": "media/fc33e525518b417d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/07d25907fe1d5b78.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328897:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 29 Nov 1904: TR writes Franklin Roosevelt on his engagement to his niece Eleanor: \"I am as fond of Eleanor as if she were my daughter; and I like you, and trust you, and believe in you.\" He gave the bride away.\n\nhttps://www.trlibrary.com/tr/family/fdr-connection",
+   "media": [
+    {
+     "src": "media/ec47b79771cec795.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/3c4e266a28f15865.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328937:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Eleanor Roosevelt was Theodore Roosevelt's niece, the daughter of his brother Elliott. Both her parents had died before she was ten.\n\nShe and a distant cousin, a 22-year-old Columbia law student named Franklin Delano Roosevelt, had been quietly engaged for a year, waiting at his mother's request. The engagement became public around the start of December 1904.\n\nThe President had just won election in his own right. On 29 November 1904 he wrote to Franklin from the White House:\n\n\"I am as fond of Eleanor as if she were my daughter; and I like you, and trust you, and believe in you.\"\n\nNear the end he wrote: \"Golden years open before you.\"\n\nOn 17 March 1905, at a house on East 76th Street in New York, the President gave the bride away, standing in for his late brother. After the ceremony the President headed for the library, and the guests followed him.\n\nFranklin admired Theodore Roosevelt all his life and followed a strikingly similar path: the New York legislature, assistant secretary of the Navy, governor of New York and President.\n\nShown here: Eleanor Roosevelt in her wedding gown, 1905, and President Theodore Roosevelt in 1904.\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #EleanorRoosevelt #FDR #RooseveltFamily",
+   "media": [
+    {
+     "src": "media/95baba39fa81cda7.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b8d0b1c9d5ec3b39.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328977:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Eleanor Roosevelt was Theodore Roosevelt's niece, the daughter of his brother Elliott. Both her parents had died before she was ten.\n\nShe and a distant cousin, a 22-year-old Columbia law student named Franklin Delano Roosevelt, had been quietly engaged for a year, waiting at his mother's request. The engagement became public around the start of December 1904.\n\nThe President had just won election in his own right. On 29 November 1904 he wrote to Franklin from the White House:\n\n\"I am as fond of Eleanor as if she were my daughter; and I like you, and trust you, and believe in you.\"\n\nNear the end he wrote: \"Golden years open before you.\"\n\nOn 17 March 1905, at a house on East 76th Street in New York, the President gave the bride away, standing in for his late brother. After the ceremony the President headed for the library, and the guests followed him.\n\nFranklin admired Theodore Roosevelt all his life and followed a strikingly similar path: the New York legislature, assistant secretary of the Navy, governor of New York and President.\n\nShown here: Eleanor Roosevelt in her wedding gown, 1905, and President Theodore Roosevelt in 1904.\n\nhttps://www.trlibrary.com/tr/family/fdr-connection",
+   "media": [
+    {
+     "src": "media/2c88e41918e9106d.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/802c0defeb99f568.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123328978:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Eleanor Roosevelt was Theodore Roosevelt's niece, the daughter of his brother Elliott. Both her parents had died before she was ten.\n\nShe and a distant cousin, a 22-year-old Columbia law student named Franklin Delano Roosevelt, had been quietly engaged for a year, waiting at his mother's request. The engagement became public around the start of December 1904.\n\nThe President had just won election in his own right. On 29 November 1904 he wrote to Franklin from the White House:\n\n\"I am as fond of Eleanor as if she were my daughter; and I like you, and trust you, and believe in you.\"\n\nNear the end he wrote: \"Golden years open before you.\"\n\nOn 17 March 1905, at a house on East 76th Street in New York, the President gave the bride away, standing in for his late brother. After the ceremony the President headed for the library, and the guests followed him.\n\nFranklin admired Theodore Roosevelt all his life and followed a strikingly similar path: the New York legislature, assistant secretary of the Navy, governor of New York and President.\n\nShown here: Eleanor Roosevelt in her wedding gown, 1905, and President Theodore Roosevelt in 1904.\n\nhttps://www.trlibrary.com/tr/family/fdr-connection",
+   "media": [
+    {
+     "src": "media/2c88e41918e9106d.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/802c0defeb99f568.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123329004:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 29 November 1904: Theodore Roosevelt writes to Franklin Roosevelt, newly engaged to TR's niece Eleanor.\n\n\"I am as fond of Eleanor as if she were my daughter; and I like you, and trust you, and believe in you.\"\n\nAt the wedding in March 1905, the President gave the bride away.",
+   "media": [
+    {
+     "src": "media/b4d9b65b26b29e88.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5cff3db46ca2f473.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123329015:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 29 Nov 1904: TR writes Franklin, newly engaged to his niece Eleanor: \"I am as fond of Eleanor as if she were my daughter; and I like you, and trust you, and believe in you.\" In March 1905 he gave the bride away.",
+   "media": [
+    {
+     "src": "media/1a69a826b9d424a3.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b8181df5111afd14.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339584:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-11-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thanksgiving fell on 30 November in 1905, and the Roosevelts spent it in the Virginia woods.\n\nThat spring Edith had bought a workman's cottage near Keene, in Albemarle County, for $280: fifteen acres of pines and oaks, a broad porch, and bare walls inside. She called it Pine Knot. It was a place to get away from Washington, and it was hers.\n\nAfter his first visit, in June, the President wrote to Kermit: \"Mother is a great deal more pleased with it than any child with any toy I ever saw.\" He fried the bacon and eggs. She boiled the kettle for tea.\n\nOn 19 November, eleven days before the holiday, he wrote to his son Ted, a Harvard freshman who had just played football against Yale, and asked him to come down for Thanksgiving. The reason he gave was practical. He was leaving the Secret Service behind this time, and Edith did not want her husband to be the only man in the house. (The letter is at the Library of Congress.)\n\nThe Theodore Roosevelt Association's day-by-day chronology records the family leaving Washington on Thanksgiving morning and the President heading back on the evening of 1 December.\n\nPine Knot still stands. The Edith and Theodore Roosevelt Pine Knot Foundation cares for it and opens it to visitors by appointment.\n\nShown here: Pine Knot outside and in, from Edith Roosevelt's photo albums, about 1905–09; the fireplace, from a hand-colored photograph by Edith herself, about 1906 (Houghton Library, Harvard University); and Edith Roosevelt in February 1905 (Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #EdithRoosevelt #Thanksgiving #PineKnot #Virginia",
+   "media": [
+    {
+     "src": "media/1b1ad95e133003ad.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/60d8629c6ea237a5.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/3052496c7f880df0.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ab5c29297ec4c89f.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339604:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-11-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD Thanksgiving, 30 Nov 1905: the Roosevelts head for Pine Knot, the $280 Virginia cottage Edith bought that spring. TR wrote that she was \"a great deal more pleased with it than any child with any toy I ever saw.\"",
+   "media": [
+    {
+     "src": "media/bfad71c8a8f8163a.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/1947266b18020a27.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/96577a0e109b1d63.jpg",
+     "w": 1000,
+     "h": 668,
+     "kind": "image"
+    },
+    {
+     "src": "media/45c467084fada36e.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339615:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-11-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thanksgiving fell on 30 November in 1905, and the Roosevelts spent it in the Virginia woods.\n\nThat spring Edith had bought a workman's cottage near Keene, in Albemarle County, for $280: fifteen acres of pines and oaks, a broad porch, and bare walls inside. She called it Pine Knot. It was a place to get away from Washington, and it was hers.\n\nAfter his first visit, in June, the President wrote to Kermit: \"Mother is a great deal more pleased with it than any child with any toy I ever saw.\" He fried the bacon and eggs. She boiled the kettle for tea.\n\nOn 19 November, eleven days before the holiday, he wrote to his son Ted, a Harvard freshman who had just played football against Yale, and asked him to come down for Thanksgiving. The reason he gave was practical. He was leaving the Secret Service behind this time, and Edith did not want her husband to be the only man in the house. (The letter is at the Library of Congress.)\n\nThe Theodore Roosevelt Association's day-by-day chronology records the family leaving Washington on Thanksgiving morning and the President heading back on the evening of 1 December.\n\nPine Knot still stands. The Edith and Theodore Roosevelt Pine Knot Foundation cares for it and opens it to visitors by appointment.\n\nShown here: Pine Knot outside and in, from Edith Roosevelt's photo albums, about 1905–09; the fireplace, from a hand-colored photograph by Edith herself, about 1906 (Houghton Library, Harvard University); and Edith Roosevelt in February 1905 (Library of Congress).\n\nhttps://www.trlibrary.com/tr/homes-and-places/pine-knot",
+   "media": [
+    {
+     "src": "media/15183ebe3a63d0b9.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/785ab6c461c05721.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/29d4727e55d5cda1.jpg",
+     "w": 1000,
+     "h": 668,
+     "kind": "image"
+    },
+    {
+     "src": "media/17e28cf5cc2d82a4.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339616:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-11-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Thanksgiving fell on 30 November in 1905, and the Roosevelts spent it in the Virginia woods.\n\nThat spring Edith had bought a workman's cottage near Keene, in Albemarle County, for $280: fifteen acres of pines and oaks, a broad porch, and bare walls inside. She called it Pine Knot. It was a place to get away from Washington, and it was hers.\n\nAfter his first visit, in June, the President wrote to Kermit: \"Mother is a great deal more pleased with it than any child with any toy I ever saw.\" He fried the bacon and eggs. She boiled the kettle for tea.\n\nOn 19 November, eleven days before the holiday, he wrote to his son Ted, a Harvard freshman who had just played football against Yale, and asked him to come down for Thanksgiving. The reason he gave was practical. He was leaving the Secret Service behind this time, and Edith did not want her husband to be the only man in the house. (The letter is at the Library of Congress.)\n\nThe Theodore Roosevelt Association's day-by-day chronology records the family leaving Washington on Thanksgiving morning and the President heading back on the evening of 1 December.\n\nPine Knot still stands. The Edith and Theodore Roosevelt Pine Knot Foundation cares for it and opens it to visitors by appointment.\n\nShown here: Pine Knot outside and in, from Edith Roosevelt's photo albums, about 1905–09; the fireplace, from a hand-colored photograph by Edith herself, about 1906 (Houghton Library, Harvard University); and Edith Roosevelt in February 1905 (Library of Congress).\n\nhttps://www.trlibrary.com/tr/homes-and-places/pine-knot",
+   "media": [
+    {
+     "src": "media/15183ebe3a63d0b9.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/785ab6c461c05721.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/29d4727e55d5cda1.jpg",
+     "w": 1000,
+     "h": 668,
+     "kind": "image"
+    },
+    {
+     "src": "media/17e28cf5cc2d82a4.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339643:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-11-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD Thanksgiving, 30 Nov 1905: the Roosevelts head for Pine Knot, the $280 Virginia cottage Edith bought that spring. TR asked Ted to come: no Secret Service this trip, and Edith didn't want TR the only man in the house.\n\nhttps://www.trlibrary.com/tr/homes-and-places/pine-knot",
+   "media": [
+    {
+     "src": "media/6bf4d79695c0aec3.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7519e129268e716f.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/290edd2becbca1ea.jpg",
+     "w": 1000,
+     "h": 668,
+     "kind": "image"
+    },
+    {
+     "src": "media/1ecd833e326a5903.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339686:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-11-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD Thanksgiving, 30 November 1905: the Roosevelts head for Pine Knot, the bare-walled Virginia cottage Edith bought that spring for $280.\n\nAfter his first visit TR wrote that she was \"a great deal more pleased with it than any child with any toy I ever saw.\"\n\nHe asked Ted to come down too. No Secret Service this trip, and Edith didn't want TR to be the only man in the house.",
+   "media": [
+    {
+     "src": "media/591e642516117844.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/c286ed7615ec03d4.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9bba47d62916897f.jpg",
+     "w": 1000,
+     "h": 668,
+     "kind": "image"
+    },
+    {
+     "src": "media/88b0682878c09980.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339863:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 1 Dec 1898: Governor-elect Roosevelt asks Sen. Lodge to chase his Medal of Honor recommendation. Five days later: \"I am entitled to the Medal of Honor, and I want it.\" It came in 2001, awarded posthumously.\n\nhttps://www.trlibrary.com/tr/rise-to-power/san-juan-hill",
+   "media": [
+    {
+     "src": "media/d3824a1537168dc4.jpg",
+     "w": 865,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7bd7fff822472368.jpg",
+     "w": 1000,
+     "h": 807,
+     "kind": "image"
+    },
+    {
+     "src": "media/08e9a6db69934d2c.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339872:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 1 December 1898: Governor-elect Theodore Roosevelt asks Senator Henry Cabot Lodge to chase down his Medal of Honor recommendation: \"Now, one of my usual worrying requests!\"\n\nFive days later he wrote: \"I am entitled to the Medal of Honor, and I want it.\"\n\nIt was awarded in 2001, posthumously.",
+   "media": [
+    {
+     "src": "media/1bc5c0e54b0ccb45.jpg",
+     "w": 865,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/28a63fc76371c126.jpg",
+     "w": 1000,
+     "h": 807,
+     "kind": "image"
+    },
+    {
+     "src": "media/c647ce27559da279.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339890:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Theodore Roosevelt had been elected governor of New York three weeks earlier. On 1 December 1898, from Sagamore Hill, he wrote his closest friend, Senator Henry Cabot Lodge, about state business, including whether to put a machine politician in charge of the state's canals.\n\nThen he turned to what was really on his mind:\n\n\"Now, one of my usual worrying requests! On Sept. 17th Meiklejohn wrote me that there was in the War Department the recommendation for me for the medal of honor, by Wood, Wheeler and Shafter. Can you get me a copy of it? Can you get any idea as to when they are likely to take action?\"\n\nGeorge Meiklejohn was the Assistant Secretary of War. Leonard Wood, Joseph Wheeler and William Shafter were his commanders in Cuba, and they had put him in for the medal for 1 July 1898, when he led the charge up Kettle Hill and on across the San Juan Heights.\n\nLodge's reply brought word of a discouraging remark about the medals from Secretary of War Russell Alger, with whom Roosevelt was already on bad terms. On 6 December Roosevelt fired back with a long account of his own conduct under fire:\n\n\"I don't ask this as a favor—I ask it as a right.\"\n\nAnd near the end: \"I am entitled to the Medal of Honor, and I want it.\"\n\nLodge, meanwhile, had gone to the War Department in person, and on 5 December he reported that officials there expected the medal to come \"as a matter of course.\"\n\nThe medal never came in his lifetime. On 16 January 2001, more than a century after the charge, President Bill Clinton awarded Theodore Roosevelt the Medal of Honor posthumously. It is on view at the Library in Medora.\n\nLetters quoted from Selections from the Correspondence of Theodore Roosevelt and Henry Cabot Lodge (1925).\n\nShown here: Colonel Roosevelt after his return from Cuba, 1898; Roosevelt and the Rough Riders on the heights they took, July 1898 (William Dinwiddie); and Henry Cabot Lodge, about 1912 (all Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #MedalOfHonor #RoughRiders #HenryCabotLodge",
+   "media": [
+    {
+     "src": "media/3f0a34bd65d4ef19.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/871b8ce3773ca560.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/563ed4d76d30a68d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339914:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Theodore Roosevelt had been elected governor of New York three weeks earlier. On 1 December 1898, from Sagamore Hill, he wrote his closest friend, Senator Henry Cabot Lodge, about state business, including whether to put a machine politician in charge of the state's canals.\n\nThen he turned to what was really on his mind:\n\n\"Now, one of my usual worrying requests! On Sept. 17th Meiklejohn wrote me that there was in the War Department the recommendation for me for the medal of honor, by Wood, Wheeler and Shafter. Can you get me a copy of it? Can you get any idea as to when they are likely to take action?\"\n\nGeorge Meiklejohn was the Assistant Secretary of War. Leonard Wood, Joseph Wheeler and William Shafter were his commanders in Cuba, and they had put him in for the medal for 1 July 1898, when he led the charge up Kettle Hill and on across the San Juan Heights.\n\nLodge's reply brought word of a discouraging remark about the medals from Secretary of War Russell Alger, with whom Roosevelt was already on bad terms. On 6 December Roosevelt fired back with a long account of his own conduct under fire:\n\n\"I don't ask this as a favor—I ask it as a right.\"\n\nAnd near the end: \"I am entitled to the Medal of Honor, and I want it.\"\n\nLodge, meanwhile, had gone to the War Department in person, and on 5 December he reported that officials there expected the medal to come \"as a matter of course.\"\n\nThe medal never came in his lifetime. On 16 January 2001, more than a century after the charge, President Bill Clinton awarded Theodore Roosevelt the Medal of Honor posthumously. It is on view at the Library in Medora.\n\nLetters quoted from Selections from the Correspondence of Theodore Roosevelt and Henry Cabot Lodge (1925).\n\nShown here: Colonel Roosevelt after his return from Cuba, 1898; Roosevelt and the Rough Riders on the heights they took, July 1898 (William Dinwiddie); and Henry Cabot Lodge, about 1912 (all Library of Congress).\n\nhttps://www.trlibrary.com/tr/rise-to-power/san-juan-hill",
+   "media": [
+    {
+     "src": "media/76efa252bd719655.jpg",
+     "w": 865,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/66c4a46bb48dd80e.jpg",
+     "w": 1000,
+     "h": 807,
+     "kind": "image"
+    },
+    {
+     "src": "media/78d6943c92b5e4a7.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339915:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "Theodore Roosevelt had been elected governor of New York three weeks earlier. On 1 December 1898, from Sagamore Hill, he wrote his closest friend, Senator Henry Cabot Lodge, about state business, including whether to put a machine politician in charge of the state's canals.\n\nThen he turned to what was really on his mind:\n\n\"Now, one of my usual worrying requests! On Sept. 17th Meiklejohn wrote me that there was in the War Department the recommendation for me for the medal of honor, by Wood, Wheeler and Shafter. Can you get me a copy of it? Can you get any idea as to when they are likely to take action?\"\n\nGeorge Meiklejohn was the Assistant Secretary of War. Leonard Wood, Joseph Wheeler and William Shafter were his commanders in Cuba, and they had put him in for the medal for 1 July 1898, when he led the charge up Kettle Hill and on across the San Juan Heights.\n\nLodge's reply brought word of a discouraging remark about the medals from Secretary of War Russell Alger, with whom Roosevelt was already on bad terms. On 6 December Roosevelt fired back with a long account of his own conduct under fire:\n\n\"I don't ask this as a favor—I ask it as a right.\"\n\nAnd near the end: \"I am entitled to the Medal of Honor, and I want it.\"\n\nLodge, meanwhile, had gone to the War Department in person, and on 5 December he reported that officials there expected the medal to come \"as a matter of course.\"\n\nThe medal never came in his lifetime. On 16 January 2001, more than a century after the charge, President Bill Clinton awarded Theodore Roosevelt the Medal of Honor posthumously. It is on view at the Library in Medora.\n\nLetters quoted from Selections from the Correspondence of Theodore Roosevelt and Henry Cabot Lodge (1925).\n\nShown here: Colonel Roosevelt after his return from Cuba, 1898; Roosevelt and the Rough Riders on the heights they took, July 1898 (William Dinwiddie); and Henry Cabot Lodge, about 1912 (all Library of Congress).\n\nhttps://www.trlibrary.com/tr/rise-to-power/san-juan-hill",
+   "media": [
+    {
+     "src": "media/76efa252bd719655.jpg",
+     "w": 865,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/66c4a46bb48dd80e.jpg",
+     "w": 1000,
+     "h": 807,
+     "kind": "image"
+    },
+    {
+     "src": "media/78d6943c92b5e4a7.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339942:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 1 Dec 1898: Governor-elect Roosevelt asks Sen. Lodge to chase his Medal of Honor recommendation. Five days later: \"I am entitled to the Medal of Honor, and I want it.\" It was awarded in 2001, posthumously.",
+   "media": [
+    {
+     "src": "media/7d95f9000a103861.jpg",
+     "w": 865,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b877abc84d04ea13.jpg",
+     "w": 1000,
+     "h": 807,
+     "kind": "image"
+    },
+    {
+     "src": "media/ff7e7f49450961af.jpg",
+     "w": 814,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339959:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and forty years ago today, on 2 December 1886, Theodore Roosevelt married Edith Kermit Carow at St. George's, Hanover Square, in London. The fog was so thick that day that, by biographers' accounts, it filled the church.\n\nThey had known each other almost all their lives. Edith grew up near the Roosevelts in New York and was a close friend of his sister Corinne. Then Theodore married Alice Hathaway Lee, and in February 1884 Alice died, two days after giving birth to their daughter, on the same day as his mother.\n\nHe went west to his ranches on the Little Missouri. In the fall of 1885, back in New York, he and Edith met again, and that November they became secretly engaged. When the newspapers got wind of it the next September, he wrote to his sister Bamie to confirm it:\n\n\"I am engaged to Edith and before Christmas I shall cross the ocean and marry her.\"\n\nIn the same letter he was hard on himself: \"I utterly disbelieve in and disapprove of second marriages; I have always considered that they argued weakness in a man's character.\"\n\nHe married her anyway. A few days after losing the race for mayor of New York, he sailed for England with Bamie. On the crossing he met a young British diplomat, Cecil Spring Rice, who agreed to be his best man. Spring Rice also talked the groom into wearing bright orange gloves.\n\nThe wedding was small, followed by a long wedding trip through England, France and Italy. They were married for 32 years and raised six children: Alice, and their own five, Ted, Kermit, Ethel, Archie and Quentin. Spring Rice stayed a lifelong friend, and later served as British ambassador in Washington.\n\nShown here: Roosevelt in 1885, in a studio portrait in the buckskins of his Dakota years; Edith Roosevelt about 1901; and Cecil Spring Rice as British ambassador, about 1913 (all Library of Congress).\n\nhttps://www.trlibrary.com/tr/people/edith-roosevelt",
+   "media": [
+    {
+     "src": "media/f59c84da2171601c.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f375b2263b72dab8.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4402003043f2e478.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123339960:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and forty years ago today, on 2 December 1886, Theodore Roosevelt married Edith Kermit Carow at St. George's, Hanover Square, in London. The fog was so thick that day that, by biographers' accounts, it filled the church.\n\nThey had known each other almost all their lives. Edith grew up near the Roosevelts in New York and was a close friend of his sister Corinne. Then Theodore married Alice Hathaway Lee, and in February 1884 Alice died, two days after giving birth to their daughter, on the same day as his mother.\n\nHe went west to his ranches on the Little Missouri. In the fall of 1885, back in New York, he and Edith met again, and that November they became secretly engaged. When the newspapers got wind of it the next September, he wrote to his sister Bamie to confirm it:\n\n\"I am engaged to Edith and before Christmas I shall cross the ocean and marry her.\"\n\nIn the same letter he was hard on himself: \"I utterly disbelieve in and disapprove of second marriages; I have always considered that they argued weakness in a man's character.\"\n\nHe married her anyway. A few days after losing the race for mayor of New York, he sailed for England with Bamie. On the crossing he met a young British diplomat, Cecil Spring Rice, who agreed to be his best man. Spring Rice also talked the groom into wearing bright orange gloves.\n\nThe wedding was small, followed by a long wedding trip through England, France and Italy. They were married for 32 years and raised six children: Alice, and their own five, Ted, Kermit, Ethel, Archie and Quentin. Spring Rice stayed a lifelong friend, and later served as British ambassador in Washington.\n\nShown here: Roosevelt in 1885, in a studio portrait in the buckskins of his Dakota years; Edith Roosevelt about 1901; and Cecil Spring Rice as British ambassador, about 1913 (all Library of Congress).\n\nhttps://www.trlibrary.com/tr/people/edith-roosevelt",
+   "media": [
+    {
+     "src": "media/f59c84da2171601c.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f375b2263b72dab8.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4402003043f2e478.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340086:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 140 years ago today, 2 December 1886: Theodore Roosevelt marries Edith Kermit Carow in London, on a day of thick fog.\n\nThat September he had written his sister: \"I utterly disbelieve in and disapprove of second marriages; I have always considered that they argued weakness in a man's character.\"\n\nHis best man, a young diplomat named Cecil Spring Rice, had him in bright orange gloves. They were married 32 years.",
+   "media": [
+    {
+     "src": "media/7b0f9b3986cddaa1.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/0f1a9f81c81ae3bf.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a094971a8f10413a.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340105:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 140 years ago, 2 Dec 1886: TR marries Edith Kermit Carow in a London fog at St. George's, Hanover Square. Best man Cecil Spring Rice, met on the voyage over, had him in bright orange gloves.\n\nhttps://www.trlibrary.com/tr/people/edith-roosevelt",
+   "media": [
+    {
+     "src": "media/e35d47cbc5d3abc0.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6e70467d59223a8a.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/27622db38445073a.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340132:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 140 years ago, 2 Dec 1886: TR marries Edith Kermit Carow in a London fog. His best man, Cecil Spring Rice, a diplomat he'd met on the voyage over, had him in bright orange gloves. They were married 32 years.",
+   "media": [
+    {
+     "src": "media/e2a2deff8eaea865.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4e28ad1385fb7c77.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/8be3fadc6628aea8.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340183:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-02T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and forty years ago today, on 2 December 1886, Theodore Roosevelt married Edith Kermit Carow at St. George's, Hanover Square, in London. The fog was so thick that day that, by biographers' accounts, it filled the church.\n\nThey had known each other almost all their lives. Edith grew up near the Roosevelts in New York and was a close friend of his sister Corinne. Then Theodore married Alice Hathaway Lee, and in February 1884 Alice died, two days after giving birth to their daughter, on the same day as his mother.\n\nHe went west to his ranches on the Little Missouri. In the fall of 1885, back in New York, he and Edith met again, and that November they became secretly engaged. When the newspapers got wind of it the next September, he wrote to his sister Bamie to confirm it:\n\n\"I am engaged to Edith and before Christmas I shall cross the ocean and marry her.\"\n\nIn the same letter he was hard on himself: \"I utterly disbelieve in and disapprove of second marriages; I have always considered that they argued weakness in a man's character.\"\n\nHe married her anyway. A few days after losing the race for mayor of New York, he sailed for England with Bamie. On the crossing he met a young British diplomat, Cecil Spring Rice, who agreed to be his best man. Spring Rice also talked the groom into wearing bright orange gloves.\n\nThe wedding was small, followed by a long wedding trip through England, France and Italy. They were married for 32 years and raised six children: Alice, and their own five, Ted, Kermit, Ethel, Archie and Quentin. Spring Rice stayed a lifelong friend, and later served as British ambassador in Washington.\n\nShown here: Roosevelt in 1885, in a studio portrait in the buckskins of his Dakota years; Edith Roosevelt about 1901; and Cecil Spring Rice as British ambassador, about 1913 (all Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #EdithRoosevelt #London #Anniversary",
+   "media": [
+    {
+     "src": "media/0a174791daf8a0c8.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/c5216c406159e140.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/6b7b832c1b61f449.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340215:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty-five years ago today, on 3 December 1901, Congress received the first annual message of President Theodore Roosevelt, what is now called the State of the Union.\n\nHe had been President for less than three months, since William McKinley's death in September. Following the custom of the day, the message went to Capitol Hill in writing and clerks read it aloud. It ran close to 20,000 words.\n\nIt opened with McKinley's assassination and moved through the trusts, labor, immigration, the Navy and the Philippines. Then it spent pages on trees and water.\n\n\"The forest and water problems are perhaps the most vital internal questions of the United States.\"\n\nRoosevelt asked Congress to protect the forest reserves, explaining that \"The fundamental idea of forestry is the perpetuation of forests by use.\" He argued the reserves \"should be set apart forever for the use and benefit of our people as a whole and not sacrificed to the shortsighted greed of a few.\" And he called for the federal government to build storage and irrigation works in the arid West, where, he wrote, \"it is water, not land, which measures production.\"\n\nThe former Dakota rancher also singled out the damage done to the reserves by overgrazing.\n\nCongress passed the Reclamation Act the following June. Over the next seven years came a vastly expanded national forest system, the first federal bird reservations and the first national monuments, the heart of his conservation record.\n\nShown here: President Roosevelt about 1901, and old-growth forest at Mount Rainier in 1909 (both Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Conservation #PublicLands #StateOfTheUnion",
+   "media": [
+    {
+     "src": "media/786631ee1becd630.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/20e519d010bfbf41.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340232:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty-five years ago today, on 3 December 1901, Congress received the first annual message of President Theodore Roosevelt, what is now called the State of the Union.\n\nHe had been President for less than three months, since William McKinley's death in September. Following the custom of the day, the message went to Capitol Hill in writing and clerks read it aloud. It ran close to 20,000 words.\n\nIt opened with McKinley's assassination and moved through the trusts, labor, immigration, the Navy and the Philippines. Then it spent pages on trees and water.\n\n\"The forest and water problems are perhaps the most vital internal questions of the United States.\"\n\nRoosevelt asked Congress to protect the forest reserves, explaining that \"The fundamental idea of forestry is the perpetuation of forests by use.\" He argued the reserves \"should be set apart forever for the use and benefit of our people as a whole and not sacrificed to the shortsighted greed of a few.\" And he called for the federal government to build storage and irrigation works in the arid West, where, he wrote, \"it is water, not land, which measures production.\"\n\nThe former Dakota rancher also singled out the damage done to the reserves by overgrazing.\n\nCongress passed the Reclamation Act the following June. Over the next seven years came a vastly expanded national forest system, the first federal bird reservations and the first national monuments, the heart of his conservation record.\n\nShown here: President Roosevelt about 1901, and old-growth forest at Mount Rainier in 1909 (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/speeches/first-annual-message",
+   "media": [
+    {
+     "src": "media/0d07bf36df09d653.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/075174493bcf7a69.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340233:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty-five years ago today, on 3 December 1901, Congress received the first annual message of President Theodore Roosevelt, what is now called the State of the Union.\n\nHe had been President for less than three months, since William McKinley's death in September. Following the custom of the day, the message went to Capitol Hill in writing and clerks read it aloud. It ran close to 20,000 words.\n\nIt opened with McKinley's assassination and moved through the trusts, labor, immigration, the Navy and the Philippines. Then it spent pages on trees and water.\n\n\"The forest and water problems are perhaps the most vital internal questions of the United States.\"\n\nRoosevelt asked Congress to protect the forest reserves, explaining that \"The fundamental idea of forestry is the perpetuation of forests by use.\" He argued the reserves \"should be set apart forever for the use and benefit of our people as a whole and not sacrificed to the shortsighted greed of a few.\" And he called for the federal government to build storage and irrigation works in the arid West, where, he wrote, \"it is water, not land, which measures production.\"\n\nThe former Dakota rancher also singled out the damage done to the reserves by overgrazing.\n\nCongress passed the Reclamation Act the following June. Over the next seven years came a vastly expanded national forest system, the first federal bird reservations and the first national monuments, the heart of his conservation record.\n\nShown here: President Roosevelt about 1901, and old-growth forest at Mount Rainier in 1909 (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/speeches/first-annual-message",
+   "media": [
+    {
+     "src": "media/0d07bf36df09d653.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/075174493bcf7a69.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340246:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 125 years ago, 3 Dec 1901: TR's first annual message reaches Congress. Among nearly 20,000 words: \"The forest and water problems are perhaps the most vital internal questions of the United States.\"\n\nhttps://www.trlibrary.com/tr/speeches/first-annual-message",
+   "media": [
+    {
+     "src": "media/618031c397167aa0.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/17157d98466c4442.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340278:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 125 years ago, 3 Dec 1901: TR's first annual message to Congress. \"The forest and water problems are perhaps the most vital internal questions of the United States.\" The Reclamation Act followed in June 1902.",
+   "media": [
+    {
+     "src": "media/b334c537517beb13.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/bb3997408601db42.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123340387:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-03T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 125 years ago today, 3 December 1901: Theodore Roosevelt's first annual message to Congress, what is now called the State of the Union.\n\nTucked among trusts, labor and the Navy: \"The forest and water problems are perhaps the most vital internal questions of the United States.\"\n\nThe Reclamation Act passed the next June.",
+   "media": [
+    {
+     "src": "media/2f7c41989a868e3d.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/73ff50f4186270ca.jpg",
+     "w": 802,
+     "h": 1000,
      "kind": "image"
     }
    ],
