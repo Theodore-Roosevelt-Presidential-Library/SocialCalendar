@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T12:17:20Z",
+ "generatedAt": "2026-11-18T15:11:33Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -21,6 +21,25 @@
    ],
    "thumb": {
     "src": "media/0a6195848b642290.jpg",
+    "w": 801,
+    "h": 1000
+   }
+  },
+  {
+   "id": "b7cf9757bdc1",
+   "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt and the Panama Canal, 1903",
+   "blurb": "How Roosevelt got the Panama Canal built: the failed French attempt, Panama’s 1903 revolution, the canal treaty and the locks that opened in 1914.",
+   "publishAt": "2026-11-15T13:00:00Z",
+   "latestAt": "2026-11-18T13:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/0922fa16d6c67c31.jpg",
     "w": 801,
     "h": 1000
    }
@@ -67,25 +86,6 @@
     "src": "media/0659e1976a23325d.jpg",
     "w": 1000,
     "h": 591
-   }
-  },
-  {
-   "id": "b7cf9757bdc1",
-   "url": "https://www.trlibrary.com/tr/presidency/panama-canal",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt and the Panama Canal, 1903",
-   "blurb": "How Roosevelt got the Panama Canal built: the failed French attempt, Panama’s 1903 revolution, the canal treaty and the locks that opened in 1914.",
-   "publishAt": "2026-11-15T13:00:00Z",
-   "latestAt": "2026-11-15T13:00:00Z",
-   "channels": [
-    "FACEBOOKPAGE",
-    "LINKEDINCOMPANY",
-    "TWITTER"
-   ],
-   "thumb": {
-    "src": "media/0922fa16d6c67c31.jpg",
-    "w": 801,
-    "h": 1000
    }
   },
   {
