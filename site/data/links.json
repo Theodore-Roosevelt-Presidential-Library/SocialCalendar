@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-18T00:31:07Z",
+ "generatedAt": "2026-11-18T03:15:28Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "777a59832f33",
+   "url": "https://www.trlibrary.com/tr/post-presidency/bull-moose",
+   "host": "trlibrary.com",
+   "headline": "The Bull Moose Campaign of 1912: The Third-Party Insurgency",
+   "blurb": "After breaking with President Taft over progressive reform, Roosevelt launched a bold third-party run in 1912 as the Bull Moose candidate.",
+   "publishAt": "2026-11-19T13:00:00Z",
+   "latestAt": "2026-11-19T13:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/0a6195848b642290.jpg",
+    "w": 801,
+    "h": 1000
+   }
+  },
   {
    "id": "b3e1e235454e",
    "url": "https://www.trlibrary.com/holidaytrees",
