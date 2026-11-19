@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-11-18T21:09:55Z",
+ "generatedAt": "2026-11-19T00:29:11Z",
  "source": "hootsuite-rest-api",
  "window": {
-  "start": "2026-11-04T00:00:00Z",
-  "end": "2027-02-16T00:00:00Z"
+  "start": "2026-11-05T00:00:00Z",
+  "end": "2027-02-17T00:00:00Z"
  },
  "profiles": [
   {
@@ -79,222 +79,6 @@
  ],
  "tags": [],
  "posts": [
-  {
-   "id": "13118706327:138745276",
-   "profileId": "138745276",
-   "scheduledAt": "2026-11-04T13:00:00Z",
-   "state": "SENT",
-   "text": "#OTD 4 November 1878. Theodore Roosevelt, eight days past his twentieth birthday, decides to find out where his time goes:\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\n7.45 prayers. 8.00 breakfast. 8.30–1.00 study. 1.00 lunch. 1.30–4.30 study. 4.30–6.00 walk. 7.00 dinner with the University Crew. \"Came out towards 12.00 and lounged in Club for a couple of hours.\"\n\nBy Saturday he had stopped keeping the log.",
-   "media": [
-    {
-     "src": "media/251bfce0a75ec505.jpg",
-     "w": 836,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/2164df00e20d1251.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/60e1f1c29f33f40b.jpg",
-     "w": 1000,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/7d707b23ed4217c1.jpg",
-     "w": 1000,
-     "h": 672,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.threads.com/@trlibrary/post/DfUg9tuForb",
-   "sequence": null
-  },
-  {
-   "id": "13118706368:138236932",
-   "profileId": "138236932",
-   "scheduledAt": "2026-11-04T13:00:00Z",
-   "state": "SENT",
-   "text": "On Monday 4 November 1878, eight days after his twentieth birthday, Theodore Roosevelt decided to find out where his time went.\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\nThen, down the page in his own hand:\n\n7.45 prayers   8.00 breakfast.\n8.30 – 1.00 study. 1.00 lunch.\n1.30 – 4.30 study. 4.30 – 6.00 walk.\n7.00 went to dinner to University Crew.\nCame out towards 12.00 and lounged in Club for a couple of hours.\n\nThe Club is almost certainly the Porcellian, into which he had been initiated on the Saturday — and which had cost him the Sunday: \"Rather under the weather, owing to last nights spree.\"\n\nTuesday begins the same way and is then interrupted. \"To my utter astonishment Nell & Mother turned up, on for the day.\" His brother Elliott and his mother, unannounced. He took Elliott up to the Club, lunched with \"darling little Muffie\" — his mother — in town, and still logged study from three to five, boxing from five to six, whist until nine and study until eleven.\n\nWednesday holds: studied 8.30 to 4.00, then a walk with Dick Saltonstall and Jack Tebbetts.\n\nAnd then the diary goes wrong. Somewhere in that week he got a day ahead of himself. He struck out what he had written on the page headed Thursday, drew two diagonal strokes across it, and wrote the real Thursday entry on the next leaf — crossing out the printed \"FRIDAY 8\" and writing \"Thursday\" above it. Then he re-dated the next four pages by hand, until the diary caught up with itself.\n\nThe accurate abstract survived all of that. Friday: \"Studied 9.00 – 5.30. In the evening had a supper, with 8 or ten of the fellows, in the club — partridges & burgundy. Did not get to bed till towards two a.m.\"\n\nBy Saturday he had stopped keeping the log.\n\nhttps://www.trlibrary.com/tr/early-life/day-in-the-life",
-   "media": [
-    {
-     "src": "media/a75a79248836a9c7.jpg",
-     "w": 836,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/603ff449cf2bf3c1.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/fbfe85542bfcaa41.jpg",
-     "w": 1000,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/43aa5ed3c9c9adf8.jpg",
-     "w": 1000,
-     "h": 672,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.facebook.com/144035749389560/posts/1183103384043170",
-   "sequence": null
-  },
-  {
-   "id": "13118706369:138241752",
-   "profileId": "138241752",
-   "scheduledAt": "2026-11-04T13:00:00Z",
-   "state": "SENT",
-   "text": "On Monday 4 November 1878, eight days after his twentieth birthday, Theodore Roosevelt decided to find out where his time went.\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\nThen, down the page in his own hand:\n\n7.45 prayers   8.00 breakfast.\n8.30 – 1.00 study. 1.00 lunch.\n1.30 – 4.30 study. 4.30 – 6.00 walk.\n7.00 went to dinner to University Crew.\nCame out towards 12.00 and lounged in Club for a couple of hours.\n\nThe Club is almost certainly the Porcellian, into which he had been initiated on the Saturday — and which had cost him the Sunday: \"Rather under the weather, owing to last nights spree.\"\n\nTuesday begins the same way and is then interrupted. \"To my utter astonishment Nell & Mother turned up, on for the day.\" His brother Elliott and his mother, unannounced. He took Elliott up to the Club, lunched with \"darling little Muffie\" — his mother — in town, and still logged study from three to five, boxing from five to six, whist until nine and study until eleven.\n\nWednesday holds: studied 8.30 to 4.00, then a walk with Dick Saltonstall and Jack Tebbetts.\n\nAnd then the diary goes wrong. Somewhere in that week he got a day ahead of himself. He struck out what he had written on the page headed Thursday, drew two diagonal strokes across it, and wrote the real Thursday entry on the next leaf — crossing out the printed \"FRIDAY 8\" and writing \"Thursday\" above it. Then he re-dated the next four pages by hand, until the diary caught up with itself.\n\nThe accurate abstract survived all of that. Friday: \"Studied 9.00 – 5.30. In the evening had a supper, with 8 or ten of the fellows, in the club — partridges & burgundy. Did not get to bed till towards two a.m.\"\n\nBy Saturday he had stopped keeping the log.\n\nhttps://www.trlibrary.com/tr/early-life/day-in-the-life",
-   "media": [
-    {
-     "src": "media/a75a79248836a9c7.jpg",
-     "w": 836,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/603ff449cf2bf3c1.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/fbfe85542bfcaa41.jpg",
-     "w": 1000,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/43aa5ed3c9c9adf8.jpg",
-     "w": 1000,
-     "h": 672,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7523731059746754560",
-   "sequence": null
-  },
-  {
-   "id": "13118706404:138948229",
-   "profileId": "138948229",
-   "scheduledAt": "2026-11-04T13:00:00Z",
-   "state": "SENT",
-   "text": "On Monday 4 November 1878, eight days after his twentieth birthday, Theodore Roosevelt decided to find out where his time went.\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\nThen, down the page in his own hand:\n\n7.45 prayers   8.00 breakfast.\n8.30 – 1.00 study. 1.00 lunch.\n1.30 – 4.30 study. 4.30 – 6.00 walk.\n7.00 went to dinner to University Crew.\nCame out towards 12.00 and lounged in Club for a couple of hours.\n\nTuesday begins the same way and is then interrupted: \"To my utter astonishment Nell & Mother turned up, on for the day.\" His brother Elliott and his mother, unannounced.\n\nWednesday holds. Then the diary goes wrong — somewhere that week he got a day ahead of himself, struck out the page headed Thursday, wrote the real Thursday entry on the next leaf, and re-dated the four pages after that by hand, until the diary caught up with itself.\n\nThe accurate abstract survived all of it. Friday: \"Studied 9.00 – 5.30. In the evening had a supper, with 8 or ten of the fellows, in the club — partridges & burgundy. Did not get to bed till towards two a.m.\"\n\nBy Saturday he had stopped keeping the log.\n\n#OTD #TheodoreRoosevelt #Harvard #History",
-   "media": [
-    {
-     "src": "media/e05e065c16e27b3c.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/8fa059d611feb9b1.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/7a3890eb7ebbead6.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/ffcdcf896251d01c.jpg",
-     "w": 1000,
-     "h": 1000,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://www.instagram.com/p/DfUg9vRF3q6/",
-   "sequence": null
-  },
-  {
-   "id": "13118706456:138250117",
-   "profileId": "138250117",
-   "scheduledAt": "2026-11-04T13:00:00Z",
-   "state": "SENT",
-   "text": "#OTD 4 November 1878. TR, eight days past his twentieth birthday, decides to audit his own week:\n\n\"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\n7.45 prayers. Study, lunch, study, walk. Dinner with the University Crew.\n\nhttps://www.trlibrary.com/tr/early-life/day-in-the-life",
-   "media": [
-    {
-     "src": "media/7337f6774666ccaa.jpg",
-     "w": 836,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/0a4af6323d8fbfda.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/0ca94ddc44b66624.jpg",
-     "w": 1000,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/2d5c0224b56cde41.jpg",
-     "w": 1000,
-     "h": 672,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://x.com/783364650180104192/status/2117965185998528518",
-   "sequence": null
-  },
-  {
-   "id": "13118706495:140309778",
-   "profileId": "140309778",
-   "scheduledAt": "2026-11-04T13:00:00Z",
-   "state": "SENT",
-   "text": "#OTD 4 November 1878. TR, just turned 20, decides to audit his own week: \"Am going to give an accurate abstract of my doings this week, as a sampl.\"\n\nPrayers at 7.45. Study, lunch, study, walk, dinner with the University Crew.\n\nBy Saturday he had stopped keeping the log.",
-   "media": [
-    {
-     "src": "media/a8217a5d5b60a05e.jpg",
-     "w": 836,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/47deacab9f219853.jpg",
-     "w": 800,
-     "h": 1000,
-     "kind": "image"
-    },
-    {
-     "src": "media/52dbdc4226a79f69.jpg",
-     "w": 1000,
-     "h": 640,
-     "kind": "image"
-    },
-    {
-     "src": "media/796b8f4fd0e91d27.jpg",
-     "w": 1000,
-     "h": 672,
-     "kind": "image"
-    }
-   ],
-   "tags": [],
-   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3mzifvceycr2a",
-   "sequence": null
-  },
   {
    "id": "13118706567:138241752",
    "profileId": "138241752",
@@ -8246,6 +8030,1878 @@
      "src": "media/909170d8d9409638.jpg",
      "w": 1000,
      "h": 663,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547218:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-20T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 20 Dec 1906: As the Colorado River floods the Salton Sink, TR wires E. H. Harriman: \"It is incumbent upon you to close break again.\" Harriman's railroad crews closed it in Feb. 1907.",
+   "media": [
+    {
+     "src": "media/34ca958c1bda254c.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/d818cdc72bd99560.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547240:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-20T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 20 December 1906, President Theodore Roosevelt sent a blunt telegram to the railroad magnate E. H. Harriman about a river that had run away.\n\nIn 1904, a private irrigation company cut a canal intake through the bank of the Colorado River, on the Mexican side of the border, to water farms in California's Imperial Valley. In 1905 the floods tore the cut wide open. Nearly the whole river swung west and poured downhill into the Salton Sink, a desert basin far below sea level, and a lake began to spread across it. Farms, towns and the Southern Pacific's tracks were in the way.\n\nHarriman's Southern Pacific, which had lent the company money, closed the break on 4 November 1906. A month later, high water broke through again.\n\nHarriman wanted the government to take over. Roosevelt answered that the Reclamation Service could not start work \"without authority of Congress and suitable convention with Mexico,\" and Congress was adjourning that very day for the holidays. \"It is incumbent upon you to close break again,\" he wired.\n\nHarriman replied the same day. The irrigation company was not a Southern Pacific enterprise, he pointed out, but he ordered his men to start at once and trusted the government to help with the cost later.\n\nCrews drove trestles across the gap, and trains dumped rock into the current faster than it could wash away. On 10 February 1907, the Colorado went back into its old channel.\n\nRoosevelt later urged Congress to repay the railroad, and so did President Taft. Congress let the bill die. Not until 1929 did the railroad win about $1 million, through the Court of Claims.\n\nThe lake the flood left behind is still there, fed today mostly by farm runoff: the Salton Sea.\n\nShown here: E. H. Harriman with his wife, about 1909, and the shore of the Salton Sea in 2012, photographed by Carol M. Highsmith (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/conservation/reclamation",
+   "media": [
+    {
+     "src": "media/747a2e1c534b39c1.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/226491a30319a79f.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547241:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-20T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 20 December 1906, President Theodore Roosevelt sent a blunt telegram to the railroad magnate E. H. Harriman about a river that had run away.\n\nIn 1904, a private irrigation company cut a canal intake through the bank of the Colorado River, on the Mexican side of the border, to water farms in California's Imperial Valley. In 1905 the floods tore the cut wide open. Nearly the whole river swung west and poured downhill into the Salton Sink, a desert basin far below sea level, and a lake began to spread across it. Farms, towns and the Southern Pacific's tracks were in the way.\n\nHarriman's Southern Pacific, which had lent the company money, closed the break on 4 November 1906. A month later, high water broke through again.\n\nHarriman wanted the government to take over. Roosevelt answered that the Reclamation Service could not start work \"without authority of Congress and suitable convention with Mexico,\" and Congress was adjourning that very day for the holidays. \"It is incumbent upon you to close break again,\" he wired.\n\nHarriman replied the same day. The irrigation company was not a Southern Pacific enterprise, he pointed out, but he ordered his men to start at once and trusted the government to help with the cost later.\n\nCrews drove trestles across the gap, and trains dumped rock into the current faster than it could wash away. On 10 February 1907, the Colorado went back into its old channel.\n\nRoosevelt later urged Congress to repay the railroad, and so did President Taft. Congress let the bill die. Not until 1929 did the railroad win about $1 million, through the Court of Claims.\n\nThe lake the flood left behind is still there, fed today mostly by farm runoff: the Salton Sea.\n\nShown here: E. H. Harriman with his wife, about 1909, and the shore of the Salton Sea in 2012, photographed by Carol M. Highsmith (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/conservation/reclamation",
+   "media": [
+    {
+     "src": "media/747a2e1c534b39c1.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/226491a30319a79f.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547268:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-20T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 20 December 1906: The runaway Colorado River is flooding the Salton Sink. TR tells railroad magnate E. H. Harriman the government can't act without Congress and Mexico: \"It is incumbent upon you to close break again.\" Harriman's crews did it by February 1907. The lake left behind is the Salton Sea.",
+   "media": [
+    {
+     "src": "media/892051527a4662b2.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/035a6f8fc08681fc.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547286:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-20T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 20 December 1906, President Theodore Roosevelt sent a blunt telegram to the railroad magnate E. H. Harriman about a river that had run away.\n\nIn 1904, a private irrigation company cut a canal intake through the bank of the Colorado River, on the Mexican side of the border, to water farms in California's Imperial Valley. In 1905 the floods tore the cut wide open. Nearly the whole river swung west and poured downhill into the Salton Sink, a desert basin far below sea level, and a lake began to spread across it. Farms, towns and the Southern Pacific's tracks were in the way.\n\nHarriman's Southern Pacific, which had lent the company money, closed the break on 4 November 1906. A month later, high water broke through again.\n\nHarriman wanted the government to take over. Roosevelt answered that the Reclamation Service could not start work \"without authority of Congress and suitable convention with Mexico,\" and Congress was adjourning that very day for the holidays. \"It is incumbent upon you to close break again,\" he wired.\n\nHarriman replied the same day. The irrigation company was not a Southern Pacific enterprise, he pointed out, but he ordered his men to start at once and trusted the government to help with the cost later.\n\nCrews drove trestles across the gap, and trains dumped rock into the current faster than it could wash away. On 10 February 1907, the Colorado went back into its old channel.\n\nRoosevelt later urged Congress to repay the railroad, and so did President Taft. Congress let the bill die. Not until 1929 did the railroad win about $1 million, through the Court of Claims.\n\nThe lake the flood left behind is still there, fed today mostly by farm runoff: the Salton Sea.\n\nShown here: E. H. Harriman with his wife, about 1909, and the shore of the Salton Sea in 2012, photographed by Carol M. Highsmith (both Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #ColoradoRiver #SaltonSea #Conservation",
+   "media": [
+    {
+     "src": "media/c6df03cecca26f4c.jpg",
+     "w": 640,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/8a34e8e62a48c61c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547312:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-20T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 20 Dec 1906: With the Colorado River pouring into the Salton Sink, TR wires E. H. Harriman: \"It is incumbent upon you to close break again.\" His railroad did. The Salton Sea is still there.\n\nhttps://www.trlibrary.com/tr/presidency/conservation/reclamation",
+   "media": [
+    {
+     "src": "media/483d5c887f51629a.jpg",
+     "w": 513,
+     "h": 640,
+     "kind": "image"
+    },
+    {
+     "src": "media/5423f900c1a03a9b.jpg",
+     "w": 1000,
+     "h": 667,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547361:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-21T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 21 December 1901, the War Department made public a reprimand of the highest-ranking officer in the United States Army.\n\nLieutenant General Nelson A. Miles had commanded the Army since 1895. He was a Civil War hero and Medal of Honor recipient. He and the new President, in office a little over three months, had little use for each other.\n\nThat December, the Navy was caught up in a bitter quarrel over Rear Admiral Winfield Scott Schley's conduct in the 1898 Santiago campaign, and over whether he or Rear Admiral William T. Sampson deserved credit for the victory. A naval court of inquiry had just issued its findings, with Admiral George Dewey dissenting on some points. Miles told a newspaper interviewer in Cincinnati that he was willing to take Dewey's judgment.\n\nSecretary of War Elihu Root, writing \"by direction of the President,\" called Miles's explanation \"not satisfactory.\" \"It is of no consequence on whose side your opinion was or what it was,\" Root wrote. \"You had no business in the controversy and no right, holding the office which you did, to express any opinion.\"\n\nIn other words, the Army's commander had no business taking sides in public on a Navy dispute.\n\nMiles also called at the White House, where, according to some reports, Roosevelt rebuked him sharply in front of other callers. One witness, the journalist Henry V. Boynton, insisted the President had not been rude. Some newspapers thought the President had been too hard on an old soldier.\n\nMiles retired in 1903, the last officer to hold the title Commanding General of the Army. Congress replaced the post with a Chief of Staff.\n\nShown here: President Roosevelt and his Cabinet, including Secretary of War Elihu Root, 16 November 1901, photographed by B. M. Clinedinst; and Major General Nelson A. Miles and officers in 1898, from a stereograph published by Strohmeyer & Wyman (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/first-term",
+   "media": [
+    {
+     "src": "media/ae8772a0f40b1848.jpg",
+     "w": 1000,
+     "h": 782,
+     "kind": "image"
+    },
+    {
+     "src": "media/610ab74ccb37858c.jpg",
+     "w": 551,
+     "h": 687,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547362:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-21T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 21 December 1901, the War Department made public a reprimand of the highest-ranking officer in the United States Army.\n\nLieutenant General Nelson A. Miles had commanded the Army since 1895. He was a Civil War hero and Medal of Honor recipient. He and the new President, in office a little over three months, had little use for each other.\n\nThat December, the Navy was caught up in a bitter quarrel over Rear Admiral Winfield Scott Schley's conduct in the 1898 Santiago campaign, and over whether he or Rear Admiral William T. Sampson deserved credit for the victory. A naval court of inquiry had just issued its findings, with Admiral George Dewey dissenting on some points. Miles told a newspaper interviewer in Cincinnati that he was willing to take Dewey's judgment.\n\nSecretary of War Elihu Root, writing \"by direction of the President,\" called Miles's explanation \"not satisfactory.\" \"It is of no consequence on whose side your opinion was or what it was,\" Root wrote. \"You had no business in the controversy and no right, holding the office which you did, to express any opinion.\"\n\nIn other words, the Army's commander had no business taking sides in public on a Navy dispute.\n\nMiles also called at the White House, where, according to some reports, Roosevelt rebuked him sharply in front of other callers. One witness, the journalist Henry V. Boynton, insisted the President had not been rude. Some newspapers thought the President had been too hard on an old soldier.\n\nMiles retired in 1903, the last officer to hold the title Commanding General of the Army. Congress replaced the post with a Chief of Staff.\n\nShown here: President Roosevelt and his Cabinet, including Secretary of War Elihu Root, 16 November 1901, photographed by B. M. Clinedinst; and Major General Nelson A. Miles and officers in 1898, from a stereograph published by Strohmeyer & Wyman (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/first-term",
+   "media": [
+    {
+     "src": "media/ae8772a0f40b1848.jpg",
+     "w": 1000,
+     "h": 782,
+     "kind": "image"
+    },
+    {
+     "src": "media/610ab74ccb37858c.jpg",
+     "w": 551,
+     "h": 687,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547390:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-21T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 21 December 1901: The War Department makes public its reprimand of Lt. Gen. Nelson A. Miles, commander of the Army, for giving a newspaper his opinion on a Navy court of inquiry. \"You had no business in the controversy,\" Secretary of War Elihu Root wrote, by direction of President Roosevelt. Some papers thought Miles was treated too harshly.",
+   "media": [
+    {
+     "src": "media/fb6de26c78290391.jpg",
+     "w": 1000,
+     "h": 782,
+     "kind": "image"
+    },
+    {
+     "src": "media/358d681410f65000.jpg",
+     "w": 551,
+     "h": 687,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547408:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-21T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 21 December 1901, the War Department made public a reprimand of the highest-ranking officer in the United States Army.\n\nLieutenant General Nelson A. Miles had commanded the Army since 1895. He was a Civil War hero and Medal of Honor recipient. He and the new President, in office a little over three months, had little use for each other.\n\nThat December, the Navy was caught up in a bitter quarrel over Rear Admiral Winfield Scott Schley's conduct in the 1898 Santiago campaign, and over whether he or Rear Admiral William T. Sampson deserved credit for the victory. A naval court of inquiry had just issued its findings, with Admiral George Dewey dissenting on some points. Miles told a newspaper interviewer in Cincinnati that he was willing to take Dewey's judgment.\n\nSecretary of War Elihu Root, writing \"by direction of the President,\" called Miles's explanation \"not satisfactory.\" \"It is of no consequence on whose side your opinion was or what it was,\" Root wrote. \"You had no business in the controversy and no right, holding the office which you did, to express any opinion.\"\n\nIn other words, the Army's commander had no business taking sides in public on a Navy dispute.\n\nMiles also called at the White House, where, according to some reports, Roosevelt rebuked him sharply in front of other callers. One witness, the journalist Henry V. Boynton, insisted the President had not been rude. Some newspapers thought the President had been too hard on an old soldier.\n\nMiles retired in 1903, the last officer to hold the title Commanding General of the Army. Congress replaced the post with a Chief of Staff.\n\nShown here: President Roosevelt and his Cabinet, including Secretary of War Elihu Root, 16 November 1901, photographed by B. M. Clinedinst; and Major General Nelson A. Miles and officers in 1898, from a stereograph published by Strohmeyer & Wyman (both Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #ElihuRoot #USArmy #History",
+   "media": [
+    {
+     "src": "media/252eb28058767421.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2ae3ed8597667856.jpg",
+     "w": 687,
+     "h": 687,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547426:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-21T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 21 Dec 1901: Gen. Nelson Miles, head of the Army, is publicly reprimanded for commenting on a Navy dispute. \"You had no business in the controversy,\" Sec. of War Root wrote, on TR's orders.\n\nhttps://www.trlibrary.com/tr/presidency/first-term",
+   "media": [
+    {
+     "src": "media/6c68fb9b1bf02b2a.jpg",
+     "w": 1000,
+     "h": 782,
+     "kind": "image"
+    },
+    {
+     "src": "media/3587252f149d29e8.jpg",
+     "w": 551,
+     "h": 687,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547448:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-21T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 21 Dec 1901: Gen. Nelson Miles, head of the Army, is reprimanded for publicly weighing in on a Navy dispute. \"You had no business in the controversy,\" Sec. of War Root wrote, on TR's orders.",
+   "media": [
+    {
+     "src": "media/4c9adaaa0a627ddd.jpg",
+     "w": 1000,
+     "h": 782,
+     "kind": "image"
+    },
+    {
+     "src": "media/04053fc6281a89ac.jpg",
+     "w": 551,
+     "h": 687,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547488:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 22 December 1878, a Harvard junior home in New York for Christmas sat down with his diary.\n\nTheodore Roosevelt was 20. That February his father, Theodore Roosevelt Sr., had died at 46. It was the family's first Christmas without him, and they were keeping cheerful.\n\nHis entry for the 22nd reads: \"Although the family are all so cheerful, yet we can none of us help thinking a good deal of our dear lost one; but now the sweet is overcoming the bitter in our memories of him.\"\n\nThen he added: \"I wonder if I shall ever be very miserable! In spite of the great sorrow—the greatest which could have befallen me—I have yet been very happy these last six months.\"\n\nThe day before, home from Cambridge, he had written that \"these are the golden years of my life.\" Christmas Day was harder. \"Xmas. Had rather a melancholy day,\" he wrote. \"It does seem so very terrible not to have Father with us.\"\n\nGrief and happiness in the same week, set down honestly by a 20-year-old. Thirty-five years later, he wrote in his Autobiography: \"My father, Theodore Roosevelt, was the best man I ever knew.\"\n\nShown here: Roosevelt at the end of his sophomore year at Harvard, May 1878; and the family on the Nile in the winter of 1872–73, with Theodore Roosevelt Sr. and Martha Bulloch Roosevelt in the middle row (both Houghton Library, Harvard University).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Harvard #Family #History",
+   "media": [
+    {
+     "src": "media/00e267a74d6182e5.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/426df571280fed16.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547507:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 22 Dec 1878: First Christmas since his father died. TR, 20, writes: \"now the sweet is overcoming the bitter in our memories of him.\" On Christmas Day: \"Had rather a melancholy day.\"",
+   "media": [
+    {
+     "src": "media/1f6060e8be5ca161.jpg",
+     "w": 809,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7368ebda0265618d.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547546:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 22 December 1878: Home from Harvard for the first Christmas since his father died, 20-year-old Theodore Roosevelt writes in his diary: \"now the sweet is overcoming the bitter in our memories of him.\" Three days later: \"Xmas. Had rather a melancholy day.\"",
+   "media": [
+    {
+     "src": "media/9d7145d9e5086380.jpg",
+     "w": 809,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/18346264e6be3d96.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547574:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 22 Dec 1878: First Christmas after his father's death, TR, 20, writes in his diary: \"now the sweet is overcoming the bitter in our memories of him.\"\n\nhttps://www.trlibrary.com/tr/people/theodore-sr",
+   "media": [
+    {
+     "src": "media/5d12e521a5e84700.jpg",
+     "w": 809,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d319283f67567977.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547603:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 22 December 1878, a Harvard junior home in New York for Christmas sat down with his diary.\n\nTheodore Roosevelt was 20. That February his father, Theodore Roosevelt Sr., had died at 46. It was the family's first Christmas without him, and they were keeping cheerful.\n\nHis entry for the 22nd reads: \"Although the family are all so cheerful, yet we can none of us help thinking a good deal of our dear lost one; but now the sweet is overcoming the bitter in our memories of him.\"\n\nThen he added: \"I wonder if I shall ever be very miserable! In spite of the great sorrow—the greatest which could have befallen me—I have yet been very happy these last six months.\"\n\nThe day before, home from Cambridge, he had written that \"these are the golden years of my life.\" Christmas Day was harder. \"Xmas. Had rather a melancholy day,\" he wrote. \"It does seem so very terrible not to have Father with us.\"\n\nGrief and happiness in the same week, set down honestly by a 20-year-old. Thirty-five years later, he wrote in his Autobiography: \"My father, Theodore Roosevelt, was the best man I ever knew.\"\n\nShown here: Roosevelt at the end of his sophomore year at Harvard, May 1878; and the family on the Nile in the winter of 1872–73, with Theodore Roosevelt Sr. and Martha Bulloch Roosevelt in the middle row (both Houghton Library, Harvard University).\n\nhttps://www.trlibrary.com/tr/people/theodore-sr",
+   "media": [
+    {
+     "src": "media/5d571ae1b0dc2cf1.jpg",
+     "w": 809,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/cd116999038219ea.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547604:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-22T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 22 December 1878, a Harvard junior home in New York for Christmas sat down with his diary.\n\nTheodore Roosevelt was 20. That February his father, Theodore Roosevelt Sr., had died at 46. It was the family's first Christmas without him, and they were keeping cheerful.\n\nHis entry for the 22nd reads: \"Although the family are all so cheerful, yet we can none of us help thinking a good deal of our dear lost one; but now the sweet is overcoming the bitter in our memories of him.\"\n\nThen he added: \"I wonder if I shall ever be very miserable! In spite of the great sorrow—the greatest which could have befallen me—I have yet been very happy these last six months.\"\n\nThe day before, home from Cambridge, he had written that \"these are the golden years of my life.\" Christmas Day was harder. \"Xmas. Had rather a melancholy day,\" he wrote. \"It does seem so very terrible not to have Father with us.\"\n\nGrief and happiness in the same week, set down honestly by a 20-year-old. Thirty-five years later, he wrote in his Autobiography: \"My father, Theodore Roosevelt, was the best man I ever knew.\"\n\nShown here: Roosevelt at the end of his sophomore year at Harvard, May 1878; and the family on the Nile in the winter of 1872–73, with Theodore Roosevelt Sr. and Martha Bulloch Roosevelt in the middle row (both Houghton Library, Harvard University).\n\nhttps://www.trlibrary.com/tr/people/theodore-sr",
+   "media": [
+    {
+     "src": "media/5d571ae1b0dc2cf1.jpg",
+     "w": 809,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/cd116999038219ea.jpg",
+     "w": 1000,
+     "h": 794,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547621:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 23 December 1911, Theodore Roosevelt wrote a letter that historians still quote when they explain the most dramatic political year of his life.\n\nHe had been out of the White House for almost three years. His friendship with his successor, William Howard Taft, had come apart, and progressive Republicans were urging him to run again in 1912. To William B. Howland, an officer of The Outlook, the magazine where Roosevelt was a contributing editor, he wrote in a private letter:\n\n\"I am not a candidate, I will never be a candidate; but I have to tell the La Follette men and the Taft men that while I am absolutely sincere in saying that I am not a candidate and do not wish the nomination, yet that I do not feel it would be right or proper for me to say that under no circumstances would I accept it if it came...\"\n\nNot a candidate, then. But not a closed door, either.\n\nIn late February 1912, he announced that he would accept the Republican nomination if it were offered. The contest that followed split the party and gave rise to the Progressive, or Bull Moose, Party.\n\nThe same day he wrote to Howland, Roosevelt sent his son Archie, away at school in Arizona, the family news: \"Quentin turned up last night. He is half an inch taller than I am, and is in great shape.\"\n\nShown here: Roosevelt in November 1911, and William B. Howland in 1914 (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/post-presidency/bull-moose",
+   "media": [
+    {
+     "src": "media/fa434be5486bb1cb.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/34f55de2aae9fee7.jpg",
+     "w": 1000,
+     "h": 803,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547622:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 23 December 1911, Theodore Roosevelt wrote a letter that historians still quote when they explain the most dramatic political year of his life.\n\nHe had been out of the White House for almost three years. His friendship with his successor, William Howard Taft, had come apart, and progressive Republicans were urging him to run again in 1912. To William B. Howland, an officer of The Outlook, the magazine where Roosevelt was a contributing editor, he wrote in a private letter:\n\n\"I am not a candidate, I will never be a candidate; but I have to tell the La Follette men and the Taft men that while I am absolutely sincere in saying that I am not a candidate and do not wish the nomination, yet that I do not feel it would be right or proper for me to say that under no circumstances would I accept it if it came...\"\n\nNot a candidate, then. But not a closed door, either.\n\nIn late February 1912, he announced that he would accept the Republican nomination if it were offered. The contest that followed split the party and gave rise to the Progressive, or Bull Moose, Party.\n\nThe same day he wrote to Howland, Roosevelt sent his son Archie, away at school in Arizona, the family news: \"Quentin turned up last night. He is half an inch taller than I am, and is in great shape.\"\n\nShown here: Roosevelt in November 1911, and William B. Howland in 1914 (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/post-presidency/bull-moose",
+   "media": [
+    {
+     "src": "media/fa434be5486bb1cb.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/34f55de2aae9fee7.jpg",
+     "w": 1000,
+     "h": 803,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547666:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 23 Dec 1911: \"I am not a candidate, I will never be a candidate,\" TR writes. But in the same letter he won't rule out accepting the nomination. By late Feb. 1912 he was in.",
+   "media": [
+    {
+     "src": "media/d72106080d7e9005.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/cecd2e720da57081.jpg",
+     "w": 1000,
+     "h": 803,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547711:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 23 Dec 1911: \"I am not a candidate, I will never be a candidate,\" TR writes. In the same letter: he won't say he would never accept the nomination. By Feb. 1912 he was in the race.\n\nhttps://www.trlibrary.com/tr/post-presidency/bull-moose",
+   "media": [
+    {
+     "src": "media/c6fe7c47670de09a.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/bbd389b0b796f9e4.jpg",
+     "w": 1000,
+     "h": 803,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547733:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 23 December 1911: \"I am not a candidate, I will never be a candidate,\" Theodore Roosevelt writes to William B. Howland. In the same sentence, he says it wouldn't be right to rule out accepting the nomination \"if it came.\" Two months later he said he would accept it if it were offered.",
+   "media": [
+    {
+     "src": "media/b8ccd5d13d46cc5e.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ac5b361429018e0a.jpg",
+     "w": 1000,
+     "h": 803,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547764:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-23T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 23 December 1911, Theodore Roosevelt wrote a letter that historians still quote when they explain the most dramatic political year of his life.\n\nHe had been out of the White House for almost three years. His friendship with his successor, William Howard Taft, had come apart, and progressive Republicans were urging him to run again in 1912. To William B. Howland, an officer of The Outlook, the magazine where Roosevelt was a contributing editor, he wrote in a private letter:\n\n\"I am not a candidate, I will never be a candidate; but I have to tell the La Follette men and the Taft men that while I am absolutely sincere in saying that I am not a candidate and do not wish the nomination, yet that I do not feel it would be right or proper for me to say that under no circumstances would I accept it if it came...\"\n\nNot a candidate, then. But not a closed door, either.\n\nIn late February 1912, he announced that he would accept the Republican nomination if it were offered. The contest that followed split the party and gave rise to the Progressive, or Bull Moose, Party.\n\nThe same day he wrote to Howland, Roosevelt sent his son Archie, away at school in Arizona, the family news: \"Quentin turned up last night. He is half an inch taller than I am, and is in great shape.\"\n\nShown here: Roosevelt in November 1911, and William B. Howland in 1914 (both Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Election1912 #BullMoose #History",
+   "media": [
+    {
+     "src": "media/0c7feacaacaffc31.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ee7d9b3370829af3.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547790:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 125 years ago, 24 December 1901: The Roosevelts' first Christmas Eve in the White House. No tree: papers said the family never had one and there was no room to spare. Thomas Nast drew Santa at a White House mantel beside six stockings: \"I dont know when I've felt so at home here!\"",
+   "media": [
+    {
+     "src": "media/bcb32768033586c9.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/c10e98e87fa131fa.jpg",
+     "w": 492,
+     "h": 451,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547805:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 125 years ago, 24 Dec 1901: First White House Christmas Eve for the Roosevelts. No tree, but Thomas Nast drew Santa at the mantel beside six stockings. And there's no evidence TR \"banned\" trees.",
+   "media": [
+    {
+     "src": "media/15c7a07d0744fdea.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/d620ae8a83ec7b48.jpg",
+     "w": 492,
+     "h": 451,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547850:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty-five years ago today, on 24 December 1901, the Roosevelts spent their first Christmas Eve in the White House. Theodore Roosevelt had been President for just over three months, and six children, ages 4 to 17, had moved in with him and Edith.\n\nThere was no Christmas tree. Newspapers reported that a tree had never been part of the family's Christmas, and that Mrs. Roosevelt could not spare a single room for one anyway. The children had their tree at the home of an aunt and uncle instead.\n\nWhat the White House did have was stockings. In 1901, the cartoonist Thomas Nast, who did as much as anyone to shape America's picture of Santa Claus, drew him beside a White House mantel hung with six stockings, each labeled with a Roosevelt child's name. Nast called it \"New Life in the Old House.\" Santa says, \"I dont know when I've felt so at home here!\"\n\nIn later White House years, Roosevelt described the family routine in his letters: stockings opened on their parents' bed early on Christmas morning, then bigger presents in the library after breakfast.\n\nYou may have heard that Roosevelt banned Christmas trees to save the forests. The White House Historical Association and the Forest History Society call the ban a myth. The family simply didn't have the habit. (A year later, Archie set up a little tree of his own in a closet as a surprise.)\n\nShown here: Thomas Nast, \"New Life in the Old House,\" 1901 (Sagamore Hill National Historic Site, National Park Service); and the President's library in the White House as it looked about 1898, just before the Roosevelts arrived, from a stereograph (Library of Congress).\n\nhttps://www.trlibrary.com/tr/christmas",
+   "media": [
+    {
+     "src": "media/af1ae3c2179ab7c8.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9b0a3d1592fff331.jpg",
+     "w": 492,
+     "h": 451,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547851:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty-five years ago today, on 24 December 1901, the Roosevelts spent their first Christmas Eve in the White House. Theodore Roosevelt had been President for just over three months, and six children, ages 4 to 17, had moved in with him and Edith.\n\nThere was no Christmas tree. Newspapers reported that a tree had never been part of the family's Christmas, and that Mrs. Roosevelt could not spare a single room for one anyway. The children had their tree at the home of an aunt and uncle instead.\n\nWhat the White House did have was stockings. In 1901, the cartoonist Thomas Nast, who did as much as anyone to shape America's picture of Santa Claus, drew him beside a White House mantel hung with six stockings, each labeled with a Roosevelt child's name. Nast called it \"New Life in the Old House.\" Santa says, \"I dont know when I've felt so at home here!\"\n\nIn later White House years, Roosevelt described the family routine in his letters: stockings opened on their parents' bed early on Christmas morning, then bigger presents in the library after breakfast.\n\nYou may have heard that Roosevelt banned Christmas trees to save the forests. The White House Historical Association and the Forest History Society call the ban a myth. The family simply didn't have the habit. (A year later, Archie set up a little tree of his own in a closet as a surprise.)\n\nShown here: Thomas Nast, \"New Life in the Old House,\" 1901 (Sagamore Hill National Historic Site, National Park Service); and the President's library in the White House as it looked about 1898, just before the Roosevelts arrived, from a stereograph (Library of Congress).\n\nhttps://www.trlibrary.com/tr/christmas",
+   "media": [
+    {
+     "src": "media/af1ae3c2179ab7c8.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9b0a3d1592fff331.jpg",
+     "w": 492,
+     "h": 451,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547867:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 125 years ago, 24 Dec 1901: The Roosevelts' first White House Christmas Eve. No tree (papers said the family never had one), but Thomas Nast drew Santa at the mantel beside six stockings.\n\nhttps://www.trlibrary.com/tr/christmas",
+   "media": [
+    {
+     "src": "media/ad2a0d5f161132b3.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/c061166d11a1048e.jpg",
+     "w": 492,
+     "h": 451,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123547897:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-24T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty-five years ago today, on 24 December 1901, the Roosevelts spent their first Christmas Eve in the White House. Theodore Roosevelt had been President for just over three months, and six children, ages 4 to 17, had moved in with him and Edith.\n\nThere was no Christmas tree. Newspapers reported that a tree had never been part of the family's Christmas, and that Mrs. Roosevelt could not spare a single room for one anyway. The children had their tree at the home of an aunt and uncle instead.\n\nWhat the White House did have was stockings. In 1901, the cartoonist Thomas Nast, who did as much as anyone to shape America's picture of Santa Claus, drew him beside a White House mantel hung with six stockings, each labeled with a Roosevelt child's name. Nast called it \"New Life in the Old House.\" Santa says, \"I dont know when I've felt so at home here!\"\n\nIn later White House years, Roosevelt described the family routine in his letters: stockings opened on their parents' bed early on Christmas morning, then bigger presents in the library after breakfast.\n\nYou may have heard that Roosevelt banned Christmas trees to save the forests. The White House Historical Association and the Forest History Society call the ban a myth. The family simply didn't have the habit. (A year later, Archie set up a little tree of his own in a closet as a surprise.)\n\nShown here: Thomas Nast, \"New Life in the Old House,\" 1901 (Sagamore Hill National Historic Site, National Park Service); and the President's library in the White House as it looked about 1898, just before the Roosevelts arrived, from a stereograph (Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #ChristmasEve #WhiteHouse #ThomasNast",
+   "media": [
+    {
+     "src": "media/691ef9505c727d4a.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9c1a5cb8a8b38274.jpg",
+     "w": 492,
+     "h": 492,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557372:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 25 Dec 1918: Dizzy and weak after weeks in the hospital, TR refuses his doctor's steadying arm and walks out on his own to go home to Sagamore Hill. It was his last Christmas.\n\nhttps://www.trlibrary.com/tr/post-presidency/death",
+   "media": [
+    {
+     "src": "media/8951ceaa6480d052.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/09e2e30c2336423a.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557398:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On Christmas morning 1918, Theodore Roosevelt went home.\n\nHe had spent most of November and December in Roosevelt Hospital in New York, laid low by inflammatory rheumatism. An inflamed inner ear left him dizzy, and doctors warned he might spend much of the rest of his life in a wheelchair. Five months earlier, his youngest son, Quentin, had been shot down and killed over France.\n\nStill, he was well enough to go home for Christmas. He was dizzy as he stepped out of the hospital elevator, and his physician, Dr. John H. Richards, took his arm. Roosevelt stopped him. \"Don't do that,\" he said, as the doctor later recalled. He was not sick, he insisted, and help would \"give the wrong impression.\" He walked out to the waiting car on his own, Edith at his side.\n\nAt Sagamore Hill, Alice, Ethel, Archie and Archie's wife, Grace, were waiting, along with his grandchildren. He watched his little granddaughter Edie Derby run around the drawing room, but by afternoon he was worn out.\n\nTwelve days later, on 6 January 1919, he died in his sleep at Sagamore Hill. It was his last Christmas.\n\nShown here: Roosevelt holding an infant grandchild, 1918; and Roosevelt speaking to a crowd at Sagamore Hill, 1918 (Bain News Service) (both Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #SagamoreHill #Christmas #History",
+   "media": [
+    {
+     "src": "media/7d474201fee2711f.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a8d4d8fb1391b8eb.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557419:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 25 Dec 1918: After weeks in the hospital, TR goes home to Sagamore Hill for Christmas, waving off his doctor's arm: \"Don't do that.\" He died 12 days later. His last Christmas.",
+   "media": [
+    {
+     "src": "media/45a3b1ed56101c51.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/86e1d5dcc2877bb0.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557446:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 25 December 1918: After weeks in Roosevelt Hospital, Theodore Roosevelt goes home to Sagamore Hill for Christmas. Dizzy in the elevator, he waves off his doctor's steadying arm: \"Don't do that.\" Twelve days later, he died in his sleep. It was his last Christmas.",
+   "media": [
+    {
+     "src": "media/a80e4471012742f5.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a29b6ca4dda9032b.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557460:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On Christmas morning 1918, Theodore Roosevelt went home.\n\nHe had spent most of November and December in Roosevelt Hospital in New York, laid low by inflammatory rheumatism. An inflamed inner ear left him dizzy, and doctors warned he might spend much of the rest of his life in a wheelchair. Five months earlier, his youngest son, Quentin, had been shot down and killed over France.\n\nStill, he was well enough to go home for Christmas. He was dizzy as he stepped out of the hospital elevator, and his physician, Dr. John H. Richards, took his arm. Roosevelt stopped him. \"Don't do that,\" he said, as the doctor later recalled. He was not sick, he insisted, and help would \"give the wrong impression.\" He walked out to the waiting car on his own, Edith at his side.\n\nAt Sagamore Hill, Alice, Ethel, Archie and Archie's wife, Grace, were waiting, along with his grandchildren. He watched his little granddaughter Edie Derby run around the drawing room, but by afternoon he was worn out.\n\nTwelve days later, on 6 January 1919, he died in his sleep at Sagamore Hill. It was his last Christmas.\n\nShown here: Roosevelt holding an infant grandchild, 1918; and Roosevelt speaking to a crowd at Sagamore Hill, 1918 (Bain News Service) (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/post-presidency/death",
+   "media": [
+    {
+     "src": "media/0837756ea5792eda.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a86a212dd47f7751.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557461:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-25T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On Christmas morning 1918, Theodore Roosevelt went home.\n\nHe had spent most of November and December in Roosevelt Hospital in New York, laid low by inflammatory rheumatism. An inflamed inner ear left him dizzy, and doctors warned he might spend much of the rest of his life in a wheelchair. Five months earlier, his youngest son, Quentin, had been shot down and killed over France.\n\nStill, he was well enough to go home for Christmas. He was dizzy as he stepped out of the hospital elevator, and his physician, Dr. John H. Richards, took his arm. Roosevelt stopped him. \"Don't do that,\" he said, as the doctor later recalled. He was not sick, he insisted, and help would \"give the wrong impression.\" He walked out to the waiting car on his own, Edith at his side.\n\nAt Sagamore Hill, Alice, Ethel, Archie and Archie's wife, Grace, were waiting, along with his grandchildren. He watched his little granddaughter Edie Derby run around the drawing room, but by afternoon he was worn out.\n\nTwelve days later, on 6 January 1919, he died in his sleep at Sagamore Hill. It was his last Christmas.\n\nShown here: Roosevelt holding an infant grandchild, 1918; and Roosevelt speaking to a crowd at Sagamore Hill, 1918 (Bain News Service) (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/post-presidency/death",
+   "media": [
+    {
+     "src": "media/0837756ea5792eda.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/a86a212dd47f7751.jpg",
+     "w": 1000,
+     "h": 684,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557478:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 26 December 1908, with ten weeks left in the White House, Theodore Roosevelt got the best news of his holiday season.\n\nHe was planning a year-long expedition to East Africa to collect specimens for the Smithsonian Institution, and for months he had been trading letters with Frederick Courteney Selous, the English hunter and naturalist whose books on African wildlife he had read for years. Now Selous wrote that he would be making his own trip to British East Africa that spring, on the same steamer.\n\nRoosevelt fired back: \"Three cheers! I am simply overjoyed that you are going out. It is just the last touch to make everything perfect. But you must leave me one lion somewhere!\"\n\nHe added that he did not really expect to get one anyhow.\n\nHe did. They met at Naples in April 1909, sailed together aboard the Admiral to Mombasa, and rode the train inland side by side on a seat across the locomotive's cowcatcher. Weeks later, Roosevelt was able to show Selous his first lions. Over the next year the Smithsonian-Roosevelt African Expedition sent thousands of specimens home to Washington, many of them still in the National Museum of Natural History's collections.\n\nShown here: Roosevelt and Selous riding the cowcatcher of a train in British East Africa, photographed by J. Alden Loring, 1909; and Roosevelt, Gov. Frederick Jackson, Selous and Dr. Edgar Mearns riding in front of the engine on the way to Kapiti (both Houghton Library, Harvard University).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #Smithsonian #Africa #NaturalHistory",
+   "media": [
+    {
+     "src": "media/29e78fa970ac7201.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/5eb3ec6f881d79cc.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557494:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 26 Dec 1908: Told that F. C. Selous will sail to Africa with him, TR writes: \"Three cheers! I am simply overjoyed that you are going out... But you must leave me one lion somewhere!\"",
+   "media": [
+    {
+     "src": "media/14887a46f45ca205.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/187618de8dd5a574.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557509:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 26 Dec 1908: Hearing that the hunter-naturalist F. C. Selous will sail to Africa with him, TR writes: \"Three cheers! I am simply overjoyed that you are going out... But you must leave me one lion somewhere!\"\n\nhttps://www.trlibrary.com/tr/post-presidency/african-safari",
+   "media": [
+    {
+     "src": "media/358bba6089455cb8.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/698b1ffeec3af96a.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557550:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 26 December 1908, with ten weeks left in the White House, Theodore Roosevelt got the best news of his holiday season.\n\nHe was planning a year-long expedition to East Africa to collect specimens for the Smithsonian Institution, and for months he had been trading letters with Frederick Courteney Selous, the English hunter and naturalist whose books on African wildlife he had read for years. Now Selous wrote that he would be making his own trip to British East Africa that spring, on the same steamer.\n\nRoosevelt fired back: \"Three cheers! I am simply overjoyed that you are going out. It is just the last touch to make everything perfect. But you must leave me one lion somewhere!\"\n\nHe added that he did not really expect to get one anyhow.\n\nHe did. They met at Naples in April 1909, sailed together aboard the Admiral to Mombasa, and rode the train inland side by side on a seat across the locomotive's cowcatcher. Weeks later, Roosevelt was able to show Selous his first lions. Over the next year the Smithsonian-Roosevelt African Expedition sent thousands of specimens home to Washington, many of them still in the National Museum of Natural History's collections.\n\nShown here: Roosevelt and Selous riding the cowcatcher of a train in British East Africa, photographed by J. Alden Loring, 1909; and Roosevelt, Gov. Frederick Jackson, Selous and Dr. Edgar Mearns riding in front of the engine on the way to Kapiti (both Houghton Library, Harvard University).\n\nhttps://www.trlibrary.com/tr/post-presidency/african-safari",
+   "media": [
+    {
+     "src": "media/8962a4c894ba74d0.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/68da1881bc627ec0.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557551:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 26 December 1908, with ten weeks left in the White House, Theodore Roosevelt got the best news of his holiday season.\n\nHe was planning a year-long expedition to East Africa to collect specimens for the Smithsonian Institution, and for months he had been trading letters with Frederick Courteney Selous, the English hunter and naturalist whose books on African wildlife he had read for years. Now Selous wrote that he would be making his own trip to British East Africa that spring, on the same steamer.\n\nRoosevelt fired back: \"Three cheers! I am simply overjoyed that you are going out. It is just the last touch to make everything perfect. But you must leave me one lion somewhere!\"\n\nHe added that he did not really expect to get one anyhow.\n\nHe did. They met at Naples in April 1909, sailed together aboard the Admiral to Mombasa, and rode the train inland side by side on a seat across the locomotive's cowcatcher. Weeks later, Roosevelt was able to show Selous his first lions. Over the next year the Smithsonian-Roosevelt African Expedition sent thousands of specimens home to Washington, many of them still in the National Museum of Natural History's collections.\n\nShown here: Roosevelt and Selous riding the cowcatcher of a train in British East Africa, photographed by J. Alden Loring, 1909; and Roosevelt, Gov. Frederick Jackson, Selous and Dr. Edgar Mearns riding in front of the engine on the way to Kapiti (both Houghton Library, Harvard University).\n\nhttps://www.trlibrary.com/tr/post-presidency/african-safari",
+   "media": [
+    {
+     "src": "media/8962a4c894ba74d0.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/68da1881bc627ec0.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557564:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-26T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 26 December 1908: Planning his Smithsonian expedition to East Africa, Theodore Roosevelt learns that Frederick Selous will sail out with him. \"Three cheers! I am simply overjoyed that you are going out. It is just the last touch to make everything perfect. But you must leave me one lion somewhere!\"",
+   "media": [
+    {
+     "src": "media/1fe97daa5ed3a878.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/54588b15398c88f4.jpg",
+     "w": 812,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557596:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 27 December 1904, Theodore Roosevelt sent his secretary of the Treasury a short, blunt note about the money in America's pockets.\n\n\"I think our coinage is artistically of atrocious hideousness,\" he wrote to Leslie M. Shaw. \"Would it be possible, without asking permission of Congress, to employ a man like Saint-Gaudens to give us a coinage that would have some beauty?\"\n\nAugustus Saint-Gaudens was one of the country's most celebrated sculptors. It was possible, and the Treasury hired him. Saint-Gaudens took on the $10 and $20 gold coins, and Roosevelt backed his designs over the objections of the Mint's chief engraver, Charles Barber.\n\nThe $20 double eagle came out in 1907: Liberty striding forward with a torch and an olive branch, and on the back an eagle in flight above a rising sun. The first version, in very high relief with the date in Roman numerals, was so deep it was hard to strike and was soon flattened for regular production. Saint-Gaudens, ill with cancer, died in August 1907, before the coins went into circulation.\n\nThe design also left off \"In God We Trust.\" Congress ordered the motto put back in 1908.\n\nThat one note set off a redesign that, by 1921, had changed every U.S. coin. Collectors still call the Saint-Gaudens double eagle one of the most beautiful American coins ever made.\n\nShown here: a 1907 high-relief double eagle (National Numismatic Collection, Smithsonian, photographed by Jaclyn Nash); and Secretary Shaw at his desk, 1905 (G. G. Bain, Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/executive-power",
+   "media": [
+    {
+     "src": "media/75792a2931b1afb3.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/7ec42efbe6838668.jpg",
+     "w": 640,
+     "h": 459,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557597:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 27 December 1904, Theodore Roosevelt sent his secretary of the Treasury a short, blunt note about the money in America's pockets.\n\n\"I think our coinage is artistically of atrocious hideousness,\" he wrote to Leslie M. Shaw. \"Would it be possible, without asking permission of Congress, to employ a man like Saint-Gaudens to give us a coinage that would have some beauty?\"\n\nAugustus Saint-Gaudens was one of the country's most celebrated sculptors. It was possible, and the Treasury hired him. Saint-Gaudens took on the $10 and $20 gold coins, and Roosevelt backed his designs over the objections of the Mint's chief engraver, Charles Barber.\n\nThe $20 double eagle came out in 1907: Liberty striding forward with a torch and an olive branch, and on the back an eagle in flight above a rising sun. The first version, in very high relief with the date in Roman numerals, was so deep it was hard to strike and was soon flattened for regular production. Saint-Gaudens, ill with cancer, died in August 1907, before the coins went into circulation.\n\nThe design also left off \"In God We Trust.\" Congress ordered the motto put back in 1908.\n\nThat one note set off a redesign that, by 1921, had changed every U.S. coin. Collectors still call the Saint-Gaudens double eagle one of the most beautiful American coins ever made.\n\nShown here: a 1907 high-relief double eagle (National Numismatic Collection, Smithsonian, photographed by Jaclyn Nash); and Secretary Shaw at his desk, 1905 (G. G. Bain, Library of Congress).\n\nhttps://www.trlibrary.com/tr/presidency/executive-power",
+   "media": [
+    {
+     "src": "media/75792a2931b1afb3.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/7ec42efbe6838668.jpg",
+     "w": 640,
+     "h": 459,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557632:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 27 December 1904: \"I think our coinage is artistically of atrocious hideousness,\" Theodore Roosevelt writes to Treasury Secretary Leslie Shaw, and asks whether he can hire the sculptor Augustus Saint-Gaudens. Result: the 1907 Saint-Gaudens $20 double eagle.",
+   "media": [
+    {
+     "src": "media/01899a04495d5194.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/037e2e8d1c64d0ce.jpg",
+     "w": 640,
+     "h": 459,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557659:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 27 Dec 1904: \"I think our coinage is artistically of atrocious hideousness,\" TR writes his Treasury secretary, and asks to hire Saint-Gaudens. Result: the 1907 $20 double eagle.",
+   "media": [
+    {
+     "src": "media/f02c90a2ad9ae17d.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/ddc38384dd55209e.jpg",
+     "w": 640,
+     "h": 459,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557691:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 27 Dec 1904: TR to his Treasury secretary: \"I think our coinage is artistically of atrocious hideousness.\" He asks to hire Saint-Gaudens. Result: the 1907 $20 double eagle.\n\nhttps://www.trlibrary.com/tr/presidency/executive-power",
+   "media": [
+    {
+     "src": "media/e4aaf41e737715ca.jpg",
+     "w": 1000,
+     "h": 524,
+     "kind": "image"
+    },
+    {
+     "src": "media/570a86b1eb71dc64.jpg",
+     "w": 640,
+     "h": 459,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557740:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-27T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 27 December 1904, Theodore Roosevelt sent his secretary of the Treasury a short, blunt note about the money in America's pockets.\n\n\"I think our coinage is artistically of atrocious hideousness,\" he wrote to Leslie M. Shaw. \"Would it be possible, without asking permission of Congress, to employ a man like Saint-Gaudens to give us a coinage that would have some beauty?\"\n\nAugustus Saint-Gaudens was one of the country's most celebrated sculptors. It was possible, and the Treasury hired him. Saint-Gaudens took on the $10 and $20 gold coins, and Roosevelt backed his designs over the objections of the Mint's chief engraver, Charles Barber.\n\nThe $20 double eagle came out in 1907: Liberty striding forward with a torch and an olive branch, and on the back an eagle in flight above a rising sun. The first version, in very high relief with the date in Roman numerals, was so deep it was hard to strike and was soon flattened for regular production. Saint-Gaudens, ill with cancer, died in August 1907, before the coins went into circulation.\n\nThe design also left off \"In God We Trust.\" Congress ordered the motto put back in 1908.\n\nThat one note set off a redesign that, by 1921, had changed every U.S. coin. Collectors still call the Saint-Gaudens double eagle one of the most beautiful American coins ever made.\n\nShown here: a 1907 high-relief double eagle (National Numismatic Collection, Smithsonian, photographed by Jaclyn Nash); and Secretary Shaw at his desk, 1905 (G. G. Bain, Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #SaintGaudens #Coins #History",
+   "media": [
+    {
+     "src": "media/0b77d5a25f74ee0c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/7b0eb018629f2ab2.jpg",
+     "w": 640,
+     "h": 640,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557783:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 28 December 1904, the White House offered to host a wedding.\n\nThe bride was Eleanor Roosevelt, 20, daughter of the President's late brother, Elliott. Her mother had died when she was 8, and her father less than two years later. Earlier that month her engagement had been announced to a distant cousin, a 22-year-old Columbia law student named Franklin Delano Roosevelt.\n\nEdith Roosevelt wrote to Eleanor offering to send out the invitations and hold the ceremony at the White House, doing for her just what they would do for their own daughter Alice. The President, she explained, felt that on that day he would stand in her father's place.\n\nEleanor said no, thank you. She wanted something smaller.\n\nShe and Franklin married on 17 March 1905, St. Patrick's Day, in two adjoining family houses on East 76th Street in New York. The President, in town for the St. Patrick's Day parade, gave the bride away.\n\nTwenty-eight years later, Eleanor moved into the White House after all, as First Lady.\n\nShown here: Eleanor Roosevelt in her wedding dress, 1905 (Pach Brothers, National Archives); and Edith Roosevelt, February 1905 (Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #EleanorRoosevelt #WhiteHouse #History",
+   "media": [
+    {
+     "src": "media/dd6ba587027fda2d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/56967aac3224f83c.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557830:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 28 Dec 1904: Edith Roosevelt offers to hold niece Eleanor's wedding to Franklin at the White House. Eleanor declines. 28 years later she moved in anyway, as First Lady.",
+   "media": [
+    {
+     "src": "media/1b4e81d8ce14f2a5.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/08bc939ec91c3888.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557894:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 28 Dec 1904: Edith Roosevelt offers to hold niece Eleanor's wedding to Franklin at the White House. Eleanor declines. 28 years later, she moved in as First Lady.\n\nhttps://www.trlibrary.com/tr/people/eleanor",
+   "media": [
+    {
+     "src": "media/94d51995839e39cc.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/691865e13cd30b99.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557951:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 28 December 1904: Edith Roosevelt writes to her niece Eleanor, newly engaged to Franklin, offering to hold the wedding at the White House, just as they would for their own daughter. Eleanor politely declines. Twenty-eight years later, she moved into the White House as First Lady.",
+   "media": [
+    {
+     "src": "media/ace3098fd8a9fd2b.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/2090272fa4ab60b2.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557975:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 28 December 1904, the White House offered to host a wedding.\n\nThe bride was Eleanor Roosevelt, 20, daughter of the President's late brother, Elliott. Her mother had died when she was 8, and her father less than two years later. Earlier that month her engagement had been announced to a distant cousin, a 22-year-old Columbia law student named Franklin Delano Roosevelt.\n\nEdith Roosevelt wrote to Eleanor offering to send out the invitations and hold the ceremony at the White House, doing for her just what they would do for their own daughter Alice. The President, she explained, felt that on that day he would stand in her father's place.\n\nEleanor said no, thank you. She wanted something smaller.\n\nShe and Franklin married on 17 March 1905, St. Patrick's Day, in two adjoining family houses on East 76th Street in New York. The President, in town for the St. Patrick's Day parade, gave the bride away.\n\nTwenty-eight years later, Eleanor moved into the White House after all, as First Lady.\n\nShown here: Eleanor Roosevelt in her wedding dress, 1905 (Pach Brothers, National Archives); and Edith Roosevelt, February 1905 (Library of Congress).\n\nhttps://www.trlibrary.com/tr/people/eleanor",
+   "media": [
+    {
+     "src": "media/dc6938d1e067978e.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ed5b636efe4b1374.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123557976:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-28T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 28 December 1904, the White House offered to host a wedding.\n\nThe bride was Eleanor Roosevelt, 20, daughter of the President's late brother, Elliott. Her mother had died when she was 8, and her father less than two years later. Earlier that month her engagement had been announced to a distant cousin, a 22-year-old Columbia law student named Franklin Delano Roosevelt.\n\nEdith Roosevelt wrote to Eleanor offering to send out the invitations and hold the ceremony at the White House, doing for her just what they would do for their own daughter Alice. The President, she explained, felt that on that day he would stand in her father's place.\n\nEleanor said no, thank you. She wanted something smaller.\n\nShe and Franklin married on 17 March 1905, St. Patrick's Day, in two adjoining family houses on East 76th Street in New York. The President, in town for the St. Patrick's Day parade, gave the bride away.\n\nTwenty-eight years later, Eleanor moved into the White House after all, as First Lady.\n\nShown here: Eleanor Roosevelt in her wedding dress, 1905 (Pach Brothers, National Archives); and Edith Roosevelt, February 1905 (Library of Congress).\n\nhttps://www.trlibrary.com/tr/people/eleanor",
+   "media": [
+    {
+     "src": "media/dc6938d1e067978e.jpg",
+     "w": 801,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/ed5b636efe4b1374.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565033:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 29 December 1913, deep in Brazil's Mato Grosso, Theodore Roosevelt's diary for the day recorded: \"Killed peccary with spear.\"\n\nHe was 55, a year past losing the 1912 election, and already on the expedition that would take him down the uncharted River of Doubt. He had arrived at the São João ranch the day before and was hunting the marshes with his son Kermit and their Brazilian hosts.\n\nThat morning the dogs bayed two peccaries, small, pig-like animals of the Brazilian marshes and forests, in a hollow log. The two broke out the far end and vanished into the tangle. Twenty minutes later the pack had the boar cornered in a half-hollow stump, the dogs crowded so close around its head that a rifle shot was out of the question. So Roosevelt borrowed a spear from his host's son and killed the boar by hand.\n\nIn Through the Brazilian Wilderness he called the animal \"a valiant and truculent little beast,\" one that would take a teacup-sized bite out of a man or a dog if it got the chance.\n\nAn hour or two later the dogs struck the fresh trail of two jaguars, and a sudden downpour washed it out. Two months after that, the expedition started down the River of Doubt, the hardest journey of his life.\n\nShown here: Roosevelt and Col. Cândido Rondon (right) with a jaguar skin, Brazil, 1913; and Roosevelt seated in a boat during the expedition (both photographed by Kermit Roosevelt; Library of Congress).\n\nhttps://www.trlibrary.com/tr/post-presidency/river-of-doubt",
+   "media": [
+    {
+     "src": "media/fc815c1fb667262c.jpg",
+     "w": 1000,
+     "h": 737,
+     "kind": "image"
+    },
+    {
+     "src": "media/1613af8df418adf6.jpg",
+     "w": 1000,
+     "h": 659,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565034:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 29 December 1913, deep in Brazil's Mato Grosso, Theodore Roosevelt's diary for the day recorded: \"Killed peccary with spear.\"\n\nHe was 55, a year past losing the 1912 election, and already on the expedition that would take him down the uncharted River of Doubt. He had arrived at the São João ranch the day before and was hunting the marshes with his son Kermit and their Brazilian hosts.\n\nThat morning the dogs bayed two peccaries, small, pig-like animals of the Brazilian marshes and forests, in a hollow log. The two broke out the far end and vanished into the tangle. Twenty minutes later the pack had the boar cornered in a half-hollow stump, the dogs crowded so close around its head that a rifle shot was out of the question. So Roosevelt borrowed a spear from his host's son and killed the boar by hand.\n\nIn Through the Brazilian Wilderness he called the animal \"a valiant and truculent little beast,\" one that would take a teacup-sized bite out of a man or a dog if it got the chance.\n\nAn hour or two later the dogs struck the fresh trail of two jaguars, and a sudden downpour washed it out. Two months after that, the expedition started down the River of Doubt, the hardest journey of his life.\n\nShown here: Roosevelt and Col. Cândido Rondon (right) with a jaguar skin, Brazil, 1913; and Roosevelt seated in a boat during the expedition (both photographed by Kermit Roosevelt; Library of Congress).\n\nhttps://www.trlibrary.com/tr/post-presidency/river-of-doubt",
+   "media": [
+    {
+     "src": "media/fc815c1fb667262c.jpg",
+     "w": 1000,
+     "h": 737,
+     "kind": "image"
+    },
+    {
+     "src": "media/1613af8df418adf6.jpg",
+     "w": 1000,
+     "h": 659,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565049:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 29 December 1913, deep in Brazil's Mato Grosso, Theodore Roosevelt's diary for the day recorded: \"Killed peccary with spear.\"\n\nHe was 55, a year past losing the 1912 election, and already on the expedition that would take him down the uncharted River of Doubt. He had arrived at the São João ranch the day before and was hunting the marshes with his son Kermit and their Brazilian hosts.\n\nThat morning the dogs bayed two peccaries, small, pig-like animals of the Brazilian marshes and forests, in a hollow log. The two broke out the far end and vanished into the tangle. Twenty minutes later the pack had the boar cornered in a half-hollow stump, the dogs crowded so close around its head that a rifle shot was out of the question. So Roosevelt borrowed a spear from his host's son and killed the boar by hand.\n\nIn Through the Brazilian Wilderness he called the animal \"a valiant and truculent little beast,\" one that would take a teacup-sized bite out of a man or a dog if it got the chance.\n\nAn hour or two later the dogs struck the fresh trail of two jaguars, and a sudden downpour washed it out. Two months after that, the expedition started down the River of Doubt, the hardest journey of his life.\n\nShown here: Roosevelt and Col. Cândido Rondon (right) with a jaguar skin, Brazil, 1913; and Roosevelt seated in a boat during the expedition (both photographed by Kermit Roosevelt; Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #RiverOfDoubt #Brazil #History",
+   "media": [
+    {
+     "src": "media/34713709d59c2531.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/9ec0b6fc760ed2ce.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565059:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 29 Dec 1913: In Brazil, on the way to the River of Doubt, dogs corner a peccary boar in a hollow stump, too close for a rifle. TR borrows a spear. His diary: \"Killed peccary with spear.\"\n\nhttps://www.trlibrary.com/tr/post-presidency/river-of-doubt",
+   "media": [
+    {
+     "src": "media/46cbc539bf441eba.jpg",
+     "w": 1000,
+     "h": 737,
+     "kind": "image"
+    },
+    {
+     "src": "media/f9befa58c497bc24.jpg",
+     "w": 1000,
+     "h": 659,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565077:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 29 Dec 1913: In Brazil, en route to the River of Doubt, dogs corner a peccary boar too close for a rifle. TR borrows a spear. His diary: \"Killed peccary with spear.\"",
+   "media": [
+    {
+     "src": "media/26f1231710905823.jpg",
+     "w": 1000,
+     "h": 737,
+     "kind": "image"
+    },
+    {
+     "src": "media/6e4a5a896ff92408.jpg",
+     "w": 1000,
+     "h": 659,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565096:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-29T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 29 December 1913: On a Brazilian ranch, two months before the River of Doubt, the hunting dogs corner a peccary boar in a hollow stump, too close for a rifle shot. Theodore Roosevelt borrows his host's spear and finishes it by hand. His diary for the day: \"Killed peccary with spear.\"",
+   "media": [
+    {
+     "src": "media/e26982c2a233cdd4.jpg",
+     "w": 1000,
+     "h": 737,
+     "kind": "image"
+    },
+    {
+     "src": "media/7247595442441df1.jpg",
+     "w": 1000,
+     "h": 659,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565106:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 30 December 1910: Theodore Roosevelt answers Senator Robert La Follette's invitation to put his name on the new National Progressive Republican League. He hesitates and asks to talk it over in person. The League launches without him, and a little over a year later the two men are rivals for the Republican nomination.",
+   "media": [
+    {
+     "src": "media/f1af5443780043bc.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/81a6feb187a6f49c.jpg",
+     "w": 1000,
+     "h": 646,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565117:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "In a letter the Library of Congress dates to 30 December 1910, Theodore Roosevelt answered Senator Robert M. La Follette of Wisconsin, and held back.\n\nLa Follette and Senator Jonathan Bourne of Oregon were about to launch the National Progressive Republican League. Its program aimed to hand voters more direct power: popular election of U.S. senators, direct primaries, and the initiative, referendum and recall. They wanted the former president's name on the call.\n\nRoosevelt wrote that he was hesitant to sign it, and asked to talk the matter over in person.\n\nIn the end he stayed out. La Follette wrote that he regretted Roosevelt's decision, and on 21 January 1911 the League was organized in Washington without him. Days later Roosevelt explained that he was sympathetic to much of the program but did not want a prominent part in any political movement; as a former president, he said, he was trying to take part in politics as a private citizen. He offered instead to endorse the League in The Outlook, the magazine where he was a contributing editor.\n\nA little over a year later the two men were rivals. In February 1912, speaking to the Ohio constitutional convention in Columbus, Roosevelt came out for the initiative and the referendum and for the recall of certain court decisions, and within days he was a candidate for the Republican nomination himself.\n\nShown here: Senator Robert M. La Follette, 1911; and Roosevelt speaking at Missouri Valley, Iowa, 21 August 1910 (both Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #ProgressiveEra #LaFollette #History",
+   "media": [
+    {
+     "src": "media/61e35d3f4ec4c4e1.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/dbc852f9089d83c4.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565134:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 30 Dec 1910: TR answers Sen. La Follette's invite to join his new National Progressive Republican League. He hesitates, asks to talk first. It launches without him; a year later they're rivals for the GOP nomination.\n\nhttps://www.trlibrary.com/tr/post-presidency/bull-moose",
+   "media": [
+    {
+     "src": "media/b5ff07790952dc34.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/06557ab687c9d7e3.jpg",
+     "w": 1000,
+     "h": 646,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565139:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 30 Dec 1910: TR answers Sen. La Follette's invitation to join his new National Progressive Republican League. He hesitates. It launches without him; a year later they're rivals for the GOP nomination.",
+   "media": [
+    {
+     "src": "media/f5f7e9f00115d547.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/97f956b65a6bb4aa.jpg",
+     "w": 1000,
+     "h": 646,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565158:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "In a letter the Library of Congress dates to 30 December 1910, Theodore Roosevelt answered Senator Robert M. La Follette of Wisconsin, and held back.\n\nLa Follette and Senator Jonathan Bourne of Oregon were about to launch the National Progressive Republican League. Its program aimed to hand voters more direct power: popular election of U.S. senators, direct primaries, and the initiative, referendum and recall. They wanted the former president's name on the call.\n\nRoosevelt wrote that he was hesitant to sign it, and asked to talk the matter over in person.\n\nIn the end he stayed out. La Follette wrote that he regretted Roosevelt's decision, and on 21 January 1911 the League was organized in Washington without him. Days later Roosevelt explained that he was sympathetic to much of the program but did not want a prominent part in any political movement; as a former president, he said, he was trying to take part in politics as a private citizen. He offered instead to endorse the League in The Outlook, the magazine where he was a contributing editor.\n\nA little over a year later the two men were rivals. In February 1912, speaking to the Ohio constitutional convention in Columbus, Roosevelt came out for the initiative and the referendum and for the recall of certain court decisions, and within days he was a candidate for the Republican nomination himself.\n\nShown here: Senator Robert M. La Follette, 1911; and Roosevelt speaking at Missouri Valley, Iowa, 21 August 1910 (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/post-presidency/bull-moose",
+   "media": [
+    {
+     "src": "media/4b0b208d04645dec.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/bcc4712d9973fde1.jpg",
+     "w": 1000,
+     "h": 646,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565159:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-30T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "In a letter the Library of Congress dates to 30 December 1910, Theodore Roosevelt answered Senator Robert M. La Follette of Wisconsin, and held back.\n\nLa Follette and Senator Jonathan Bourne of Oregon were about to launch the National Progressive Republican League. Its program aimed to hand voters more direct power: popular election of U.S. senators, direct primaries, and the initiative, referendum and recall. They wanted the former president's name on the call.\n\nRoosevelt wrote that he was hesitant to sign it, and asked to talk the matter over in person.\n\nIn the end he stayed out. La Follette wrote that he regretted Roosevelt's decision, and on 21 January 1911 the League was organized in Washington without him. Days later Roosevelt explained that he was sympathetic to much of the program but did not want a prominent part in any political movement; as a former president, he said, he was trying to take part in politics as a private citizen. He offered instead to endorse the League in The Outlook, the magazine where he was a contributing editor.\n\nA little over a year later the two men were rivals. In February 1912, speaking to the Ohio constitutional convention in Columbus, Roosevelt came out for the initiative and the referendum and for the recall of certain court decisions, and within days he was a candidate for the Republican nomination himself.\n\nShown here: Senator Robert M. La Follette, 1911; and Roosevelt speaking at Missouri Valley, Iowa, 21 August 1910 (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/post-presidency/bull-moose",
+   "media": [
+    {
+     "src": "media/4b0b208d04645dec.jpg",
+     "w": 802,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/bcc4712d9973fde1.jpg",
+     "w": 1000,
+     "h": 646,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565179:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2026-12-31T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 31 December 1883: Theodore Roosevelt, 25, goes into the Republican caucus in Albany expecting to be chosen Speaker of the New York Assembly. Pledged votes slip away to Titus Sheard and he loses. He moves to make Sheard's nomination unanimous, and later writes that the defeat \"materially strengthened my position.\"",
+   "media": [
+    {
+     "src": "media/0761731fe5a3e7d6.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/4840e52e60fdb846.jpg",
+     "w": 640,
+     "h": 470,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565191:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2026-12-31T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 31 December 1883, Theodore Roosevelt, 25, went into the Republican caucus in Albany expecting to be chosen Speaker of the New York State Assembly. He came out beaten.\n\nRepublicans had just won control of the Assembly, so the caucus pick would become Speaker the next day. Roosevelt had spent weeks lining up votes. By late afternoon a rival had dropped out, and he looked to have enough.\n\nThen, in the hours before the evening caucus, the party organization went to work. Bosses from both Republican factions, President Arthur's Stalwarts and Senator Warner Miller's Half-Breeds, combined behind Titus Sheard, a former Assemblyman from Herkimer County. Pledged votes slipped away to Sheard, the New York City members among them, and Roosevelt lost on the first ballot.\n\nHe moved to make Sheard's nomination unanimous.\n\n\"I was much chagrined for the moment,\" he later wrote in his Autobiography. Looking back, he decided the loss had helped: \"My defeat in the end materially strengthened my position, and enabled me to accomplish far more than I could have accomplished as Speaker.\"\n\nSheard gave him the chairmanship of the Cities Committee, and he spent the session on reform bills for New York City. Six weeks later, on 14 February 1884, his mother and his wife Alice died in the same house, hours apart.\n\nShown here: Roosevelt as a New York Assemblyman, early 1880s (Houghton Library, Harvard University); and the Assembly Chamber of the New York State Capitol, Albany, date unknown (Library of Congress).\n\nhttps://www.trlibrary.com/tr/new-york-politics/assembly",
+   "media": [
+    {
+     "src": "media/7e561bd6b87baa92.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/907bc9f06a6ea604.jpg",
+     "w": 640,
+     "h": 470,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565192:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2026-12-31T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 31 December 1883, Theodore Roosevelt, 25, went into the Republican caucus in Albany expecting to be chosen Speaker of the New York State Assembly. He came out beaten.\n\nRepublicans had just won control of the Assembly, so the caucus pick would become Speaker the next day. Roosevelt had spent weeks lining up votes. By late afternoon a rival had dropped out, and he looked to have enough.\n\nThen, in the hours before the evening caucus, the party organization went to work. Bosses from both Republican factions, President Arthur's Stalwarts and Senator Warner Miller's Half-Breeds, combined behind Titus Sheard, a former Assemblyman from Herkimer County. Pledged votes slipped away to Sheard, the New York City members among them, and Roosevelt lost on the first ballot.\n\nHe moved to make Sheard's nomination unanimous.\n\n\"I was much chagrined for the moment,\" he later wrote in his Autobiography. Looking back, he decided the loss had helped: \"My defeat in the end materially strengthened my position, and enabled me to accomplish far more than I could have accomplished as Speaker.\"\n\nSheard gave him the chairmanship of the Cities Committee, and he spent the session on reform bills for New York City. Six weeks later, on 14 February 1884, his mother and his wife Alice died in the same house, hours apart.\n\nShown here: Roosevelt as a New York Assemblyman, early 1880s (Houghton Library, Harvard University); and the Assembly Chamber of the New York State Capitol, Albany, date unknown (Library of Congress).\n\nhttps://www.trlibrary.com/tr/new-york-politics/assembly",
+   "media": [
+    {
+     "src": "media/7e561bd6b87baa92.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/907bc9f06a6ea604.jpg",
+     "w": 640,
+     "h": 470,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565212:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2026-12-31T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 31 Dec 1883: TR, 25, walks into the Republican caucus favored to be Speaker of the NY Assembly. Party leaders peel away his pledged votes and he loses. He moves to make the winner's nomination unanimous.\n\nhttps://www.trlibrary.com/tr/new-york-politics/assembly",
+   "media": [
+    {
+     "src": "media/5bd443680112e1ed.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/b55d88b3db49ec95.jpg",
+     "w": 640,
+     "h": 470,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565325:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2026-12-31T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "On 31 December 1883, Theodore Roosevelt, 25, went into the Republican caucus in Albany expecting to be chosen Speaker of the New York State Assembly. He came out beaten.\n\nRepublicans had just won control of the Assembly, so the caucus pick would become Speaker the next day. Roosevelt had spent weeks lining up votes. By late afternoon a rival had dropped out, and he looked to have enough.\n\nThen, in the hours before the evening caucus, the party organization went to work. Bosses from both Republican factions, President Arthur's Stalwarts and Senator Warner Miller's Half-Breeds, combined behind Titus Sheard, a former Assemblyman from Herkimer County. Pledged votes slipped away to Sheard, the New York City members among them, and Roosevelt lost on the first ballot.\n\nHe moved to make Sheard's nomination unanimous.\n\n\"I was much chagrined for the moment,\" he later wrote in his Autobiography. Looking back, he decided the loss had helped: \"My defeat in the end materially strengthened my position, and enabled me to accomplish far more than I could have accomplished as Speaker.\"\n\nSheard gave him the chairmanship of the Cities Committee, and he spent the session on reform bills for New York City. Six weeks later, on 14 February 1884, his mother and his wife Alice died in the same house, hours apart.\n\nShown here: Roosevelt as a New York Assemblyman, early 1880s (Houghton Library, Harvard University); and the Assembly Chamber of the New York State Capitol, Albany, date unknown (Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #NewYork #Albany #History",
+   "media": [
+    {
+     "src": "media/390b9d9c8e7a2f13.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/611eca1b6b9f3cf2.jpg",
+     "w": 640,
+     "h": 640,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565343:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2026-12-31T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 31 Dec 1883: TR, 25, goes into the Republican caucus favored to be Speaker of the NY Assembly. Pledged votes slip away and he loses. He moves to make the winner's nomination unanimous.",
+   "media": [
+    {
+     "src": "media/d6b637614963a6a5.jpg",
+     "w": 800,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/088252c422d8b777.jpg",
+     "w": 640,
+     "h": 470,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565397:138745276",
+   "profileId": "138745276",
+   "scheduledAt": "2027-01-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 1 January 1907, 120 years ago today: Theodore Roosevelt opens the White House to anyone willing to wait in line and shakes hands for hours. Guinness World Records lists 8,513, a record for a head of state, though newspapers at the time counted anywhere from about 5,000 to nearly 10,000. Happy New Year!",
+   "media": [
+    {
+     "src": "media/5f32aa40427da2a1.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/b2d638d55ce34227.jpg",
+     "w": 1000,
+     "h": 832,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565408:138948229",
+   "profileId": "138948229",
+   "scheduledAt": "2027-01-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty years ago today, on 1 January 1907, the White House opened its doors, and Theodore Roosevelt shook hands with everyone willing to wait in line.\n\nThe New Year's Day reception was open to the public. Diplomats, officials and military officers came through first; then the gates opened to everyone else. Roosevelt stood in the Blue Room and greeted callers one after another for hours.\n\nHow many hands did he shake? Guinness World Records lists 8,513, the most handshakes by a head of state. The papers at the time could not agree: one Washington count gave about 5,000 callers, the Associated Press about 8,500, and another paper nearly 10,000. Whatever the number, he did it in a single day.\n\nThe open-house tradition lasted another quarter century. Herbert Hoover cancelled the reception in 1933, and no president has revived it.\n\nHappy New Year from the Theodore Roosevelt Presidential Library.\n\nShown here: Admiral George Dewey and Navy officers in line for Roosevelt's New Year's reception, 1902 (Underwood & Underwood stereograph); and the White House Blue Room, where Roosevelt received his callers, about 1902 (B. M. Clinedinst) (both Library of Congress).\n\nLink in bio.\n\n#OTD #OnThisDay #TheodoreRoosevelt #NewYearsDay #WhiteHouse #History",
+   "media": [
+    {
+     "src": "media/a5efd5344f413be6.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    },
+    {
+     "src": "media/f770a29a1a01a44d.jpg",
+     "w": 1000,
+     "h": 1000,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565415:138241752",
+   "profileId": "138241752",
+   "scheduledAt": "2027-01-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty years ago today, on 1 January 1907, the White House opened its doors, and Theodore Roosevelt shook hands with everyone willing to wait in line.\n\nThe New Year's Day reception was open to the public. Diplomats, officials and military officers came through first; then the gates opened to everyone else. Roosevelt stood in the Blue Room and greeted callers one after another for hours.\n\nHow many hands did he shake? Guinness World Records lists 8,513, the most handshakes by a head of state. The papers at the time could not agree: one Washington count gave about 5,000 callers, the Associated Press about 8,500, and another paper nearly 10,000. Whatever the number, he did it in a single day.\n\nThe open-house tradition lasted another quarter century. Herbert Hoover cancelled the reception in 1933, and no president has revived it.\n\nHappy New Year from the Theodore Roosevelt Presidential Library.\n\nShown here: Admiral George Dewey and Navy officers in line for Roosevelt's New Year's reception, 1902 (Underwood & Underwood stereograph); and the White House Blue Room, where Roosevelt received his callers, about 1902 (B. M. Clinedinst) (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/new-years-day",
+   "media": [
+    {
+     "src": "media/2a68fb1a458752ca.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/adf2fc6c11501cb1.jpg",
+     "w": 1000,
+     "h": 832,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565416:138236932",
+   "profileId": "138236932",
+   "scheduledAt": "2027-01-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "A hundred and twenty years ago today, on 1 January 1907, the White House opened its doors, and Theodore Roosevelt shook hands with everyone willing to wait in line.\n\nThe New Year's Day reception was open to the public. Diplomats, officials and military officers came through first; then the gates opened to everyone else. Roosevelt stood in the Blue Room and greeted callers one after another for hours.\n\nHow many hands did he shake? Guinness World Records lists 8,513, the most handshakes by a head of state. The papers at the time could not agree: one Washington count gave about 5,000 callers, the Associated Press about 8,500, and another paper nearly 10,000. Whatever the number, he did it in a single day.\n\nThe open-house tradition lasted another quarter century. Herbert Hoover cancelled the reception in 1933, and no president has revived it.\n\nHappy New Year from the Theodore Roosevelt Presidential Library.\n\nShown here: Admiral George Dewey and Navy officers in line for Roosevelt's New Year's reception, 1902 (Underwood & Underwood stereograph); and the White House Blue Room, where Roosevelt received his callers, about 1902 (B. M. Clinedinst) (both Library of Congress).\n\nhttps://www.trlibrary.com/tr/new-years-day",
+   "media": [
+    {
+     "src": "media/2a68fb1a458752ca.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/adf2fc6c11501cb1.jpg",
+     "w": 1000,
+     "h": 832,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565434:138250117",
+   "profileId": "138250117",
+   "scheduledAt": "2027-01-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 1 Jan 1907, 120 years ago: TR opens the White House to all comers and shakes hands for hours. Guinness lists 8,513, a record for a head of state; papers at the time counted anywhere from 5,000 to 10,000. Happy New Year!\n\nhttps://www.trlibrary.com/tr/new-years-day",
+   "media": [
+    {
+     "src": "media/38443a6c9eca119b.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/c5a0780c56ffa3d8.jpg",
+     "w": 1000,
+     "h": 832,
+     "kind": "image"
+    }
+   ],
+   "tags": [],
+   "postUrl": null,
+   "sequence": null
+  },
+  {
+   "id": "13123565444:140309778",
+   "profileId": "140309778",
+   "scheduledAt": "2027-01-01T13:00:00Z",
+   "state": "SCHEDULED",
+   "text": "#OTD 1 Jan 1907, 120 years ago: TR opens the White House and shakes hands for hours. Guinness lists 8,513; papers at the time said anywhere from 5,000 to 10,000. Happy New Year!",
+   "media": [
+    {
+     "src": "media/69aa5de7923d1990.jpg",
+     "w": 1000,
+     "h": 525,
+     "kind": "image"
+    },
+    {
+     "src": "media/159eb47e06da523a.jpg",
+     "w": 1000,
+     "h": 832,
      "kind": "image"
     }
    ],
