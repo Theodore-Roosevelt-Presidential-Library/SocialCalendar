@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T15:12:38Z",
+ "generatedAt": "2026-11-20T18:15:32Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -26,6 +26,28 @@
    }
   },
   {
+   "id": "b3e1e235454e",
+   "url": "https://www.trlibrary.com/holidaytrees",
+   "host": "trlibrary.com",
+   "headline": "The Holiday Trees at the Library in Medora, North Dakota",
+   "blurb": "Six holiday trees made by North Dakota artisans from ranch leather, lariats, prairie grass, bandanas and clay are on view at the Library in Medora.",
+   "publishAt": "2026-11-17T20:21:13Z",
+   "latestAt": "2026-11-20T16:00:00Z",
+   "channels": [
+    "THREADS",
+    "BLUESKY",
+    "TWITTER",
+    "INSTAGRAMBUSINESS",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/e426d10de493963a.jpg",
+    "w": 1000,
+    "h": 563
+   }
+  },
+  {
    "id": "2ac777627c11",
    "url": "https://www.trlibrary.com/tr/post-presidency/african-safari",
    "host": "trlibrary.com",
@@ -42,28 +64,6 @@
     "src": "media/358bba6089455cb8.jpg",
     "w": 801,
     "h": 1000
-   }
-  },
-  {
-   "id": "b3e1e235454e",
-   "url": "https://www.trlibrary.com/holidaytrees",
-   "host": "trlibrary.com",
-   "headline": "The Holiday Trees at the Library in Medora, North Dakota",
-   "blurb": "Six holiday trees made by North Dakota artisans from ranch leather, lariats, prairie grass, bandanas and clay are on view at the Library in Medora.",
-   "publishAt": "2026-11-17T20:21:13Z",
-   "latestAt": "2026-11-19T23:00:00Z",
-   "channels": [
-    "THREADS",
-    "BLUESKY",
-    "TWITTER",
-    "INSTAGRAMBUSINESS",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/e426d10de493963a.jpg",
-    "w": 1000,
-    "h": 563
    }
   },
   {
