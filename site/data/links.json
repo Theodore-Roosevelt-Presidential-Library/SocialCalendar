@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-21T00:30:03Z",
+ "generatedAt": "2026-11-21T03:13:50Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "da5acd21ee98",
+   "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
+   "host": "trlibrary.com",
+   "headline": "Frontier Life in the 1880s Badlands",
+   "blurb": "The cowboys called the bespectacled Easterner a \"four-eyed dude,\" but Roosevelt won their respect through the hard frontier life of the 1880s…",
+   "publishAt": "2026-11-22T13:00:00Z",
+   "latestAt": "2026-11-22T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/e618e609a601fce6.jpg",
+    "w": 1000,
+    "h": 637
+   }
+  },
   {
    "id": "c370c0a3d345",
    "url": "https://www.trlibrary.com/tr/people/edith-roosevelt/white-house-renovation",
