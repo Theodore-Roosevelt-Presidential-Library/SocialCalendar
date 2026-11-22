@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-22T00:33:10Z",
+ "generatedAt": "2026-11-22T03:15:07Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "2762c9c6cdaf",
+   "url": "https://www.trlibrary.com/tr/people/bamie",
+   "host": "trlibrary.com",
+   "headline": "Bamie Roosevelt Cowles: The Politically Connected Sister",
+   "blurb": "TR's resilient older sister, Bamie Roosevelt Cowles overcame a childhood spinal illness to become one of his shrewdest, most trusted advisers.",
+   "publishAt": "2026-11-23T13:00:00Z",
+   "latestAt": "2026-11-23T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/763a9c72c2921a0a.jpg",
+    "w": 1000,
+    "h": 678
+   }
+  },
   {
    "id": "da5acd21ee98",
    "url": "https://www.trlibrary.com/tr/badlands/frontier-life",
