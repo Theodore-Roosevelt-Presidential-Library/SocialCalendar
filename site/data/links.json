@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-23T00:33:04Z",
+ "generatedAt": "2026-11-23T03:16:53Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "1adc4a9f3333",
+   "url": "https://www.trlibrary.com/tr/presidency/conservation/national-forests",
+   "host": "trlibrary.com",
+   "headline": "National Forests: From 47 Million to 194 Million Acres",
+   "blurb": "Working with his chief forester, Roosevelt grew the national forests from about 47 million acres in 1901 to more than 194 million by mid-1909.",
+   "publishAt": "2026-11-24T13:00:00Z",
+   "latestAt": "2026-11-24T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE"
+   ],
+   "thumb": {
+    "src": "media/35f89004407343cd.jpg",
+    "w": 906,
+    "h": 1000
+   }
+  },
   {
    "id": "90010a1a4e04",
    "url": "https://api.10best.com/qr/67017/",
