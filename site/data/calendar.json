@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T15:11:42Z",
+ "generatedAt": "2026-11-23T18:12:56Z",
  "source": "hootsuite-rest-api",
  "window": {
   "start": "2026-11-09T00:00:00Z",
@@ -2839,7 +2839,7 @@
    "id": "13118713255:138241752",
    "profileId": "138241752",
    "scheduledAt": "2026-11-23T17:05:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "The Theodore Roosevelt Presidential Library has been nominated for Best New Museum in the USA TODAY 10Best Readers' Choice Awards.\n\nEditors and a panel of experts picked the nominees. Now readers choose the winners. Voting is open through Dec. 21.\n\nCast your vote: https://10best.usatoday.com/qr/67017 ",
    "media": [
     {
@@ -2850,14 +2850,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.linkedin.com/feed/update/urn:li:share:7530677956067889152",
    "sequence": null
   },
   {
    "id": "13118713256:138236932",
    "profileId": "138236932",
    "scheduledAt": "2026-11-23T17:05:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "The Theodore Roosevelt Presidential Library has been nominated for Best New Museum in the USA TODAY 10Best Readers' Choice Awards.\n\nEditors and a panel of experts picked the nominees. Now readers choose the winners. Voting is open through Dec. 21.\n\nCast your vote: https://10best.usatoday.com/qr/67017 ",
    "media": [
     {
@@ -2868,14 +2868,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.facebook.com/144035749389560/posts/1203488548671320",
    "sequence": null
   },
   {
    "id": "13118713381:138948229",
    "profileId": "138948229",
    "scheduledAt": "2026-11-23T17:05:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "Best New Museum? Help settle it. 🗳️\n\nThe Theodore Roosevelt Presidential Library is a nominee in the USA TODAY 10Best Readers' Choice Awards. Voting is open through Dec. 21. The link is in our bio.\n\nhttps://10best.usatoday.com/qr/67017",
    "media": [
     {
@@ -2886,14 +2886,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.instagram.com/p/DgF4DOIlxqb/",
    "sequence": null
   },
   {
    "id": "13118713432:138745276",
    "profileId": "138745276",
    "scheduledAt": "2026-11-23T17:05:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "The Theodore Roosevelt Presidential Library is up for Best New Museum in the USA TODAY 10Best Readers' Choice Awards. Vote through Dec. 21: https://10best.usatoday.com/qr/67017 ",
    "media": [
     {
@@ -2904,14 +2904,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://www.threads.com/@trlibrary/post/DgF4DMQoJGf",
    "sequence": null
   },
   {
    "id": "13118713508:138250117",
    "profileId": "138250117",
    "scheduledAt": "2026-11-23T17:05:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "The Theodore Roosevelt Presidential Library is up for Best New Museum in the USA TODAY 10Best Readers' Choice Awards. Vote through Dec. 21: https://10best.usatoday.com/qr/67017",
    "media": [
     {
@@ -2922,14 +2922,14 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://x.com/783364650180104192/status/2124912177257529672",
    "sequence": null
   },
   {
    "id": "13118713509:140309778",
    "profileId": "140309778",
    "scheduledAt": "2026-11-23T17:05:00Z",
-   "state": "SCHEDULED",
+   "state": "SENT",
    "text": "The Theodore Roosevelt Presidential Library is up for Best New Museum in the USA TODAY 10Best Readers' Choice Awards. Vote through Dec. 21: https://10best.usatoday.com/qr/67017",
    "media": [
     {
@@ -2940,7 +2940,7 @@
     }
    ],
    "tags": [],
-   "postUrl": null,
+   "postUrl": "https://bsky.app/profile/trpl.bsky.social/post/3n2ymglwtdf2w",
    "sequence": null
   },
   {

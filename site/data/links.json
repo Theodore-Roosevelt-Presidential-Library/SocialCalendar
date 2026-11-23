@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T15:13:26Z",
+ "generatedAt": "2026-11-23T18:15:15Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -414,25 +414,6 @@
     "src": "media/bc5526447ece21d2.jpg",
     "w": 844,
     "h": 1000
-   }
-  },
-  {
-   "id": "d42d6dd0f20a",
-   "url": "https://www.trlibrary.com/tr/rise-to-power/edith-roosevelt",
-   "host": "trlibrary.com",
-   "headline": "Edith Kermit Carow Roosevelt: The Partner Who Made the Presidency Possible",
-   "blurb": "Edith Carow grew up alongside young Theodore in New York's Union Square, becoming the steady partner who helped make his presidency possible.",
-   "publishAt": "2026-11-01T13:00:00Z",
-   "latestAt": "2026-11-01T13:00:00Z",
-   "channels": [
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/f3e86db081e4e519.jpg",
-    "w": 1000,
-    "h": 525
    }
   }
  ]
