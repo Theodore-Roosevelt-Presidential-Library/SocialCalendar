@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T12:17:58Z",
+ "generatedAt": "2026-11-23T15:13:26Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -433,27 +433,6 @@
     "src": "media/f3e86db081e4e519.jpg",
     "w": 1000,
     "h": 525
-   }
-  },
-  {
-   "id": "5edde1e725e5",
-   "url": "https://www.trlibrary.com/calendar/special-event/virtual-learning-session-reconstruction-and-second-founding",
-   "host": "trlibrary.com",
-   "headline": "Virtual Learning Session: Reconstruction and the Second Founding",
-   "blurb": "Join the National Constitution Center and the Theodore Roosevelt Presidential Library for “Reconstruction and the Second Founding,” a virtual…",
-   "publishAt": "2026-10-31T18:00:00Z",
-   "latestAt": "2026-10-31T18:00:00Z",
-   "channels": [
-    "TWITTER",
-    "FACEBOOKPAGE",
-    "BLUESKY",
-    "LINKEDINCOMPANY",
-    "INSTAGRAMBUSINESS"
-   ],
-   "thumb": {
-    "src": "media/e6c4381836dca354.jpg",
-    "w": 540,
-    "h": 675
    }
   }
  ]
