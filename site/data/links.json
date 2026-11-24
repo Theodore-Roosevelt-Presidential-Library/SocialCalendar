@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-24T00:28:06Z",
+ "generatedAt": "2026-11-24T03:15:51Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "c228b9cdfc79",
+   "url": "https://www.trlibrary.com/tr/thanksgiving-timeline",
+   "host": "trlibrary.com",
+   "headline": "Timeline of T.R.'s Thanksgivings",
+   "blurb": "Where Theodore Roosevelt spent Thanksgiving, year by year: Harvard, the Badlands, the White House, Pine Knot, Chile and a New York hospital in 1918.",
+   "publishAt": "2026-11-25T13:00:00Z",
+   "latestAt": "2026-11-25T13:00:00Z",
+   "channels": [
+    "LINKEDINCOMPANY",
+    "FACEBOOKPAGE",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/381ae504a3606956.jpg",
+    "w": 1000,
+    "h": 799
+   }
+  },
   {
    "id": "1adc4a9f3333",
    "url": "https://www.trlibrary.com/tr/presidency/conservation/national-forests",
