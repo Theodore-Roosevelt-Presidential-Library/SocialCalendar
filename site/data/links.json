@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T12:19:22Z",
+ "generatedAt": "2026-11-24T15:12:40Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -414,25 +414,6 @@
     "src": "media/eb4122a2cf89c6eb.jpg",
     "w": 1000,
     "h": 770
-   }
-  },
-  {
-   "id": "8c9ad2805b61",
-   "url": "https://www.trlibrary.com/tr/new-york-politics",
-   "host": "trlibrary.com",
-   "headline": "Theodore Roosevelt in New York Politics",
-   "blurb": "Roosevelt's first years in politics — a cyclone in the Albany Assembly at twenty-three, and the single February day in 1884 that changed his life…",
-   "publishAt": "2026-11-02T13:00:00Z",
-   "latestAt": "2026-11-02T13:00:00Z",
-   "channels": [
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/bc5526447ece21d2.jpg",
-    "w": 844,
-    "h": 1000
    }
   }
  ]
