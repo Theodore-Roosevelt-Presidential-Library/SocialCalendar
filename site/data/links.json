@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T21:12:13Z",
+ "generatedAt": "2026-11-25T00:31:43Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
@@ -278,25 +278,6 @@
    "thumb": {
     "src": "media/f59c84da2171601c.jpg",
     "w": 802,
-    "h": 1000
-   }
-  },
-  {
-   "id": "5080aedeaa58",
-   "url": "https://www.trlibrary.com/tr/people/alice-lee",
-   "host": "trlibrary.com",
-   "headline": "Alice Hathaway Lee Roosevelt",
-   "blurb": "Born into Boston's Chestnut Hill elite in 1861, Alice Hathaway Lee charmed Theodore during his Harvard years and became his radiant first wife.",
-   "publishAt": "2026-11-10T13:00:00Z",
-   "latestAt": "2026-11-10T13:00:00Z",
-   "channels": [
-    "TWITTER",
-    "LINKEDINCOMPANY",
-    "FACEBOOKPAGE"
-   ],
-   "thumb": {
-    "src": "media/ffd28dba1acd93c4.jpg",
-    "w": 800,
     "h": 1000
    }
   },
