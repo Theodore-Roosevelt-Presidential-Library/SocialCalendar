@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-25T00:31:43Z",
+ "generatedAt": "2026-11-25T03:15:10Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "131cf1d22279",
+   "url": "https://www.trlibrary.com/tr/thanksgiving",
+   "host": "trlibrary.com",
+   "headline": "Thanksgiving with Theodore Roosevelt",
+   "blurb": "Theodore Roosevelt proclaimed eight Thanksgivings as President, fed newsboys like his father and spent one at his Badlands ranch.",
+   "publishAt": "2026-11-26T13:00:00Z",
+   "latestAt": "2026-11-26T13:00:00Z",
+   "channels": [
+    "TWITTER",
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY"
+   ],
+   "thumb": {
+    "src": "media/9de85686abe15cdf.jpg",
+    "w": 833,
+    "h": 1000
+   }
+  },
   {
    "id": "c228b9cdfc79",
    "url": "https://www.trlibrary.com/tr/thanksgiving-timeline",
