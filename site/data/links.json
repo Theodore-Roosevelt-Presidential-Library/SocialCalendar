@@ -1,11 +1,30 @@
 {
- "generatedAt": "2026-11-26T00:29:59Z",
+ "generatedAt": "2026-11-26T03:14:28Z",
  "profile": {
   "name": "Theodore Roosevelt Presidential Library",
   "tagline": "Inspiring leadership, conservation, and courageous citizenship through the life and legacy of Theodore Roosevelt.",
   "home": "https://www.trlibrary.com"
  },
  "items": [
+  {
+   "id": "5e36151945dd",
+   "url": "https://www.trlibrary.com/tr/books-and-writings",
+   "host": "trlibrary.com",
+   "headline": "Theodore Roosevelt's Books & Writings",
+   "blurb": "Discover Roosevelt the author — his 1913 autobiography, the dozens of books he published from history to the wild, and the omnivorous reader behind…",
+   "publishAt": "2026-11-27T13:00:00Z",
+   "latestAt": "2026-11-27T13:00:00Z",
+   "channels": [
+    "FACEBOOKPAGE",
+    "LINKEDINCOMPANY",
+    "TWITTER"
+   ],
+   "thumb": {
+    "src": "media/6d5b454499549bc8.jpg",
+    "w": 814,
+    "h": 1000
+   }
+  },
   {
    "id": "131cf1d22279",
    "url": "https://www.trlibrary.com/tr/thanksgiving",
